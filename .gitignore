@@ -1,0 +1,8 @@
+# VS Code
+.vscode/
+
+# User specific files
+User Data/
+
+# Node modules
+node_modules/

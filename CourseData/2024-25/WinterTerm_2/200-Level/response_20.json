@@ -1,0 +1,4400 @@
+{
+  "widget": "root",
+  "accountTasks": [
+    {
+      "label": "Change Password",
+      "uri": "/ubc/task/2997$217"
+    },
+    {
+      "label": "Change Preferences",
+      "uri": "/ubc/task/2998$2725"
+    },
+    {
+      "label": "Manage Password Challenge Questions (Do Not Use)",
+      "uri": "/ubc/task/2997$1123"
+    }
+  ],
+  "autoCompleteSearch": true,
+  "body": {
+    "widget": "facetSearchResult",
+    "iid": "6$8105",
+    "enabled": false,
+    "facetContainer": {
+      "widget": "facetContainer",
+      "ecid": "6$33271",
+      "iid": "6$33271",
+      "enabled": false,
+      "searchText": {
+        "widget": "text",
+        "ecid": "56$510860",
+        "iid": "4$215",
+        "enabled": false,
+        "label": "Search Text",
+        "propertyName": "nyw:Search_Text"
+      },
+      "paginationCount": {
+        "widget": "number",
+        "ecid": "56$510941",
+        "iid": "20$6358",
+        "enabled": false,
+        "value": 1014,
+        "text": "1,014",
+        "precision": 0,
+        "format": "###########0",
+        "propertyName": "nyw:Pagination_Count"
+      },
+      "offset": {
+        "widget": "number",
+        "ecid": "56$510738",
+        "iid": "20$4884",
+        "enabled": false,
+        "label": "Offset",
+        "value": 1000,
+        "text": "1000",
+        "precision": 0,
+        "format": "###########0",
+        "propertyName": "nyw:offset"
+      },
+      "indexedTime": {
+        "widget": "number",
+        "ecid": "56$510817",
+        "iid": "20$6604",
+        "enabled": false,
+        "label": "As Of",
+        "value": 0,
+        "text": "0",
+        "precision": 0,
+        "format": "############0",
+        "propertyName": "nyw:Indexed_Time"
+      },
+      "facets": [
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11034",
+          "enabled": false,
+          "label": "Campus",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "facetValues": [
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "216$24345",
+              "enabled": false,
+              "label": "UBC Vancouver Campus",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 897
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "216$41607",
+              "enabled": false,
+              "label": "UBC",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 897
+            }
+          ],
+          "expandState": "half",
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11108",
+          "enabled": false,
+          "label": "Course Level/Tags",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "facetValues": [
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$24",
+              "enabled": false,
+              "label": "Course Standing Type :: Credit/D/Fail",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 3151
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$7",
+              "enabled": false,
+              "label": "Course Level :: 300 Level",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 1629
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$8",
+              "enabled": false,
+              "label": "Course Level :: 100 Level",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 1294
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$11",
+              "enabled": false,
+              "label": "Course Level :: 400 Level",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 1245
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$12",
+              "enabled": false,
+              "label": "Course Level :: 200 Level",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "full",
+              "count": 1014,
+              "selected": true
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$18",
+              "enabled": false,
+              "label": "Administrative Shell Course :: Off-campus Courses",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 320
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$2",
+              "enabled": false,
+              "label": "Administrative Shell Course :: Co-operative Education",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 130
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$16",
+              "enabled": false,
+              "label": "Administrative Shell Course :: Not for Credits",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 65
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$21",
+              "enabled": false,
+              "label": "Course Standing Type :: Externally Graded",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 61
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$9",
+              "enabled": false,
+              "label": "Administrative Shell Course :: Exchange",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 61
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$22",
+              "enabled": false,
+              "label": "Course Standing Type :: T Standing",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 11
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$25",
+              "enabled": false,
+              "label": "Course Standing Type :: No Grade Required",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 3
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$23",
+              "enabled": false,
+              "label": "Course Standing Type :: Honours/Pass/Fail",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 2
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "14096$1",
+              "enabled": false,
+              "label": "Community Service Learning :: Community Service Learning (Mandatory)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 1
+            }
+          ],
+          "expandState": "half",
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11112",
+          "enabled": false,
+          "label": "Course Subject",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "instances": [
+              {
+                "widget": "moniker",
+                "instanceId": "15$385975",
+                "text": "Course Subject Default CCP View Security Work Set",
+                "rt": true
+              }
+            ],
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "facetValues": [
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$135",
+              "enabled": false,
+              "label": "Biology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 97
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$171",
+              "enabled": false,
+              "label": "Computer Science (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 72
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$107",
+              "enabled": false,
+              "label": "Commerce (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 65
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$313",
+              "enabled": false,
+              "label": "Political Science (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 43
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$94",
+              "enabled": false,
+              "label": "Applied Science (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 35
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$263",
+              "enabled": false,
+              "label": "Microbiology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 26
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$130",
+              "enabled": false,
+              "label": "Chemistry (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 25
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$86",
+              "enabled": false,
+              "label": "Applied Biology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 25
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$344",
+              "enabled": false,
+              "label": "Statistics (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 23
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$157",
+              "enabled": false,
+              "label": "Electrical Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 23
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$239",
+              "enabled": false,
+              "label": "Mechanical Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 22
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$225",
+              "enabled": false,
+              "label": "History (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 22
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$211",
+              "enabled": false,
+              "label": "Forestry (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 22
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$265",
+              "enabled": false,
+              "label": "Mathematics (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 21
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$193",
+              "enabled": false,
+              "label": "Earth and Ocean Sciences (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 21
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$301",
+              "enabled": false,
+              "label": "Psychology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 17
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$268",
+              "enabled": false,
+              "label": "Language and Literacy Education (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 17
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$120",
+              "enabled": false,
+              "label": "Economics (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 17
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$183",
+              "enabled": false,
+              "label": "English (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 16
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$165",
+              "enabled": false,
+              "label": "Design (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 16
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$109",
+              "enabled": false,
+              "label": "Civil Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 14
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$108",
+              "enabled": false,
+              "label": "Chinese (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 13
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$293",
+              "enabled": false,
+              "label": "Philosophy (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 12
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$272",
+              "enabled": false,
+              "label": "Land & Food Systems (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 12
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$181",
+              "enabled": false,
+              "label": "Creative Writing (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 12
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$270",
+              "enabled": false,
+              "label": "Pharmacy (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 11
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$242",
+              "enabled": false,
+              "label": "Kinesiology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 11
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$137",
+              "enabled": false,
+              "label": "Chemical and Biological Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 11
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$345",
+              "enabled": false,
+              "label": "Visual Arts (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 10
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$299",
+              "enabled": false,
+              "label": "Sociology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 10
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$255",
+              "enabled": false,
+              "label": "Law (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 10
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$68",
+              "enabled": false,
+              "label": "Arts Studies (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 10
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$351",
+              "enabled": false,
+              "label": "Theatre (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 9
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$291",
+              "enabled": false,
+              "label": "Physics (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 9
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$246",
+              "enabled": false,
+              "label": "Materials Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 9
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$125",
+              "enabled": false,
+              "label": "Biomedical Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 9
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$127",
+              "enabled": false,
+              "label": "Biochemistry (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 9
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$66",
+              "enabled": false,
+              "label": "Art History (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 9
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$334",
+              "enabled": false,
+              "label": "Wood Products Processing (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$279",
+              "enabled": false,
+              "label": "Pharmaceutical Sciences (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$266",
+              "enabled": false,
+              "label": "Music (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$283",
+              "enabled": false,
+              "label": "Linguistics (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$230",
+              "enabled": false,
+              "label": "Law and Society (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$231",
+              "enabled": false,
+              "label": "French (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$128",
+              "enabled": false,
+              "label": "Business (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 8
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$332",
+              "enabled": false,
+              "label": "Spanish (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 6
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$241",
+              "enabled": false,
+              "label": "Japanese (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 6
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$371",
+              "enabled": false,
+              "label": "Environmental Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 6
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$312",
+              "enabled": false,
+              "label": "Community and Regional Planning (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 6
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$812",
+              "enabled": false,
+              "label": "Cinema Studies (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 6
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$112",
+              "enabled": false,
+              "label": "Anthropology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 6
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$269",
+              "enabled": false,
+              "label": "Nursing (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 5
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$811",
+              "enabled": false,
+              "label": "Natural Resources (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 5
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$791",
+              "enabled": false,
+              "label": "Geographical Sciences (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 5
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$214",
+              "enabled": false,
+              "label": "Gender, Race, Sexuality and Social Justice (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 5
+            }
+          ],
+          "expandState": "half",
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11113",
+          "enabled": false,
+          "label": "Credits",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "facetValues": [
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$1",
+              "enabled": false,
+              "label": "0.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 1
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$3",
+              "enabled": false,
+              "label": "1.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 72
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$5",
+              "enabled": false,
+              "label": "2.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 15
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$7",
+              "enabled": false,
+              "label": "3.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 749
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$9",
+              "enabled": false,
+              "label": "4.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 142
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$13",
+              "enabled": false,
+              "label": "6.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 22
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$15",
+              "enabled": false,
+              "label": "7.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 5
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$19",
+              "enabled": false,
+              "label": "9.0",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 1
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "11533$20",
+              "enabled": false,
+              "label": "9.5+",
+              "propertyName": "nyw:Facet_Value",
+              "selectedState": "none",
+              "count": 7
+            }
+          ],
+          "expandState": "half",
+          "type": "Numeric",
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11035",
+          "enabled": false,
+          "label": "Delivery Mode",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "expandState": "closed-half",
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11037",
+          "enabled": false,
+          "label": "Instructional Format",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11036",
+          "enabled": false,
+          "label": "Instructors",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11110",
+          "enabled": false,
+          "label": "Meeting Days",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11033",
+          "enabled": false,
+          "label": "Meeting Times",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11111",
+          "enabled": false,
+          "label": "Section Status",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        },
+        {
+          "widget": "facet",
+          "ecid": "56$510830",
+          "iid": "5326$11109",
+          "enabled": false,
+          "label": "Start Date Within",
+          "promptInstance": {
+            "widget": "monikerList",
+            "ecid": "56$510742",
+            "iid": "15$72149",
+            "enabled": false,
+            "label": "Facet Search Instance Set",
+            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
+            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
+            "singular": true
+          },
+          "singleSelect": "0",
+          "propertyName": "nyw:Facet_Category"
+        }
+      ],
+      "searchSaveButtons": {
+        "widget": "buttonGroup",
+        "label": "Open",
+        "arrangementRule": "POP_UP_MENU",
+        "rule": 0,
+        "footerOrder": 0,
+        "groupSeparator": true,
+        "ecid": "6$33271",
+        "iid": "6$33271",
+        "children": [
+          {
+            "widget": "commandButton",
+            "ecid": "6$33271",
+            "label": "Manage My Saved Searches",
+            "values": [
+              {
+                "label": "Manage My Saved Searches",
+                "uri": "/ubc/button/c11/162/603",
+                "taskId": "2997$13093",
+                "httpMethod": "POST"
+              }
+            ],
+            "uri": "/ubc/button/c11/162/603",
+            "taskId": "2997$13093",
+            "httpMethod": "POST",
+            "actionId": "edit",
+            "rule": 0,
+            "footerOrder": 0,
+            "layoutInstanceId": "3009$805",
+            "propertyName": "nyw:Facet_Container",
+            "layoutId": "3009$805"
+          }
+        ],
+        "layoutInstanceId": "5483$4",
+        "layoutId": "5483$4"
+      },
+      "facetCount": 11,
+      "propertyName": "nyw:Facet_Container"
+    },
+    "reportParameters": {
+      "widget": "reportParameters",
+      "ecid": "56$29630",
+      "iid": "6$8269",
+      "enabled": false,
+      "propertyName": "wd:Report_Parms"
+    },
+    "children": [
+      {
+        "widget": "facetSearchResultList",
+        "ecid": "56$29002",
+        "iid": "6$8104",
+        "enabled": false,
+        "listItems": [
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$433011",
+                  "text": "VISA_V 241-002 - Digital Photography",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$433011",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$433011/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$8",
+                    "text": "Studio",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$8",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$8/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$4",
+                    "text": "Waitlist",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$4",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$4/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 20/20",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81261",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Includes Reserved Seats",
+                "value": "Includes Reserved Seats",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81264",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Waitlisted / Waitlist Capacity",
+                "value": "Waitlisted/Waitlist Capacity: 7/99",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$353826",
+                    "text": "BINN-Floor 1-Room 102 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$353827",
+                    "text": "BINN-Floor 1-Room 102 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-02-25 - 2025-04-08",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34468",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$432964",
+                  "text": "VISA_V 241-227 - Digital Photography",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$432964",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$432964/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$8",
+                    "text": "Studio",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$8",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$8/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 13/20",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81261",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Includes Reserved Seats",
+                "value": "Includes Reserved Seats",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$420778",
+                    "text": "BINN-Floor 1-Room 102 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$420779",
+                    "text": "BINN-Floor 1-Room 102 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-02-24 - 2025-04-07",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "value": "7 seats in VISA 241 227 are reserved for students in year 2 of the Bachelor of Media Studies program. The other 13 seats are open to any students who meet the prerequisite.",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34499",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$432983",
+                  "text": "VISA_V 241-228 - Digital Photography",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$432983",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$432983/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$8",
+                    "text": "Studio",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$8",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$8/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 18/20",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81261",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Includes Reserved Seats",
+                "value": "Includes Reserved Seats",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$420376",
+                    "text": "BINN-Floor 1-Room 102 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$420377",
+                    "text": "BINN-Floor 1-Room 102 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-02-26 - 2025-04-02",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "value": "12 seats in VISA 241 228 are reserved for students in year 2 of the Bachelor of Media Studies program. The other 8 seats are open to any students who meet the prerequisite.",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34530",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$432639",
+                  "text": "VISA_V 250-003 - Print Media",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$432639",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$432639/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$8",
+                    "text": "Studio",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$8",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$8/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$4",
+                    "text": "Waitlist",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$4",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$4/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 20/20",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81261",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Includes Reserved Seats",
+                "value": "Includes Reserved Seats",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81264",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Waitlisted / Waitlist Capacity",
+                "value": "Waitlisted/Waitlist Capacity: 1/99",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$353876",
+                    "text": "PCE-Floor 2-Room 2000 | Thu | 9:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$353875",
+                    "text": "PCE-Floor 3-Room 3007 | Thu | 9:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$354278",
+                    "text": "PCE-Floor 3-Room 3007 | Thu | 9:00 a.m. - 12:00 p.m. | 2025-02-27 - 2025-04-03",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$353877",
+                    "text": "PCE-Floor 2-Room 2000 | Thu | 9:00 a.m. - 12:00 p.m. | 2025-02-27 - 2025-04-03",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34563",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$432986",
+                  "text": "VISA_V 260-003 - Sculpture",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$432986",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$432986/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$8",
+                    "text": "Studio",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$8",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$8/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$4",
+                    "text": "Waitlist",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$4",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$4/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 20/20",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81261",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Includes Reserved Seats",
+                "value": "Includes Reserved Seats",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81264",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Waitlisted / Waitlist Capacity",
+                "value": "Waitlisted/Waitlist Capacity: 6/99",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$354291",
+                    "text": "DSOM-Floor 1-Room 107 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$354292",
+                    "text": "DSOM-Floor 1-Room 107 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-02-24 - 2025-04-07",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34594",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406847",
+                  "text": "WOOD_V 245-201 - Programming for Wood Products Manufacturing Applications",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406847",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406847/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$4",
+                    "text": "Lecture",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$4",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$4/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 41/45",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324311",
+                    "text": "FSC-Floor 2-Room 2942 | Mon | 1:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324312",
+                    "text": "FSC-Floor 2-Room 2942 | Mon | 1:00 p.m. - 3:00 p.m. | 2025-02-24 - 2025-04-07",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$9740",
+                    "text": "Gregory Smith",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$9740",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$9740/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34628",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406863",
+                  "text": "WOOD_V 245-L01 - Programming for Wood Products Manufacturing Applications",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406863",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406863/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$3",
+                    "text": "Laboratory",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$3",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$3/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 41/45",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324348",
+                    "text": "FSC-Floor 2-Room 2942 | Wed Fri | 1:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-14",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324349",
+                    "text": "FSC-Floor 2-Room 2942 | Wed Fri | 1:00 p.m. - 3:00 p.m. | 2025-02-26 - 2025-04-04",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$9740",
+                    "text": "Gregory Smith",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$9740",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$9740/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34660",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406883",
+                  "text": "WOOD_V 282-201 - Wood Physics and Mechanics",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406883",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406883/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$4",
+                    "text": "Lecture",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$4",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$4/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 8/35",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81264",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Waitlisted / Waitlist Capacity",
+                "value": "Waitlisted/Waitlist Capacity: 0/5",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$382171",
+                    "text": "FSC-Floor 2-Room 2916 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$382172",
+                    "text": "FSC-Floor 2-Room 2916 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-02-24 - 2025-04-07",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$31518",
+                    "text": "Cristiano Loss",
+                    "rt": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$34666",
+                    "text": "Stavros Avramidis",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34693",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$422638",
+                  "text": "WOOD_V 282-L01 - Wood Physics and Mechanics",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$422638",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$422638/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$3",
+                    "text": "Laboratory",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$3",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$3/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 8/35",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$364576",
+                    "text": "FSC-Floor 2-Room 2916 | Thu | 10:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$364577",
+                    "text": "FSC-Floor 2-Room 2916 | Thu | 10:00 a.m. - 12:00 p.m. | 2025-02-27 - 2025-04-03",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$31518",
+                    "text": "Cristiano Loss",
+                    "rt": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$34666",
+                    "text": "Stavros Avramidis",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34726",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406822",
+                  "text": "WOOD_V 290-201 - Secondary Wood Products Manufacturing",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406822",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406822/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$4",
+                    "text": "Lecture",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$4",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$4/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 11/30",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324358",
+                    "text": "FSC-Floor 2-Room 2965 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324356",
+                    "text": "FSC-Floor 2-Room 2964 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324359",
+                    "text": "FSC-Floor 2-Room 2965 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-02-26 - 2025-04-02",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324357",
+                    "text": "FSC-Floor 2-Room 2964 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-02-26 - 2025-04-02",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$13246",
+                    "text": "Robert Fuerst",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$13246",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$13246/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34760",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406884",
+                  "text": "WOOD_V 290-L01 - Secondary Wood Products Manufacturing",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406884",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406884/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$3",
+                    "text": "Laboratory",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$3",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$3/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 11/30",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324331",
+                    "text": "FSC-Floor 1-Room 1937 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$324332",
+                    "text": "FSC-Floor 1-Room 1937 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-02-25 - 2025-04-08",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$13246",
+                    "text": "Robert Fuerst",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$13246",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$13246/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34792",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406821",
+                  "text": "WOOD_V 292-201 - Two-Dimensional and Solid Computer-Aided Graphics",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406821",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406821/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$4",
+                    "text": "Lecture",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$4",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$4/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "2 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 6/25",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81264",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Waitlisted / Waitlist Capacity",
+                "value": "Waitlisted/Waitlist Capacity: 0/5",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$349854",
+                    "text": "FSC-Floor 2-Room 2942 | Mon | 10:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$349855",
+                    "text": "FSC-Floor 2-Room 2942 | Mon | 10:00 a.m. - 12:00 p.m. | 2025-02-24 - 2025-04-07",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$52688",
+                    "text": "Jorn Dettmer",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$52688",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$52688/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34824",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$406854",
+                  "text": "WOOD_V 292-L01 - Two-Dimensional and Solid Computer-Aided Graphics",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$406854",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$406854/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$3",
+                    "text": "Laboratory",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$3",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$3/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$2",
+                    "text": "Open",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "2 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 6/30",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$379383",
+                    "text": "FSC-Floor 2-Room 2942 | Fri | 10:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$379384",
+                    "text": "FSC-Floor 2-Room 2942 | Fri | 10:00 a.m. - 12:00 p.m. | 2025-02-28 - 2025-04-04",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$52688",
+                    "text": "Jorn Dettmer",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$52688",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$52688/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34856",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          },
+          {
+            "widget": "templatedListItem",
+            "ecid": "56$29002",
+            "iid": "6$8104",
+            "enabled": false,
+            "title": {
+              "widget": "monikerList",
+              "ecid": "1423$81251",
+              "iid": "1$15194",
+              "enabled": false,
+              "label": "Course Section",
+              "instances": [
+                {
+                  "widget": "moniker",
+                  "instanceId": "15194$432150",
+                  "text": "WRDS_V 250-011 - Evaluating Knowledge Production and Mobilization",
+                  "rt": true,
+                  "pv": true,
+                  "v": true
+                }
+              ],
+              "selfUriTemplate": "/ubc/inst/1$15194/15194$432150",
+              "relatedTasksUriTemplate": "/ubc/inst/15194$432150/rel-tasks",
+              "propertyName": "wd:Course_Section--IS",
+              "singular": true
+            },
+            "subtitles": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81253",
+                "iid": "15$174705",
+                "enabled": false,
+                "label": "Instructional Format",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12837$4",
+                    "text": "Lecture",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$174705/12837$4",
+                "relatedTasksUriTemplate": "/ubc/inst/12837$4/rel-tasks",
+                "propertyName": "wd:Instructional_Format__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81252",
+                "iid": "15$356486",
+                "enabled": false,
+                "label": "Section Status",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13654$3",
+                    "text": "Closed",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$3",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$3/rel-tasks",
+                "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81255",
+                "iid": "15$370262",
+                "enabled": false,
+                "label": "Delivery Mode",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "12844$2",
+                    "text": "In Person Learning",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$370262/12844$2",
+                "relatedTasksUriTemplate": "/ubc/inst/12844$2/rel-tasks",
+                "propertyName": "wd:Student_Delivery_Mode__Singular_--IS",
+                "singular": true
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81258",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Maximum Credits",
+                "value": "3 Credits",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81262",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - CT - Enrolled/Capacity",
+                "value": "Enrolled/Capacity: 33/32",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81264",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "zCF - EE - Waitlisted / Waitlist Capacity",
+                "value": "Waitlisted/Waitlist Capacity: 5/5",
+                "propertyName": "wd:Text"
+              }
+            ],
+            "detailResultFields": [
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81254",
+                "iid": "15$178362",
+                "enabled": false,
+                "label": "Section Details",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$366212",
+                    "text": "BUCH-Floor 3-Room D314 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  },
+                  {
+                    "widget": "moniker",
+                    "instanceId": "13229$366213",
+                    "text": "BUCH-Floor 3-Room D314 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-02-25 - 2025-04-08",
+                    "rt": true,
+                    "pv": true,
+                    "v": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$178362/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "wd:Student_Course_Section_Component__Nonsingular_--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81256",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Course Section Definition Public Notes",
+                "value": "More information available here: WRDS Undergraduate Course Descriptions - School of Journalism, Writing, and Media (ubc.ca)",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81257",
+                "iid": "15$398487",
+                "enabled": false,
+                "label": "Instructors",
+                "instances": [
+                  {
+                    "widget": "moniker",
+                    "instanceId": "10358$32295",
+                    "text": "Michael Schandorf",
+                    "rt": true
+                  }
+                ],
+                "selfUriTemplate": "/ubc/inst/15$398487/10358$32295",
+                "relatedTasksUriTemplate": "/ubc/inst/10358$32295/rel-tasks",
+                "propertyName": "wd:Academic_Appointees_Secured_to_Public_Curriculum_Management--IS"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81259",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Building External URL",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              },
+              {
+                "widget": "text",
+                "ecid": "1423$81263",
+                "iid": "4$2750",
+                "enabled": false,
+                "label": "Drop and Withdrawal Deadlines",
+                "value": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07",
+                "propertyName": "wd:Text"
+              },
+              {
+                "widget": "monikerList",
+                "ecid": "1423$81260",
+                "iid": "15$2",
+                "enabled": false,
+                "label": "Clustered Course Sections",
+                "selfUriTemplate": "/ubc/inst/15$2/[IID]",
+                "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
+                "propertyName": "nyw:Instances--IS"
+              }
+            ],
+            "id": "34888",
+            "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
+            "propertyName": "wd:Report_Row",
+            "doNotWrapInTab": true
+          }
+        ],
+        "chunkingUri": "/ubc/chunkablelist/c11/1620.156",
+        "totalChunkingItemsCount": 1014,
+        "propertyName": "wd:Report_Row",
+        "doNotWrapInTab": true
+      },
+      {
+        "widget": "stylizedHeader",
+        "subheadings": [
+          {
+            "widget": "monikerList",
+            "ecid": "ExternalField146_44940PromptQualifier1",
+            "iid": "15$390225",
+            "enabled": false,
+            "label": "Start Date within",
+            "instances": [
+              {
+                "widget": "moniker",
+                "instanceId": "6100$180",
+                "text": "2024-25 Winter Term 2 (UBC-V)",
+                "rt": true
+              }
+            ],
+            "selfUriTemplate": "/ubc/inst/15$390225/6100$180",
+            "relatedTasksUriTemplate": "/ubc/inst/6100$180/rel-tasks",
+            "propertyName": "wd:ExternalField146_44940PromptQualifier1"
+          },
+          {
+            "widget": "monikerList",
+            "ecid": "ExternalField146_44944PromptQualifier1",
+            "iid": "15$461463",
+            "enabled": false,
+            "label": "Academic Level",
+            "instances": [
+              {
+                "widget": "moniker",
+                "instanceId": "10803$2",
+                "text": "Undergraduate",
+                "rt": true
+              }
+            ],
+            "selfUriTemplate": "/ubc/inst/15$461463/10803$2",
+            "relatedTasksUriTemplate": "/ubc/inst/10803$2/rel-tasks",
+            "propertyName": "wd:ExternalField146_44944PromptQualifier1"
+          }
+        ],
+        "layoutInstanceId": "REPORT_STYLIZED_HEADER_LAYOUT_ID"
+      }
+    ],
+    "endPoints": [
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/search",
+        "type": "Search"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/replaceandsearch",
+        "type": "Replace_And_Search"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/save",
+        "type": "Save",
+        "requestParameterNames": [
+          "name"
+        ]
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs0/backward",
+        "type": "Backward"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/recover-current-state",
+        "type": "Recover_Current_State"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/replace",
+        "type": "Replace"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/configure/add",
+        "type": "Configure_Add"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/configure/expand",
+        "type": "Configure_Expand"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/pagination",
+        "type": "Pagination"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/reset",
+        "type": "Reset"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/prompt",
+        "type": "Prompt"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/expand-facet-value",
+        "type": "Expand_Facet_Value"
+      },
+      {
+        "uri": "/ubc/faceted-search2/c11/fs1/searchCriteria",
+        "type": "Search_Criteria"
+      }
+    ],
+    "propertyName": "wd:Report_Results"
+  },
+  "brandingData": {
+    "banner": {
+      "uri": "/ubc/attachment/17214$16/RzNuLzZtZEVOUE04STl1clJ2WUp1YUdOL3pkaXFuMVRZWjY3ZlNvN3BZYmFwVzVza0pNaFQyd2RicjlaZHo0R2tXcGhLZ3Uwa0QvUTdKYVRVaWY2bVhCaGF3Tk1TTnR3RjBzTWFLeHM1VHRMamlHdTVZVUJSK2JSWXFyNWMyUXI0dG85bThJYnhWSStpWE14RFNOWWtEYUtWd0xXVDV5UXV1Rk8yTHQwQ21sbEsrb1Z5T2FWM2ZoSjh1cm1LdyszUWdDK2N2U1R3MS9DQWJPSHZDdHFlTDNaOU4ySnRLazhCUndNTzRZeEp5dXlSVFNYa2d0bFFsdnhScG1UNmVkejRNOUpZem9vLzVpRnRQeUpDR01NKzFWWkNMZ1N6YUNuZjRDb1dTNVFUUnd4VnQyMzM5UEwyUW53b21NeUlmZ0NKbmJyNURZNjZ1dXdPMGx3RjhzajZnPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzIzMzUyNDAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
+    },
+    "logo": {
+      "uri": "/ubc/attachment/17213$17/aG1aQ1d6RkkraW94Vnd4WWRCQXRkL2JaYkdiQzhxYUNsNk9XdGhKbFpXZDc2ZUhXNWNtT3dnTmExb2FYcnRiNXhDSTRqYVh6cTlLc2tXZHRrYmhGSHlFRUVCM2tKUm85YThaQmU4eWs5QkIrOTZ1MEdOYlVYQUxQVm9iblo5ZktOQ0FVOUZRVGlydGp6VW9ja1Y4WGZLN1B0VGV5UkY3K0QrMDlwaVJlanR5OStYTGdlNE9sbEFHd2QwWjhqaWFXbHA4bDRIQXB5dVYvVmE0ZmNrQklxZXNwRnRmbE1rbCthTy9vTWNVMFRiaWYyNFlDQnh2Qm5TaEh2NDJ4NjgzQ3dFMGNmWElyRnlqalJkZVdUQzBzYnRva20wenNPS2FxTjZHdDIxeXY4T1F1dXJ6UzRCN0RwRi9OeWlhcUtXcmd6ZjZtSFk4eEZ5U2xpNmlVNHBFL2d3PT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzIzMzUyNDAwMDAwPz9DcmVzdF9XRC5wbmc"
+    },
+    "canvasColor": {
+      "widget": "color",
+      "instanceId": "21484$116",
+      "text": "Blueberry 500",
+      "action": "color-picker",
+      "target": "#005cb9,#0875e1",
+      "rt": true
+    },
+    "canvasColorSource": "#002145",
+    "arrCanvasColorShades": [
+      "#F6F7F8",
+      "#CCDEF2",
+      "#89ABD0",
+      "#5F8EC1",
+      "#245387",
+      "#002145"
+    ],
+    "defaultBrandingColor": false
+  },
+  "clearPageContextUri": "/ubc/clear-page-context/c11",
+  "commandLinkTemplate": "/ubc/task/[IID]",
+  "currentTime": 1723348202613,
+  "currentUser": {
+    "widget": "currentUser",
+    "iid": "10089$80824",
+    "label": "Fang Meng (38201604)",
+    "relatedTasksLink": {
+      "widget": "link",
+      "rel": "related-tasks",
+      "uri": "/ubc/inst/10089$80824/rel-tasks",
+      "pv": true,
+      "rt": true
+    },
+    "selfLink": {
+      "widget": "link",
+      "rel": "self",
+      "uri": "/ubc/inst/1$37/10089$80824",
+      "v": true
+    },
+    "userImageUrl": "/ubc/attachment/1055$109291/RUhOb2RsaGNGQ29QWmpOVjQzRzAyMzBZTlNxbjZqZjVveEpHQ3BaeDNpalNQMjJVbGZoUlJON2N5dUpRNFBQcDFJZEVXVGp4VnM1b09SYVZVZlNabFpxYUtKWnhPa0x6dzlnOEZMZ2JFd2RLeHJKS1drclkxbzlLdXh2TkdsUWJ2VitYQ2lPeWMvcytkU3NNUVY1VHFSRm1YTmhJTVhWRzYzdkJEMENFdUY4SWtHckhWOUR6QUVsb1pMaHRZQUJuZk9Eei90Z2JNejR1OE0zYnFqTm4zeEpuTXp1LzRNdE15U3FvYjZTZGlHYkFVQktjaWxZVWw3cld0ZGJJOStSMWl0VUJGT0hiRmZFNngxTkQrK05RYTZmUnR1TEMrNHIrQklZSzVlTnh4UnJPVzZNcU5QVkVpaEZUNEpNcnNPcVV6RHYzbjcxRnpPSnNaT3Y1U2xnbEFnPT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzIzMzUyNDAwMDAwPz8"
+  },
+  "enableApnsNotifications": true,
+  "enableContentDeliveryNetwork": true,
+  "enablePdfAndExcel": true,
+  "enableSpInitiatedSamlAuthentication": true,
+  "failedSignonCount": 0,
+  "globalHelpUrl": "/ubc/help/helpHome.xml?langcode=en_US",
+  "header": {
+    "widget": "header",
+    "showChangeLink": true
+  },
+  "homePages": [
+    {
+      "label": "Home",
+      "rule": "2997$6670",
+      "uri": "/ubc/home/2997$6670",
+      "default": true
+    }
+  ],
+  "homeUri": "/ubc/d/home.htmld",
+  "locale": "en_CA",
+  "localeAttributes": {
+    "amPmPrefixPosition": "0",
+    "amString": "a.m.",
+    "dateOrder": "yyyy-MM-dd",
+    "dateToolTip": "YYYY-MM-DD",
+    "decimalSeparator": ".",
+    "firstDayOfWeek": "sun",
+    "hourClock": "12",
+    "percentSymbolLeft": "0",
+    "percentSymbolSpace": "0",
+    "pmString": "p.m.",
+    "thousandsSeparator": ",",
+    "userLocale": "en_CA",
+    "workdayMonthRange": "LLLL1 - LLLL2",
+    "workdayYearMonthFormat": "LLLL y"
+  },
+  "loginRedirectUrl": "https://wd10.myworkday.com/ubc/login-saml2.htmld",
+  "logoutRedirectUrl": "https://authentication.ubc.ca/idp/profile/Logout",
+  "logoutUri": "https://wd10.myworkday.com/wday/authgwy/ubc/logout.htmld",
+  "mediaMarkingText": "",
+  "navigationLinks": [
+    {
+      "label": "Favorites",
+      "rule": "Nav.Favorites",
+      "uri": "/ubc/task/2997$83"
+    },
+    {
+      "label": "My Reports",
+      "rule": "W Drive",
+      "uri": "/ubc/task/2997$1605"
+    }
+  ],
+  "omsEnvironmentType": "PROD",
+  "pageAutomationIid": "1$4296",
+  "processingUser": "8b6752fe9c214d0782f0c9f56187cd82",
+  "promptUriTemplate": "/ubc/prompt/[CONTEXT_ID]/[PROMPT_IID]",
+  "enabled": false,
+  "repeatUri": "/ubc/faceted-search2/c11/fs1/backward",
+  "requestUri": "/ubc/faceted-search2/c11/fs1/pagination/1000.htmld",
+  "searchScopesUri": "/ubc/search-scopes.xml",
+  "searchUri": "/ubc/search.htmld",
+  "sessionSecureToken": "4a824d63-68ff-4528-905b-5a8ebcdc894d",
+  "sessionTimeoutMinutes": 60,
+  "sessionUserClickable": true,
+  "systemStatusMessage": "Your system will be undergoing maintenance starting on Saturday, August 17, 2024 at 12:00 AM Eastern Time (Toronto) (GMT-4) until Saturday, August 17, 2024 at 3:00 AM Eastern Time (Toronto) (GMT-4). During that time, your users can continue to access the system.",
+  "taskId": "1422$5132",
+  "teaserTasks": [
+    {
+      "label": "Unified Inbox Action Items count",
+      "type": "action_items_count",
+      "uri": "/ubc/unifiedinbox/actioncount/2998$18348"
+    },
+    {
+      "label": "My Tasks (All Items)",
+      "type": "skeleton",
+      "uri": "/ubc/unifiedinbox/initialinbox/2998$44084"
+    },
+    {
+      "label": "Notifications",
+      "type": "Notification_Inbox_Preview_Skeleton_Task--IS",
+      "uri": "/ubc/task/2998$34445"
+    },
+    {
+      "label": "Notifications",
+      "type": "Notification_Inbox_Skeleton_Task--IS",
+      "uri": "/ubc/unifiedinbox/initialinbox/2998$23221"
+    }
+  ],
+  "tenant": "ubc",
+  "timeoutRedirectUrl": "https://wd10.myworkday.com/wday/authgwy/ubc/timeout.htmld",
+  "timeZoneExternalName": "GMT-12:00",
+  "timeZoneInternalName": "TZ001",
+  "timeZoneName": "Canada/Pacific",
+  "timeZoneOffset": "-420",
+  "timeZoneUrl": "/ubc/timezones.xml",
+  "title": {
+    "widget": "titleMonikerList",
+    "ecid": "56$114875",
+    "iid": "1$4296",
+    "enabled": false,
+    "instances": [
+      {
+        "widget": "moniker",
+        "instanceId": "1422$5132",
+        "text": "Find Course Sections",
+        "action": "view",
+        "rt": true
+      }
+    ],
+    "selfUriTemplate": "/ubc/inst/1$4296/1422$5132",
+    "relatedTasksUriTemplate": "/ubc/inst/1422$5132/rel-tasks",
+    "text": "Find Course Sections",
+    "propertyName": "wd:Report_Definition__All_--IS",
+    "singular": true
+  },
+  "alwaysShowProductTours": true,
+  "userLanguageCode": "en_US",
+  "xmlName": "Report_Results",
+  "instanceSelfLinkTemplate": "/ubc/inst/[CONTEXT_ID]/[IID]",
+  "instanceTaskLinkTemplate": "/ubc/inst/[IID]/rel-task/[Task_IID]",
+  "relatedTasksLinkTemplate": "/ubc/inst/[IID]/rel-tasks",
+  "taskLinkTemplate": "/ubc/task/[Task_IID]",
+  "stepUpSecondsRemaining": 0,
+  "pageContextId": "c11",
+  "enableModalEnhancements": true,
+  "localeCode": "en_CA",
+  "viewPage": true,
+  "uiLabels": {
+    "WDRES.COMMON.Filter": "Filter",
+    "WDRES.CHARTS.NoDataFound": "No Data Found For This Item",
+    "WDRES.DISTANCE.SelectACity": "Select a City",
+    "WDRES.PDF_PREVIEW.CannotDownload": "This attachment cannot be downloaded.",
+    "WDRES.FACETEDSEARCH.SaveSearchDialogTitle": "Name your search",
+    "WDRES.VALIDATOR.FieldIsRequired": "The field {0} is required and must have a value.",
+    "WDRES.COMMON.MoreCount": "More ({0})",
+    "WDRES.CHARTS.RADIO.100%": "100%",
+    "WDRES.CHARTS.GaugeChartNotSupported": "Gauge charts are not supported in this release of Workday for iPad",
+    "WDRES.TOOLTIP.Excel": "Export to Excel",
+    "WDRES.REPORTS.TotalColon": "Total:",
+    "WDRES.QUICKTIPS.FacetSearch.FacetList": "Use to filter the population when looking for specific groups of employees",
+    "WDRES.DISTANCE.InvalidPostalCode": "Enter a valid postal code",
+    "WDRES.CHARTS.LABEL.Bubble": "Bubble",
+    "WDRES.REPORTS.NMore": "+{0} More",
+    "WDRES.CHARTS.Info": "Info",
+    "WDRES.DRILLDOWN.ViewByDimensions": "View By",
+    "WDRES.CHARTS.LABEL.100ColumnChart": "100% Column Chart",
+    "WDRES.FACETEDSEARCH.Search": "Search",
+    "WDRES.REPORTS.Blank": "(blank)",
+    "WDRES.REPORTS.RotateYourScreen": "Rotate your screen for a better experience.",
+    "WDRES.CHARTS.LABEL.WaterfallChart": "Waterfall Chart",
+    "WDRES.FACETEDSEARCH.CurrentSearch": "Current Search",
+    "WDRES.FACETEDSEARCH.NoResultsFoundFor": "No results found for '{0}'",
+    "WDRES.CHARTS.RADIO.clustered": "clustered",
+    "WDRES.CHARTS.LABEL.AreaChart": "Area Chart",
+    "WDRES.CHARTS.LABEL.OverlaidArea": "Overlaid Area",
+    "WDRES.PDF_PREVIEW.DownloadAttachment": "Download Attachment",
+    "WDRES.BUTTON.Apply": "Apply",
+    "WDRES.FACETEDSEARCH.EmptyResultsPageTip": "Tip: try entering a different search term.",
+    "WDRES.FACETEDSEARCH.ExpandAll": "Expand All",
+    "WDRES.FACETEDSEARCH.CollapseAll": "Collapse All",
+    "WDRES.FACETEDSEARCH.Open": "Open",
+    "WDRES.DRILLDOWN.LABEL.RefreshButton": "Refresh",
+    "WDRES.CHARTS.LABEL.StackedArea": "Stacked Area",
+    "WDRES.DRILLDOWN.ChooseTheRow_Colon": "Choose the Row:",
+    "WDRES.REPORTS.AdditionalTotals": "Additional Totals",
+    "WDRES.ANNOTATION.EmailConfigurationError": "Your iPad hasn’t been set up to send email",
+    "WDRES.ANNOTATION.Annotate": "Annotate",
+    "WDRES.CHARTS.LABEL.100BarChart": "100% Bar Chart",
+    "WDRES.DISTANCE.PostalCode": "postal code",
+    "WDRES.ANNOTATION.Email": "Email",
+    "WDRES.CHARTS.LABEL.PlotChart": "Scatter Chart",
+    "WDRES.FACETEDSEARCH.ClearAllFilters": "Clear all filters?",
+    "WDRES.PDF_PREVIEW.Number": "({0})",
+    "WDRES.FACETEDSEARCH.SearchMore": "Search More…",
+    "WDRES.FACETEDSEARCH.FilteredResultsCount": "Filtered Results ({0})",
+    "WDRES.REPORTS.AvailableReports": "Available Reports",
+    "WDRES.REPORTS.ReportsHaveErrors": "The following reports have issues:{0}View the full report for details",
+    "WDRES.FACETEDSEARCH.Remove": "Remove",
+    "WDRES.CHARTS.ValueAndPercent": "{0} - {1}",
+    "WDRES.FACETEDSEARCH.SelectedFilters": "Selected Filters",
+    "WDRES.FACETEDSEARCH.FilterBy": "Filter By",
+    "WDRES.BUTTON.Done": "Done",
+    "WDRES.SEARCH.TEXT.Placeholder": "search",
+    "WDRES.FACETEDSEARCH.Continue": "Continue My Last Search",
+    "WDRES.FACETEDSEARCH.SavedSearchLoadedAriaLive": "Saved Search Loaded",
+    "WDRES.CHARTS.LABEL.Donut": "Donut",
+    "WDRES.CHARTS.LABEL.ClusteredColumnChart": "Clustered Column Chart",
+    "WDRES.FACETEDSEARCH.SearchTextBox": "{0} Search Box",
+    "WDRES.CHARTS.ShowingXOutOfY": "Only showing the first {0} out of {1} rows of this report. This requires a full browser to view the entire report.",
+    "WDRES.DISTANCE.City": "City",
+    "WDRES.CHARTS.RADIO.stacked": "stacked",
+    "WDRES.CHARTS.LABEL.BarChart": "Bar Chart",
+    "WDRES.CHARTS.LABEL.BubbleChart": "Bubble Chart",
+    "WDRES.BUTTON.Cancel": "Cancel",
+    "WDRES.PDF_PREVIEW.ErrorLoadingFile": "There was an error loading the file",
+    "WDRES.FACETEDSEARCH.QueryName": "Name",
+    "WDRES.DRILLDOWN.LABEL.Advanced": "Advanced",
+    "WDRES.FACETEDSEARCH.Compare": "Compare",
+    "WDRES.CHARTS.LABEL.StackedColumnChart": "Stacked Column Chart",
+    "WDRES.CHARTS.LABEL.Line": "Line",
+    "WDRES.PAGINATION.Info": "{0}-{1} of {2}",
+    "WDRES.DRILLDOWN.AllTotalsCount": "All Totals ({0})",
+    "WDRES.COMMON.View": "View",
+    "WDRES.CHARTS.LABEL.ColumnWaterfallChart": "Waterfall Column Chart",
+    "WDRES.MASSACTIONS.TotalResult": "1 Result",
+    "WDRES.FACETEDSEARCH.SearchFiltersSavedAriaLive": "Search Term and Filters Saved",
+    "WDRES.FACETEDSEARCH.Save": "Save",
+    "WDRES.FACETEDSEARCH.NoFiltersFound": "No Filters Found",
+    "WDRES.REPORTS.NoReportData": "No report data found from server.",
+    "WDRES.CHARTS.LABEL.Pie": "Pie",
+    "WDRES.FACETEDSEARCH.AllFilters": "All Filters",
+    "WDRES.FACETEDSEARCH.ClearAll": "Clear All",
+    "WDRES.PAGINATION.Items": "{0} item(s)",
+    "WDRES.FACETEDSEARCH.NoAvailableFacets": "No filters available for '{0}'",
+    "WDRES.CHARTS.LABEL.PieChart": "Pie Chart",
+    "WDRES.FACETEDSEARCH.NMoreLink": ", +{0} more...",
+    "WDRES.CHARTS.LABEL.OverlaidAreaChart": "Overlaid Area Chart",
+    "WDRES.FACETEDSEARCH.ShowAll": "Show All",
+    "WDRES.COMMON.Drilldown": "Drilldown",
+    "WDRES.QUICKTIPS.FacetSearch.FacetListHeading": "Filter",
+    "WDRES.CHARTS.LABEL.StackedColumn": "Stacked Column",
+    "WDRES.REPORTS.Actions": "Actions",
+    "WDRES.CHARTS.LABEL.100Bar": "100% Bar",
+    "WDRES.PDF_PREVIEW.NoPreviewAvailable": "No Preview Available",
+    "WDRES.PAGINATION.NoResults": "No search results found",
+    "WDRES.REPORTS.Report": "Report",
+    "WDRES.BUTTON.Close": "Close",
+    "WDRES.FACETEDSEARCH.SymanSyntax": "Boolean logic can be expressed using AND, OR, NOT, and (). \nExact phrases can be surrounded by double quotation marks. \nExample: (\"software engineer\" OR computer science) AND ~manager~.",
+    "WDRES.DRILLDOWN.ChooseTheColumn_Colon": "Choose the Column:",
+    "WDRES.FACETEDSEARCH.SaveSearchDialogHint": "Search name",
+    "WDRES.REPORTS.FullScreen": "Full Screen",
+    "WDRES.FACETEDSEARCH.SearchFiltersClearedAriaLive": "Search Term and Filters Cleared",
+    "WDRES.CHARTS.LABEL.ClusteredColumn": "Clustered Column",
+    "WDRES.CHARTS.LABEL.LineChart": "Line Chart",
+    "WDRES.DRILLDOWN.NoFields": "No Drillable Fields",
+    "WDRES.CHARTS.LABEL.ClusteredBar": "Clustered Bar",
+    "WDRES.CHARTS.LABEL.StackedAreaChart": "Stacked Area Chart",
+    "WDRES.CHARTS.LABEL.WaterfallColumn": "Waterfall Column",
+    "WDRES.REPORTS.Total": "Total",
+    "WDRES.FACETEDSEARCH.People": "People",
+    "WDRES.CHARTS.LABEL.ClusteredBarChart": "Clustered Bar Chart",
+    "WDRES.FACETEDSEARCH.FilteredResults": "Filtered Results",
+    "WDRES.CHARTS.LABEL.Grid": "Grid",
+    "WDRES.PDF_PREVIEW.FileDownloaded": "Your file has been downloaded",
+    "WDRES.COMMON.Filters": "Filters",
+    "WDRES.MASSACTIONS.TotalResults": "{0} Results",
+    "WDRES.CHARTS.LABEL.100Column": "100% Column",
+    "WDRES.CHARTS.LABEL.100Area": "100% Area",
+    "WDRES.BUTTON.Ok": "OK",
+    "WDRES.FACETEDSEARCH.SaveSearch": "Save Search",
+    "WDRES.REPORTS.TotalFor": "Total for {0}",
+    "WDRES.FACETEDSEARCH.SavedSearches": "Saved Searches",
+    "WDRES.FACET.EXPANDCOLLAPSE": "Expand / Collapse {0}",
+    "WDRES.COMMON.Untitled": "Untitled",
+    "WDRES.FACETEDSEARCH.ResultsCount": "Results ({0})",
+    "WDRES.ANNOTATION.TouchImageToAnnotate": "Touch image to annotate",
+    "WDRES.CHARTS.RADIO.overlaid": "overlaid",
+    "WDRES.FACETEDSEARCH.SkipToResults": "Skip To Results",
+    "WDRES.CHARTS.LABEL.100AreaChart": "100% Area Chart",
+    "WDRES.FACETEDSEARCH.PreFixPopupLabel": "Boolean Search Tips",
+    "WDRES.CHARTS.LABEL.StackedBar": "Stacked Bar",
+    "WDRES.CHARTS.LABEL.StackedBarChart": "Stacked Bar Chart",
+    "WDRES.FACETEDSEARCH.SavedSearchesWithCounter": "Saved Searches ({0})",
+    "WDRES.DRILLDOWN.ViewDetails": "View Details",
+    "WDRES.CHARTS.LABEL.ColumnChart": "Column Chart"
+  },
+  "pexEnabledForUser": true,
+  "mode": "VIEW"
+}
