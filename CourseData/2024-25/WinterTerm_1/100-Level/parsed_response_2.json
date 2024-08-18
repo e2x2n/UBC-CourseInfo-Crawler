@@ -4,375 +4,686 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Mon | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-L1T - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-L1U - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Mon | 6:00 p.m. - 8:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-L1V - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Wed | 8:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-L1X - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Thu | 8:00 a.m. - 10:00 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-L1Y - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Tue | 8:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-L1Z - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/100",
+    "Section Details": "CEME-Floor 2-Room 2212 | Thu | 6:00 p.m. - 8:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Registration into APSC 160 is via a first-year engineering timetable. If you require APSC 160, but aren't registered in a first-year engineering timetable, please register via the waitlist for your preferred lecture and laboratory section.\n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-LAR - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-VE1 - Introduction to Computation in Engineering Design",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/66",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-VL1 - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 2-Room 2212 | Tue | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 160-VL2 - Introduction to Computation in Engineering Design",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 2-Room 2212 | Tue | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 172-VE1 - Engineering Analysis I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/75",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor B1-Room C124 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 172-VT1 - Engineering Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4018 | Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 172-VT2 - Engineering Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4018 | Thu | 10:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 182-VE1 - Matter and Energy I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/75",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Vladan Prodanovic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 182-VL1 - Matter and Energy I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHBE-Floor 4-Room 404 | Wed (Alternate weeks) | 8:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-11-27",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Vladan Prodanovic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 182-VL3 - Matter and Energy I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/35",
+    "Section Details": "CHBE-Floor 4-Room 404 | Wed (Alternate weeks) | 11:00 a.m. - 1:00 p.m. | 2024-09-04 - 2024-11-27",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Vladan Prodanovic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 182-VT1 - Matter and Energy I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/40",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 182-VT2 - Matter and Energy I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/40",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.\nNon-Vantage students registered in the section will be removed.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Vladan Prodanovic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARBC_V 101-001 - Beginning Classical and Quranic Arabic I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/10",
+    "Section Details": "BUCH-Floor 3-Room D304 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Beginning Classical and Quranic Arabic I. Visit amne.ubc.ca for full course descriptions.\n\nPlease note there is also a second section of this course (ARBC 101 002) that meets MWF 3-4 pm.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Bushra Seemi Yasmin Ghazi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARBC_V 101-002 - Beginning Classical and Quranic Arabic I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 3-Room B303 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Beginning Classical and Quranic Arabic I. Visit amne.ubc.ca for full course descriptions.\n\nPlease note there is also another section of this course (ARBC 101 001) that meets TTh 9:30-11 am.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Syed Nahri",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARBM_V 101-011 - Introductory Modern Arabic I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "BUCH-Floor 2-Room D213 | Mon Wed | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Nesrine Basheer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARBM_V 101-012 - Introductory Modern Arabic I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 3-Room D307 | Tue Thu | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Nesrine Basheer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARCL_V 140-001 - Bones: The Origins of Humanity",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 182/200",
+    "Section Details": "BUCH-Floor 1-Room A101 | Mon Wed | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1A - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1B - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1C - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1D - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1E - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1F - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1G - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARCL_V 140-D1H - Bones: The Origins of Humanity",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/25",
+    "Section Details": "ANSO-Floor 1-Room 1109 | Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ARCL_V 140-001 - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1A - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1B - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1C - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1D - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1E - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1F - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1G - Bones: The Origins of Humanity",
+      "ARCL_V 140-D1H - Bones: The Origins of Humanity"
+    ]
   },
   {
     "Course Section": "ARTH_V 101-001 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 95/96",
+    "Section Details": "FNH-Floor B1-Room 60 | Thu | 10:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "There is no waitlist for ARTH 101. Please check regularly for seats to open up, particularly during the first two weeks of term when students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tai Smith",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTH_V 101-L01 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "BUCH-Floor 3-Room B316 | Tue | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTH_V 101-L02 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "BUCH-Floor 3-Room B316 | Tue | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTH_V 101-L03 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "LASR-Floor B1-Room 5C | Tue | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTH_V 101-L04 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Discussion",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/16",
+    "Section Details": "LASR-Floor B1-Room 5C | Tue | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTH_V 101-L05 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "BUCH-Floor 2-Room B216 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTH_V 101-L06 - Ways of Seeing: Introduction to Visual Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "BUCH-Floor 2-Room B216 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTS_V 001-A_301 - BORDER CROSSINGS (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 89/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "CHEM-Floor 1-Room D200 | Mon | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Arts One is an 18 credit program open to all students with a first-year standing. It runs from September 2024 to April 2025 and focuses on a theme. This year, we invite you to join us in exploring “Border Crossings”: https://artsone.arts.ubc.ca/themes/current-theme.\n\nPlease register into the lecture (ARTS_V 001-A_301), and one of the seminars (ARTS_V 001-A_L01, ARTS_V 001-A_L02, ARTS_V 001-A_L03, ARTS_V 001-A_L04, or ARTS_V 001-A_L05). \n \nIf you see any alerts or errors before or after you register into the courses, please email us at support.fyip@ubc.ca. We will be happy to help you troubleshoot your registration into the Arts One program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Brianne Orr-Alvarez, Christine Evans, Gavin Paul, Joy Dixon, Michael Brandon Konoval",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTS_V 001-A_L01 - BORDER CROSSINGS (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 157 | Wed Fri | 11:00 a.m. - 12:30 p.m. | 2024-09-04 - 2024-12-06",
+    "Instructors": "Gavin Paul",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTS_V 001-A_L02 - BORDER CROSSINGS (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 156 | Tue Thu | 10:00 a.m. - 11:30 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Michael Brandon Konoval",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTS_V 001-A_L03 - BORDER CROSSINGS (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 191 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Christine Evans",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTS_V 001-A_L04 - BORDER CROSSINGS (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D216 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Joy Dixon",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ARTS_V 001-A_L05 - BORDER CROSSINGS (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 157 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Brianne Orr-Alvarez",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASIA_V 100-011 - Introduction to Traditional Asia",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/50",
+    "Section Details": "LIFE-Floor 2-Room 2212 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Minami Orihara",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASL_V 100-001 - American Sign Language and Deaf Culture I",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/34",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Mon Wed | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASL_V 100-003 - American Sign Language and Deaf Culture I",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/34",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Mon Wed | 3:30 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASTR_V 101-101 - Introduction to the Solar System",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 179/180",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/40",
+    "Section Details": "HENN-Floor 1-Room 200 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Select one Laboratory from sections L1A, L1B, L1C, L1D, L1E, L1F.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASTR_V 101-L1A - Introduction to the Solar System",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HENN-Floor 2-Room 312 | Tue | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

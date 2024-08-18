@@ -4,390 +4,639 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 135/170",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "HENN-Floor 1-Room 200 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Roman Krems",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 304-T07 - Fundamentals of Thermodynamics and Statistical Mechanics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 135/170",
+    "Section Details": "CHEM-Floor B1-Room B150 | Thu | 5:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Roman Krems",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 304-XMT - Fundamentals of Thermodynamics and Statistical Mechanics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "This section is not available for direct student registration.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 312-199 - Introduction to Quantum Mechanics and Spectroscopy",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/75",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "BUCH-Floor 2-Room B213 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Yan Wang",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 315-L1B - Chemistry Integrated Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Mon | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 315-L1C - Chemistry Integrated Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "Mon | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is only open to students in Combined Chemistry. This section is not for students in biochemistry.\n\nThe instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 315-L3B - Chemistry Integrated Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Tue | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 315-L3C - Chemistry Integrated Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "Tue | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is only open to students in Combined Chemistry. This section is not for students in biochemistry.\n\nThe instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 315-L5B - Chemistry Integrated Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 315-L5C - Chemistry Integrated Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is only open to students in Combined Chemistry. This section is not for students in biochemistry.\n\nThe instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 318-109 - Principles of Catalysis",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CHEM-Floor B1-Room C126 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Parisa Mehrkhodavandi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 319-162 - Practical Skills for Chemical Research",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor B1-Room B112 | Tue | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Robin Stoodley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 325-113 - Integrated Chemistry Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Mon Tue | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 325-115 - Integrated Chemistry Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Mon Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 325-135 - Integrated Chemistry Laboratory I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Tue Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 330-110 - Advanced Organic Chemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/48",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CHEM-Floor 1-Room D215 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Gregory Dake",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 335-L1B - Chemistry Integrated Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Mon | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 335-L1C - Chemistry Integrated Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/2",
+    "Section Details": "Mon | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is only open to students in Combined Chemistry.\n\nThe instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 335-L3B - Chemistry Integrated Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Tue | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 335-L3C - Chemistry Integrated Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/3",
+    "Section Details": "Tue | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is only open to students in Combined Chemistry.\n\nThe instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 335-L5B - Chemistry Integrated Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 335-L5C - Chemistry Integrated Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/5",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/3",
+    "Section Details": "Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is only open to students in Combined Chemistry.\n\nThe instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 341-111 - Global Challenges: A Chemical Perspective",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/110",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "CHEM-Floor 2-Room D300 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Robin Stoodley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 345-113 - Integrated Chemistry Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Mon Tue | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 345-115 - Integrated Chemistry Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/11",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Mon Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 345-135 - Integrated Chemistry Laboratory II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Tue Wed | 2:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "The instructor or academic unit will be in touch to confirm meeting location information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Andrea Terpstra, Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 355-L17 - Chemistry Integrated Laboratory",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/10",
+    "Section Details": "CHEM-Floor 3-Room B470 | Thu | 1:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Montserrat Rueda Becerril",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 331-011 - Intermediate Chinese I: Part 1 (Non-Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 3-Room B302 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course. \n\nDelivery Mode -This course has 4 instructional hrs/wk with 3hrs of lecture at the listed days and times and 1hr of Discussion. You must register in a Discussion section to complete your registration. If you have course conflicts with ALL Discussion sections, please register in Discussion section D99 AND email the OP Coordination Team (Chinese.OralPractice@ubc.ca) for possible accommodation. \n\nWaitlist Policy - All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 331-012 - Intermediate Chinese I: Part 1 (Non-Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 2-Room D229 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course. \n\nDelivery Mode -This course has 4 instructional hrs/wk with 3hrs of lecture at the listed days and times and 1hr of Discussion. You must register in a Discussion section to complete your registration. If you have course conflicts with ALL Discussion sections, please register in Discussion section D99 AND email the OP Coordination Team (Chinese.OralPractice@ubc.ca) for possible accommodation. \n\nWaitlist Policy - All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 331-D11 - Intermediate Chinese I: Part 1 (Non-Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/30",
+    "Section Details": "BUCH-Floor 2-Room D217 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP). Both in-person and online Discussion sections are available but in-person sections prove to be more effective for Oral Practice purposes.\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 331-D12 - Intermediate Chinese I: Part 1 (Non-Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/30",
+    "Section Details": "Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP). Both in-person and online Discussion sections are available but in-person sections prove to be more effective for Oral Practice purposes.\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 331-D98 - Intermediate Chinese I: Part 1 (Non-Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/3",
     "Course Section Definition Public Notes": "Only register in this Discussion section, i.e. D98, if you have course scheduling time conflict with ALL of the Discussion sections above. Please also email the OP Tutorial Coordination Team(Chinese.OralPractice@ubc.ca) for possible accommodation. Please note only course scheduling time conflict will be accommodated.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 335-011 - Intermediate Chinese II: Part I (Non-Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 3-Room B304 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course. \n\nDelivery Mode -This course has 4 instructional hrs/wk with 3hrs of lecture at the listed days and times and 1hr of Discussion. You must register in a Discussion section to complete your registration. If you have course conflicts with ALL Discussion sections, please register in Discussion section D99 AND email the OP Coordination Team (Chinese.OralPractice@ubc.ca) for possible accommodation. \n\nWaitlist Policy - All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 335-D11 - Intermediate Chinese II: Part I (Non-Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/30",
+    "Section Details": "Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP).\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Li-Jung Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 335-D98 - Intermediate Chinese II: Part I (Non-Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/3",
     "Course Section Definition Public Notes": "Only register in this Discussion section, i.e. D98, if you have course scheduling time conflict with ALL of the Discussion sections above. Please also email the OP Tutorial Coordination Team(Chinese.OralPractice@ubc.ca) for possible accommodation. Please note only course scheduling time conflict will be accommodated.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 341-011 - Intermediate Chinese I: Part 1 (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/25",
+    "Section Details": "MATH-Floor 1-Room 104 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is offered as a merged course with CHIN405 at the same time in the same room but with separate course syllabi. This course has 4 instructional hrs/wk with 3hrs of lecture at the listed days and times and 1hr of Discussion. If you have course conflicts with ALL Discussion sections, please register in Discussion section D99 AND email the OP Coordination Team (Chinese.OralPractice@ubc.ca) for possible accommodation. \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 341-D11 - Intermediate Chinese I: Part 1 (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "Section Details": "Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP).\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 341-D12 - Intermediate Chinese I: Part 1 (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/15",
+    "Section Details": "Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP).\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 341-D13 - Intermediate Chinese I: Part 1 (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/15",
+    "Section Details": "Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP).\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 341-D98 - Intermediate Chinese I: Part 1 (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/3",
     "Course Section Definition Public Notes": "Only register in this Discussion section, i.e. D98, if you have course scheduling time conflict with ALL of the Discussion sections above. Please also email the OP Tutorial Coordination Team(Chinese.OralPractice@ubc.ca) for possible accommodation. Please note only course scheduling time conflict will be accommodated.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 345-011 - Intermediate Chinese II: Part I (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 2-Room D207 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course has 4 instructional hrs/wk with 3hrs of lecture at the listed days and times and 1hr of Discussion. You must register in a Discussion section to complete your registration. If you have course conflicts with ALL Discussion sections, please register in Discussion section D99 AND email the OP Coordination Team (Chinese.OralPractice@ubc.ca) for possible accommodation. \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 345-D11 - Intermediate Chinese II: Part I (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/15",
+    "Section Details": "Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP).\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 345-D12 - Intermediate Chinese II: Part I (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/15",
+    "Section Details": "Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a Discussion section. You must register in both a Lecture and a Discussion Section to complete your registration. The Discussion section is used to conduct Oral Practice (OP).\n\nIf you have course conflicts with ALL Discussion sections, please register in Discussion section D98 AND email the OP Coordination Team  (Chinese.OralPractice@ubc.ca) for possible accommodation.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHIN_V 345-D98 - Intermediate Chinese II: Part I (Heritage)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/3",
     "Course Section Definition Public Notes": "Only register in this Discussion section, i.e. D98, if you have course scheduling time conflict with ALL of the Discussion sections above. Please also email the OP Tutorial Coordination Team(Chinese.OralPractice@ubc.ca) for possible accommodation. Please note only course scheduling time conflict will be accommodated.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CINE_V 300-001 - Cult Cinema",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "CHAN-Floor 2-Room 290 | Mon | 9:30 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ernest Mathijs",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CINE_V 331-002 - Studies in Film Theory",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B309 | Tue | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This course is reserved for students in the BA Cinema Studies major, minors, and honours program.\n\nAn introduction to classical and 1970s film theories; students engage with a metaphysics of cinema by closely reading original texts exploring realism, formalism, the Frankfurt school, film language, genre theory, apparatus theory, and suture. This course is restricted to students in thr BA Film Studies/Cinema Studies program. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CINE_V 334-001 - Seminar in Documentary",
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "CHAN-Floor 2-Room 290 | Mon | 6:00 p.m. - 8:30 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: https://theatrefilm.ubc.ca/how-to-wait-list-a-course/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CINE_V 340-001 - Media Audiences",
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/44",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room D317 | Mon | 3:00 p.m. - 4:30 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Enrollment in this section is restricted to students in UBC's Bachelor of Media Studies Program. Students in the CINE Major or Minor program may take the course with permission of the instructor.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ernest Mathijs",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 301-101 - Modelling and Decision-Making in Civil Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 114/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHBE-Floor 1-Room 101 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Barbara Jean Lence",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 301-T1A - Modelling and Decision-Making in Civil Engineering",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 114/172",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCML-Floor 3-Room 360 | Thu | 2:30 p.m. - 3:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Barbara Jean Lence",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

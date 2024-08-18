@@ -4,362 +4,620 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 248/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 1-Room A101 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Mallory Tater",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 200-005 - Introduction to Creative Writing",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 187/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This online section of CRWR 200 will be asynchronous with recorded weekly lectures and optional in-person time for TA Q&A and office hours.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Taylor Brown-Evans",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 201-001 - Introduction to Writing Poetry",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/200",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "MATH-Floor 1-Room 100 | Fri | 9:30 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Bronwen Tate",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 203-001 - Introduction to Writing for Children and Young Adults",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/20",
+    "Section Details": "HENN-Floor 1-Room 202 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Tanya Kyi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 205-001 - Introduction to Writing Creative Nonfiction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 134/144",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "AERL-Floor 1-Room 120 | Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Mandy Catron",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 206-001 - Introduction to Writing for the Screen",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 153/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MATH-Floor 1-Room 100 | Fri | 2:00 p.m. - 3:30 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Sara Graefe",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 208-001 - Introduction to Writing for Graphic Forms",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 192/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 2-Room 200 | Tue | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Taylor Brown-Evans",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 209-001 - Introduction to Writing Fiction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 251/300",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "John Vigna",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 213-001 - Introduction to Writing for the New Media",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 190/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 2-Room 200 | Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jennifer Moss",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CRWR_V 213-CAP - Introduction to Writing for the New Media",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 2-Room 200 | Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is a part of the Coordinated Arts Program, Media Studies, https://cap.arts.ubc.ca/streams/media-studies/. Students must register for both the Term 1 and Term 2 courses in CAP. \n\nThis course is clustered with the Media Studies sections of the stream seminar CAP_V 100 (please select one of: CAP_V 100-M01, CAP_V 100-M02, CAP_V 100-M03, or CAP_V 100-M04), and CINE_V 100-004. For CINE_V 100-004, please register in the lecture, and one of the following discussion sections: CINE_V 100-D41, CINE_V 100-D42, or CINE_V 100-D43). CRWR_V 213-CAP, and CAP_V 100 do not have any additional discussion sections. Follow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca \n\nThis is a blended learning course where 50% of the course takes place in-class and 50% online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jennifer Moss",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CAP_V 100-M01 - WRTI RES SS & H",
+      "CAP_V 100-M02 - WRTI RES SS & H",
+      "CAP_V 100-M03 - WRTI RES SS & H",
+      "CAP_V 100-M04 - WRTI RES SS & H",
+      "CINE_V 100-004 - Introduction to Cinema Studies",
+      "CINE_V 100-D41 - Introduction to Cinema Studies",
+      "CINE_V 100-D42 - Introduction to Cinema Studies",
+      "CINE_V 100-D43 - Introduction to Cinema Studies",
+      "CRWR_V 213-CAP - Introduction to Writing for the New Media"
+    ]
   },
   {
     "Course Section": "CSIS_V 200-101 - Critical Engagements in Sexuality Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SWNG-Floor 3-Room 305 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Isabel Machado",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DANI_V 200-101 - Intermediate Danish I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/35",
+    "Section Details": "BUCH-Floor 3-Room D317 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Further developed speaking, reading and writing; express yourself in a variety of contexts; familiarity with contemporary Danish culture. Improve your ability to express your own ideas and experiences by exploring social and political topics and traditions present in Denmark today.\nCultural topics include: Danish politics and trust (tillid), weather and climate, vacations and holidays, past times and traditions, work culture in Denmark.\n\nBook: Puls 1, Chapter 7 and Puls 2, Chapter 1\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies?\nClick here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ann-Kathrine Havemose",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-001 - Design Thinking",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 107/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 1-Room A104 | Fri | 11:00 a.m. - 12:30 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L01 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "Section Details": "PCN-Floor 1-Room 1011 | Tue | 9:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L02 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "SCRF-Floor 2-Room 204A | Tue | 11:00 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L03 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "Section Details": "PCN-Floor 1-Room 1011 | Wed | 9:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L04 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "BUCH-Floor 3-Room D319 | Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L05 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "PCN-Floor 1-Room 1302 | Wed | 11:00 a.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L06 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/15",
+    "Section Details": "MCLD-Floor 2-Room 2014 | Wed | 12:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Fionn Byrne",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L07 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/15",
+    "Section Details": "MCLD-Floor 2-Room 2014 | Wed | 2:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 200-L08 - Design Thinking",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/15",
+    "Section Details": "ORCH-Floor 3-Room 3058 | Thu | 11:00 a.m. - 1:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Leslie Van Duzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 201-001 - Design Studio I - Context and Site",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/64",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon Wed | 1:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 211-002 - Design Media I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FORW-Floor 3-Room 303 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 220-001 - ARCH VANCOUVER",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 73/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BIOL-Floor 1-Room 1001 | Thu | 5:00 p.m. - 6:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 220-L01 - ARCH VANCOUVER",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "MCLD-Floor 2-Room 2014 | Tue | 11:00 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 220-L02 - ARCH VANCOUVER",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "FSC-Floor 1-Room 1617 | Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 220-L04 - ARCH VANCOUVER",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "IBLC-Floor 1-Room 191 | Thu | 9:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 220-L05 - ARCH VANCOUVER",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "MCLD-Floor 2-Room 2014 | Thu | 11:00 a.m. - 1:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 220-L06 - ARCH VANCOUVER",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/15",
+    "Section Details": "IBLC-Floor 1-Room 191 | Tue | 9:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 231-001 - Site Analysis and Planning",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 1-Room 116 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DHYG_V 206-001 - Head & Neck Anatomy",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/27",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Thu | 1:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Charles Shuler, Jelena Karan, Pawel Kindler",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DHYG_V 208-001 - Oral Health Sciences II",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "12 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/27",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Wed | 2:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Denise Laronde, Eli Whitney, Gayathri Murthy, Jelena Karan, Rick Carvalho, Susan Schmitz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "DHYG_V 210-001 - Dental Hygiene Theory and Practice II",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/27",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Carrie Krekoski, Diana Lin, Jelena Karan, Susan Schmitz, Zul Kanji",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "ECON_V 221-001 - Introduction to Strategic Thinking",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 151/180",
+    "Section Details": "SWNG-Floor 1-Room 122 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Hao Li",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 221-001 - Introduction to Strategic Thinking",
+      "ECON_V 221-L1A - Introduction to Strategic Thinking",
+      "ECON_V 221-L1B - Introduction to Strategic Thinking",
+      "ECON_V 221-L1C - Introduction to Strategic Thinking",
+      "ECON_V 221-L1D - Introduction to Strategic Thinking"
+    ]
   },
   {
     "Course Section": "ECON_V 221-L1A - Introduction to Strategic Thinking",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "BUCH-Floor 3-Room D316 | Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 221-001 - Introduction to Strategic Thinking",
+      "ECON_V 221-L1A - Introduction to Strategic Thinking",
+      "ECON_V 221-L1B - Introduction to Strategic Thinking",
+      "ECON_V 221-L1C - Introduction to Strategic Thinking",
+      "ECON_V 221-L1D - Introduction to Strategic Thinking"
+    ]
   },
   {
     "Course Section": "ECON_V 221-L1B - Introduction to Strategic Thinking",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "BUCH-Floor 1-Room B141 | Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 221-001 - Introduction to Strategic Thinking",
+      "ECON_V 221-L1A - Introduction to Strategic Thinking",
+      "ECON_V 221-L1B - Introduction to Strategic Thinking",
+      "ECON_V 221-L1C - Introduction to Strategic Thinking",
+      "ECON_V 221-L1D - Introduction to Strategic Thinking"
+    ]
   },
   {
     "Course Section": "ECON_V 221-L1C - Introduction to Strategic Thinking",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/45",
+    "Section Details": "BUCH-Floor 3-Room D316 | Wed | 5:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 221-001 - Introduction to Strategic Thinking",
+      "ECON_V 221-L1A - Introduction to Strategic Thinking",
+      "ECON_V 221-L1B - Introduction to Strategic Thinking",
+      "ECON_V 221-L1C - Introduction to Strategic Thinking",
+      "ECON_V 221-L1D - Introduction to Strategic Thinking"
+    ]
   },
   {
     "Course Section": "ECON_V 221-L1D - Introduction to Strategic Thinking",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/45",
+    "Section Details": "BUCH-Floor 1-Room B141 | Wed | 5:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 221-001 - Introduction to Strategic Thinking",
+      "ECON_V 221-L1A - Introduction to Strategic Thinking",
+      "ECON_V 221-L1B - Introduction to Strategic Thinking",
+      "ECON_V 221-L1C - Introduction to Strategic Thinking",
+      "ECON_V 221-L1D - Introduction to Strategic Thinking"
+    ]
   },
   {
     "Course Section": "ECON_V 227-001 - Data in Economics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 116/100",
+    "Section Details": "IONA-Floor 3-Room 301 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved exclusively for students in the Bachelor of International Economics Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jonathan Graves",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ECON_V 227-L01 - Data in Economics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B313 | Tue | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ECON_V 227-L02 - Data in Economics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D219 | Thu | 5:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDCP_V 210-301 - Introduction to Music Education",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "SCRF-Floor 3-Room 1314 | Fri | 8:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Music background required\nRegistration in EDCP 210 will be manually done once Criminal Record Check clearances are received by the Faculty of Education. Intentions to register should be forwarded to music.advisor@ubc.ca before July 31, 2024 to allow time for CRC clearances. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Karen Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDUC_V 210-001 - Global Citizenship, Part 1: Introduction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/21",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 1-Room 105 | Wed | 12:30 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Klara Abdi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDUC_V 210-002 - Global Citizenship, Part 1: Introduction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/21",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 210 | Wed | 12:30 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDUC_V 210-003 - Global Citizenship, Part 1: Introduction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/21",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 210 | Wed | 12:30 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Keenan Manning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDUC_V 210-004 - Global Citizenship, Part 1: Introduction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/21",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 204A | Wed | 12:30 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDUC_V 210-L02 - Global Citizenship, Part 1: Introduction",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "Section Details": "MATX-Floor 1-Room 1100 | Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "EDUC_V 244-277 - Indigenous Education Seminar and Classroom Observation II",
     "Instructional Format": "Experiential",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/24",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1008 | Mon | 12:00 p.m. - 1:30 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Restricted to students in the NITEP Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Marny Point",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "EDUC_V 244-625 - Indigenous Education Seminar and Classroom Observation II",
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "Restricted to students in the NITEP Program (Northern Field Centre).",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "ELEC_V 201-101 - Circuit Analysis I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 183/182",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/40",
+    "Section Details": "SWNG-Floor 1-Room 121 | Tue Thu | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Luis Linares",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

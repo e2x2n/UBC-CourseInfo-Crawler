@@ -4,375 +4,765 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 127/144",
+    "Section Details": "FRDM-Floor 1-Room 153 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Andrew Horne, Catherine C Pang, Donald E Griesdale, Jennifer Anne Shabbits, Joanne Y T Leung",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PERS_V 200-011 - Intermediate-Low Persian I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "UCEN-Floor 1-Room 101 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Delivery Mode -This is a synchronous multi-access course. Students are expected to meet on the days and times listed, either in-person or online. All courses labelled ‘multi-access’ offer students the choice of completing the course online, in-person, or using a mix of both. In-person attendance is NOT required, but the option to attend in-person is available. Lectures may be streamed from a classroom and/or uploaded online after class.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Hessam Dehghani",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHAR_V 202-001 - Biochemical Pharmacology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 69/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1221 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Judy Wong",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 211-001 - Greek Philosophy I: Socrates and Plato",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/57",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/11",
+    "Section Details": "CHEM-Floor 2-Room D300 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "PHIL211 is cross-listed with AMNE235. Please register in AMNE235 if PHIL211 is full.  Both courses are identical and fulfilling the same requirements. Philosophy students may register in either PHIL or AMNE.\nCourse Description: This course traces the early evolution of ancient Greek philosophy, the “love of wisdom” (philosophia), from its roots in Homeric oral poetry (c. 800 BCE) to the Socratic dialogues of Plato (429-347 BCE). We’ll focus on the ancient Greek search for knowledge about nature and the human condition, which many philosophers attributed to an injunction from the Oracle at Delphi: “Know Thyself.” That inquiry unfolded into mythological and scientific speculation about reality and cosmology, human freedom and well-being, and new conceptions of statecraft and justice in cities like Sparta and Athens. \nWe’ll trace these themes through Presocratic thinkers like Pythagoras, Thales, Anaximander, and Anaximenes, and explore the insights of women like Aristoclea of Delphi, Diotima of Mantinea, and Perictione of Athens, respectively depicted in Greek literature as teachers of Pythagoras, Socrates, and Plato. According to later sources, their traditions argued for ethical non-violence, sustainable communities, gender equality in education and government, and a theory of stable metaphysical patterns underlying visible reality. These threads converge in Plato’s depiction of Socratic self-cultivation (epimeleia tou heautou), combining novel instruments of rational inquiry with personal inspiration to seek human flourishing (eudaimonia) as a goal of each individual and community.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Michael Griffin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 220-001 - Symbolic Logic",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 146/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "BUCH-Floor 1-Room A102 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Roberta Ballarin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 220-002 - Symbolic Logic",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 66/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "BUCH-Floor 1-Room A102 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "DESCRIPTION:\nThis course will introduce the basic concepts and techniques of First-Order Predicate Logic.  You can get a fairly good sense of the content of the course if you check the Table of Content from the textbook's website (we will try to cover the first 13 chapters -- with some sections skipped).\n\nREQUIRED TEXTS: (available at the Campus Bookstore or electronically) Dave Barker-Plummer, Jon Barwise and John Etchemendy: Language, Proof, and Logic (Second Edition). (with software), CSLI Publications.\n\nHard copies should be available at the Campus Bookstore. If you want to buy only the online version (electronic copy), you can do it here: <LPL Products Page  Links to an external site.>. Once you have a copy and a Registration ID that comes with it, please login to the Grade Grinder Links to an external site. to register for this course to submit the online HW assignments and to familiarize yourself with the interface and to see how you can follow your own HW submission progress and get other technical support Links to an external site. in case a need arises. (Please read the Introduction of the textbook — in particular pp. 5–10 — for instructions about how to register your copy to use the Grade Grinder at the LPL site.)\n\nGRADING:\nThree online term exams:\n(Exam dates may change: if they do, advance notification will be given.)\nFirst Exam (20%):       TBA\nSecond Exam (20%):      TBA\nThird  Exam (20%):      TBA\nHomework (electronically submitted): 40%\n\nIt is always OK to submit or resubmit electronic homework exercises to the Grade Grinder, even if you've passed the due date. Late submissions or corrected resubmissions (after due date) will NOT get huge penalties. We will not accept HW submissions after Dec 17 11:59pm.\n\nAlthough the reading and HW assignments are posted on Canvas, they are also posted on the LPL site.  It is the LPL site assignments that are official.  So, please, login to the LPL site regularly and follow the reading/HW assignments there.  This is also useful for checking your HW submission progress.\n\nTo fully understand the material covered in this course, you need to engage with the material on a weekly basis and do the HW exercises regularly. The material starts easy during the first 2-3 weeks but quickly gets more challenging after that. If you are not regularly keeping up with the course material covered, it will become very difficult for you to catch up later. This is so especially because mastering the later material will require you to know the earlier material well.\n\nFORMAT:\nThe textbook comes with a software that you will use to study the material and do/submit the assigned homework.   Please register your software to Grade Grinder (read the Introduction of the book for instructions).  The textbook site also allows registered students to watch videos containing lectures by the two authors of the textbook.  You can access these lectures through the \"Online Course Material\" side tab on the LPL site.   Attending the classes are not mandatory, but highly advised.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Murat Aydede",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 220-003 - Symbolic Logic",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 113/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/30",
+    "Section Details": "HENN-Floor 1-Room 202 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 220-004 - Symbolic Logic",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 100/120",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/24",
+    "Section Details": "Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Course delivery mode: Hybrid = Lectures synchronous online + Exams in-person",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 220-005 - Symbolic Logic",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/58",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/12",
+    "Section Details": "LIFE-Floor 2-Room 2212 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 230-001 - Introduction to Ethics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 132/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "BUCH-Floor 1-Room A102 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "PHIL230.001 has mandatory discussion sections. Students are required to register in one of the following discussion sections: L01, L02, L03, L04, L05, or L06.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alisabeth Ayars",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 230-L01 - Introduction to Ethics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "MATH-Floor 2-Room 225 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL230.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 230-L02 - Introduction to Ethics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BUCH-Floor 3-Room D304 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL230.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 230-L03 - Introduction to Ethics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BUCH-Floor 2-Room B211 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL230.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 230-L04 - Introduction to Ethics",
     "Instructional Format": "Discussion",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "MATH-Floor 1-Room 105 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL230.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 230-L05 - Introduction to Ethics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/25",
+    "Section Details": "BUCH-Floor 2-Room D204 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL230.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 230-L06 - Introduction to Ethics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/25",
+    "Section Details": "BUCH-Floor 2-Room D213 | Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL230.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 230-001 - Introduction to Ethics",
+      "PHIL_V 230-L01 - Introduction to Ethics",
+      "PHIL_V 230-L02 - Introduction to Ethics",
+      "PHIL_V 230-L03 - Introduction to Ethics",
+      "PHIL_V 230-L04 - Introduction to Ethics",
+      "PHIL_V 230-L05 - Introduction to Ethics",
+      "PHIL_V 230-L06 - Introduction to Ethics"
+    ]
   },
   {
     "Course Section": "PHIL_V 235-002 - Contemporary Moral Issues",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/80",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/16",
+    "Section Details": "LASR-Floor 1-Room 102 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Rana Ahmad",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 240-001 - Introduction to Epistemology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "LIFE-Floor 2-Room 2302 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section of PHIL 240 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL240.L05, but this “discussion section” will not involve additional scheduled meetings.\nCourse Description: This course will provide an introduction to epistemology¾the study of how and what we know¾by focusing on the question of trust. We'll ask to what extent we can trust the world, ourselves, other people, and institutions. We'll draw on materials from Classical Sanskrit and contemporary analytic epistemology. This course is in-person and attendance is mandatory.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Cat Prueitt",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 240-002 - Introduction to Epistemology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/80",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/16",
+    "Section Details": "Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section of PHIL 240 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL240.L05, but this “discussion section” will not involve additional scheduled meetings.\n\nThis is a Synchronous Online course: learning activities that happen at the same time for the instructor and the learners, facilitating real-time interaction between them.\n\n​Instructor: Elena Holmgren",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 240-L05 - Introduction to Epistemology",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 97/180",
     "Course Section Definition Public Notes": "This discussion section, which does not involve additional scheduled meetings, is for students registered in PHIL240.001 or PHIL240.002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 250-001 - Minds and Machines",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 80/80",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/16",
+    "Section Details": "LASR-Floor 1-Room 104 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "​Instructor: Kousaku Yui",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 260-001 - Science and Society in the Contemporary World",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "BUCH-Floor 3-Room B318 | Mon Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "PHIL260.001 has mandatory discussion sections. Students are required to register in one of the following discussion sections: L01, L02, or L03.\n\nPHIL260 is cross-listed with HIST260. Please register in HIST260 if PHIL260 is full.  Both courses are identical and fulfilling the same requirements. Philosophy students may register in either PHIL or HIST.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Brain",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 260-001 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L01 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L02 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L03 - Science and Society in the Contemporary World"
+    ]
   },
   {
     "Course Section": "PHIL_V 260-L01 - Science and Society in the Contemporary World",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/6",
+    "Section Details": "UCEN-Floor 1-Room 101 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL260.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Brain",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 260-001 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L01 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L02 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L03 - Science and Society in the Contemporary World"
+    ]
   },
   {
     "Course Section": "PHIL_V 260-L02 - Science and Society in the Contemporary World",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/7",
+    "Section Details": "BUCH-Floor 2-Room D209 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL260.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Brain",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 260-001 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L01 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L02 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L03 - Science and Society in the Contemporary World"
+    ]
   },
   {
     "Course Section": "PHIL_V 260-L03 - Science and Society in the Contemporary World",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/7",
+    "Section Details": "BUCH-Floor 2-Room D209 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL260.001.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Brain",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHIL_V 260-001 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L01 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L02 - Science and Society in the Contemporary World",
+      "PHIL_V 260-L03 - Science and Society in the Contemporary World"
+    ]
   },
   {
     "Course Section": "PHRM_V 211-001 - Medication Management II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 214/229",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Mon | 8:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Adam Frankel, Aileen Mira, Ali Reza Ladak, Arden Barry, Brian Rodrigues, Colleen Brady, Fong Chan, Jane Meng Xia, Janice Lynn Moshenko, Jonathan Grosshuesch, Karen Dahri, Katherine Seto, Michelle Fischer, Neelam Dhaliwal, Peter Loewen, Peter Zed, Roxane Carr, Tony Seet",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 231-001 - Study Design and Interpretation II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 215/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "James McCormack, Mohsen Sadatsafavi, Peter Loewen, Ricky Turgeon",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 241-001 - Seminar: Pharmacists in Practice II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 214/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Wed | 8:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Harparkash Ragsdale",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 252-001 - Clinical Skills: Administration of Injections",
     "Instructional Format": "Experiential",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 108/113",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1201 | Tue | 8:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Jonathan Grosshuesch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 261-001 - Indigenous Health and Cultural Safety",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 211/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Jason Min, Larry Leung",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 270-001 - Community Service Learning II",
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 109/108",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1201 | Tue | 2:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Gabriella Wong, Tristan Lai",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 200-102 - Relativity and Quanta",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 176/175",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 13/20",
+    "Section Details": "HENN-Floor 1-Room 200 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Student MUST register in a tutorial. Please choose between T1A and T1B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alison Lister",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 200-T1A - Relativity and Quanta",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 126/125",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/10",
+    "Section Details": "HENN-Floor 1-Room 200 | Wed | 8:30 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students must register in a tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 200-T1B - Relativity and Quanta",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/10",
+    "Section Details": "MCML-Floor 1-Room 160 | Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students must register in a tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 210-101 - Introduction to Computational Physics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/10",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon Wed | 12:30 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "PHYS 210 101 is connected to L1A Lab section. Please note: a Linux, Windows or Mac laptop is required for the course. Students must ensure they are in the appropriate section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Joss Ives",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHYS_V 210-101 - Introduction to Computational Physics",
+      "PHYS_V 210-L1A - Introduction to Computational Physics"
+    ]
   },
   {
     "Course Section": "PHYS_V 210-102 - Introduction to Computational Physics",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/10",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon Wed | 3:30 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "PHYS 210 102 is connected to L1B Lab section. Please note: a Linux, Windows or Mac laptop is required for the course. Students must ensure they are in the appropriate section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Joss Ives",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHYS_V 210-102 - Introduction to Computational Physics",
+      "PHYS_V 210-L1B - Introduction to Computational Physics"
+    ]
   },
   {
     "Course Section": "PHYS_V 210-L1A - Introduction to Computational Physics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/10",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon Wed | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "PHYS 210 101 is connected to L1A Lab section. Please note: a Linux, Windows or Mac laptop is required for the course. Students must ensure they are in the appropriate section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Joss Ives",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHYS_V 210-101 - Introduction to Computational Physics",
+      "PHYS_V 210-L1A - Introduction to Computational Physics"
+    ]
   },
   {
     "Course Section": "PHYS_V 210-L1B - Introduction to Computational Physics",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon Wed | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "PHYS 210 102 is connected to L1B Lab section. Please note: a Linux, Windows or Mac laptop is required for the course. Students must ensure they are in the appropriate section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Joss Ives",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "PHYS_V 210-102 - Introduction to Computational Physics",
+      "PHYS_V 210-L1B - Introduction to Computational Physics"
+    ]
   },
   {
     "Course Section": "PHYS_V 219-L1A - Intermediate Experimental Physics I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/38",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "HEBB-Floor 4-Room 418 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Andrzej Kotlicki, Sarah Burke",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 219-L1B - Intermediate Experimental Physics I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/38",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/10",
+    "Section Details": "HEBB-Floor 4-Room 418 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Andrzej Kotlicki, Sarah Burke",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 219-L1C - Intermediate Experimental Physics I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/38",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/10",
+    "Section Details": "HEBB-Floor 4-Room 418 | Fri | 2:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Sarah Burke",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 219-T1A - Intermediate Experimental Physics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 113/114",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 19/30",
+    "Section Details": "HENN-Floor 1-Room 201 | Tue | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Sarah Burke",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PLAN_V 231-001 - Methods of Community Engagement",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "MCML-Floor 1-Room 166 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Andrew Binet",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 105/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "HENN-Floor 1-Room 202 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Sally Sharif",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   },
   {
     "Course Section": "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "HENN-Floor 2-Room 302 | Mon | 3:30 p.m. - 4:30 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   },
   {
     "Course Section": "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/25",
+    "Section Details": "HENN-Floor 2-Room 302 | Wed | 3:30 p.m. - 4:30 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   },
   {
     "Course Section": "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/25",
+    "Section Details": "HENN-Floor 2-Room 301 | Tue | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   },
   {
     "Course Section": "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "Section Details": "HENN-Floor 2-Room 301 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   },
   {
     "Course Section": "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "Section Details": "BUCH-Floor 3-Room B306 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   },
   {
     "Course Section": "POLI_V 220-A_L1F - INTR COMP POLTCS (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/25",
+    "Section Details": "BUCH-Floor 3-Room D301 | Tue | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "POLI_V 220-A_001 - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1A - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1B - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1C - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1D - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1E - INTR COMP POLTCS (A)",
+      "POLI_V 220-A_L1F - INTR COMP POLTCS (A)"
+    ]
   }
 ]

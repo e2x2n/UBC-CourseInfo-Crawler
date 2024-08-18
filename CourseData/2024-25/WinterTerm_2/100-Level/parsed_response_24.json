@@ -4,385 +4,737 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "WESB-Floor 1-Room 100 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "In VISA 110-227, there are 24 seats reserved for students in the Bachelor of Media Studies (BMS) program, 39 seats for students in the Coordinated Arts Program (CAP), and 17 general seats for students in all other programs. You must also register in one of the secondary sections (labs) L21, L22, L23, or L24.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Christine D'Onofrio",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-M01 - READ&RSRCH STDYS",
+      "CAP_V 101-M02 - READ&RSRCH STDYS",
+      "CAP_V 101-M03 - READ&RSRCH STDYS",
+      "CAP_V 101-M04 - READ&RSRCH STDYS",
+      "JRNL_V 100-A_227 - New Media and Society (A)",
+      "VISA_V 110-227 - Foundation Studio: Digital Media",
+      "VISA_V 110-L21 - Foundation Studio: Digital Media",
+      "VISA_V 110-L22 - Foundation Studio: Digital Media",
+      "VISA_V 110-L23 - Foundation Studio: Digital Media",
+      "VISA_V 110-L24 - Foundation Studio: Digital Media",
+      "VISA_V 110-L25 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L12 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L13 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L14 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L15 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 4:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L16 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Thu | 10:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L17 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Thu | 12:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L18 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Thu | 10:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L19 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Thu | 12:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L21 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Mon | 4:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "This section corresponds to the primary lecture VISA 110 227.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-M01 - READ&RSRCH STDYS",
+      "CAP_V 101-M02 - READ&RSRCH STDYS",
+      "CAP_V 101-M03 - READ&RSRCH STDYS",
+      "CAP_V 101-M04 - READ&RSRCH STDYS",
+      "JRNL_V 100-A_227 - New Media and Society (A)",
+      "VISA_V 110-227 - Foundation Studio: Digital Media",
+      "VISA_V 110-L21 - Foundation Studio: Digital Media",
+      "VISA_V 110-L22 - Foundation Studio: Digital Media",
+      "VISA_V 110-L23 - Foundation Studio: Digital Media",
+      "VISA_V 110-L24 - Foundation Studio: Digital Media",
+      "VISA_V 110-L25 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L22 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "This section corresponds to the primary lecture VISA 110 227.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-M01 - READ&RSRCH STDYS",
+      "CAP_V 101-M02 - READ&RSRCH STDYS",
+      "CAP_V 101-M03 - READ&RSRCH STDYS",
+      "CAP_V 101-M04 - READ&RSRCH STDYS",
+      "JRNL_V 100-A_227 - New Media and Society (A)",
+      "VISA_V 110-227 - Foundation Studio: Digital Media",
+      "VISA_V 110-L21 - Foundation Studio: Digital Media",
+      "VISA_V 110-L22 - Foundation Studio: Digital Media",
+      "VISA_V 110-L23 - Foundation Studio: Digital Media",
+      "VISA_V 110-L24 - Foundation Studio: Digital Media",
+      "VISA_V 110-L25 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L23 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "This section corresponds to the primary lecture VISA 110 227.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-M01 - READ&RSRCH STDYS",
+      "CAP_V 101-M02 - READ&RSRCH STDYS",
+      "CAP_V 101-M03 - READ&RSRCH STDYS",
+      "CAP_V 101-M04 - READ&RSRCH STDYS",
+      "JRNL_V 100-A_227 - New Media and Society (A)",
+      "VISA_V 110-227 - Foundation Studio: Digital Media",
+      "VISA_V 110-L21 - Foundation Studio: Digital Media",
+      "VISA_V 110-L22 - Foundation Studio: Digital Media",
+      "VISA_V 110-L23 - Foundation Studio: Digital Media",
+      "VISA_V 110-L24 - Foundation Studio: Digital Media",
+      "VISA_V 110-L25 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 110-L24 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "This section corresponds to the primary lecture VISA 110 227.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-M01 - READ&RSRCH STDYS",
+      "CAP_V 101-M02 - READ&RSRCH STDYS",
+      "CAP_V 101-M03 - READ&RSRCH STDYS",
+      "CAP_V 101-M04 - READ&RSRCH STDYS",
+      "JRNL_V 100-A_227 - New Media and Society (A)",
+      "VISA_V 110-227 - Foundation Studio: Digital Media",
+      "VISA_V 110-L21 - Foundation Studio: Digital Media",
+      "VISA_V 110-L22 - Foundation Studio: Digital Media",
+      "VISA_V 110-L23 - Foundation Studio: Digital Media",
+      "VISA_V 110-L24 - Foundation Studio: Digital Media",
+      "VISA_V 110-L25 - Foundation Studio: Digital Media"
+    ]
   },
   {
     "Course Section": "VISA_V 180-002 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 112/110",
+    "Section Details": "Mon | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "VISA 180 002 lecture is delivered online. The studio (tutorial) sections are delivered in person. You must sign up for both the lecture and one of the studio sections. There is no waitlist for VISA 180. Please check regularly for seats, particularly at the start of term as students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Marina Roy",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 180-L08 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "DSOM-Floor 2-Room 200 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 180-L09 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 180-L10 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Mon | 5:00 p.m. - 8:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 180-L11 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 2-Room 200 | Tue | 5:00 p.m. - 8:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 180-L12 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 180-L13 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 2-Room 200 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 183-002 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 94/95",
+    "Section Details": "Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "VISA 183 002 lecture is delivered online. The studio (tutorial) sections are delivered in person. You must sign up for both the lecture and one of the studio sections. There is no waitlist for VISA 183. Please check regularly for seats, particularly at the start of term as students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Gareth James",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 183-L05 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "PCE-Floor 3-Room 3007 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "VISA 183 L05 is a tutorial section associated with the main lecture section VISA 183 002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 183-L06 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "VISA 183 L06 is a tutorial section associated with the main lecture section VISA 183 002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 183-L07 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Tue | 5:00 p.m. - 8:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "VISA 183 L07 is a tutorial section associated with the main lecture section VISA 183 002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 183-L08 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/20",
+    "Section Details": "PCE-Floor 3-Room 3007 | Wed | 9:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "VISA 183 L08 is a tutorial section associated with the main lecture section VISA 183 002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 183-L09 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/20",
+    "Section Details": "PCE-Floor 3-Room 3007 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "VISA 183 L09 is a tutorial section associated with the main lecture section VISA 183 002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_301 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B318 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full) please fill out the form here: https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/ to add yourself to a wait list.\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alexis McGee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_302 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B302 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kirby Mania",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_303 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B306 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alexis McGee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_304 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B302 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. \nVisit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_305 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B303 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_306 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room B218 | Mon Wed | 4:00 p.m. - 5:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Meredith Beales",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_310 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room D301 | Mon Wed Fri | 8:00 a.m. - 9:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Susan Blake",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_311 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room D301 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Susan Blake",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_312 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D213 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Diane Burgess",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_321 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B307 | Mon Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kimberly Richards",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_327 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/0",
+    "Section Details": "BUCH-Floor 3-Room B308 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Some seats in this section are reserved for BIE students\n\nFor WRDS 150A course topics go to this JWAM web page: \nWRDS 150A Topics - Term 2 - School of Journalism, Writing, and Media (ubc.ca)\nIf this section is closed (full) you can register for a waiting list at this web address:\nhttps://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\nStudents in other Faculties - Please scroll down or enter WRDS 150-B in the search bar to register in WRDS 150B sections.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jonathan Otto",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_331 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B308 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kimberly Richards",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_332 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/31",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 2-Room D213 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Diane Burgess",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_337 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/0",
+    "Section Details": "BUCH-Floor 3-Room D314 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Seats in this section are initially available only to students in the BIE Program. A limited number of general seats may become available at a later date. Please register on the waiting list (link below) if you are not in the BIE Program and would like to be registered in this section.\n\nVisit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jonathan Otto",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_341 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D205 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Diane Burgess",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_343 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D221 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jennifer Cowe",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_351 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 2-Room D229 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Andrew Connolly",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_352 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D213 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kimberly Richards",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_361 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B310 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jennifer Cowe",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_367 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/0",
+    "Section Details": "BUCH-Floor 3-Room B306 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Seats in this section are initially available only to students in the BIE Program. A limited number of general seats may become available at a later date. Please register on the waiting list (link below) if you are not in the BIE Program and would like to be registered in this section.\n\nVisit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jonathan Otto",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_371 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D213 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jennifer Cowe",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_377 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/0",
+    "Section Details": "BUCH-Floor 2-Room B218 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Seats in this section are initially available only to students in the BIE Program. A limited number of general seats may become available at a later date. Please register on the waiting list (link below) if you are not in the BIE Program and would like to be registered in this section.\n\nVisit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jonathan Otto",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_381 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 2-Room B209 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full) and there are no seats remaining on the wait list for this section please fill out this form: https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Andrew Connolly",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "WRDS_V 150-A_411 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B308 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "WRDS 150A is for students in the Faculty of Arts. Visit https://jwam.ubc.ca/undergraduate/writing-studies-programs/arts-students/wrds-150a-topics-term-2/  for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list here: WRDS 150A Waitlist Winter Terms 1 & 2 - School of Journalism, Writing, and Media (ubc.ca).\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kathleen Fitzpatrick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

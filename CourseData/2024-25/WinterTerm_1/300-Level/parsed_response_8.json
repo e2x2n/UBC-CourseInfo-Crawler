@@ -4,389 +4,678 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jose Pizarro Zuniga",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COEC_V 371-001 - Investment Theory",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Jose Pizarro Zuniga",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COEC_V 371-002 - Investment Theory",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Jose Pizarro Zuniga",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COEC_V 387-001 - Entrepreneurial Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Jan Bena, Yuan Shi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COGS_V 300-101 - Understanding and Designing Cognitive Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "ORCH-Floor 4-Room 4074 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Paul Bucci",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COGS_V 300-L01 - Understanding and Designing Cognitive Systems",
     "Instructional Format": "Laboratory",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor B2-Room B151 | Mon | 3:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COGS_V 300-L02 - Understanding and Designing Cognitive Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor B2-Room B151 | Wed | 1:00 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COGS_V 300-L03 - Understanding and Designing Cognitive Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor B2-Room B151 | Fri | 10:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COGS_V 303-101 - Research Methods in Cognitive Systems",
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 18/30",
+    "Section Details": "SWNG-Floor 2-Room 205 | Fri | 1:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Gary Neels",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COGS_V 303-102 - Research Methods in Cognitive Systems",
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/30",
+    "Section Details": "MCML-Floor 1-Room 158 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Cristina Conati",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COHR_V 303-101 - Strategic Staffing",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/42",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/20",
+    "Section Details": "ANGU-Floor 3 & 4-Room 354 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tracey Gurton",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 307-101 - Real Estate Investment",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/31",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/30",
+    "Section Details": "ANGU-Floor 2-Room 235 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tsur Somerville",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 307-102 - Real Estate Investment",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 16/30",
+    "Section Details": "ANGU-Floor 2-Room 235 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tsur Somerville",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 307-103 - Real Estate Investment",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/34",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 21/30",
+    "Section Details": "ANGU-Floor 2-Room 235 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tsur Somerville",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 312-101 - Business Ethics Leadership",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/16",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 16/20",
+    "Section Details": "ANGU-Floor 3 & 4-Room 339 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "David Silver",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 314-101 - Strategies for Responsible Business",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/48",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/40",
+    "Section Details": "DLAM-Floor B1-Room 009 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Justin Bull",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 320-DD1 - Foundations in Accounting I",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1.5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/30",
+    "Section Details": "ANGU-Floor 3 & 4-Room 337 | Tue | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This class is reserved for students Master of Management Dual Degree Program in Vancouver (B+MM).",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Scott Sinclair",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 320-DD4 - Foundations in Accounting I",
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1.5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/30",
+    "Section Details": "ANGU-Floor 2-Room 254 | Tue | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This class is reserved for students Master of Management Dual Degree Program in Vancouver (B+MM).",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Scott Sinclair",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 321-DD1 - Organizational Behaviour",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1.5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/30",
+    "Section Details": "ANGU-Floor 2-Room 254 | Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This class is reserved for students Master of Management Dual Degree Program in Vancouver (B+MM).",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tracey Gurton",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 323-101 - Leading Diversity, Equity and Inclusion in Organizations",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/20",
+    "Section Details": "DLAM-Floor B1-Room 005 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Rebecca Paluch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 335-101 - Information Systems Technology and Development",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 109/110",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 50/50",
+    "Section Details": "ANGU-Floor 4 & 5-Room 492 | Thu | 3:30 p.m. - 6:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alym Amlani, Sabrina Rai, Zorana Svedic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 335-102 - Information Systems Technology and Development",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 108/107",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 19/50",
+    "Section Details": "ANGU-Floor 4 & 5-Room 492 | Fri | 12:30 p.m. - 3:30 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alym Amlani, Sabrina Rai, Zorana Svedic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 337-101 - Business Programming and Analytics",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/20",
+    "Section Details": "DLAM-Floor B1-Room 009 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Nader Beyzaei",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 338-101 - Management of Cybersecurity",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 12/20",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 5:00 p.m. - 6:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher. COMM 338 was formerly numbered and titled COMM 486Y Cybersecurity. If you've completed the course as COMM 486Y, you are not permitted to take it again as COMM 338 (you cannot receive credit for the same course twice).",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Liam Adams",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 353-101 - Financial Accounting: Intermediate I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/41",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 21/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 354 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Sabrina Rai",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 353-102 - Financial Accounting: Intermediate I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/42",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 26/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 354 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Sabrina Rai",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 354-101 - Cost Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/41",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 354 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jeff Kroeker",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 354-102 - Cost Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/41",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 26/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 354 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jeff Kroeker",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 354-103 - Cost Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/40",
+    "Section Details": "ANGU-Floor B1-Room 037 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jeff Kroeker",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 355-101 - Income Taxation",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/43",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 13/20",
+    "Section Details": "ANGU-Floor B1-Room 037 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Richard Wong",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 355-102 - Income Taxation",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/43",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/20",
+    "Section Details": "ANGU-Floor B1-Room 037 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Richard Wong",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 362-101 - Consumer Behaviour",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/37",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "ANGU-Floor 2-Room 291 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 362-102 - Consumer Behaviour",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 19/20",
+    "Section Details": "ANGU-Floor 2-Room 291 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Yann Cornil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 362-103 - Consumer Behaviour",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/37",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 19/20",
+    "Section Details": "ANGU-Floor 2-Room 291 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Yann Cornil",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 363-101 - Marketing Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/37",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 19/20",
+    "Section Details": "ANGU-Floor B1-Room 037 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Timothy Silk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 363-102 - Marketing Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/38",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "ANGU-Floor B1-Room 037 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Timothy Silk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 363-103 - Marketing Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/41",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 18/20",
+    "Section Details": "ANGU-Floor B1-Room 037 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Timothy Silk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 365-101 - Market Research",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "ANGU-Floor 4 & 5-Room 435 | Mon Wed | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Wenjia Ba",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 365-102 - Market Research",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "ANGU-Floor 4 & 5-Room 435 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Wenjia Ba",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 365-103 - Market Research",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "ANGU-Floor 4 & 5-Room 435 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Wenjia Ba",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-101 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 30/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Isha Agarwal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-102 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Isha Agarwal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-103 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 19/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Isha Agarwal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-104 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 27/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Darren Degraaf",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-105 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Darren Degraaf",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-106 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 27/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Darren Degraaf",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-107 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 28/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ruth Freedman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 370-108 - Corporate Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/30",
+    "Section Details": "ANGU-Floor 4 & 5-Room 434 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ruth Freedman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 371-101 - Investment Theory",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "ANGU-Floor B1-Room 039 | Mon Wed | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 of the Finance option in the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Elena Pikulina",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 371-102 - Investment Theory",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 12/20",
+    "Section Details": "ANGU-Floor B1-Room 039 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 of the Finance option in the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Elena Pikulina",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

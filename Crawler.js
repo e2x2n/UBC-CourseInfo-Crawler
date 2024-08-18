@@ -31,13 +31,19 @@ function extractCourseInfo(jsonResponse) {
         return [];
     }
 
-    return listItems.map((course, index) => {
+    return listItems.map(course => {
         let courseInfo = {};
 
         if (course.title && course.title.instances && course.title.instances[0]) {
             courseInfo['Course Section'] = course.title.instances[0].text;
+        } else if (course.title.selfUriTemplate) {
+            courseInfo['Self Uri Template'] = course.title.selfUriTemplate;
+            const template = course.title.selfUriTemplate;
+            const base = "https://wd10.myworkday.com";
+            const fullUrl = '${base}/d${template}';
+            courseInfo['Course Url'] = fullUrl;
         } else {
-            courseInfo['Course Section'] = "Unknown Course Name";
+            console.warn("Unable to find course title in the provided JSON structure.");
         }
 
         if (course.subtitles) {
@@ -46,16 +52,75 @@ function extractCourseInfo(jsonResponse) {
                     const label = subtitle.label;
                     const value = subtitle.instances[0].text;
                     courseInfo[label] = value;
+                } else if (subtitle.label && subtitle.value) {
+                    const label = subtitle.label;
+                    const value = subtitle.value;
+                    courseInfo[label] = value;
+                } else {
+                    console.warn("Unable to find subtitles in the provided JSON structure.");
                 }
             });
         }
 
+        // if (course.detailResultFields) {
+        //     course.detailResultFields.forEach(field => {
+        //         if (field.instances && field.instances[0]) {
+        //             const label = field.label;
+        //             const value = field.instances[0].text;
+        //             courseInfo[label] = value;
+        //         } else if (field.value) {
+        //             const label = field.label;
+        //             const value = field.value;
+        //             courseInfo[label] = value;
+        //         } else {
+        //             console.warn("Unable to find detailResultFields in the provided JSON structure.");
+        //         }
+        //     });
+        // }
         if (course.detailResultFields) {
             course.detailResultFields.forEach(field => {
-                if (field.value) {
-                    courseInfo[field.label] = field.value;
+                const label = field.label;
+                
+                switch (label) {
+                    case "Section Details":
+                        if (field.instances && field.instances[0]) {
+                            courseInfo['Section Details'] = field.instances[0].text;
+                        }
+                        break;
+                    
+                    case "Course Section Definition Public Notes":
+                        if (field.value) {
+                            courseInfo['Course Section Definition Public Notes'] = field.value;
+                        }
+                        break;
+        
+                    case "Instructors":
+                        if (field.instances && field.instances[0]) {
+                            courseInfo['Instructors'] = field.instances.map(instance => instance.text).join(', ');
+                        }
+                        break;
+        
+                    case "Drop and Withdrawal Deadlines":
+                        if (field.value) {
+                            courseInfo['Drop and Withdrawal Deadlines'] = field.value.replace('&#xa;', '\n');
+                        }
+                        break;
+        
+                    case "Clustered Course Sections":
+                        if (field.instances) {
+                            courseInfo['Clustered Course Sections'] = field.instances.map(instance => instance.text);
+                        }
+                        break;
+
+                    case "Building External URL":
+                        break;
+        
+                    default:
+                        console.warn(`Unhandled label: ${label}`);
                 }
             });
+        } else {
+            console.warn("Unable to find detailResultFields in the provided JSON structure.");
         }
 
         return courseInfo;
@@ -76,8 +141,8 @@ function extractCourseInfo(jsonResponse) {
 
             // Login to Workday if necessary (usually in the first run)
             if (await page.$('#username') !== null && await page.$('#password') !== null) {
-                await page.type('#username', 'YOUR_USERNAME'); // Change to your UBC CWL username
-                await page.type('#password', 'YOUR_PASSWORD'); // Change to your UBC CWL password
+                await page.type('#username', 'fmeng04'); // Change to your UBC CWL username
+                await page.type('#password', 'fmeng04Mf!!'); // Change to your UBC CWL password
                 await page.click('button[type="submit"]');
                 await page.waitForNavigation();
             } else {

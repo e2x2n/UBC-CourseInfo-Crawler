@@ -4,373 +4,710 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/50",
+    "Section Details": "ALRD-Floor 1-Room 123 | Tue Thu | 9:30 a.m. - 10:30 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Moira Aikenhead",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LAW_V 241-003 - Torts",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/50",
+    "Section Details": "ALRD-Floor 1-Room 121 | Tue Thu | 9:30 a.m. - 10:30 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Irehobhude Iyioha",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LAW_V 241-004 - Torts",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "Section Details": "ALRD-Floor 1-Room 122 | Tue Thu | 9:30 a.m. - 10:30 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Efrat Arbel, Joost Blom",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LAW_V 281-001 - Legal Research and Writing",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "Section Details": "ALRD-Floor 1-Room 106 | Tue | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "George Tsiakos",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LAW_V 281-002 - Legal Research and Writing",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/50",
+    "Section Details": "ALRD-Floor 1-Room 106 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "James Bachmann",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LAW_V 281-003 - Legal Research and Writing",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/50",
+    "Section Details": "ALRD-Floor 1-Room 104 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Moira Aikenhead",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LAW_V 281-004 - Legal Research and Writing",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/50",
+    "Section Details": "ALRD-Floor 1-Room 104 | Tue | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Moira Aikenhead",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 250-001 - LND FOOD COMM I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 185/210",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 24/100",
+    "Section Details": "Tue | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students must register in a lecture, one (1) tutorial section (T01 orT02) and one (1) lab section (L01) for complete registration in LFS 250.  Lectures will be offered synchronously, so students are expected to participate at the posted time.  In-person attendance is not required.\n\nIf you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Matthew Mitchell, William Valley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 250-002 - LND FOOD COMM I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 120/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 43/60",
+    "Section Details": "Tue | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students must register in a lecture, one (1) tutorial section (T01 or T02) and one (1) lab section (L01) for complete registration in LFS 250.  Lectures will be offered synchronously, so students are expected to participate at the posted time.  In-person attendance is not required.\n\nIf you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Delisa Lewis",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 250-003 - LND FOOD COMM I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 65/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/60",
+    "Section Details": "Tue | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students must register in a lecture, one (1) tutorial section (T01 or T02) and one (1) lab section (L01) for complete registration in LFS 250. Lectures will be offered synchronously, so students are expected to participate at the posted time. In-person attendance is not required.\n\nIf you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Amber Heckelman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 250-D01 - LND FOOD COMM I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 130/210",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 1-Room 107 | Tue | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "In addition to registering in your primary section (001, 002 or 003), you must also register in a tutorial. Please add one of D01, D02 or D03.  You are registering for an IN PERSON tutorial.\n\nLocations:\nSWNG 107\nSWNG 208\nSWNG 210\nSWNG 307\nSWNG 309\nSWNG 407\nSWNG 409",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Matthew Mitchell, William Valley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 250-D02 - LND FOOD COMM I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 120/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "In addition to registering in your primary section (001, 002 or 003), you must also register in a tutorial.  Please add one of D01, D02 or D03.  You are registering for an ONLINE tutorial.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Delisa Lewis",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 250-D03 - LND FOOD COMM I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 120/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "In addition to registering in your primary section (001, 002 or 003), you must also register in a tutorial. Please add one of D01, D02 or D03.  You are registering for an ONLINE tutorial.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Amber Heckelman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 250-LX1 - LND FOOD COMM I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 370/450",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "Students must register for all of LECTURE, LAB and DISCUSSION to complete registration for the course. This lab section is a placeholder: there is no meeting time and no room assigned.  ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LING_V 200-001 - Linguistic Theory and Analysis I",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "Section Details": "MCML-Floor 3-Room 360 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Select lecture and one discussion section",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Gunnar Hansson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 200-L01 - Linguistic Theory and Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ORCH-Floor 4-Room 4058 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 200-L02 - Linguistic Theory and Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ORCH-Floor 4-Room 4058 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 200-L03 - Linguistic Theory and Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ORCH-Floor 4-Room 4016 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 200-L04 - Linguistic Theory and Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "MCML-Floor 1-Room 160 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 200-L05 - Linguistic Theory and Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ORCH-Floor 4-Room 4016 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 200-L06 - Linguistic Theory and Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ORCH-Floor 4-Room 4058 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 200-001 - Linguistic Theory and Analysis I",
+      "LING_V 200-L01 - Linguistic Theory and Analysis I",
+      "LING_V 200-L02 - Linguistic Theory and Analysis I",
+      "LING_V 200-L03 - Linguistic Theory and Analysis I",
+      "LING_V 200-L04 - Linguistic Theory and Analysis I",
+      "LING_V 200-L05 - Linguistic Theory and Analysis I",
+      "LING_V 200-L06 - Linguistic Theory and Analysis I"
+    ]
   },
   {
     "Course Section": "LING_V 222-001 - Language Acquisition",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 100/100",
+    "Section Details": "DMP-Floor 1-Room 110 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Select lecture and one discussion section",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 222-001 - Language Acquisition",
+      "LING_V 222-TT1 - Language Acquisition",
+      "LING_V 222-TT2 - Language Acquisition",
+      "LING_V 222-TT3 - Language Acquisition",
+      "LING_V 222-TT4 - Language Acquisition"
+    ]
   },
   {
     "Course Section": "LING_V 222-TT1 - Language Acquisition",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "FORW-Floor 5-Room 519 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 222-001 - Language Acquisition",
+      "LING_V 222-TT1 - Language Acquisition",
+      "LING_V 222-TT2 - Language Acquisition",
+      "LING_V 222-TT3 - Language Acquisition",
+      "LING_V 222-TT4 - Language Acquisition"
+    ]
   },
   {
     "Course Section": "LING_V 222-TT2 - Language Acquisition",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "FORW-Floor 3-Room 317 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 222-001 - Language Acquisition",
+      "LING_V 222-TT1 - Language Acquisition",
+      "LING_V 222-TT2 - Language Acquisition",
+      "LING_V 222-TT3 - Language Acquisition",
+      "LING_V 222-TT4 - Language Acquisition"
+    ]
   },
   {
     "Course Section": "LING_V 222-TT3 - Language Acquisition",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "FORW-Floor 5-Room 519 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 222-001 - Language Acquisition",
+      "LING_V 222-TT1 - Language Acquisition",
+      "LING_V 222-TT2 - Language Acquisition",
+      "LING_V 222-TT3 - Language Acquisition",
+      "LING_V 222-TT4 - Language Acquisition"
+    ]
   },
   {
     "Course Section": "LING_V 222-TT4 - Language Acquisition",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "FSC-Floor 1-Room 1002 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 222-001 - Language Acquisition",
+      "LING_V 222-TT1 - Language Acquisition",
+      "LING_V 222-TT2 - Language Acquisition",
+      "LING_V 222-TT3 - Language Acquisition",
+      "LING_V 222-TT4 - Language Acquisition"
+    ]
   },
   {
     "Course Section": "LLED_V 200-001 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "RITS-Floor 2-Room 230 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Sociolinguistic knowledge and skills that are central to the production of academic and professional texts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Nasrin Kowkabi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-002 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "RITS-Floor 2-Room 235 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Sociolinguistic knowledge and skills that are central to the production of academic and professional texts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Anastasia Zhuravleva",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-003 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "RITS-Floor 2-Room 236 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Sociolinguistic knowledge and skills that are central to the production of academic and professional texts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Zhen Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-004 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "RITS-Floor 2-Room 230 | Tue Thu | 11:30 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Sociolinguistic knowledge and skills that are central to the production of academic and professional texts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alex Ross",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-005 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "RITS-Floor 2-Room 235 | Tue Thu | 11:30 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Sociolinguistic knowledge and skills that are central to the production of academic and professional texts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Nasrin Kowkabi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-V89 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3062 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Brett Todd",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-V90 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3004 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Weaver Shaw",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-V91 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3062 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Brett Todd",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-V92 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3004 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Weaver Shaw",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-V93 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4062 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-V94 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4062 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-VE1 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3072 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jennifer Walsh Marr",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-VE2 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/19",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3072 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Daniel Riccardi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-VE3 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/18",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3072 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Daniel Riccardi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 200-VE4 - INTRO ACAD WRIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4004 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LLED_V 212-001 - LANG COMMUNITES",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 205 | Wed | 9:30 a.m. - 12:30 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LLED_V 212-001 - LANG COMMUNITES",
+      "LLED_V 212-L01 - LANG COMMUNITES"
+    ]
   },
   {
     "Course Section": "LLED_V 212-L01 - LANG COMMUNITES",
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 208 | Fri | 9:30 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LLED_V 212-001 - LANG COMMUNITES",
+      "LLED_V 212-L01 - LANG COMMUNITES"
+    ]
   },
   {
     "Course Section": "LLED_V 220-001 - Introduction to Translating in a Globalized Society",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MATH-Floor 1-Room 105 | Wed | 9:30 a.m. - 12:30 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Yuya Takeda",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LLED_V 220-001 - Introduction to Translating in a Globalized Society",
+      "LLED_V 220-L01 - Introduction to Translating in a Globalized Society"
+    ]
   },
   {
     "Course Section": "LLED_V 220-L01 - Introduction to Translating in a Globalized Society",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MATH-Floor 1-Room 105 | Fri | 9:30 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Yuya Takeda",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LLED_V 220-001 - Introduction to Translating in a Globalized Society",
+      "LLED_V 220-L01 - Introduction to Translating in a Globalized Society"
+    ]
   },
   {
     "Course Section": "LLED_V 223-001 - Introduction to the Nature of World Englishes",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 205 | Mon | 9:30 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Ismaeil Fazel",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LLED_V 223-001 - Introduction to the Nature of World Englishes",
+      "LLED_V 223-L01 - Introduction to the Nature of World Englishes"
+    ]
   },
   {
     "Course Section": "LLED_V 223-L01 - Introduction to the Nature of World Englishes",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 208 | Fri | 11:30 a.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LLED_V 223-001 - Introduction to the Nature of World Englishes",
+      "LLED_V 223-L01 - Introduction to the Nature of World Englishes"
+    ]
   },
   {
     "Course Section": "MANU_V 201-101 - Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCML-Floor 1-Room 158 | Tue Thu | 9:00 a.m. - 10:30 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Matthew Wong",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MANU_V 230-001 - Manufacturing Engineering Laboratory",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/51",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 207 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Casey Keulen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MANU_V 230-L0A - Manufacturing Engineering Laboratory",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/26",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FORW-Floor 2-Room 219 | Thu | 10:30 a.m. - 12:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Casey Keulen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   }
 ]

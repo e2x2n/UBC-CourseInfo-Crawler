@@ -4,7 +4,10 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/42",
     "Course Section Definition Public Notes": "See instructor for lab times. Labs will take place in KAIS 1230.",
+    "Instructors": "Kefei Wen",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -12,6 +15,10 @@
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/42",
+    "Section Details": "CEME-Floor 1-Room 1215 | Mon | 4:30 p.m. - 6:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Kefei Wen",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -19,6 +26,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/20",
+    "Section Details": "FNH-Floor B1-Room 60 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Ryozo Nagamune",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -26,6 +39,10 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SCRF-Floor B1-Room 1004 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Tuesday 1-2pm is a tutorial.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -34,6 +51,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "Mon Thu | 11:30 a.m. - 1:00 p.m. | 2025-01-06 - 2025-02-13",
+    "Instructors": "Barbara Dalpke",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -41,6 +64,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "ORCH-Floor 3-Room 3052 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Nima Atabaki",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -48,6 +76,10 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "Section Details": "DMP-Floor 1-Room 101 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Nima Atabaki",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -55,6 +87,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "WESB-Floor 2-Room 201 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Patrick Kirchen",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -62,6 +99,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "FORW-Floor 5-Room 519 | Mon | 1:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Dominic Liao-McPherson",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -69,6 +112,10 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/30",
+    "Section Details": "SWNG-Floor 4-Room 408 | Tue | 11:00 a.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Dominic Liao-McPherson",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -76,6 +123,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/20",
+    "Section Details": "SWNG-Floor 2-Room 207 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Steven Rogak",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -83,6 +136,10 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "FNH-Floor B1-Room 50 | Fri | 10:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Steven Rogak",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -90,6 +147,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 98/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CEME-Floor 1-Room 1202 | Mon | 5:00 p.m. - 8:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Ahmad Mohammadpanah Foroutaghe",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -97,6 +160,9 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 327/330",
+    "Section Details": "Mon Tue Wed Thu Fri | 8:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-04-25",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -104,6 +170,9 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 296/330",
+    "Section Details": "Mon Tue Wed Thu Fri | 8:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-04-18",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -111,6 +180,8 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "0 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 281/306",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -118,7 +189,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "FNH-Floor B1-Room 50 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "MEDG 421 is fully-registered. Workday will give you an option to add yourself to the waitlist and the system will automatically register a waitlisted student if a seat becomes available.\n\nOPTIONAL textbook: \"The Biology of Cancer\" by Robert A. Weinberg (2nd Edition)\nNote: A background in cell biology is assumed - a grade of B or higher in BIOL 335 is strongly recommended. The course requires extensive independent reading of scientific journal articles. If you'd like to be added to the MEDG 421 waitlist, please contact the course coordinators, Dr. Evgin at Laura.evgin@ubc.ca and Dr. Stirling at pstirling@bccrc.ca.",
+    "Instructors": "Chinten James Lim",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -126,6 +202,8 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -133,7 +211,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/35",
+    "Section Details": "IBLC-Floor 1-Room 191 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations.  Students should register into the wait-list at the present time.  Student that are on the wait-lists for MICB 404, 406, 412 and 413 will be asked to rank their preferences for registration - please send an email to Dr. Kion after you have registered.  Depending on the demand for these courses, students may be registered in only one course (this will happen in mid-July).  If seats remain open, students may be registered into a second course.  Students should consult Workday Student on a regular basis in late July to see if they have been moved into the course. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "Andrew Santos",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -141,6 +224,8 @@
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/0",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -148,7 +233,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 31/35",
+    "Section Details": "SWNG-Floor 4-Room 406 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Priority for students in Microbiology & Immunology specializations.  The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations.  Students should register into the wait-list at the present time.  Student that are on the wait-lists for MICB 404, 406, 412 and 413 will be asked to rank their preferences for registration - please send an email to Dr. Kion after you have registered.  Depending on the demand for these courses, students may be registered in only one course (this will happen in mid-July).  If seats remain open, students may be registered into a second course.  Students should consult Workday Student on a regular basis in late July to see if they have been moved into the course. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "Francois Jean",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -156,6 +246,8 @@
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/0",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -163,7 +255,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/48",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "BUCH-Floor 2-Room D218 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "Elitza Tocheva",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -171,7 +268,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 13/35",
+    "Section Details": "CEME-Floor 1-Room 1206 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Priority for students in Microbiology & Immunology specializations.  The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations.  Students should register into the wait-list at the present time.  Student that are on the wait-lists for MICB 404, 406, 412 and 413 will be asked to rank their preferences for registration - please send an email to Dr. Kion after you have registered.  Depending on the demand for these courses, students may be registered in only one course (this will happen in mid-July).  If seats remain open, students may be registered into a second course.  Students should consult Workday Student on a regular basis in late July to see if they have been moved into the course. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "Kenneth Harder",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -179,6 +281,8 @@
     "Instructional Format": "Seminar",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/0",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -186,7 +290,12 @@
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 27/60",
+    "Section Details": "BIOL-Floor 1-Room 1001 | Wed | 1:30 p.m. - 5:30 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Priority for students in Microbiology & Immunology specializations.  The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations.  Students should register into the wait-list at the present time.  Student that are on the wait-lists for MICB 404, 406, 412 and 413 will be asked to rank their preferences for registration - please send an email to Dr. Kion after you have registered.  Depending on the demand for these courses, students may be registered in only one course (this will happen in mid-July).  If seats remain open, students may be registered into a second course.  Students should consult Workday Student on a regular basis in late July to see if they have been moved into the course. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "B Brett Finlay",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -194,6 +303,9 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/60",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -201,7 +313,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 73/65",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "GEOG-Floor 2-Room 200 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "David Oliver",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -209,6 +326,9 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/40",
+    "Section Details": "FNH-Floor B1-Room 50 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -216,6 +336,9 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -223,7 +346,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/10",
+    "Section Details": "FNH-Floor B1-Room 60 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "Donald Wong",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -231,6 +359,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/35",
+    "Section Details": "Wed Fri | 12:00 p.m. - 1:30 p.m. | 2025-01-08 - 2025-02-14",
+    "Instructors": "Selena Sagan",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -238,6 +371,10 @@
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/35",
+    "Instructors": "Selena Sagan",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -245,7 +382,10 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/8",
     "Course Section Definition Public Notes": "Students will need to have a faculty mentor from the Department of Microbiology & Immunology before registration into MICB 448B.  See the following URL for faculty that may have seats open in their laboratories.  https://www.microbiology.ubc.ca/faculty-staff/faculty. After you have a faculty mentor agree to have you work in their lab, contact Dr. Kion at tkion@mail.ubc.ca for registration into the course.  Include your student number and the name of your faculty mentor.",
+    "Instructors": "Tracy Kion",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -253,6 +393,8 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -260,6 +402,9 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/15",
+    "Section Details": "IRC-Floor 1-Room G66 | Mon Wed | 5:00 p.m. - 6:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Applications in Synthetic Biology -  Self-directed, collaborative studies in a group-learning environment. Self-initiated and coordinated by upper-level undergraduate students with the supervision of a faculty advisor. Not suitable as an MICB course selection to meet MBIM, MBIM/CSPC or MICB/OCEA specialization requirements.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -268,7 +413,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/72",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/15",
+    "Section Details": "SPPH-Floor B1-Room B151 | Mon | 3:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "This course replaces MICB 421 and MICB 447 effective 2022W.  MICB  471 is credit-excluded with MICB 421 and MICB 447.  Registration questions should be directed to Dr. Oliver, dcoliver@mail.ubc.ca.",
+    "Instructors": "David Oliver",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -276,6 +426,10 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/42",
+    "Section Details": "BIOL-Floor 1-Room 1012 | Tue | 1:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "David Oliver",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -283,6 +437,10 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/42",
+    "Section Details": "BIOL-Floor 1-Room 1012 | Thu | 1:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "David Oliver",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -290,6 +448,9 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/8",
+    "Instructors": "David Oliver",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -297,7 +458,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 77/77",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/15",
+    "Section Details": "BIOL-Floor 2-Room 2200 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This course replaces MICB 401 effective 2022W.  MICB  475 is credit-excluded with MICB 401.  Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca. In addition to lectures students will be required to attend a weekly 45 minute meeting (scheduled during the first two weeks of classes).",
+    "Instructors": "Evelyn Sun",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -305,6 +471,8 @@
     "Instructional Format": "Experiential",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/30",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -312,7 +480,12 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Thu | 9:00 a.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
+    "Instructors": "Lindsay Brimblecombe",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -320,7 +493,12 @@
     "Instructional Format": "Experiential",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "13 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon Tue Wed Fri | 9:00 a.m. - 6:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
+    "Instructors": "Lindsay Brimblecombe",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -328,6 +506,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCML-Floor 1-Room 158 | Tue | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Tonia Welch",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -335,6 +518,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LIFE-Floor 2-Room 2212 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "John Thomas Steen",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -342,6 +530,10 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/20",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Thu | 5:00 p.m. - 8:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Carlos da Costa",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -349,7 +541,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/30",
+    "Section Details": "MCML-Floor 2-Room 260 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Students must register for both Lecture and Lab in order to complete registration for the course. The lab section is a placeholder; you will only need to attend the course.",
+    "Instructors": "Ilija Miskovic",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -357,6 +553,8 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/30",
     "Course Section Definition Public Notes": "Please note that you will be required to register for this lab accompanying the course, despite the fact there is no lab offered at this time. Please register for the course and lab; you will just need to attend the course.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -365,6 +563,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FORW-Floor 2-Room 208 | Mon | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Bern Klein",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   }
 ]

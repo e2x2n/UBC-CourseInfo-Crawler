@@ -4,357 +4,777 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/26",
+    "Section Details": "ICCS-Floor B1-Room 011 | Tue | 11:00 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-L1X - Models of Computation",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/26",
+    "Section Details": "ICCS-Floor B1-Room 011 | Mon | 9:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-L1Y - Models of Computation",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/26",
+    "Section Details": "ICCS-Floor B1-Room 011 | Thu | 1:00 p.m. - 3:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-L1Z - Models of Computation",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/26",
+    "Section Details": "ICCS-Floor B1-Room 011 | Thu | 11:00 a.m. - 1:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1A - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/48",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Mon | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1B - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/48",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Thu | 4:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1C - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/48",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCML-Floor 1-Room 158 | Mon | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1D - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCML-Floor 1-Room 158 | Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1E - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "Section Details": "SWNG-Floor 3-Room 307 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1F - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1G - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/48",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1H - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/48",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Thu | 2:00 p.m. - 3:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1I - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/48",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1J - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/48",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Tue | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1K - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/48",
+    "Section Details": "MCML-Floor 1-Room 158 | Wed | 6:00 p.m. - 7:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1L - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1M - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/48",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 121-T1P - Models of Computation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/48",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DANI_V 100-101 - Elementary Danish I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/35",
+    "Section Details": "BUCH-Floor 3-Room D316 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Introduction to Danish language and culture at a beginner’s level. Get to know Danish in a low-stress environment where you develop your language skills step by step. No traditional, high-stakes tests or exams. Focus is on spoken language, practical use and conversation through dialog practices, short presentations and in-class exercises. Cultural topics include: Areas in Denmark, Hygge, the Danes’ odd relationship with their flag, the Danish monarchy and Christmas in Denmark .\n\nBook: Puls 1, Chapters 1-3\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? \nClick here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ann-Kathrine Havemose",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 101-101 - Introductory Workshop",
     "Instructional Format": "Experiential",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Instructors": "Joseph Dahmen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DES_V 110-101 - Measured Architectural Drawing",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 13/60",
+    "Section Details": "GEOG-Floor 1-Room 147 | Wed | 2:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DHYG_V 110-001 - Dental Hygiene Theory and Practice I",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Wed | 2:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Leeann Donnelly, Zul Kanji",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "DSCI_V 100-003 - Introduction to Data Science",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 180/180",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 96/150",
+    "Section Details": "HENN-Floor 1-Room 201 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This is an R section. For course enquiries please contact courses@stat.ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Trevor Campbell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DSCI_V 100-004 - Introduction to Data Science",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/200",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 80/150",
+    "Section Details": "MATH-Floor 1-Room 100 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This is an R section. For course enquiries please contact courses@stat.ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Hoi Yin Eugenia Yu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DSCI_V 100-008 - Introduction to Data Science",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 180/180",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 43/200",
+    "Section Details": "ESB-Floor 1-Room 1013 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This is an R section.\nIf the course is full please register in the waitlist. If you have any enquiries please contact courses@stat.ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Vivian Meng",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DSCI_V 100-009 - Introduction to Data Science",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/200",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 72/150",
+    "Section Details": "SCRF-Floor 1-Room 100 | Mon Wed | 4:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This is an R section.\nIf the course is full please register in the waitlist. If you have any enquiries please contact courses@stat.ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Quan Nguyen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "DSCI_V 100-101 - Introduction to Data Science",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 65/100",
+    "Section Details": "SWNG-Floor 2-Room 221 | Mon Wed | 8:30 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Sections 101 (This section) is taught using Python. All sections teach the same core concepts. Students persuing Earth, ocean, atmospheric or environmental specializations are recommended to take the Python version. If your preferred section is full please register in the waitlist. For course enquiries please contact courses@stat.ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Rodolfo Lourenzutti",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ECON_V 101-001 - Principles of Microeconomics",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 499/500",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Clive Chapple",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-002 - Principles of Microeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 500/500",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Clive Chapple",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-003 - Principles of Microeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 495/500",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Robert Gateman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-003 - Principles of Microeconomics",
+      "ECON_V 101-L3A - Principles of Microeconomics",
+      "ECON_V 101-L3B - Principles of Microeconomics",
+      "ECON_V 101-L3C - Principles of Microeconomics",
+      "ECON_V 101-L3D - Principles of Microeconomics",
+      "ECON_V 101-L3E - Principles of Microeconomics",
+      "ECON_V 101-L3F - Principles of Microeconomics",
+      "ECON_V 101-L3G - Principles of Microeconomics",
+      "ECON_V 101-L3H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-011 - Principles of Microeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 88/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 1-Room D200 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Political Science, Philosophy and  Economics stream, https://cap.arts.ubc.ca/streams/political-science-philosophy-economics-ppe/. Students must register in both Term 1 and Term 2 courses in CAP. \n \nFollow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2)  \neach term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Clive Chapple",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CAP_V 100-P01 - WRTI RES SS & H",
+      "CAP_V 100-P02 - WRTI RES SS & H",
+      "CAP_V 100-P03 - WRTI RES SS & H",
+      "CAP_V 100-P04 - WRTI RES SS & H",
+      "ECON_V 101-011 - Principles of Microeconomics",
+      "ECON_V 101-L9A - Principles of Microeconomics",
+      "ECON_V 101-L9B - Principles of Microeconomics",
+      "POLI_V 100-227 - Introduction to Politics",
+      "POLI_V 100-LZ1 - Introduction to Politics",
+      "POLI_V 100-LZ2 - Introduction to Politics",
+      "POLI_V 100-LZ3 - Introduction to Politics",
+      "POLI_V 100-LZ4 - Introduction to Politics",
+      "POLI_V 100-LZ5 - Introduction to Politics",
+      "POLI_V 100-LZ6 - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-013 - Principles of Microeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 104/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 3-Room 301 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved exclusively for students in the Bachelor of International Economics Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Mauricio Drelichman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-013 - Principles of Microeconomics",
+      "ECON_V 101-L15 - Principles of Microeconomics",
+      "ECON_V 101-L16 - Principles of Microeconomics",
+      "ECON_V 101-L17 - Principles of Microeconomics",
+      "ECON_V 101-L18 - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L15 - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room D218 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-013 - Principles of Microeconomics",
+      "ECON_V 101-L15 - Principles of Microeconomics",
+      "ECON_V 101-L16 - Principles of Microeconomics",
+      "ECON_V 101-L17 - Principles of Microeconomics",
+      "ECON_V 101-L18 - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L16 - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-013 - Principles of Microeconomics",
+      "ECON_V 101-L15 - Principles of Microeconomics",
+      "ECON_V 101-L16 - Principles of Microeconomics",
+      "ECON_V 101-L17 - Principles of Microeconomics",
+      "ECON_V 101-L18 - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L17 - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-013 - Principles of Microeconomics",
+      "ECON_V 101-L15 - Principles of Microeconomics",
+      "ECON_V 101-L16 - Principles of Microeconomics",
+      "ECON_V 101-L17 - Principles of Microeconomics",
+      "ECON_V 101-L18 - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L18 - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room A203 | Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-013 - Principles of Microeconomics",
+      "ECON_V 101-L15 - Principles of Microeconomics",
+      "ECON_V 101-L16 - Principles of Microeconomics",
+      "ECON_V 101-L17 - Principles of Microeconomics",
+      "ECON_V 101-L18 - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1A - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D217 | Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1B - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room B213 | Mon | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1C - Principles of Microeconomics",
     "Instructional Format": "Discussion",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/63",
+    "Section Details": "BUCH-Floor 2-Room D217 | Tue | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1D - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 3-Room B315 | Tue | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1E - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D222 | Wed | 4:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1F - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room B213 | Wed | 5:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1G - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D219 | Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L1H - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D217 | Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-001 - Principles of Microeconomics",
+      "ECON_V 101-L1A - Principles of Microeconomics",
+      "ECON_V 101-L1B - Principles of Microeconomics",
+      "ECON_V 101-L1C - Principles of Microeconomics",
+      "ECON_V 101-L1D - Principles of Microeconomics",
+      "ECON_V 101-L1E - Principles of Microeconomics",
+      "ECON_V 101-L1F - Principles of Microeconomics",
+      "ECON_V 101-L1G - Principles of Microeconomics",
+      "ECON_V 101-L1H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L2A - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D222 | Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L2B - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 3-Room B315 | Mon | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L2C - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D219 | Wed | 4:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L2D - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 3-Room B315 | Wed | 5:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L2E - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "IONA-Floor 3-Room 301 | Thu | 4:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L2F - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D218 | Thu | 4:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ECON_V 101-002 - Principles of Microeconomics",
+      "ECON_V 101-L2A - Principles of Microeconomics",
+      "ECON_V 101-L2B - Principles of Microeconomics",
+      "ECON_V 101-L2C - Principles of Microeconomics",
+      "ECON_V 101-L2D - Principles of Microeconomics",
+      "ECON_V 101-L2E - Principles of Microeconomics",
+      "ECON_V 101-L2F - Principles of Microeconomics",
+      "ECON_V 101-L2G - Principles of Microeconomics",
+      "ECON_V 101-L2H - Principles of Microeconomics"
+    ]
   }
 ]

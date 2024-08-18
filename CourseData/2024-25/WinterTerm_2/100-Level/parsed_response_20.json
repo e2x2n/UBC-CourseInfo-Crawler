@@ -4,366 +4,952 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 313/375",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 21/100",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Matthew Choptuik",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-9AR - Mechanics I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/366",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-DAR - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/366",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2A - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 139/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/100",
+    "Section Details": "HENN-Floor 1-Room 201 | Tue | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2B - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2C - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2D - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2E - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor 1-Room 116 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2F - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 125/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "HENN-Floor 1-Room 201 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2G - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2H - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2I - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 146/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HENN-Floor 1-Room 201 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2J - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Tue | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2K - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "HEBB-Floor 1-Room 116 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2L - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2M - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2N - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "HENN-Floor 1-Room 202 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-T2P - Mechanics I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Tue | 9:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "POLI_V 100-003 - Introduction to Politics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 119/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "IBLC-Floor 1-Room 182 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Bruce Baum",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-004 - Introduction to Politics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 143/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "IBLC-Floor 1-Room 182 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Yves Tiberghien",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-005 - Introduction to Politics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 77/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Stewart Prest",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3A - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "Section Details": "BUCH-Floor 3-Room B312 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3B - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/17",
+    "Section Details": "BUCH-Floor 2-Room B216 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3C - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/17",
+    "Section Details": "IBLC-Floor 1-Room 157 | Tue | 3:30 p.m. - 4:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3D - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/17",
+    "Section Details": "IBLC-Floor 1-Room 157 | Tue | 12:30 p.m. - 1:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3E - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "Section Details": "BUCH-Floor 2-Room D209 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3F - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "Section Details": "IBLC-Floor 1-Room 157 | Thu | 12:30 p.m. - 1:30 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3G - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/16",
+    "Section Details": "BUCH-Floor 2-Room D209 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3H - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/16",
+    "Section Details": "BUCH-Floor 3-Room D315 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L3I - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/16",
+    "Section Details": "BUCH-Floor 2-Room D209 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-003 - Introduction to Politics",
+      "POLI_V 100-L3A - Introduction to Politics",
+      "POLI_V 100-L3B - Introduction to Politics",
+      "POLI_V 100-L3C - Introduction to Politics",
+      "POLI_V 100-L3D - Introduction to Politics",
+      "POLI_V 100-L3E - Introduction to Politics",
+      "POLI_V 100-L3F - Introduction to Politics",
+      "POLI_V 100-L3G - Introduction to Politics",
+      "POLI_V 100-L3H - Introduction to Politics",
+      "POLI_V 100-L3I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4A - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/17",
+    "Section Details": "BUCH-Floor 3-Room B316 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4B - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "Section Details": "BUCH-Floor 2-Room B219 | Tue | 9:30 a.m. - 10:30 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4C - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/17",
+    "Section Details": "IBLC-Floor 1-Room 157 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4D - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "Section Details": "BUCH-Floor 3-Room D313 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4E - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/17",
+    "Section Details": "BUCH-Floor 3-Room D319 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4F - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/17",
+    "Section Details": "BUCH-Floor 3-Room B316 | Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4G - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "BUCH-Floor 2-Room D228 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4H - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "BUCH-Floor 3-Room B312 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L4I - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/16",
+    "Section Details": "BUCH-Floor 2-Room D216 | Tue | 3:30 p.m. - 4:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-004 - Introduction to Politics",
+      "POLI_V 100-L4A - Introduction to Politics",
+      "POLI_V 100-L4B - Introduction to Politics",
+      "POLI_V 100-L4C - Introduction to Politics",
+      "POLI_V 100-L4D - Introduction to Politics",
+      "POLI_V 100-L4E - Introduction to Politics",
+      "POLI_V 100-L4F - Introduction to Politics",
+      "POLI_V 100-L4G - Introduction to Politics",
+      "POLI_V 100-L4H - Introduction to Politics",
+      "POLI_V 100-L4I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5A - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "Section Details": "Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5B - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/17",
+    "Section Details": "Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5C - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/17",
+    "Section Details": "Wed | 2:30 p.m. - 3:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5D - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/17",
+    "Section Details": "Mon | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5E - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/17",
+    "Section Details": "Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5F - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/17",
+    "Section Details": "Thu | 12:00 p.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5G - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/16",
+    "Section Details": "Fri | 2:30 p.m. - 3:30 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5H - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/16",
+    "Section Details": "Fri | 1:30 p.m. - 2:30 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 100-L5I - Introduction to Politics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/16",
+    "Section Details": "Tue | 3:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 100-005 - Introduction to Politics",
+      "POLI_V 100-L5A - Introduction to Politics",
+      "POLI_V 100-L5B - Introduction to Politics",
+      "POLI_V 100-L5C - Introduction to Politics",
+      "POLI_V 100-L5D - Introduction to Politics",
+      "POLI_V 100-L5E - Introduction to Politics",
+      "POLI_V 100-L5F - Introduction to Politics",
+      "POLI_V 100-L5G - Introduction to Politics",
+      "POLI_V 100-L5H - Introduction to Politics",
+      "POLI_V 100-L5I - Introduction to Politics"
+    ]
   },
   {
     "Course Section": "POLI_V 101-002 - The Government of Canada",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/275",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CHEM-Floor B1-Room B150 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Carey Doberstein",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "POLI_V 101-002 - The Government of Canada",
+      "POLI_V 101-L2A - The Government of Canada",
+      "POLI_V 101-L2B - The Government of Canada",
+      "POLI_V 101-L2C - The Government of Canada",
+      "POLI_V 101-L2D - The Government of Canada",
+      "POLI_V 101-L2E - The Government of Canada",
+      "POLI_V 101-L2F - The Government of Canada",
+      "POLI_V 101-L2G - The Government of Canada",
+      "POLI_V 101-L2H - The Government of Canada",
+      "POLI_V 101-L2I - The Government of Canada",
+      "POLI_V 101-L2J - The Government of Canada",
+      "POLI_V 101-L2K - The Government of Canada",
+      "POLI_V 101-L2L - The Government of Canada",
+      "POLI_V 101-L2M - The Government of Canada",
+      "POLI_V 101-L2N - The Government of Canada",
+      "POLI_V 101-L2O - The Government of Canada"
+    ]
   },
   {
     "Course Section": "POLI_V 101-099 - The Government of Canada",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room A202 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Law & Society stream,   \nhttps://cap.arts.ubc.ca/streams/law-society/. Students must register in both Term  \n1 and Term 2 courses in CAP. \n \nPlease register in both this lecture, and one of the following discussion sections: POLI_V 101-LZ1, POLI_V 101-LZ2, POLI_V 101-LZ3, POLI_V 101-LZ4, POLI_V 101-LZ5, or POLI_V 101-LZ6. This course is also clustered with GRSJ_V 101-227, and the Law & Society sections of the CAP stream seminar CAP_V 101. For CAP_V 101, please register in one of the following: CAP_V 101-L01, CAP_V 101-L02, CAP_V 101-L03, or CAP_V 101-L04. GRSJ_V 101-227, and CAP_V 101 do not have any additional discussion sections. Follow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kenny Ie",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-L01 - READ&RSRCH STDYS",
+      "CAP_V 101-L02 - READ&RSRCH STDYS",
+      "CAP_V 101-L03 - READ&RSRCH STDYS",
+      "CAP_V 101-L04 - READ&RSRCH STDYS",
+      "GRSJ_V 101-227 - Introduction to Social Justice",
+      "POLI_V 101-099 - The Government of Canada",
+      "POLI_V 101-LZ1 - The Government of Canada",
+      "POLI_V 101-LZ2 - The Government of Canada",
+      "POLI_V 101-LZ3 - The Government of Canada",
+      "POLI_V 101-LZ4 - The Government of Canada",
+      "POLI_V 101-LZ5 - The Government of Canada",
+      "POLI_V 101-LZ6 - The Government of Canada"
+    ]
   }
 ]

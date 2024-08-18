@@ -4,351 +4,526 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 123/205",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 12/999",
+    "Section Details": "ESB-Floor 1-Room 1013 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Jordon Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-205 - Introduction to Computer Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 205/205",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/999",
+    "Section Details": "SCRF-Floor 1-Room 100 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Jordon Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2A - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2B - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2C - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2D - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2F - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2H - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2J - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2K - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2L - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X250 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2M - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/31",
+    "Section Details": "ICCS-Floor 2-Room X250 | Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2N - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2P - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 3:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2Q - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2R - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X250 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2S - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2T - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "ICCS-Floor 2-Room X250 | Mon | 4:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2U - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2V - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/31",
+    "Section Details": "ICCS-Floor 3-Room X350 | Mon | 11:00 a.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2W - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 213-L2X - Introduction to Computer Systems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/31",
+    "Section Details": "ICCS-Floor 2-Room X251 | Tue | 4:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-201 - Basic Algorithms and Data Structures",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 187/195",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 92/999",
+    "Section Details": "CHBE-Floor 1-Room 101 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Geoffrey Tien",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-202 - Basic Algorithms and Data Structures",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 142/195",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 63/999",
+    "Section Details": "CHBE-Floor 1-Room 101 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Geoffrey Tien",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-203 - Basic Algorithms and Data Structures",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 195/195",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 73/999",
+    "Section Details": "CHBE-Floor 1-Room 101 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Geoffrey Tien",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2A - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "SWNG-Floor 3-Room 310 | Tue | 1:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2B - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "MCML-Floor 1-Room 166 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2C - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "FSC-Floor 1-Room 1002 | Tue | 3:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2D - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "IRC-Floor B1-Room B75 | Mon | 10:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2E - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/31",
+    "Section Details": "Mon | 2:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2F - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/31",
+    "Section Details": "SWNG-Floor 1-Room 106 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2G - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "SWNG-Floor 2-Room 206 | Tue | 11:00 a.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2H - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "SWNG-Floor 1-Room 110 | Thu | 9:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2J - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "SWNG-Floor 1-Room 108 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2K - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/31",
+    "Section Details": "IRC-Floor B1-Room B75 | Mon | 2:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2L - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/31",
+    "Section Details": "MCML-Floor 1-Room 160 | Tue | 9:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2M - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/31",
+    "Section Details": "MCML-Floor 2-Room 260 | Tue | 3:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2N - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "SWNG-Floor 1-Room 108 | Tue | 11:00 a.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2P - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/25",
+    "Section Details": "ICCS-Floor B1-Room 005 | Wed | 5:00 p.m. - 7:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2Q - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "Section Details": "ICCS-Floor B1-Room 015 | Tue | 9:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2R - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/25",
+    "Section Details": "ICCS-Floor B1-Room 015 | Tue | 5:00 p.m. - 7:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2S - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/31",
+    "Section Details": "ICCS-Floor 3-Room X350 | Mon | 5:00 p.m. - 7:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2T - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/31",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Thu | 9:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2U - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/31",
+    "Section Details": "ESB-Floor 2-Room 2012 | Thu | 5:00 p.m. - 7:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CPSC_V 221-L2V - Basic Algorithms and Data Structures",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "ICCS-Floor 2-Room X251 | Thu | 3:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 200-002 - Introduction to Creative Writing",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 164/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 1-Room A101 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This online section of CRWR 200 will be asynchronous with recorded weekly lectures and optional days for peer-to-peer sharing under TA supervision. TA office hours available by appointment.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Tariq Hussain",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 200-004 - Introduction to Creative Writing",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 219/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 1-Room A101 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Mallory Tater",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 200-006 - Introduction to Creative Writing",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 250/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "FSC-Floor 1-Room 1005 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Tariq Hussain",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 201-002 - Introduction to Writing Poetry",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/200",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "ANGU-Floor B1-Room 098 | Tue | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sheryda Warrener",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 203-002 - Introduction to Writing for Children and Young Adults",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 104/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "HENN-Floor 1-Room 202 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Tanya Kyi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

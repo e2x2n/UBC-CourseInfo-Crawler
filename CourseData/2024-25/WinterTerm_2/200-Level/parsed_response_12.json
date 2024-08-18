@@ -1,0 +1,771 @@
+[
+  {
+    "Course Section": "FRST_V 239-201 - Tree and Stand Level Measurements",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "FSC-Floor 1-Room 1221 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Lee Salmon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "FRST_V 239-L01 - Tree and Stand Level Measurements",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/35",
+    "Section Details": "FSC-Floor 1-Room 1404 | Mon | 3:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Lee Salmon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "FRST_V 239-L02 - Tree and Stand Level Measurements",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/35",
+    "Section Details": "FSC-Floor 2-Room 2942 | Fri | 3:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Lee Salmon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "FRST_V 248-201 - Co-operative Work Placement.",
+    "Instructional Format": "Experiential",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Instructors": "Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "FSCT_V 290-001 - Introductory Forensic Science II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "0 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GEOG_V 211-201 - The State of the Earth",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 134/160",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/40",
+    "Section Details": "GEOG-Floor 1-Room 100 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Loch Brown",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GEOS_V 270-201 - Geographic Information Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 94/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "MCML-Floor 1-Room 166 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Course Section Definition Public Notes": "Select one Laboratory from sections L2A, L2B, L2C, L2D.\nThis course requires a $20.00 lab fee to be paid in the first month of class.",
+    "Instructors": "Avery Everhart, Naomi Beth Schwartz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOS_V 270-201 - Geographic Information Science",
+      "GEOS_V 270-L2A - Geographic Information Science",
+      "GEOS_V 270-L2B - Geographic Information Science",
+      "GEOS_V 270-L2C - Geographic Information Science",
+      "GEOS_V 270-L2D - Geographic Information Science"
+    ]
+  },
+  {
+    "Course Section": "GEOS_V 270-L2A - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "GEOG-Floor 1-Room 115 | Mon | 10:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Naomi Beth Schwartz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOS_V 270-201 - Geographic Information Science",
+      "GEOS_V 270-L2A - Geographic Information Science",
+      "GEOS_V 270-L2B - Geographic Information Science",
+      "GEOS_V 270-L2C - Geographic Information Science",
+      "GEOS_V 270-L2D - Geographic Information Science"
+    ]
+  },
+  {
+    "Course Section": "GEOS_V 270-L2B - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/25",
+    "Section Details": "GEOG-Floor 1-Room 115 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Naomi Beth Schwartz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOS_V 270-201 - Geographic Information Science",
+      "GEOS_V 270-L2A - Geographic Information Science",
+      "GEOS_V 270-L2B - Geographic Information Science",
+      "GEOS_V 270-L2C - Geographic Information Science",
+      "GEOS_V 270-L2D - Geographic Information Science"
+    ]
+  },
+  {
+    "Course Section": "GEOS_V 270-L2C - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "GEOG-Floor 1-Room 115 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Naomi Beth Schwartz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOS_V 270-201 - Geographic Information Science",
+      "GEOS_V 270-L2A - Geographic Information Science",
+      "GEOS_V 270-L2B - Geographic Information Science",
+      "GEOS_V 270-L2C - Geographic Information Science",
+      "GEOS_V 270-L2D - Geographic Information Science"
+    ]
+  },
+  {
+    "Course Section": "GEOS_V 270-L2D - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "GEOG-Floor 1-Room 115 | Wed | 4:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Naomi Beth Schwartz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOS_V 270-201 - Geographic Information Science",
+      "GEOS_V 270-L2A - Geographic Information Science",
+      "GEOS_V 270-L2B - Geographic Information Science",
+      "GEOS_V 270-L2C - Geographic Information Science",
+      "GEOS_V 270-L2D - Geographic Information Science"
+    ]
+  },
+  {
+    "Course Section": "GERN_V 202-201 - Learning German 4",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/35",
+    "Section Details": "BUCH-Floor 3-Room D312 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Course Section Definition Public Notes": "This 3-credit class prepares students for life-long use of German, to participate actively in German-speaking communities, and to achieve more articulate forms of language use and meaningful communication in German. Cultural topics include: Professions and training, recycling and reuse, social safety nets, urban life, trades and skilled work, job applications and interviews, internships, nature and life outdoors.\n\nTextbook: Sag Mal, chapters 10-12.\n\nSample syllabus of GERN 202 here.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Instructors": "Uma Kumar",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GERN_V 202-202 - Learning German 4",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "Section Details": "BUCH-Floor 2-Room B211 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Course Section Definition Public Notes": "This 3-credit class prepares students for life-long use of German, to participate actively in German-speaking communities, and to achieve more articulate forms of language use and meaningful communication in German. Cultural topics include: Professions and training, recycling and reuse, social safety nets, urban life, trades and skilled work, job applications and interviews, internships, nature and life outdoors.\n\nTextbook: Sag Mal, chapters 10-12.\n\nSample syllabus of GERN 202 here.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Instructors": "Daniela Hempen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GREK_V 202-001 - Intermediate Ancient Greek II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/16",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "IBLC-Floor 4-Room 460 | Tue Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Course Section Definition Public Notes": "Intermediate Ancient Greek II. Visit amne.ubc.ca for full course descriptions.\n** This course has TWO required sections: a lecture and a discussion. Only the LEC section meets. Please also register separately for the DISC section (GREK 202 D01), which is required for administrative reasons and does not meet.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
+    "Instructors": "Franco De Angelis",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GREK_V 202-001 - Intermediate Ancient Greek II",
+      "GREK_V 202-D01 - Intermediate Ancient Greek II"
+    ]
+  },
+  {
+    "Course Section": "GREK_V 202-D01 - Intermediate Ancient Greek II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/16",
+    "Course Section Definition Public Notes": "Discussion section for GREK 202 001. This DISC section does not meet. Students must register for this discussion section for administrative reasons. Only the LEC section meets.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GREK_V 202-001 - Intermediate Ancient Greek II",
+      "GREK_V 202-D01 - Intermediate Ancient Greek II"
+    ]
+  },
+  {
+    "Course Section": "GRSJ_V 210-201 - Gender, Race and Colonialism in the Americas",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "IBLC-Floor 1-Room 155 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GRSJ_V 224-B_201 - Gender, Race, Sexuality, and Social Justice in Literature (B)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "SCRF-Floor 2-Room 209 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GRSJ_V 224-B_202 - Gender, Race, Sexuality, and Social Justice in Literature (B)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "SWNG-Floor 2-Room 205 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Kim Snowden",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GRSJ_V 226-201 - Human Rights and Artistic Expression",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 2-Room D217 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Natacha Monestel Mora",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GRSJ_V 235-201 - GRS and Soci Structures Modern Asia",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BRCS-Floor 2-Room 2070 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Yao Xiao",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GRS_V 290-A_103 - GLOBAL ISSUES (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/5",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 1-Room 1215 | Wed | 5:30 p.m. - 7:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "GRS_V 290-A_IX3 - GLOBAL ISSUES (A)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/5",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Course Section Definition Public Notes": "Students must register for all of LECTURE and INDEPENDENT STUDY to complete registration for the course. This independent study section is a placeholder: there is no meeting time and no room assigned.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "HEBR_V 205-001 - Beginning Biblical Hebrew II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "BUCH-Floor 2-Room D205 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Course Section Definition Public Notes": "Beginning Biblical Hebrew II.  Visit amne.ubc.ca for full course descriptions.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
+    "Instructors": "Kurtis Peters",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "HIST_V 201-201 - History Through Photographs",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 66/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "CHEM-Floor 2-Room D300 | Mon | 9:30 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Course Section Definition Public Notes": "In 24W, lectures for HIST 201 will be held in person and recorded. Students have the option to attend in-person OR participate live on Zoom OR watch the recorded Zoom lecture at a later date.",
+    "Instructors": "Kelly McCormick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 201-201 - History Through Photographs",
+      "HIST_V 201-L01 - History Through Photographs",
+      "HIST_V 201-L02 - History Through Photographs",
+      "HIST_V 201-L03 - History Through Photographs",
+      "HIST_V 201-L04 - History Through Photographs"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 201-L01 - History Through Photographs",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BUCH-Floor 2-Room D205 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Kelly McCormick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 201-201 - History Through Photographs",
+      "HIST_V 201-L01 - History Through Photographs",
+      "HIST_V 201-L02 - History Through Photographs",
+      "HIST_V 201-L03 - History Through Photographs",
+      "HIST_V 201-L04 - History Through Photographs"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 201-L02 - History Through Photographs",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/25",
+    "Section Details": "MATH-Floor 2-Room 202 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Kelly McCormick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 201-201 - History Through Photographs",
+      "HIST_V 201-L01 - History Through Photographs",
+      "HIST_V 201-L02 - History Through Photographs",
+      "HIST_V 201-L03 - History Through Photographs",
+      "HIST_V 201-L04 - History Through Photographs"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 201-L03 - History Through Photographs",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/25",
+    "Section Details": "MATH-Floor 2-Room 202 | Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Kelly McCormick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 201-201 - History Through Photographs",
+      "HIST_V 201-L01 - History Through Photographs",
+      "HIST_V 201-L02 - History Through Photographs",
+      "HIST_V 201-L03 - History Through Photographs",
+      "HIST_V 201-L04 - History Through Photographs"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 201-L04 - History Through Photographs",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "Section Details": "MATH-Floor 2-Room 202 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Kelly McCormick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 201-201 - History Through Photographs",
+      "HIST_V 201-L01 - History Through Photographs",
+      "HIST_V 201-L02 - History Through Photographs",
+      "HIST_V 201-L03 - History Through Photographs",
+      "HIST_V 201-L04 - History Through Photographs"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 204-201 - History Through Video Games",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 113/120",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "PHRM-Floor 1-Room 1201 | Mon | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Shoufu Yin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "HIST_V 220-A_201 - History of Europe (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 104/108",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 2-Room A203 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 220-A_L1C - History of Europe (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/18",
+    "Section Details": "BUCH-Floor 2-Room D209 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 220-A_L1D - History of Europe (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "Section Details": "BUCH-Floor 3-Room D325 | Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 220-A_L1E - History of Europe (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "Section Details": "BUCH-Floor 2-Room B219 | Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 220-A_L1F - History of Europe (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "Section Details": "BUCH-Floor 3-Room B316 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 220-A_L1G - History of Europe (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/18",
+    "Section Details": "BUCH-Floor 3-Room D306 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 220-A_L1H - History of Europe (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "Section Details": "BUCH-Floor 2-Room D228 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Michael Lanthier",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 220-A_201 - History of Europe (A)",
+      "HIST_V 220-A_L1C - History of Europe (A)",
+      "HIST_V 220-A_L1D - History of Europe (A)",
+      "HIST_V 220-A_L1E - History of Europe (A)",
+      "HIST_V 220-A_L1F - History of Europe (A)",
+      "HIST_V 220-A_L1G - History of Europe (A)",
+      "HIST_V 220-A_L1H - History of Europe (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 236-201 - Introduction to Public History in Canada",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/78",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 2-Room A203 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Course Section Definition Public Notes": "In 24W, lectures are in person, live-streamed and recorded.",
+    "Instructors": "Tamara Myers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 236-201 - Introduction to Public History in Canada",
+      "HIST_V 236-L1A - Introduction to Public History in Canada",
+      "HIST_V 236-L1B - Introduction to Public History in Canada",
+      "HIST_V 236-L1C - Introduction to Public History in Canada",
+      "HIST_V 236-L1E - Introduction to Public History in Canada"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 236-L1A - Introduction to Public History in Canada",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "BUCH-Floor 3-Room D325 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Tamara Myers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 236-201 - Introduction to Public History in Canada",
+      "HIST_V 236-L1A - Introduction to Public History in Canada",
+      "HIST_V 236-L1B - Introduction to Public History in Canada",
+      "HIST_V 236-L1C - Introduction to Public History in Canada",
+      "HIST_V 236-L1E - Introduction to Public History in Canada"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 236-L1B - Introduction to Public History in Canada",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/20",
+    "Section Details": "BUCH-Floor 2-Room D209 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Tamara Myers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 236-201 - Introduction to Public History in Canada",
+      "HIST_V 236-L1A - Introduction to Public History in Canada",
+      "HIST_V 236-L1B - Introduction to Public History in Canada",
+      "HIST_V 236-L1C - Introduction to Public History in Canada",
+      "HIST_V 236-L1E - Introduction to Public History in Canada"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 236-L1C - Introduction to Public History in Canada",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/19",
+    "Section Details": "BUCH-Floor 3-Room D306 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Tamara Myers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 236-201 - Introduction to Public History in Canada",
+      "HIST_V 236-L1A - Introduction to Public History in Canada",
+      "HIST_V 236-L1B - Introduction to Public History in Canada",
+      "HIST_V 236-L1C - Introduction to Public History in Canada",
+      "HIST_V 236-L1E - Introduction to Public History in Canada"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 236-L1E - Introduction to Public History in Canada",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/19",
+    "Section Details": "BUCH-Floor 2-Room D229 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Tamara Myers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 236-201 - Introduction to Public History in Canada",
+      "HIST_V 236-L1A - Introduction to Public History in Canada",
+      "HIST_V 236-L1B - Introduction to Public History in Canada",
+      "HIST_V 236-L1C - Introduction to Public History in Canada",
+      "HIST_V 236-L1E - Introduction to Public History in Canada"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 250-A_201 - Latin American History (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/48",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "MATH-Floor 1-Room 104 | Mon | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Benjamin Bryce",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 250-A_201 - Latin American History (A)",
+      "HIST_V 250-A_L2A - Latin American History (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 250-A_L2A - Latin American History (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/48",
+    "Section Details": "MATH-Floor 1-Room 104 | Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Benjamin Bryce",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 250-A_201 - Latin American History (A)",
+      "HIST_V 250-A_L2A - Latin American History (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 270-A_201 - China in World History (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "LASR-Floor 1-Room 102 | Wed | 4:00 p.m. - 5:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Xian Wang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 270-A_201 - China in World History (A)",
+      "HIST_V 270-A_L01 - China in World History (A)"
+    ]
+  },
+  {
+    "Course Section": "HIST_V 270-A_L01 - China in World History (A)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/50",
+    "Section Details": "LASR-Floor 1-Room 102 | Wed | 5:30 p.m. - 7:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Xian Wang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "HIST_V 270-A_201 - China in World History (A)",
+      "HIST_V 270-A_L01 - China in World History (A)"
+    ]
+  },
+  {
+    "Course Section": "IGEN_V 201-201 - Integrated Technical Communication",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/65",
+    "Section Details": "FORW-Floor 2-Room 217 | Tue Thu | 10:30 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Matthew Wong",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "INFO_V 250-002 - Networks, Crowds, and Communities",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/15",
+    "Section Details": "BUCH-Floor 3-Room B315 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Richard Arias Hernandez",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ITAL_V 202-201 - Elementary Italian II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room D201 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Course Section Definition Public Notes": "This course is hybrid. Students are expected to meet with the instructor synchronously and in class on most days. A few sessions will be asynchronous/online as indicated by the instructor. \n\nExpansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.  \nBefore registering the course, please complete Italian Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/italian-placement-questionnaire-tool/ \n\nSee the full course overview: https://fhis.ubc.ca/course-description/ital202  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
+    "Instructors": "Luisa Canuto",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ITAL_V 202-202 - Elementary Italian II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B209 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Course Section Definition Public Notes": "Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.  \nBefore registering the course, please complete Italian Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/italian-placement-questionnaire-tool/ \n\nSee the full course overview: https://fhis.ubc.ca/course-description/ital202  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
+    "Instructors": "Michela Valmori",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "JAPN_V 201-021 - Beginning Japanese II B",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "HENN-Floor 2-Room 301 | Mon Tue Thu Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Course Section Definition Public Notes": "Important -If you have taken or plan to take the intensive course equivalents, you will receive credit for only one of the intensive or non-intensive courses, although the final grade for both courses will be factored into your overall GPA. For further clarification, please contact the Department of Asian Studies.\n\nDelivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
+    "Instructors": "Noriyuki Kawada",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  }
+]

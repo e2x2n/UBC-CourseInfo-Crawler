@@ -1,0 +1,700 @@
+[
+  {
+    "Course Section": "LING_V 300-003 - Studies in Grammar",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/69",
+    "Section Details": "BIOL-Floor 2-Room 2200 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Course Section Definition Public Notes": "Select lecture and one discussion section",
+    "Instructors": "Rose-Marie Dechaine",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 300-003 - Studies in Grammar",
+      "LING_V 300-T01 - Studies in Grammar",
+      "LING_V 300-T02 - Studies in Grammar",
+      "LING_V 300-T03 - Studies in Grammar"
+    ]
+  },
+  {
+    "Course Section": "LING_V 300-T01 - Studies in Grammar",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/23",
+    "Section Details": "ORCH-Floor 3-Room 3004 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 300-003 - Studies in Grammar",
+      "LING_V 300-T01 - Studies in Grammar",
+      "LING_V 300-T02 - Studies in Grammar",
+      "LING_V 300-T03 - Studies in Grammar"
+    ]
+  },
+  {
+    "Course Section": "LING_V 300-T02 - Studies in Grammar",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "Section Details": "ORCH-Floor 4-Room 4052 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 300-003 - Studies in Grammar",
+      "LING_V 300-T01 - Studies in Grammar",
+      "LING_V 300-T02 - Studies in Grammar",
+      "LING_V 300-T03 - Studies in Grammar"
+    ]
+  },
+  {
+    "Course Section": "LING_V 300-T03 - Studies in Grammar",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/23",
+    "Section Details": "ORCH-Floor 4-Room 4052 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 300-003 - Studies in Grammar",
+      "LING_V 300-T01 - Studies in Grammar",
+      "LING_V 300-T02 - Studies in Grammar",
+      "LING_V 300-T03 - Studies in Grammar"
+    ]
+  },
+  {
+    "Course Section": "LING_V 311-001 - Studies in Phonology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 69/69",
+    "Section Details": "MCML-Floor 1-Room 160 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Course Section Definition Public Notes": "Select lecture and one discussion section",
+    "Instructors": "Kathleen Hall",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 311-001 - Studies in Phonology",
+      "LING_V 311-TU1 - Studies in Phonology",
+      "LING_V 311-TU2 - Studies in Phonology",
+      "LING_V 311-TU3 - Studies in Phonology"
+    ]
+  },
+  {
+    "Course Section": "LING_V 311-TU1 - Studies in Phonology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "Section Details": "ORCH-Floor 3-Room 3004 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 311-001 - Studies in Phonology",
+      "LING_V 311-TU1 - Studies in Phonology",
+      "LING_V 311-TU2 - Studies in Phonology",
+      "LING_V 311-TU3 - Studies in Phonology"
+    ]
+  },
+  {
+    "Course Section": "LING_V 311-TU2 - Studies in Phonology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "Section Details": "ORCH-Floor 4-Room 4052 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 311-001 - Studies in Phonology",
+      "LING_V 311-TU1 - Studies in Phonology",
+      "LING_V 311-TU2 - Studies in Phonology",
+      "LING_V 311-TU3 - Studies in Phonology"
+    ]
+  },
+  {
+    "Course Section": "LING_V 311-TU3 - Studies in Phonology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "Section Details": "ORCH-Floor 3-Room 3004 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 311-001 - Studies in Phonology",
+      "LING_V 311-TU1 - Studies in Phonology",
+      "LING_V 311-TU2 - Studies in Phonology",
+      "LING_V 311-TU3 - Studies in Phonology"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 124/150",
+    "Section Details": "IRC-Floor B1-Room 6 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Course Section Definition Public Notes": "Select lecture and one lab section",
+    "Instructors": "Md Jahurul Islam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/25",
+    "Section Details": "Mon | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "Wed | 3:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "Wed | 4:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "Wed | 5:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 313-001 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA1 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA2 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA3 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA4 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA5 - Introduction to Linguistic Phonetics and Speech Science",
+      "LING_V 313-LA6 - Introduction to Linguistic Phonetics and Speech Science"
+    ]
+  },
+  {
+    "Course Section": "LING_V 327-001 - Introduction to Semantics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 67/69",
+    "Section Details": "CEME-Floor 1-Room 1202 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Course Section Definition Public Notes": "Select lecture and one discussion section",
+    "Instructors": "Marcin Morzycki",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 327-001 - Introduction to Semantics",
+      "LING_V 327-T01 - Introduction to Semantics",
+      "LING_V 327-T02 - Introduction to Semantics",
+      "LING_V 327-T03 - Introduction to Semantics"
+    ]
+  },
+  {
+    "Course Section": "LING_V 327-T01 - Introduction to Semantics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 327-001 - Introduction to Semantics",
+      "LING_V 327-T01 - Introduction to Semantics",
+      "LING_V 327-T02 - Introduction to Semantics",
+      "LING_V 327-T03 - Introduction to Semantics"
+    ]
+  },
+  {
+    "Course Section": "LING_V 327-T02 - Introduction to Semantics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/24",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 327-001 - Introduction to Semantics",
+      "LING_V 327-T01 - Introduction to Semantics",
+      "LING_V 327-T02 - Introduction to Semantics",
+      "LING_V 327-T03 - Introduction to Semantics"
+    ]
+  },
+  {
+    "Course Section": "LING_V 327-T03 - Introduction to Semantics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/23",
+    "Section Details": "ORCH-Floor 4-Room 4052 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 327-001 - Introduction to Semantics",
+      "LING_V 327-T01 - Introduction to Semantics",
+      "LING_V 327-T02 - Introduction to Semantics",
+      "LING_V 327-T03 - Introduction to Semantics"
+    ]
+  },
+  {
+    "Course Section": "LING_V 333-001 - Research Methods for Linguistics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/69",
+    "Section Details": "LIFE-Floor 2-Room 2202 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Md Jahurul Islam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LING_V 342-001 - Computational Models of Language",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/50",
+    "Section Details": "SWNG-Floor 2-Room 207 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Garrett Nicolai",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 315-A_301 - ESL SEC C&P (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/18",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 200 | Mon | 5:00 p.m. - 8:30 p.m. | 2024-09-03 - 2024-12-09",
+    "Course Section Definition Public Notes": "Cross-listed with LLED 381.\nRestricted to BEd Secondary students with a specialization in English Language Learner Education.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 325-A_105 - Teaching and Learning French in Elementary Schools (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 200 | Mon | 2:30 p.m. - 4:30 p.m. | 2024-09-03 - 2024-12-09",
+    "Instructors": "Nicole George",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 336-377 - Communication: Voice, Audience, Message",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 185 | Wed | 9:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Course Section Definition Public Notes": "Restricted to students in the NITEP program.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-101 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "GEOG-Floor 2-Room 214 | Tue | 9:30 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Kathryn Accurso",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-102 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1005 | Wed | 1:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Margaret Early",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-103 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1023 | Tue | 9:30 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Jessica Cassady",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-104 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1005 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Asma Afreen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-105 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1005 | Fri | 9:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-13",
+    "Instructors": "Nicole George",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-107 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1001 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Jonathan Feitosa Ferreira",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-108 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1001 | Wed | 1:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Harini Rajagopal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-109 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Tue (Alternate weeks) | 9:30 a.m. - 12:30 p.m. | 2024-09-10 - 2024-12-03",
+    "Instructors": "Maureen Kendrick",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-110 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4018 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Christi Livingstone",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-640 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Course Section Definition Public Notes": "Restricted to students in the West Kootenay Teacher Education Program.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 350-650 - Classroom Discourses: Elementary",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/43",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Course Section Definition Public Notes": "Restricted to students in the Rural & Remote Teacher Education Program.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 352-641 - TCH LRN FREN LNG",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Course Section Definition Public Notes": "Restricted to students in the West Kootenay Teacher Education Program.",
+    "Instructors": "Heather Robertson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-101 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1002 | Fri | 2:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-13",
+    "Instructors": "Kathryn Accurso",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-102 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1003 | Mon | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-09",
+    "Instructors": "Margaret Early",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-103 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1023 | Tue | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Jessica Cassady",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-104 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 203 | Wed | 9:30 a.m. - 11:30 a.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Tricia Yurkowski",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-107 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 207 | Mon | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-09",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-108 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1001 | Mon | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-09",
+    "Instructors": "Tricia Yurkowski",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-109 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1003 | Wed | 9:30 a.m. - 12:30 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Margaret Early",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 353-110 - ENG ADNL LANG EL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1023 | Mon | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-09",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 360-301 - CLS DSC TEL SECD",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1002 | Mon Wed | 1:00 p.m. - 2:30 p.m. | 2024-09-03 - 2024-12-11",
+    "Instructors": "Lee Paul Gunderson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 360-302 - CLS DSC TEL SECD",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1002 | Mon Wed | 2:30 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-11",
+    "Instructors": "Laen Hershler",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 360-303 - CLS DSC TEL SECD",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 206 | Wed | 4:30 p.m. - 7:30 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Rosa David",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 360-304 - CLS DSC TEL SECD",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1003 | Thu | 9:30 a.m. - 12:30 p.m. | 2024-09-05 - 2024-12-12",
+    "Instructors": "Lee Paul Gunderson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 360-305 - CLS DSC TEL SECD",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1001 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "LLED_V 360-306 - CLS DSC TEL SECD",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 210 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-12",
+    "Course Section Definition Public Notes": "Restricted to BEd Secondary students with a specialization in French.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  }
+]

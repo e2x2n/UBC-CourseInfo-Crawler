@@ -4,367 +4,1012 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "ANSO-Floor 2-Room 205 | Thu | 5:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-D21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-E21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-F21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-G21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Wed | 4:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-H21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/25",
+    "Section Details": "ANSO-Floor 2-Room 205 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-I21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 101-J21 - Social Interaction and Culture",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BUCH-Floor 2-Room D221 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 101-201 - Social Interaction and Culture",
+      "SOCI_V 101-A21 - Social Interaction and Culture",
+      "SOCI_V 101-B21 - Social Interaction and Culture",
+      "SOCI_V 101-C21 - Social Interaction and Culture",
+      "SOCI_V 101-D21 - Social Interaction and Culture",
+      "SOCI_V 101-E21 - Social Interaction and Culture",
+      "SOCI_V 101-F21 - Social Interaction and Culture",
+      "SOCI_V 101-G21 - Social Interaction and Culture",
+      "SOCI_V 101-H21 - Social Interaction and Culture",
+      "SOCI_V 101-I21 - Social Interaction and Culture",
+      "SOCI_V 101-J21 - Social Interaction and Culture"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-201 - Inequality and Social Change",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 106/260",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "ANGU-Floor B1-Room 098 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Waitlist is now available for this course. Please do not contact the instructor or the department about enrolling in this course if there are no seats available in the course or on the waitlist. Please continue to monitor registration online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Andrew Jorgenson",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-204 - Inequality and Social Change",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 141/250",
+    "Section Details": "BUCH-Floor 1-Room A101 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Elic Chan",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-A21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "Section Details": "BUCH-Floor 3-Room D304 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-A24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/25",
+    "Section Details": "BUCH-Floor 3-Room D323 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-B21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/25",
+    "Section Details": "ANSO-Floor 2-Room 203 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-B24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "ANSO-Floor 2-Room 205 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-C21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Tue | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-C24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-D21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-D24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/26",
+    "Section Details": "ANSO-Floor 2-Room 203 | Thu | 4:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-E21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-E24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/26",
+    "Section Details": "ANSO-Floor 2-Room 205 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-F21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-F24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-G21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "IBLC-Floor 4-Room 461 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-G24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/25",
+    "Section Details": "ANSO-Floor 2-Room 205 | Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-H21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-H24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Thu | 9:00 a.m. - 10:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-I21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-I24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Tue | 9:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-J21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/25",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-J24 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/25",
+    "Section Details": "ANSO-Floor 1-Room 134 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-204 - Inequality and Social Change",
+      "SOCI_V 102-A24 - Inequality and Social Change",
+      "SOCI_V 102-B24 - Inequality and Social Change",
+      "SOCI_V 102-C24 - Inequality and Social Change",
+      "SOCI_V 102-D24 - Inequality and Social Change",
+      "SOCI_V 102-E24 - Inequality and Social Change",
+      "SOCI_V 102-F24 - Inequality and Social Change",
+      "SOCI_V 102-G24 - Inequality and Social Change",
+      "SOCI_V 102-H24 - Inequality and Social Change",
+      "SOCI_V 102-I24 - Inequality and Social Change",
+      "SOCI_V 102-J24 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-K21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SOCI_V 102-L21 - Inequality and Social Change",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "SOCI_V 102-201 - Inequality and Social Change",
+      "SOCI_V 102-A21 - Inequality and Social Change",
+      "SOCI_V 102-B21 - Inequality and Social Change",
+      "SOCI_V 102-C21 - Inequality and Social Change",
+      "SOCI_V 102-D21 - Inequality and Social Change",
+      "SOCI_V 102-E21 - Inequality and Social Change",
+      "SOCI_V 102-F21 - Inequality and Social Change",
+      "SOCI_V 102-G21 - Inequality and Social Change",
+      "SOCI_V 102-H21 - Inequality and Social Change",
+      "SOCI_V 102-I21 - Inequality and Social Change",
+      "SOCI_V 102-J21 - Inequality and Social Change",
+      "SOCI_V 102-K21 - Inequality and Social Change",
+      "SOCI_V 102-L21 - Inequality and Social Change"
+    ]
   },
   {
     "Course Section": "SPAN_V 102-201 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/100",
+    "Section Details": "BUCH-Floor 2-Room B209 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Olga Albarran Caselles",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-202 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 3-Room D312 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Maria Adelaida Escobar Trujillo",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-203 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "BUCH-Floor 3-Room B309 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Maria Soledad Fernandez Utrera",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-204 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B208 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ \n\n3 seats for this section have been saved from open registration to support students who missed registration due to WD technical issues. Please reach out to fhis.undergrad@ubc.ca if you need support on this.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Maria Adelaida Escobar Trujillo",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-205 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "ANGU-Floor 3 & 4-Room 345 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Raul Alvarez Moreno",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-206 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "UCEN-Floor 1-Room 103 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Raul Alvarez Moreno",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-207 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 3-Room D312 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Iris Escuer Riera",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 102-208 - Beginners' Spanish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "UCEN-Floor 1-Room 103 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This course is hybrid. Students are expected to meet with the instructor synchronously for the days and times as indicated (Mondays: Online/asynchronous; Wednesdays & Fridays: In-person/synchronous)\n\nBefore registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/  \n\nSee the full course overview: https://fhis.ubc.ca/course-description/SPAN102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Iris Escuer Riera",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SPAN_V 103-201 - Intensive Beginners' Spanish",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 3-Room D314 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "This is a 3-credit intensive course that combines SPAN 101 and SPAN 102. Intended for highly motivated learners with Spanish 11 or Spanish 12 experience. \n\nBefore registering the course, please complete Spanish Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/   \n\nSee the full course overview: https://fhis.ubc.ca/course-description/span103/   \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Stephanie Spacciante",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SWAH_V 102-201 - Beginners' Swahili II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 3-Room D307 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "For more information, please visit: https://africanstudies.arts.ubc.ca/courses-2/2024-winter/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "SWED_V 110-201 - Elementary Swedish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/35",
+    "Section Details": "BUCH-Floor 2-Room B211 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Ability to communicate in everyday situations; speak and write about past events; familiarity with contemporary Swedish culture. Cultural topics include: The Nobel Prize, Sweden Day, snus (Google it!), Påskkärringar and witches, and how fun the names of your relatives are in Swedish: mormor, morfar, farmor, farfar.\n\nBook: Rivstart, Chapters 5-8\n\nSample syllabus here.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Lena Karlstrom",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "THTR_V 120-002 - Introduction to Theatre",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "FRWO-Floor 1-Room 102 | Mon Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "THTR 120: Introduction to Theatre and Performance (Studies)\n \nThis course is an introduction to theatre and performance, as well as their concomitant academic discipline/s theatre and performance studies. Performance will be broadly construed to include aesthetic performance (theatre, performance art, music, dance, visual culture, etc.), as well as everyday performances of the self. Together, we'll ask: where and how does performance happen and what are its social, political, and historical significances? Paying close attention to questions of race, gender, sexuality, disability, Indigeneity, class, and nation as well as to theatre and performance studies braided relationship to other fields and bodies of knowledge (anthropology, feminism, queer theory, dance studies, critical race theory, queer of color critique, Black studies, sound studies, critical Indigenous studies, etc.)\nWe will explore how the study of performance can help us understand contemporary questions of aesthetics, politics, history, and social culture. This course will place particular emphasis on political, Indigenous, queer, feminist, and minoritarian performance.\n\nNOTE: You must also sign up for a discussion section: D11, or D12.\n\nIf this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Hanyang Jiang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "THTR_V 120-002 - Introduction to Theatre",
+      "THTR_V 120-D21 - Introduction to Theatre",
+      "THTR_V 120-D22 - Introduction to Theatre"
+    ]
   },
   {
     "Course Section": "THTR_V 120-D21 - Introduction to Theatre",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/45",
+    "Section Details": "BUCH-Floor 2-Room B218 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "The discussion section for THTR 120 002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "THTR_V 120-002 - Introduction to Theatre",
+      "THTR_V 120-D21 - Introduction to Theatre",
+      "THTR_V 120-D22 - Introduction to Theatre"
+    ]
   },
   {
     "Course Section": "THTR_V 130-002 - Introduction to Stage Acting",
     "Instructional Format": "Studio",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/46",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/10",
+    "Section Details": "DSOM-Floor 1-Room 101 | Mon Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding waitlist section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "TIBT_V 100-021 - Introduction to Tibetan I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "Mon Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "TIBT_V 101-021 - Introduction to Tibetan II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SWNG-Floor 3-Room 307 | Mon Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sonam Chusang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "UFOR_V 110-201 - Introduction to Urban Forest Design",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 90/90",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "FSC-Floor 1-Room 1221 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Keun Park",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "VISA_V 110-002 - Foundation Studio: Digital Media",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 160/160",
+    "Section Details": "Tue | 9:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "VISA 110 002 lecture is delivered online. The studio (tutorial) sections are delivered in person. You must sign up for both the lecture and one of the studio sections. There is no waitlist for VISA 110. Please check regularly for seats, particularly at the start of term as students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "VISA_V 110-002 - Foundation Studio: Digital Media",
+      "VISA_V 110-L12 - Foundation Studio: Digital Media",
+      "VISA_V 110-L13 - Foundation Studio: Digital Media",
+      "VISA_V 110-L14 - Foundation Studio: Digital Media",
+      "VISA_V 110-L15 - Foundation Studio: Digital Media",
+      "VISA_V 110-L16 - Foundation Studio: Digital Media",
+      "VISA_V 110-L17 - Foundation Studio: Digital Media",
+      "VISA_V 110-L18 - Foundation Studio: Digital Media",
+      "VISA_V 110-L19 - Foundation Studio: Digital Media"
+    ]
   }
 ]

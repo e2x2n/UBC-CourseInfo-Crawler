@@ -4,349 +4,586 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 183/190",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor B1-Room 098 | Wed (Alternate weeks) | 5:00 p.m. - 7:00 p.m. | 2025-01-08 - 2025-02-05",
+    "Instructors": "Carol Jaeger",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 221-201 - Signals and Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 209/210",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/20",
+    "Section Details": "FSC-Floor 1-Room 1005 | Tue Thu | 5:30 p.m. - 7:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Lutz Lampe",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 221-T2A - Signals and Systems",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 209/210",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1005 | Fri | 12:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Lutz Lampe",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 271-201 - Selected Topics in Biomedical Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/22",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/12",
+    "Section Details": "MCLD-Floor 2-Room 2014 | Tue | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Purang Abolmaesumi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 281-201 - Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/34",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/11",
+    "Section Details": "CEME-Floor 1-Room 1212 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 281-202 - Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Hartaj Sanghara",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 281-203 - Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Hartaj Sanghara",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 281-204 - Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "CHBE-Floor 1-Room 103 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 281-205 - Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Hartaj Sanghara",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 291-201 - Electrical Engineering Design Studio I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 180/180",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/10",
+    "Section Details": "FSC-Floor 1-Room 1005 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Jesus Calvino-Fraga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 291-L2A - Electrical Engineering Design Studio I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 83/88",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2038 | Tue Thu | 1:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Jesus Calvino-Fraga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 291-L2B - Electrical Engineering Design Studio I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 97/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2038 | Tue Thu | 8:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Jesus Calvino-Fraga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 292-201 - Biomedical Engineering Design Studio",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/4",
+    "Section Details": "FSC-Floor 1-Room 1005 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Jesus Calvino-Fraga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 292-L2A - Biomedical Engineering Design Studio",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2038 | Tue Thu | 1:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Jesus Calvino-Fraga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 292-L2B - Biomedical Engineering Design Studio",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/1",
+    "Section Details": "Tue Thu | 8:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Jesus Calvino-Fraga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 200-009 - Principles of Literary Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "BUCH-Floor 3-Room D304 | Mon Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Phanuel Antwi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 200-010 - Principles of Literary Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/6",
+    "Section Details": "IBLC-Floor 1-Room 185 | Mon Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Miguel Mota",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 200-011 - Principles of Literary Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MATH-Floor 2-Room 203 | Mon Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Judith Paltin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 200-012 - Principles of Literary Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/6",
+    "Section Details": "BUCH-Floor 1-Room A103 | Mon Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Suzanne James",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 222-002 - Literature in Canada",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/6",
+    "Section Details": "BUCH-Floor 3-Room D316 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 223-002 - Literature in the United States",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/6",
+    "Section Details": "BUCH-Floor 3-Room D317 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Jae Sharpe",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 225-002 - Poetry",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/6",
+    "Section Details": "BUCH-Floor 3-Room D322 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Stephen Guy-Bray",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 227-002 - Prose Fiction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "BUCH-Floor 2-Room B210 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 228-A_001 - Topics in Literary and/or Cultural Studies (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/6",
+    "Section Details": "BUCH-Floor 1-Room B141 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 231-001 - Introduction to Indigenous Literatures",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "BUCH-Floor 3-Room D316 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Dallas Hunt",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "ENGL_V 232-001 - Approaches to Media Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/75",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/6",
+    "Section Details": "BUCH-Floor 3-Room B313 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Richard Anthony Cavell",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 241-001 - Shakespeare Now",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "BUCH-Floor 2-Room B210 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Dennis Britton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 242-002 - Introduction to Children's and Young Adult Literature",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/6",
+    "Section Details": "BUCH-Floor 2-Room B210 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Sarika Bose",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 243-002 - Speculative Fiction",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/6",
+    "Section Details": "BUCH-Floor 2-Room B210 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Gisele Baxter",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 245-002 - Comics and Graphic Media",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/75",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "BIOL-Floor 2-Room 2200 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Kevin McNeilly",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENGL_V 248-001 - Mystery and Detective Fiction",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 75/75",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/6",
+    "Section Details": "BUCH-Floor 2-Room B213 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Alexander Dick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENST_V 211-201 - The State of the Earth",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "GEOG-Floor 1-Room 100 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Loch Brown",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVE_V 201-201 - Technical Communications for Environmental Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/55",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MCLD-Floor 3-Room 3014 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Pamela Wolf",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVE_V 202-201 - Environmental Engineering Science",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/55",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "FORW-Floor 3-Room 317 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Zeina Baalbaki",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVE_V 202-L2A - Environmental Engineering Science",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FORW-Floor 3-Room 317 | Mon | 2:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Zeina Baalbaki",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVE_V 203-201 - Environmental Engineering and Sustainability",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/55",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "CEME-Floor 1-Room 1204 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Tamara Etmannski",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVE_V 203-T2A - Environmental Engineering and Sustainability",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 3-Room 308 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Tamara Etmannski",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVE_V 203-T2B - Environmental Engineering and Sustainability",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 3-Room 310 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Tamara Etmannski",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVR_V 200-201 - Introduction to Environmental Science",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BIOL-Floor 1-Room 1012 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Kendra Chritz, Michael Lipsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ENVR_V 200-T02 - Introduction to Environmental Science",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/48",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 213-201 - Computational Methods in Geological Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/75",
+    "Section Details": "ESB-Floor 2-Room 2012 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Eldad Haber",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 221-201 - Introductory Petrology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/80",
+    "Section Details": "ESB-Floor 2-Room 2012 | Tue Thu | 9:30 a.m. - 10:30 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Maya Kopylova, Stuart Sutherland",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 221-L2A - Introductory Petrology",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/15",
+    "Section Details": "EOS-Floor 1-Room 105 | Mon | 6:00 p.m. - 9:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 221-L2B - Introductory Petrology",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/15",
+    "Section Details": "EOS-Floor 1-Room 105 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 221-L2C - Introductory Petrology",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "EOS-Floor 1-Room 105 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 221-L2D - Introductory Petrology",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/20",
+    "Section Details": "EOS-Floor 1-Room 105 | Thu | 3:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 221-L2F - Introductory Petrology",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/15",
+    "Section Details": "EOS-Floor 1-Room 105 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 222-201 - Geological Time and Stratigraphy",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/65",
+    "Section Details": "EOS-Floor 1-Room 135 | Tue Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Louise Longridge, Stuart Sutherland",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 222-L2A - Geological Time and Stratigraphy",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "Section Details": "EOS-Floor 1-Room 101 | Wed | 1:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 222-L2B - Geological Time and Stratigraphy",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/25",
+    "Section Details": "EOS-Floor 1-Room 101 | Fri | 9:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

@@ -4,377 +4,609 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CHBE-Floor 2-Room 294 | Wed | 9:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Pre-requisites for this pilot course are: One of BMEG 373, ELEC 473.\nStudents without the pre-requisites will be dropped before the course starts. \nStudents may contact the course instructor for permission to be registered if they completed a course related to microfluidics or other fluids/transport in mechanical or chemical engineering or have hands-on experience in microfluidics/MEMS.\n\nPlease note the following course format: \nLaboratory: WEDNESDAYS 9AM-11AM\n\nLecture: WEDNESDAYS 11AM-12PM\n\nDiscussion: FRIDAYS 1pm-2pm",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Govind Kaigala",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 400-Q_201 - MEDICAL IMAGE PROCESSING AND MACHINE LEARNING (Q)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CHBE-Floor 4-Room 404 | Mon Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Pre-requisites: ELEC 221 & STAT 251. Students without the pre-requisites for the course will be dropped from the course.\n\nPlease note Thursdays 3:00PM-6:00PM is a lab, not lecture.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Negar Mohaghegh Harandi, Sharareh Bayat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 401-201 - Economics of Healthcare Solutions",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 81/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "CEME-Floor 1-Room 1202 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 401-202 - Economics of Healthcare Solutions",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/20",
+    "Section Details": "BUCH-Floor 2-Room D218 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Fraser Pogue",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 422-201 - Modern Biomedical Optical Imaging",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "CEME-Floor 1-Room 1215 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Myeong Jin Ju",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 424-201 - Genome Informatics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/50",
+    "Section Details": "CEME-Floor 1-Room 1204 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Carl de Boer",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 425-201 - Biomedical Robotics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "CEME-Floor 1-Room 1204 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Manu Madhav",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 470-201 - Cellular  Responses  to Forces and Biomaterials",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "MCLD-Floor 3-Room 3014 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Dena Shahriari",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 474-201 - Stem Cells and Regenerative Medicine",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/20",
+    "Section Details": "CHBE-Floor 1-Room 103 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Fabio Rossi, Michael Underhill",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 490-A_201 - Introduction to Academic Research (A)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "Section Details": "IRC-Floor 1-Room G66 | Tue | 8:30 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students must be in fourth year, have a minimum average of 80% in third year, and have the permission of the instructor to enroll. To register for the course, please review the instructions on https://www.bme.ubc.ca/bmeg-490/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robyn Newell",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 495-201 - Biomaterials",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/27",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/30",
+    "Section Details": "MCLD-Floor 2-Room 2002 | Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-14",
     "Course Section Definition Public Notes": "BMEG students are supposed to take BMEG 495, instead of MTRL 495. The course does require knowledge in materials and it requires APSC278 as a pre-requisite.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Rizhi Wang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 495-T2A - Biomaterials",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/27",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FORW-Floor 3-Room 303 | Mon | 2:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 414-201 - Data Visualization and Business Analytics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/0",
+    "Section Details": "HENN-Floor 2-Room 304 | Tue | 3:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alym Amlani",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 414-202 - Data Visualization and Business Analytics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/0",
+    "Section Details": "Thu | 6:30 p.m. - 9:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with mid-term and final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alym Amlani",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 450-201 - Intermediate Financial Accounting II",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/0",
+    "Section Details": "ANGU-Floor 2-Room 241 | Thu | 6:30 p.m. - 9:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Tajinder Singh",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 450-202 - Intermediate Financial Accounting II",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/0",
+    "Section Details": "Mon | 6:30 p.m. - 9:30 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with mid-term and final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robert Brian Bruce",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 453-201 - Advanced Financial Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/0",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Thu | 6:30 p.m. - 9:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Barbara Wyntjes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 453-202 - Advanced Financial Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/0",
+    "Section Details": "Tue | 6:30 p.m. - 9:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with mid-term and final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Barbara Wyntjes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 455-201 - Principles of Auditing",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/0",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon | 6:30 p.m. - 9:30 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Grant Mowbray",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 455-202 - Principles of Auditing",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/0",
+    "Section Details": "Wed | 6:30 p.m. - 9:30 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Douglas Yee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 465-203 - Marketing Management",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/0",
+    "Section Details": "ANGU-Floor 3 & 4-Room 334 | Mon | 6:00 p.m. - 9:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jarrett Vaughan",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 493-201 - Strategic Management in Business",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/0",
+    "Section Details": "ANGU-Floor 2-Room 254 | Wed | 6:30 p.m. - 9:30 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Megan Hamilton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BUSI_V 493-202 - Strategic Management in Business",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/0",
+    "Section Details": "Thu | 6:30 p.m. - 9:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with mid-term and final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Megan Hamilton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CAPS_V 424-001 - Mammalian Endocrinology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Location: LSC 1510.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Tim Kieffer",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CAPS_V 426-001 - Nervous System Function in Human Health and Disease",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/20",
+    "Section Details": "IBLC-Floor 1-Room 182 | Tue Thu | 9:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Kurt Haas",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CAPS_V 431-001 - PHYS HUMAN HLTH",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/30",
+    "Section Details": "BIOL-Floor 3-Room 3017 | Fri | 10:00 a.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Christina Hull, Douglas Allan, Frank Huynh",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CAPS_V 448-B_002 - Directed Studies in Physiology (B)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "Instructors": "Pawel Kindler",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CDST_V 450-B_201 - Senior Seminar in Canadian Studies (B)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/6",
+    "Section Details": "BUCH-Floor 2-Room D209 | Thu | 9:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "For more information, please visit: https://canadianstudies.ubc.ca/program/core-courses-cdst-450/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kathryn Harrison",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 402-201 - Biomass Fractionation Technology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/50",
+    "Section Details": "IRC-Floor 1-Room G41 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Heather Trajano",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 419-201 - Industrial Biotechnology Laboratory",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MCML-Floor 2-Room 260 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Roza Vaez Ghaemi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 419-L2A - Industrial Biotechnology Laboratory",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/34",
+    "Section Details": "CHBE-Floor 4-Room 402 | Wed | 1:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Roza Vaez Ghaemi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 451-201 - Engineering Thermodynamics and Statistical Mechanics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Simcha Srebnik",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 451-T2A - Engineering Thermodynamics and Statistical Mechanics",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Simcha Srebnik",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 459-201 - Chemical and Biological Engineering Economics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 143/355",
+    "Section Details": "CHBE-Floor 1-Room 101 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Johan Foster",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 472-201 - Technologies for Human and Environmental Health",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/30",
+    "Section Details": "WESB-Floor 2-Room 201 | Tue | 4:00 p.m. - 7:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jane Hill",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 473-201 - Environmental Engineering and Sustainability Leadership",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "FNH-Floor B1-Room 30 | Mon Wed | 6:00 p.m. - 7:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Naoko Ellis",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 477-201 - Fuel Cell and Electrochemical Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/70",
+    "Section Details": "FNH-Floor B1-Room 60 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Elod Lajos Gyenge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 478-201 - Polymer Science and Processing.",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/70",
+    "Section Details": "MCLD-Floor 3-Room 3018 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "For registration assistance, please do not contact the instructor. Please contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Johan Foster, Orlando Rojas",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 482-201 - Energy Systems Modelling, Simulation and Optimization",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "SWNG-Floor 4-Room 406 | Wed | 9:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Petros Englezos, Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 482-T2A - Energy Systems Modelling, Simulation and Optimization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/35",
+    "Section Details": "SWNG-Floor 4-Room 406 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Petros Englezos, Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 486-201 - Waste Mitigation and Processing for Resource Recovery",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 79/165",
+    "Section Details": "IRC-Floor B1-Room 1 | Mon Wed | 4:30 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Anthony K Lau",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 488-201 - Carbon Capture, Conversion and Sequestration Technologies",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "CHBE-Floor 1-Room 103 | Mon | 3:00 p.m. - 4:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Naoko Ellis, Sergio Berretta",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 488-T2A - Carbon Capture, Conversion and Sequestration Technologies",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/10",
+    "Section Details": "FSC-Floor 1-Room 1611 | Tue | 4:30 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Naoko Ellis, Sergio Berretta",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 492-201 - Thesis",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHBE-Floor 1-Room 103 | Wed | 8:00 a.m. - 9:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students with a time conflict should contact undergrad@chbe.ubc.ca to arrange for conflict approvals.\nThe instructor will arrange class meeting frequency and times convenient for all registered students in the thesis proposal courses. For registration assistance, contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Elod Lajos Gyenge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 494-201 - Thesis-Environmental Topic",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHBE-Floor 1-Room 103 | Wed | 8:00 a.m. - 9:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students with a time conflict should contact undergrad@chbe.ubc.ca to arrange for conflict approvals.\nThe instructor will arrange class meeting frequency and times convenient for all registered students in the thesis proposal courses. For registration assistance, contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Elod Lajos Gyenge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHBE_V 496-201 - Thesis Biotechnology Topic",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "5 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHBE-Floor 1-Room 103 | Wed | 8:00 a.m. - 9:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students with a time conflict should contact undergrad@chbe.ubc.ca to arrange for conflict approvals.\nThe instructor will arrange class meeting frequency and times convenient for all registered students in the thesis proposal courses. For registration assistance, contact undergrad@chbe.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Elod Lajos Gyenge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 401-299 - Principles of Spectroscopy",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "CHEM-Floor 2-Room D317 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Takamasa Momose",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 402-209 - Diffraction Methods",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/60",
+    "Section Details": "CHEM-Floor B1-Room C126 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Brian Patrick",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 407-233 - Statistical Mechanics in Chemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/9",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CHEM-Floor 2-Room D317 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Grenfell Patey",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 409-199 - Astrochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "CHEM-Floor 1-Room D215 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

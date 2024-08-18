@@ -4,369 +4,578 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/25",
+    "Section Details": "EOS-Floor 1-Room 101 | Tue | 1:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 223-201 - Field Techniques",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/65",
+    "Section Details": "ESB-Floor 2-Room 2012 | Mon Wed | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Brett Gilley, Mitch d'Arcy, Simon Peacock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 223-L2A - Field Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/16",
+    "Section Details": "EOS-Floor 1-Room 101 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 223-L2B - Field Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/20",
+    "Section Details": "EOS-Floor 1-Room 101 | Tue | 3:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 223-L2C - Field Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "EOS-Floor 1-Room 105 | Fri | 1:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 223-L2D - Field Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/20",
+    "Section Details": "EOS-Floor 1-Room 101 | Thu | 3:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 223-L2E - Field Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/15",
+    "Section Details": "EOS-Floor 1-Room 101 | Fri | 3:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 240-201 - Site Investigation",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/47",
+    "Section Details": "EOS-Floor 1-Room 135 | Wed | 1:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jason Yeung",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 240-L2A - Site Investigation",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/47",
+    "Section Details": "EOS-Floor 1-Room 135 | Wed | 3:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jason Yeung",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 250-201 - Fields and Fluxes",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/25",
+    "Section Details": "ORCH-Floor 3-Room 3004 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 270-201 - Marine Ecosystems",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/80",
+    "Section Details": "ESB-Floor 2-Room 2012 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Brian Hunt",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FIPR_V 233-B_001 - Film and Media Production I (B)",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "This Course is Restricted to Students in the 2nd Year of the BFA in Film Production.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Shannon Walsh",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FIPR_V 299-B_001 - Directed Studies: On-Campus Research (B)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "This course is restricted to FIPR BFA and Diploma majors and to other students majoring in CRWR, CINE, and THTR by special permission. Please see your faculty advisor for details.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Antoine Bourges, Igor Drljaca, Shannon Walsh, Sharon McGowan",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FMST_V 210-202 - Family Context of Human Development",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 400/400",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 29/50",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the Instructor or the department about enrolling in this course if there are no seats available in the course or on the Wait List. Enrolment cannot go over the cap. If you want to get into the course, your only option is to keep an eye on the Wait List. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kathy Greaves",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FMST_V 210-206 - Family Context of Human Development",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 123/200",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 1-Room A101 | Wed Fri | 11:00 a.m. - 12:30 p.m. | 2025-01-08 - 2025-02-14",
     "Course Section Definition Public Notes": "Waitlist is now available for this course. Please do not contact the instructor or the department about enrolling in this course if there are no seats available in the course or on the waitlist. Please continue to monitor registration online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Rafael Wainer",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FMST_V 210-207 - Family Context of Human Development",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 180/180",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/25",
+    "Section Details": "HENN-Floor 1-Room 200 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Waitlist is now available for this course. Please do not contact the instructor or the department about enrolling in this course if there are no seats available in the course or on the waitlist. Please continue to monitor registration online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Chelsea Freeborn",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FMST_V 210-208 - Family Context of Human Development",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 139/200",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "CIRS-Floor 1-Room 1250 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Waitlist is now available for this course. Please do not contact the instructor or the department about enrolling in this course if there are no seats available in the course or on the waitlist. Please continue to monitor registration online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Chelsea Freeborn",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNEL_V 202-A_001 - Intermediate Salish Language II (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/40",
+    "Section Details": "Mon Wed | 4:30 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Prerequisites: FNEL 201 in the same language. An intermediate level study of henqeminem, the traditional language of the Musqueam people. The location of the class is on the Musqueam Reserve at the Musqueam Community Center, 6735 Salish Drive, Vancouver, B.C. For further information, please contact cis.program@ubc.ca For interested students, please register on the waitlist as we will be conducting a pre-requisite check and notifying students that are accepted into the course. Please note that registering on the waitlist does not guarantee that students will get into the course.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Grace Point Bassett",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNH_V 200-103 - Exploring Our Food",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 69/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 50/50",
+    "Section Details": "ESB-Floor 1-Room 1012 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Azita Madadi Noei",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNH_V 200-104 - Exploring Our Food",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 149/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 50/50",
+    "Section Details": "Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Siyun Wang Kazun",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNH_V 250-002 - Nutrition Concepts and Controversies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 112/125",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/30",
+    "Section Details": "IRC-Floor B1-Room 6 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Gail Hammond",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNIS_V 220-001 - Representation and Indigenous Cultural Politics",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/45",
+    "Section Details": "BUCH-Floor 2-Room D217 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "is recommended that you complete FNIS 100 prior to taking FNIS 220. Credits will be granted for only one of FNSP 200, FNIS 220, or FNSP 220. This course is intended for undergraduate students only. If you are a graduate student, please visit: http://fnis.arts.ubc.ca/graduate-courses/. This section is now full, please register in the waitlist and you will be moved to the course when a spot opens up",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Candis Callison",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-201 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 3-Room B309 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Zoe Nassehi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-202 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "UCEN-Floor 1-Room 103 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ \n\n3 seats for this section have been saved from open registration to support students who missed registration due to WD technical issues. Please reach out to fhis.undergrad@ubc.ca if you need support on this.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Caroline Lebrec",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-203 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/100",
+    "Section Details": "UCEN-Floor 1-Room 103 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Cecile Ollivier-Budisa",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-204 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B211 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Zoe Nassehi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-205 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/100",
+    "Section Details": "UCEN-Floor 1-Room 103 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Cecile Ollivier-Budisa",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-207 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B208 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Irem Ayan",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-208 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/100",
+    "Section Details": "BUCH-Floor 3-Room B303 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Somayeh Kamranian",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 202-209 - Elementary French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/100",
+    "Section Details": "BUCH-Floor 3-Room D312 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.air.arts.ubc.ca/french-placement-questionnaire-tool/  \n\nIf you have experience of French 12, or French Immersion, you are not allowed to stay in FREN 202.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren202/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Somayeh Kamranian",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRE_V 290-002 - Introductory Topics in Food and Resource Economics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/30",
+    "Section Details": "SCRF-Floor B1-Room 1003 | Mon Wed | 10:00 a.m. - 11:30 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRE_V 290-L01 - Introductory Topics in Food and Resource Economics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/30",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 210-201 - Forest Plant Biology II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 140/180",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "CHBE-Floor 1-Room 101 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 210-L01 - Forest Plant Biology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/40",
+    "Section Details": "FSC-Floor 1-Room 1310 | Tue | 8:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 210-L02 - Forest Plant Biology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FSC-Floor 1-Room 1310 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 210-L03 - Forest Plant Biology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/40",
+    "Section Details": "FSC-Floor 1-Room 1310 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 210-L04 - Forest Plant Biology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FSC-Floor 1-Room 1310 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 210-L05 - Forest Plant Biology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/35",
+    "Section Details": "FSC-Floor 1-Room 1310 | Tue | 4:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 211-201 - Forest Classification and Silvics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 123/170",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "ESB-Floor 1-Room 1013 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 211-L01 - Forest Classification and Silvics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/32",
+    "Section Details": "FSC-Floor 1-Room 1611 | Tue | 8:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 211-L02 - Forest Classification and Silvics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/32",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 211-L03 - Forest Classification and Silvics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/32",
+    "Section Details": "MCML-Floor 2-Room 256 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 211-L04 - Forest Classification and Silvics",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/32",
+    "Section Details": "FSC-Floor 1-Room 1325 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 211-L05 - Forest Classification and Silvics",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/32",
+    "Section Details": "FSC-Floor 1-Room 1220 | Tue | 4:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 231-201 - Introduction to Biometrics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/90",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "FSC-Floor 1-Room 1221 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Younes Alila",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 231-LA1 - Introduction to Biometrics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/45",
+    "Section Details": "FSC-Floor 1-Room 1615 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Younes Alila",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 231-LA2 - Introduction to Biometrics",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/45",
+    "Section Details": "FSC-Floor 1-Room 1404 | Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Younes Alila",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 232-201 - Computer Applications in Forestry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "DMP-Floor 3-Room 301 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Suborna Ahmed",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 232-LA1 - Computer Applications in Forestry",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/40",
+    "Section Details": "FSC-Floor 1-Room 1406 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Suborna Ahmed",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 232-LA3 - Computer Applications in Forestry",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FSC-Floor 1-Room 1404 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Suborna Ahmed",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

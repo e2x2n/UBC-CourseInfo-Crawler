@@ -1,0 +1,615 @@
+[
+  {
+    "Course Section": "ENGL_V 392-A_002 - Children's Literature (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/6",
+    "Section Details": "BUCH-Floor 3-Room D322 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Suzanne James",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENGL_V 392-A_99C - Children's Literature (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/6",
+    "Instructors": "Sarika Bose",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENPH_V 352-L2C - Laboratory Techniques in Physics",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/18",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/18",
+    "Section Details": "HEBB-Floor 5-Room 512 | Tue | 11:00 a.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Mark Halpern",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENPH_V 352-L2D - Laboratory Techniques in Physics",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/18",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/18",
+    "Section Details": "HEBB-Floor 5-Room 512 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Mark Halpern",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENPH_V 353-201 - Engineering Physics Project I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/33",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 462 | Tue | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Ioan Isbasescu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENPH_V 353-L2A - Engineering Physics Project I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/33",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 3-Room 316 | Thu | 10:00 a.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Ioan Isbasescu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENST_V 310-201 - Environment and Sustainability",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "GEOG-Floor 1-Room 100 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Alec Blair",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENST_V 311-201 - Urban Environments",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "GEOG-Floor 2-Room 200 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Alec Blair",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENST_V 351-201 - Urban Environmental Politics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/21",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "GEOG-Floor 2-Room 200 | Wed Fri | 11:00 a.m. - 12:30 p.m. | 2025-01-08 - 2025-02-14",
+    "Instructors": "Mohammed Arefin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENVE_V 301-201 - Environmental Engineering Intermediate Design Project",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "SWNG-Floor 4-Room 407 | Tue | 8:30 a.m. - 9:30 a.m. | 2025-01-07 - 2025-02-11",
+    "Course Section Definition Public Notes": "For registration assistance, do not contact the instructor. Please contact environmental.engineering@ubc.ca.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENVE_V 301-T2A - Environmental Engineering Intermediate Design Project",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 4-Room 407 | Tue | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENVR_V 300-201 - Introduction to Research in Environmental Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 64/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 21/20",
+    "Section Details": "ORCH-Floor 4-Room 4074 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Valentina Radic",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ENVR_V 300-L2A - Introduction to Research in Environmental Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 64/72",
+    "Course Section Definition Public Notes": "Lab component for registration purposes only. LAB TIMES DO NOT MEET",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 310-99C - The Earth and the Solar System",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 77/500",
+    "Course Section Definition Public Notes": "EOSC 310 is a hybrid, asynchronous course for all students.  All course content is available directly on the course website or through links to outside resources. There is no textbook for this course. All Quizzes and Assignments are open over a set number of days for students to complete when it fits best within their own schedule. These are then submitted online, through the Course Website. There are no lectures to attend or video lectures to follow. The only time students need to attend a session in-person is for the written final exam. The final exam will be written during the UBC exam period, at a time and date arranged by UBC Exam Services. All students will attend the final exam in-person in a UBC classroom.",
+    "Instructors": "Stuart Sutherland",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 314-201 - The Ocean Environment",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/48",
+    "Section Details": "MCML-Floor 1-Room 160 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Leah May Ver",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 314-99C - The Ocean Environment",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/500",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 315-99C - The Ocean Ecosystem",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 110/500",
+    "Instructors": "Michael Lipsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 320-201 - Sedimentology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/50",
+    "Section Details": "EOS-Floor 1-Room 135 | Tue Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 320-L2A - Sedimentology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/15",
+    "Section Details": "EOS-Floor 1-Room 127 | Mon | 11:00 a.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 320-L2B - Sedimentology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/15",
+    "Section Details": "EOS-Floor 1-Room 127 | Thu | 3:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 320-L2C - Sedimentology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/15",
+    "Section Details": "EOS-Floor 1-Room 127 | Wed | 4:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 322-201 - Metamorphic Petrology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/60",
+    "Section Details": "EOS-Floor 1-Room 135 | Tue Thu | 9:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Simon Peacock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 322-L2A - Metamorphic Petrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/10",
+    "Section Details": "EOS-Floor 2-Room 201 | Mon | 3:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Simon Peacock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 322-L2B - Metamorphic Petrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/16",
+    "Section Details": "EOS-Floor 2-Room 201 | Tue | 3:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Simon Peacock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 322-L2C - Metamorphic Petrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/18",
+    "Section Details": "EOS-Floor 2-Room 201 | Thu | 3:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Simon Peacock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 326-99C - Earth and Life Through Time",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/200",
+    "Course Section Definition Public Notes": "EOSC 326 is a hybrid, asynchronous course for all students.  All course content is available directly on the course website or through links to outside resources. There is no textbook for this course. All Quizzes and Assignments are open over a set number of days for students to complete when it fits best within their own schedule. These are then submitted online, through the Course Website. There are no lectures to attend or video lectures to follow. The only time students need to attend a session in-person is for the written final exam. The final exam will be written during the UBC exam period, at a time and date arranged by UBC Exam Services. All students will attend the final exam in-person in a UBC classroom.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 328-201 - Field Geology",
+    "Instructional Format": "Experiential",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/40",
+    "Instructors": "James Scoates, Kenneth Hickey, Matthijs Smit",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 332-201 - Tectonic Evolution of North America",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/50",
+    "Section Details": "EOS-Floor 1-Room 135 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Matthijs Smit",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 333-201 - Elemental and Isotopic Geochemistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/50",
+    "Section Details": "FNH-Floor B1-Room 30 | Mon Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Dominique Weis",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 333-L2A - Elemental and Isotopic Geochemistry",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/16",
+    "Section Details": "EOS-Floor 2-Room 203 | Fri | 1:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 333-L2B - Elemental and Isotopic Geochemistry",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/16",
+    "Section Details": "EOS-Floor 2-Room 203 | Wed | 3:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 340-201 - Climate Change: Causes and Solutions",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 95/124",
+    "Section Details": "MCML-Floor 1-Room 166 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Anais Orsi, Philip Austin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 373-201 - Introductory Oceanography: Climate and Ecosystems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/90",
+    "Section Details": "LIFE-Floor 2-Room 2202 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Kristin Orians, Susan Allen, Yevhenii Pakhomov",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 398-201 - Co-operative Work Placement I",
+    "Instructional Format": "Experiential",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EOSC_V 399-201 - Co-operative Work Placement II",
+    "Instructional Format": "Experiential",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "EPSE_V 310-A_101 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-03-18",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_101 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S01 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_102 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 202 | Fri | 8:00 a.m. - 9:00 a.m. | 2025-01-10 - 2025-03-21",
+    "Instructors": "Meredith Fenton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_102 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S02 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_103 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 201 | Fri | 8:00 a.m. - 9:00 a.m. | 2025-01-10 - 2025-03-21",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_103 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S03 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_104 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 200 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-03-19",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_104 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S04 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_105 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1004 | Mon | 8:00 a.m. - 9:00 a.m. | 2025-01-06 - 2025-03-17",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_105 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S05 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_107 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 207 | Fri | 8:00 a.m. - 9:00 a.m. | 2025-01-10 - 2025-03-21",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_107 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S07 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_108 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 200 | Wed | 8:00 a.m. - 9:00 a.m. | 2025-01-08 - 2025-03-19",
+    "Instructors": "Kelly Cleeve",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_108 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S08 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_109 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-03-17",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_109 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S09 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_110 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1004 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-03-17",
+    "Instructors": "Christi Livingstone",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_110 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S10 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_640 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Course Section Definition Public Notes": "Restricted to students in the West Kootenay Teacher Education Program.",
+    "Instructors": "Denise Flick, Susanne Maguire",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_640 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S40 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_S01 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Tue | 3:00 p.m. - 4:30 p.m. | 2025-01-07 - 2025-03-18",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_101 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S01 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_S02 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 202 | Fri | 9:00 a.m. - 10:30 a.m. | 2025-01-10 - 2025-03-21",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_102 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S02 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_S03 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 201 | Fri | 9:00 a.m. - 10:30 a.m. | 2025-01-10 - 2025-03-21",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_103 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S03 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_S04 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 200 | Wed | 3:00 p.m. - 4:30 p.m. | 2025-01-08 - 2025-03-19",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_104 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S04 - Assessment and Learning in the Classroom (A)"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 310-A_S05 - Assessment and Learning in the Classroom (A)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1004 | Mon | 9:00 a.m. - 10:30 a.m. | 2025-01-06 - 2025-03-17",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "EPSE_V 310-A_105 - Assessment and Learning in the Classroom (A)",
+      "EPSE_V 310-A_S05 - Assessment and Learning in the Classroom (A)"
+    ]
+  }
+]

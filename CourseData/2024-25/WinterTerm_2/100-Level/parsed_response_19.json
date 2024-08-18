@@ -4,396 +4,659 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/405",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-DAR - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/400",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2A - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Thu | 9:00 a.m. - 10:00 a.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2B - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2C - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "HEBB-Floor 3-Room 314 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2D - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2E - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/100",
+    "Section Details": "SWNG-Floor 3-Room 305 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2F - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Tue | 4:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2G - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "GEOG-Floor 2-Room 214 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2H - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor B1-Room B112 | Thu | 12:30 p.m. - 1:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2I - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2J - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 3-Room 314 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2K - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2L - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2M - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Wed | 12:00 p.m. - 1:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2N - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor 3-Room 314 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2P - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2Q - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "SCRF-Floor B1-Room 1023 | Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-T2R - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/49",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 8:30 a.m. - 9:30 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TA2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor B1-Room B112 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TB2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TC2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TD2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "MATH-Floor 1-Room 104 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TE2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TG2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TH2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-TI2 - Introductory Physics for Engineers II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-9AR - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/350",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2A - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Tue | 9:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2B - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Wed | 8:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2C - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Thu | 9:30 a.m. - 12:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2E - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Tue | 1:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2F - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Wed | 1:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2G - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2J - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Tue | 4:30 p.m. - 7:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2K - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Wed | 4:30 p.m. - 7:30 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2T - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2U - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Mon | 1:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-L2X - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 218 | Mon | 4:30 p.m. - 7:30 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LB2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 8:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LC2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Thu | 9:30 a.m. - 12:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LE2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 1:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LF2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 1:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LG2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LJ2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 4:30 p.m. - 7:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LK2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 4:30 p.m. - 7:30 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LT2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Mon | 9:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge, Chironjeev Kanjilal",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 159-LU2 - Introductory Physics Laboratory for Engineers",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "HEBB-Floor 2-Room 216 | Mon | 1:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 159 is via a first year engineering timetable. If you require PHYS 159, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge, Chironjeev Kanjilal",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-201 - Mechanics I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 365/375",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 29/100",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Marina Litinskaya, Matthew Choptuik",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 170-202 - Mechanics I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 160/180",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 23/100",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 170 is via a first year engineering timetable. If you require PHYS 170, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Matthew Choptuik, Mona Berciu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

@@ -4,376 +4,579 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 73/75",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/10",
+    "Section Details": "FRWO-Floor 1-Room 102 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding waitlist section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Emily Dotson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "THTR_V 150-B_001 - Introduction to Production (B)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FRWO-Floor 1-Room 112 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This course is restricted to BFA students in The Departmnet of Theatre & Film, and BA Theatre Studies students. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Bradley Powers",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "TIBT_V 100-011 - Introduction to Tibetan I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 2-Room D207 | Mon Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Sonam Chusang",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "TIBT_V 100-012 - Introduction to Tibetan I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SWNG-Floor 4-Room 406 | Tue Thu | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Sonam Chusang",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "UFOR_V 100-101 - Greening the City",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 112/140",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "DMP-Floor 3-Room 310 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Andrew Almas",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "UKRN_V 125-101 - Basic Ukrainian",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/15",
+    "Section Details": "BUTO-Floor 9-Room 997 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Cross listed with UKRN 225. Do you have a connection to the Ukrainian nation? Curious to know about Ukrainian language and culture? Want to stand with Ukraine in the struggle for its sovereignty and the peaceful democratic future of the world? It's time to turn your dreams into reality! This 6-credit course will help you build confidence in communicating in a language which is quite different from Germanic and Romance languages as well as introduce you to the life of contemporary Ukraine, its rich culture and history. \n\nSample syllabus here.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Olena Morozova",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_V01 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 205 | Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Anka Lekhi, Weaver Shaw",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_V02 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/22",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.\nPlease note Monday's session in Term 1 will take place in SWNG 205.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Anka Lekhi, Brett Todd",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_V03 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 205 | Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Alfredo Ferreira, Anka Lekhi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_V04 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.\nPlease note Monday's session in Term 1 will take place in SWNG 205.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Anka Lekhi",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_VE1 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4016 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Alfredo Ferreira, Daniel Riccardi, Jennifer Walsh Marr",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_VE2 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3002 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Alfredo Ferreira, Daniel Riccardi, Jennifer Walsh Marr",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 140-D_VE3 - Content and Language Enrichment Tutorials (D)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4016 | Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Engineering students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Alfredo Ferreira, Daniel Riccardi, Jennifer Walsh Marr",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 148-VGM - UBC Vantage College Projects",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 89/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 3-Room 3014 | Mon | 10:00 a.m. - 11:30 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 150-VE1 - Sustainability and Engineering Design",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/75",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 150-VT1 - Sustainability and Engineering Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/35",
+    "Section Details": "ORCH-Floor 4-Room 4002 | Fri | 2:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VANT_V 150-VT3 - Sustainability and Engineering Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/35",
+    "Section Details": "ORCH-Floor 4-Room 4002 | Mon | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage College students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "VISA_V 110-001 - Foundation Studio: Digital Media",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 190/190",
+    "Section Details": "Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "VISA 110 001 lecture is delivered online. The studio (tutorial) sections are delivered in person. You must sign up for both the lecture and one of the studio sections. There is no waitlist for VISA 110. Please check regularly for seats, particularly at the start of term as students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L01 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Mon | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L02 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Mon | 6:00 p.m. - 8:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L03 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L04 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L05 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L06 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Tue | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L07 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Thu | 10:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L08 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Thu | 12:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L09 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 110-L10 - Foundation Studio: Digital Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room B125 | Thu | 4:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-001 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 119/110",
+    "Section Details": "Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "VISA 180 001 lecture is delivered online. The studio (tutorial) sections are delivered in person. You must sign up for both the lecture and one of the studio sections. There is no waitlist for VISA 180. Please check regularly for seats, particularly at the start of term as students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Marina Roy",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-L01 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Mon | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-L02 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-L03 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Tue | 5:00 p.m. - 8:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-L04 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Wed | 9:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-L05 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Thu | 9:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 180-L06 - Foundation Studio: Approaches to Media",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "DSOM-Floor 1-Room 107 | Thu | 5:00 p.m. - 8:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 183-001 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 80/75",
+    "Section Details": "IBLC-Floor 1-Room 185 | Thu | 9:00 a.m. - 10:00 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "VISA 183 001 lecture is delivered online. The studio (tutorial) sections are delivered in person. You must sign up for both the lecture and one of the studio sections.\n\nThere is a quiet study space booked for class during the lecture timeslot (Thursdays, 9:00–10:00 am). You can use this space to attend the online lecture (using your own device) if you are on campus and prefer a quiet space to listen to the lecture, ask questions, etc. IBLC room 185 at 1961 East Mall (the Irving K. Barber Learning Centre).\n\nThere is no waitlist for VISA 183. Please check regularly for seats, particularly at the start of term as students are rearranging their schedules.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Gareth James",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 183-L01 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "DSOM-Floor 2-Room 200 | Mon | 9:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 183-L02 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "DSOM-Floor 2-Room 200 | Mon | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 183-L03 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "PCE-Floor 3-Room 3007 | Tue | 9:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "VISA_V 183-L04 - Foundation Studio: Ideas as Practice I",
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "DSOM-Floor 2-Room 200 | Tue | 5:00 p.m. - 8:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WOOD_V 120-101 - Introduction to Wood Products and Global Trade",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/60",
+    "Section Details": "FSC-Floor 2-Room 2965 | Mon Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Vincent Leung",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WOOD_V 120-L01 - Introduction to Wood Products and Global Trade",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/60",
+    "Section Details": "FSC-Floor 2-Room 2965 | Thu | 1:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Vincent Leung",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_001 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 2-Room D207 | Mon Tue Thu | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Kimberly Richards",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_002 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 3-Room B308 | Mon Tue Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts.Some seats are reserved for BMUS students\n \nVisit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for a waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Kimberly Richards",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_003 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 2-Room D221 | Mon Tue Thu | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts.Some seats are reserved for BMUS students\n \nVisit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Kimberly Richards",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_020 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B310 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Thomas Andrews",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_030 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 3-Room B310 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Thomas Andrews",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_031 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "BUCH-Floor 2-Room B209 | Wed Fri | 8:00 a.m. - 9:30 a.m. | 2024-09-04 - 2024-12-06",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Diane Burgess",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_032 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "SWNG-Floor 4-Room 406 | Wed Fri | 10:00 a.m. - 11:30 a.m. | 2024-09-04 - 2024-12-06",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Diane Burgess",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "WRDS_V 150-A_034 - Writing and Research in the Disciplines (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/1",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Wed Fri | 12:00 p.m. - 1:30 p.m. | 2024-09-04 - 2024-12-06",
     "Course Section Definition Public Notes": "WRDS 150A is ONLY for students in the Faculty of Arts. \n Visit WRDS 150A Topics - Term 1 - School of Journalism, Writing, and Media (ubc.ca) for WRDS 150A course topics.\n\nIf this section is closed (full), you can register for the waiting list at this JWAM link:  https://jwam.ubc.ca/wrds-150a-waitlist-winter-terms-1-2/\n\nStudents in other Faculties: Use the 'Search' field for WRDS 150-B.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Diane Burgess",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

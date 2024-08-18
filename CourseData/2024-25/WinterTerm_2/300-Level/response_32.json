@@ -71,49 +71,6 @@
         {
           "widget": "facet",
           "ecid": "56$510830",
-          "iid": "5326$11034",
-          "enabled": false,
-          "label": "Campus",
-          "promptInstance": {
-            "widget": "monikerList",
-            "ecid": "56$510742",
-            "iid": "15$72149",
-            "enabled": false,
-            "label": "Facet Search Instance Set",
-            "selfUriTemplate": "/ubc/inst/15$72149/[IID]",
-            "relatedTasksUriTemplate": "/ubc/inst/[IID]/rel-tasks",
-            "propertyName": "nyw:Facet_Search_Instance_Set--IS",
-            "singular": true
-          },
-          "facetValues": [
-            {
-              "widget": "facetValue",
-              "ecid": "56$510931",
-              "iid": "216$24345",
-              "enabled": false,
-              "label": "UBC Vancouver Campus",
-              "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1310
-            },
-            {
-              "widget": "facetValue",
-              "ecid": "56$510931",
-              "iid": "216$41607",
-              "enabled": false,
-              "label": "UBC",
-              "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1310
-            }
-          ],
-          "expandState": "half",
-          "singleSelect": "0",
-          "propertyName": "nyw:Facet_Category"
-        },
-        {
-          "widget": "facet",
-          "ecid": "56$510830",
           "iid": "5326$11108",
           "enabled": false,
           "label": "Course Level/Tags",
@@ -136,8 +93,8 @@
               "enabled": false,
               "label": "Course Standing Type :: Credit/D/Fail",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 3151
+              "count": 3150,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -146,9 +103,9 @@
               "enabled": false,
               "label": "Course Level :: 300 Level",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "full",
+              "selected": true,
               "count": 1629,
-              "selected": true
+              "selectedState": "full"
             },
             {
               "widget": "facetValue",
@@ -157,8 +114,8 @@
               "enabled": false,
               "label": "Course Level :: 100 Level",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1294
+              "count": 1291,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -167,8 +124,8 @@
               "enabled": false,
               "label": "Course Level :: 400 Level",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1245
+              "count": 1242,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -177,8 +134,8 @@
               "enabled": false,
               "label": "Course Level :: 200 Level",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1014
+              "count": 1014,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -187,8 +144,8 @@
               "enabled": false,
               "label": "Administrative Shell Course :: Off-campus Courses",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 320
+              "count": 307,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -197,8 +154,8 @@
               "enabled": false,
               "label": "Administrative Shell Course :: Co-operative Education",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 130
+              "count": 130,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -207,8 +164,8 @@
               "enabled": false,
               "label": "Administrative Shell Course :: Not for Credits",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 65
+              "count": 65,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -217,8 +174,8 @@
               "enabled": false,
               "label": "Course Standing Type :: Externally Graded",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 61
+              "count": 61,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -227,8 +184,8 @@
               "enabled": false,
               "label": "Administrative Shell Course :: Exchange",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 61
+              "count": 61,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -237,8 +194,8 @@
               "enabled": false,
               "label": "Course Standing Type :: T Standing",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 11
+              "count": 11,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -247,8 +204,8 @@
               "enabled": false,
               "label": "Course Standing Type :: No Grade Required",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 3
+              "count": 3,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -257,18 +214,8 @@
               "enabled": false,
               "label": "Course Standing Type :: Honours/Pass/Fail",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 2
-            },
-            {
-              "widget": "facetValue",
-              "ecid": "56$510931",
-              "iid": "14096$1",
-              "enabled": false,
-              "label": "Community Service Learning :: Community Service Learning (Mandatory)",
-              "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1
+              "count": 2,
+              "selectedState": "none"
             }
           ],
           "expandState": "half",
@@ -308,8 +255,8 @@
               "enabled": false,
               "label": "Computer Science (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 116
+              "count": 116,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -318,8 +265,8 @@
               "enabled": false,
               "label": "Biology (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 109
+              "count": 109,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -328,8 +275,8 @@
               "enabled": false,
               "label": "Commerce (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 85
+              "count": 85,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -338,8 +285,8 @@
               "enabled": false,
               "label": "Exchange Programs (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 56
+              "count": 56,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -348,8 +295,8 @@
               "enabled": false,
               "label": "Economics (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 53
+              "count": 53,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -358,8 +305,8 @@
               "enabled": false,
               "label": "Curriculum and Pedagogy (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 50
+              "count": 50,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -368,8 +315,8 @@
               "enabled": false,
               "label": "Psychology (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 45
+              "count": 45,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -378,8 +325,8 @@
               "enabled": false,
               "label": "Educational Psychology and Special Education (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 41
+              "count": 41,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -388,8 +335,8 @@
               "enabled": false,
               "label": "Law (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 39
+              "count": 39,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -398,8 +345,8 @@
               "enabled": false,
               "label": "Electrical Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 36
+              "count": 36,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -408,8 +355,8 @@
               "enabled": false,
               "label": "Asian Studies (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 35
+              "count": 35,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -418,8 +365,8 @@
               "enabled": false,
               "label": "Philosophy (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 33
+              "count": 33,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -428,8 +375,8 @@
               "enabled": false,
               "label": "Chemistry (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 32
+              "count": 32,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -438,8 +385,8 @@
               "enabled": false,
               "label": "History (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 31
+              "count": 31,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -448,8 +395,8 @@
               "enabled": false,
               "label": "Forestry (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 29
+              "count": 29,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -458,8 +405,8 @@
               "enabled": false,
               "label": "Geography (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 27
+              "count": 27,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -468,8 +415,8 @@
               "enabled": false,
               "label": "Food, Nutrition and Health (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 26
+              "count": 26,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -478,8 +425,8 @@
               "enabled": false,
               "label": "English (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 26
+              "count": 26,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -488,8 +435,8 @@
               "enabled": false,
               "label": "Political Science (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 24
+              "count": 24,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -498,8 +445,8 @@
               "enabled": false,
               "label": "Creative Writing (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 24
+              "count": 24,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -508,8 +455,8 @@
               "enabled": false,
               "label": "Mechanical Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 23
+              "count": 23,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -518,8 +465,8 @@
               "enabled": false,
               "label": "Language and Literacy Education (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 23
+              "count": 23,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -528,8 +475,8 @@
               "enabled": false,
               "label": "Statistics (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 22
+              "count": 22,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -538,8 +485,8 @@
               "enabled": false,
               "label": "Earth and Ocean Sciences (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 22
+              "count": 22,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -548,8 +495,8 @@
               "enabled": false,
               "label": "Computer Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 22
+              "count": 22,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -558,8 +505,8 @@
               "enabled": false,
               "label": "Civil Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 21
+              "count": 21,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -568,8 +515,8 @@
               "enabled": false,
               "label": "Mathematics (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 20
+              "count": 20,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -578,8 +525,8 @@
               "enabled": false,
               "label": "Geographical Sciences (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 19
+              "count": 19,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -588,8 +535,8 @@
               "enabled": false,
               "label": "Biomedical Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 19
+              "count": 19,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -598,8 +545,8 @@
               "enabled": false,
               "label": "Sociology (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 18
+              "count": 18,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -608,8 +555,8 @@
               "enabled": false,
               "label": "Physics (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 18
+              "count": 18,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -618,8 +565,8 @@
               "enabled": false,
               "label": "Counselling Psychology (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 18
+              "count": 18,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -628,8 +575,8 @@
               "enabled": false,
               "label": "Ancient Mediterranean and Near Eastern Studies (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 18
+              "count": 18,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -638,8 +585,8 @@
               "enabled": false,
               "label": "Chinese (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 16
+              "count": 16,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -648,8 +595,8 @@
               "enabled": false,
               "label": "Chemical and Biological Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 15
+              "count": 15,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -658,8 +605,8 @@
               "enabled": false,
               "label": "Applied Science (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 15
+              "count": 15,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -668,8 +615,8 @@
               "enabled": false,
               "label": "Nursing (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 13
+              "count": 13,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -678,8 +625,8 @@
               "enabled": false,
               "label": "Linguistics (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 13
+              "count": 13,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -688,8 +635,8 @@
               "enabled": false,
               "label": "Business (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 13
+              "count": 13,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -698,8 +645,8 @@
               "enabled": false,
               "label": "Adult and Higher Education (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 12
+              "count": 12,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -708,8 +655,8 @@
               "enabled": false,
               "label": "Microbiology (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 11
+              "count": 11,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -718,8 +665,8 @@
               "enabled": false,
               "label": "Gender, Race, Sexuality and Social Justice (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 11
+              "count": 11,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -728,8 +675,8 @@
               "enabled": false,
               "label": "Visual Arts (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 10
+              "count": 10,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -738,8 +685,8 @@
               "enabled": false,
               "label": "Theatre (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 10
+              "count": 10,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -748,8 +695,8 @@
               "enabled": false,
               "label": "Pharmacy (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 10
+              "count": 10,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -758,8 +705,8 @@
               "enabled": false,
               "label": "Materials Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 10
+              "count": 10,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -768,8 +715,8 @@
               "enabled": false,
               "label": "French (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 10
+              "count": 10,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -778,8 +725,8 @@
               "enabled": false,
               "label": "Commerce Minor (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 10
+              "count": 10,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -788,8 +735,8 @@
               "enabled": false,
               "label": "Pharmaceutical Sciences (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 9
+              "count": 8,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -798,8 +745,8 @@
               "enabled": false,
               "label": "Natural Resources Conservation (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 8
+              "count": 8,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -808,8 +755,8 @@
               "enabled": false,
               "label": "Mining Engineering (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 8
+              "count": 8,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -818,8 +765,8 @@
               "enabled": false,
               "label": "Cantonese (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 8
+              "count": 8,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -828,8 +775,8 @@
               "enabled": false,
               "label": "Art History (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 8
+              "count": 8,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -838,8 +785,8 @@
               "enabled": false,
               "label": "Applied Biology (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 8
+              "count": 8,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -848,8 +795,8 @@
               "enabled": false,
               "label": "Music (Vancouver)",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 7
+              "count": 7,
+              "selectedState": "none"
             }
           ],
           "expandState": "half",
@@ -881,8 +828,8 @@
               "enabled": false,
               "label": "0.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 57
+              "count": 57,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -891,8 +838,8 @@
               "enabled": false,
               "label": "1.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 33
+              "count": 33,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -901,8 +848,8 @@
               "enabled": false,
               "label": "1.5",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 4
+              "count": 4,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -911,8 +858,8 @@
               "enabled": false,
               "label": "2.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 115
+              "count": 115,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -921,8 +868,8 @@
               "enabled": false,
               "label": "3.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1288
+              "count": 1289,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -931,8 +878,8 @@
               "enabled": false,
               "label": "4.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 99
+              "count": 98,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -941,8 +888,8 @@
               "enabled": false,
               "label": "4.5",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 3
+              "count": 3,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -951,8 +898,8 @@
               "enabled": false,
               "label": "5",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 5
+              "count": 5,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -961,8 +908,8 @@
               "enabled": false,
               "label": "6.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 15
+              "count": 15,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -971,8 +918,8 @@
               "enabled": false,
               "label": "8.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1
+              "count": 1,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -981,8 +928,8 @@
               "enabled": false,
               "label": "9.0",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 1
+              "count": 1,
+              "selectedState": "none"
             },
             {
               "widget": "facetValue",
@@ -991,8 +938,8 @@
               "enabled": false,
               "label": "9.5+",
               "propertyName": "nyw:Facet_Value",
-              "selectedState": "none",
-              "count": 8
+              "count": 8,
+              "selectedState": "none"
             }
           ],
           "expandState": "half",
@@ -1038,6 +985,7 @@
             "propertyName": "nyw:Facet_Search_Instance_Set--IS",
             "singular": true
           },
+          "expandState": "closed-half",
           "singleSelect": "0",
           "propertyName": "nyw:Facet_Category"
         },
@@ -1159,12 +1107,12 @@
             "values": [
               {
                 "label": "Manage My Saved Searches",
-                "uri": "/ubc/button/c13/162/612",
+                "uri": "/ubc/button/c19/162/597",
                 "taskId": "2997$13093",
                 "httpMethod": "POST"
               }
             ],
-            "uri": "/ubc/button/c13/162/612",
+            "uri": "/ubc/button/c19/162/597",
             "taskId": "2997$13093",
             "httpMethod": "POST",
             "actionId": "edit",
@@ -1178,7 +1126,7 @@
         "layoutInstanceId": "5483$4",
         "layoutId": "5483$4"
       },
-      "facetCount": 11,
+      "facetCount": 10,
       "propertyName": "nyw:Facet_Container"
     },
     "reportParameters": {
@@ -1202,7 +1150,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -1224,7 +1172,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -1243,7 +1191,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -1262,7 +1210,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -1281,7 +1229,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -1290,18 +1238,18 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 2/0",
+                "value": "Enrolled/Capacity: 3/0",
                 "propertyName": "wd:Text"
               }
             ],
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -1311,7 +1259,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -1319,7 +1267,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -1329,7 +1277,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -1339,7 +1287,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -1348,7 +1296,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -1357,7 +1305,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53503",
+            "id": "53502",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -1369,7 +1317,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -1391,7 +1339,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -1410,7 +1358,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -1429,7 +1377,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -1448,7 +1396,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -1457,16 +1405,16 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 19/20",
+                "value": "Enrolled/Capacity: 20/20",
                 "propertyName": "wd:Text"
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -1475,7 +1423,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -1486,7 +1434,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -1514,7 +1462,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -1522,7 +1470,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -1532,7 +1480,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -1542,7 +1490,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -1551,7 +1499,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -1560,7 +1508,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53536",
+            "id": "53535",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -1572,7 +1520,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -1594,7 +1542,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -1613,7 +1561,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -1632,7 +1580,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -1651,7 +1599,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -1660,16 +1608,16 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 14/25",
+                "value": "Enrolled/Capacity: 13/25",
                 "propertyName": "wd:Text"
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -1678,7 +1626,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -1689,7 +1637,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -1717,7 +1665,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -1726,7 +1674,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -1744,7 +1692,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -1754,7 +1702,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -1763,7 +1711,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -1772,7 +1720,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53570",
+            "id": "53569",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -1784,7 +1732,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -1806,7 +1754,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -1825,7 +1773,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -1844,7 +1792,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -1863,7 +1811,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -1872,7 +1820,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -1881,7 +1829,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -1890,7 +1838,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -1901,7 +1849,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -1929,7 +1877,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -1938,7 +1886,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -1956,7 +1904,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -1966,7 +1914,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -1975,7 +1923,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -1984,7 +1932,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53602",
+            "id": "53601",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -1996,7 +1944,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -2018,7 +1966,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -2037,7 +1985,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -2056,7 +2004,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -2075,7 +2023,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -2084,7 +2032,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -2093,7 +2041,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -2102,7 +2050,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -2113,7 +2061,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -2141,7 +2089,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -2150,7 +2098,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -2168,7 +2116,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -2178,7 +2126,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -2187,7 +2135,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -2196,7 +2144,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53634",
+            "id": "53633",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -2208,7 +2156,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -2230,7 +2178,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -2249,7 +2197,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -2268,7 +2216,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -2287,7 +2235,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -2296,7 +2244,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -2305,7 +2253,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -2314,7 +2262,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -2325,7 +2273,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -2353,7 +2301,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -2362,7 +2310,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -2380,7 +2328,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -2390,7 +2338,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -2399,7 +2347,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -2408,7 +2356,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53666",
+            "id": "53665",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -2420,7 +2368,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -2442,7 +2390,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -2461,7 +2409,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -2480,7 +2428,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -2499,7 +2447,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -2508,7 +2456,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -2517,7 +2465,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -2526,7 +2474,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -2537,7 +2485,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -2565,7 +2513,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -2573,7 +2521,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -2591,7 +2539,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -2601,7 +2549,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -2610,7 +2558,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -2619,7 +2567,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53698",
+            "id": "53697",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -2631,7 +2579,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -2653,7 +2601,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -2672,7 +2620,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -2691,7 +2639,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -2710,7 +2658,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -2719,7 +2667,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -2728,7 +2676,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -2739,7 +2687,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -2767,7 +2715,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -2776,7 +2724,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -2786,7 +2734,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -2796,7 +2744,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -2805,7 +2753,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -2814,7 +2762,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53727",
+            "id": "53726",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -2826,7 +2774,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -2848,7 +2796,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -2867,7 +2815,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -2886,7 +2834,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -2905,7 +2853,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -2914,7 +2862,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -2923,7 +2871,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -2934,7 +2882,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -2962,7 +2910,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -2971,7 +2919,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -2981,7 +2929,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -2991,7 +2939,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -3000,7 +2948,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -3009,7 +2957,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53758",
+            "id": "53757",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -3021,7 +2969,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -3043,7 +2991,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -3062,7 +3010,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -3081,7 +3029,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -3100,7 +3048,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -3109,7 +3057,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -3118,7 +3066,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -3129,7 +3077,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -3139,7 +3087,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -3148,7 +3096,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -3158,7 +3106,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -3168,7 +3116,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -3177,7 +3125,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -3186,7 +3134,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53785",
+            "id": "53784",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -3198,7 +3146,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -3220,7 +3168,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -3239,7 +3187,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -3258,7 +3206,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -3277,7 +3225,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -3286,7 +3234,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -3297,7 +3245,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -3307,7 +3255,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -3316,7 +3264,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -3352,7 +3300,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -3362,7 +3310,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -3371,7 +3319,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -3380,7 +3328,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53820",
+            "id": "53819",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -3392,7 +3340,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -3414,7 +3362,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -3433,7 +3381,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -3452,7 +3400,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -3471,7 +3419,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -3480,16 +3428,16 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 49/75",
+                "value": "Enrolled/Capacity: 51/75",
                 "propertyName": "wd:Text"
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -3500,7 +3448,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -3528,7 +3476,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -3536,7 +3484,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -3554,7 +3502,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -3564,7 +3512,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -3573,7 +3521,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -3582,7 +3530,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53854",
+            "id": "53853",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -3594,7 +3542,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -3616,7 +3564,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -3635,7 +3583,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -3654,7 +3602,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -3673,7 +3621,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -3682,7 +3630,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -3691,7 +3639,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -3702,7 +3650,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -3730,7 +3678,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -3738,7 +3686,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -3756,7 +3704,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -3766,7 +3714,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -3775,7 +3723,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -3784,7 +3732,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53886",
+            "id": "53885",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -3796,7 +3744,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -3818,7 +3766,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -3837,7 +3785,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -3856,7 +3804,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -3875,7 +3823,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -3884,16 +3832,16 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 14/19",
+                "value": "Enrolled/Capacity: 15/19",
                 "propertyName": "wd:Text"
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -3902,7 +3850,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -3913,7 +3861,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -3957,7 +3905,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -3965,7 +3913,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -3983,7 +3931,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -3993,7 +3941,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -4002,7 +3950,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -4011,7 +3959,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53920",
+            "id": "53919",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -4023,7 +3971,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -4045,7 +3993,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -4064,7 +4012,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -4083,7 +4031,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -4102,7 +4050,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -4111,7 +4059,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -4120,7 +4068,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -4129,7 +4077,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -4140,7 +4088,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -4168,7 +4116,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -4176,7 +4124,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -4194,7 +4142,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -4204,7 +4152,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -4213,7 +4161,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -4222,7 +4170,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53952",
+            "id": "53951",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -4234,7 +4182,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -4256,7 +4204,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -4275,7 +4223,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -4294,7 +4242,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -4313,7 +4261,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -4322,7 +4270,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -4331,7 +4279,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -4340,7 +4288,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -4351,7 +4299,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -4379,7 +4327,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -4387,7 +4335,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -4397,7 +4345,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -4407,7 +4355,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -4416,7 +4364,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -4425,7 +4373,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "53981",
+            "id": "53980",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -4437,7 +4385,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -4459,7 +4407,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -4478,7 +4426,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -4497,7 +4445,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -4516,7 +4464,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -4525,7 +4473,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -4534,7 +4482,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -4543,18 +4491,18 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
-                "value": "Waitlisted/Waitlist Capacity: 9/99",
+                "value": "Waitlisted/Waitlist Capacity: 8/99",
                 "propertyName": "wd:Text"
               }
             ],
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -4582,7 +4530,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -4590,7 +4538,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -4608,7 +4556,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -4618,7 +4566,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -4627,7 +4575,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -4636,7 +4584,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54015",
+            "id": "54014",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -4648,7 +4596,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -4670,7 +4618,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -4689,7 +4637,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -4708,7 +4656,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -4727,7 +4675,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -4736,7 +4684,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -4745,7 +4693,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -4754,7 +4702,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -4765,7 +4713,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -4793,7 +4741,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -4801,7 +4749,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -4819,7 +4767,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -4829,7 +4777,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -4838,7 +4786,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -4847,7 +4795,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54047",
+            "id": "54046",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -4859,7 +4807,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -4881,7 +4829,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -4900,7 +4848,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -4919,7 +4867,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -4938,7 +4886,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -4947,7 +4895,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -4956,7 +4904,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -4965,7 +4913,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -4976,7 +4924,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -5004,7 +4952,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -5012,7 +4960,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -5030,7 +4978,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -5040,7 +4988,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -5049,7 +4997,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -5058,7 +5006,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54079",
+            "id": "54078",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -5070,7 +5018,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -5092,7 +5040,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -5111,7 +5059,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -5130,7 +5078,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -5149,7 +5097,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -5158,7 +5106,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -5167,7 +5115,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -5176,18 +5124,18 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
-                "value": "Waitlisted/Waitlist Capacity: 11/99",
+                "value": "Waitlisted/Waitlist Capacity: 10/99",
                 "propertyName": "wd:Text"
               }
             ],
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -5231,7 +5179,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -5239,7 +5187,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -5257,7 +5205,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -5267,7 +5215,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -5276,7 +5224,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -5285,7 +5233,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54113",
+            "id": "54112",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -5297,7 +5245,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -5319,7 +5267,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -5338,7 +5286,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -5357,7 +5305,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -5376,7 +5324,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -5385,7 +5333,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -5394,7 +5342,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -5403,7 +5351,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -5414,7 +5362,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -5442,7 +5390,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -5451,7 +5399,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -5469,7 +5417,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -5479,7 +5427,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -5488,7 +5436,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -5497,7 +5445,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54145",
+            "id": "54144",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -5509,7 +5457,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -5531,7 +5479,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -5550,7 +5498,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -5569,7 +5517,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -5588,7 +5536,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -5597,7 +5545,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -5606,7 +5554,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81261",
+                "ecid": "1423$85042",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Includes Reserved Seats",
@@ -5615,7 +5563,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -5626,7 +5574,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -5670,7 +5618,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -5678,7 +5626,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -5696,7 +5644,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -5706,7 +5654,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -5715,7 +5663,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -5724,7 +5672,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54179",
+            "id": "54178",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -5736,7 +5684,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -5758,7 +5706,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -5777,7 +5725,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -5796,7 +5744,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -5815,7 +5763,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -5824,7 +5772,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -5833,7 +5781,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -5844,7 +5792,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -5872,7 +5820,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -5880,7 +5828,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -5890,7 +5838,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -5900,7 +5848,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -5909,7 +5857,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -5918,7 +5866,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54208",
+            "id": "54207",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -5930,7 +5878,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -5952,7 +5900,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -5971,7 +5919,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -5990,7 +5938,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -6009,7 +5957,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -6018,7 +5966,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -6027,7 +5975,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -6038,7 +5986,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -6048,7 +5996,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -6056,7 +6004,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -6074,7 +6022,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -6084,7 +6032,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -6093,7 +6041,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -6102,7 +6050,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54238",
+            "id": "54237",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -6114,7 +6062,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -6136,7 +6084,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -6155,7 +6103,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -6174,7 +6122,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -6193,7 +6141,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -6202,18 +6150,18 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 83/80",
+                "value": "Enrolled/Capacity: 85/80",
                 "propertyName": "wd:Text"
               }
             ],
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -6241,7 +6189,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -6249,7 +6197,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -6267,7 +6215,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -6277,7 +6225,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -6286,7 +6234,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -6295,7 +6243,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54272",
+            "id": "54271",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -6307,7 +6255,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -6329,7 +6277,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -6348,7 +6296,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -6367,7 +6315,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -6386,7 +6334,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -6395,18 +6343,18 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 83/80",
+                "value": "Enrolled/Capacity: 85/80",
                 "propertyName": "wd:Text"
               }
             ],
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -6434,7 +6382,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -6442,7 +6390,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -6460,7 +6408,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -6470,7 +6418,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -6479,7 +6427,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -6488,7 +6436,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54304",
+            "id": "54303",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -6500,7 +6448,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -6522,7 +6470,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -6541,7 +6489,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -6560,7 +6508,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -6579,7 +6527,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -6588,7 +6536,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -6597,7 +6545,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -6608,7 +6556,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -6636,7 +6584,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -6645,7 +6593,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -6663,7 +6611,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -6673,7 +6621,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -6682,7 +6630,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -6691,7 +6639,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54336",
+            "id": "54335",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -6703,7 +6651,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -6725,7 +6673,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -6744,7 +6692,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -6763,7 +6711,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -6782,7 +6730,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -6791,7 +6739,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -6800,7 +6748,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -6811,7 +6759,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -6839,7 +6787,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -6848,7 +6796,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -6866,7 +6814,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -6876,7 +6824,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -6885,7 +6833,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -6894,7 +6842,7 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54368",
+            "id": "54367",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
@@ -6906,7 +6854,7 @@
             "enabled": false,
             "title": {
               "widget": "monikerList",
-              "ecid": "1423$81251",
+              "ecid": "1423$84992",
               "iid": "1$15194",
               "enabled": false,
               "label": "Course Section",
@@ -6928,7 +6876,7 @@
             "subtitles": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81253",
+                "ecid": "1423$85034",
                 "iid": "15$174705",
                 "enabled": false,
                 "label": "Instructional Format",
@@ -6947,7 +6895,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81252",
+                "ecid": "1423$84993",
                 "iid": "15$356486",
                 "enabled": false,
                 "label": "Section Status",
@@ -6966,7 +6914,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81255",
+                "ecid": "1423$85036",
                 "iid": "15$370262",
                 "enabled": false,
                 "label": "Delivery Mode",
@@ -6985,7 +6933,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81258",
+                "ecid": "1423$85039",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Maximum Credits",
@@ -6994,7 +6942,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81262",
+                "ecid": "1423$85043",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
@@ -7003,7 +6951,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81264",
+                "ecid": "1423$85045",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
@@ -7014,7 +6962,7 @@
             "detailResultFields": [
               {
                 "widget": "monikerList",
-                "ecid": "1423$81254",
+                "ecid": "1423$85035",
                 "iid": "15$178362",
                 "enabled": false,
                 "label": "Section Details",
@@ -7042,7 +6990,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81256",
+                "ecid": "1423$85037",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Course Section Definition Public Notes",
@@ -7051,7 +6999,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81257",
+                "ecid": "1423$85038",
                 "iid": "15$398487",
                 "enabled": false,
                 "label": "Instructors",
@@ -7069,7 +7017,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81259",
+                "ecid": "1423$85040",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Building External URL",
@@ -7079,7 +7027,7 @@
               },
               {
                 "widget": "text",
-                "ecid": "1423$81263",
+                "ecid": "1423$85044",
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "Drop and Withdrawal Deadlines",
@@ -7088,7 +7036,7 @@
               },
               {
                 "widget": "monikerList",
-                "ecid": "1423$81260",
+                "ecid": "1423$85041",
                 "iid": "15$2",
                 "enabled": false,
                 "label": "Clustered Course Sections",
@@ -7097,13 +7045,13 @@
                 "propertyName": "nyw:Instances--IS"
               }
             ],
-            "id": "54400",
+            "id": "54399",
             "layoutInstanceId": "REPORT_SUMMARY_LAYOUT",
             "propertyName": "wd:Report_Row",
             "doNotWrapInTab": true
           }
         ],
-        "chunkingUri": "/ubc/chunkablelist/c13/2244.156",
+        "chunkingUri": "/ubc/chunkablelist/c19/2229.156",
         "totalChunkingItemsCount": 1629,
         "propertyName": "wd:Report_Row",
         "doNotWrapInTab": true
@@ -7153,58 +7101,58 @@
     ],
     "endPoints": [
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/search",
+        "uri": "/ubc/faceted-search2/c19/fs1/search",
         "type": "Search"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/replaceandsearch",
+        "uri": "/ubc/faceted-search2/c19/fs1/replaceandsearch",
         "type": "Replace_And_Search"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/save",
+        "uri": "/ubc/faceted-search2/c19/fs1/save",
         "type": "Save",
         "requestParameterNames": [
           "name"
         ]
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs0/backward",
+        "uri": "/ubc/faceted-search2/c19/fs0/backward",
         "type": "Backward"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/recover-current-state",
+        "uri": "/ubc/faceted-search2/c19/fs1/recover-current-state",
         "type": "Recover_Current_State"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/replace",
+        "uri": "/ubc/faceted-search2/c19/fs1/replace",
         "type": "Replace"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/configure/add",
+        "uri": "/ubc/faceted-search2/c19/fs1/configure/add",
         "type": "Configure_Add"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/configure/expand",
+        "uri": "/ubc/faceted-search2/c19/fs1/configure/expand",
         "type": "Configure_Expand"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/pagination",
+        "uri": "/ubc/faceted-search2/c19/fs1/pagination",
         "type": "Pagination"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/reset",
+        "uri": "/ubc/faceted-search2/c19/fs1/reset",
         "type": "Reset"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/prompt",
+        "uri": "/ubc/faceted-search2/c19/fs1/prompt",
         "type": "Prompt"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/expand-facet-value",
+        "uri": "/ubc/faceted-search2/c19/fs1/expand-facet-value",
         "type": "Expand_Facet_Value"
       },
       {
-        "uri": "/ubc/faceted-search2/c13/fs1/searchCriteria",
+        "uri": "/ubc/faceted-search2/c19/fs1/searchCriteria",
         "type": "Search_Criteria"
       }
     ],
@@ -7212,10 +7160,10 @@
   },
   "brandingData": {
     "banner": {
-      "uri": "/ubc/attachment/17214$16/RzNuLzZtZEVOUE04STl1clJ2WUp1YUdOL3pkaXFuMVRZWjY3ZlNvN3BZYmFwVzVza0pNaFQyd2RicjlaZHo0R2tXcGhLZ3Uwa0QvUTdKYVRVaWY2bVhCaGF3Tk1TTnR3RjBzTWFLeHM1VHRMamlHdTVZVUJSK2JSWXFyNWMyUXI0dG85bThJYnhWSStpWE14RFNOWWtEYUtWd0xXVDV5UXV1Rk8yTHQwQ21sbEsrb1Z5T2FWM2ZoSjh1cm1LdyszUWdDK2N2U1R3MS9DQWJPSHZDdHFlTDNaOU4ySnRLazhCUndNTzRZeEp5dXlSVFNYa2d0bFFsdnhScG1UNmVkejRNOUpZem9vLzVpRnRQeUpDR01NKzFWWkNMZ1N6YUNuZjRDb1dTNVFUUnd4VnQyMzM5UEwyUW53b21NeUlmZ0NKbmJyNURZNjZ1dXdPMGx3RjhzajZnPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzIzMzUyNDAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
+      "uri": "/ubc/attachment/17214$16/bTdjQ09CSklMU083cXkzZElGVktLdnR1NDBhZjl0Y3JvZVhsT2s3SW5ubk5idjE3ZmNLVmZYUTQvTXpJN1ZuYjVSY1M1QXRONHhjc3pMNS9aeWh0UEY0ZXZ6NVNNZkZkRDBvWjJBcEFNbDF6K2tLWnNlc0ROWlZEbll1OGZ4Mm5KdFU4WlFnTXJYY2pQc2l2bmNrbXNPUjlFVGR2bWZIQnRsR01EcTVUN1BHTmVsYnhFckNJVitTSkFpV0lxcEtSWVpuOUJocnZuaW5Bald1VFhZUDZQOGd2Y0RqaERYVmNRQzhZM2N3K1FTeGtnQmlac3lhdVZncS9wb2VqdXlYMU5sdXNKdGlzR2lsRktpbm9naWdXdnJxbkNQdFpoRmNJU3Y2WkpBb0dkRGpzcjBNT3ordlc4K1hJOHZ5MGJ4Q1VFdGRWTWJJREtVMTJma1NBL3AxSkNRPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzI0MDIzODAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
     },
     "logo": {
-      "uri": "/ubc/attachment/17213$17/aG1aQ1d6RkkraW94Vnd4WWRCQXRkL2JaYkdiQzhxYUNsNk9XdGhKbFpXZDc2ZUhXNWNtT3dnTmExb2FYcnRiNXhDSTRqYVh6cTlLc2tXZHRrYmhGSHlFRUVCM2tKUm85YThaQmU4eWs5QkIrOTZ1MEdOYlVYQUxQVm9iblo5ZktOQ0FVOUZRVGlydGp6VW9ja1Y4WGZLN1B0VGV5UkY3K0QrMDlwaVJlanR5OStYTGdlNE9sbEFHd2QwWjhqaWFXbHA4bDRIQXB5dVYvVmE0ZmNrQklxZXNwRnRmbE1rbCthTy9vTWNVMFRiaWYyNFlDQnh2Qm5TaEh2NDJ4NjgzQ3dFMGNmWElyRnlqalJkZVdUQzBzYnRva20wenNPS2FxTjZHdDIxeXY4T1F1dXJ6UzRCN0RwRi9OeWlhcUtXcmd6ZjZtSFk4eEZ5U2xpNmlVNHBFL2d3PT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzIzMzUyNDAwMDAwPz9DcmVzdF9XRC5wbmc"
+      "uri": "/ubc/attachment/17213$17/YU5CM01JZ0ZjTGNacXF1VE9EZTk0eUwwczNzZk1FTEYzVmY0cEg3TUFNY2NiOTZ3alNhMm95blBoVW9RUlpBNlFWdkQ0ckZtYS9GeGZMZmpEaXBJejF5dDViZWwwOTVGbmVybHNQY3VlaDl0YmExanZRcDdkY0pYNFNqWldPZEhTV1pmQXZYUWtGZnZSMHZQMzFUMUt3R3pMYjdRSkJQQU1YSUtwN3lNRVVJOFlhSmdIa3FWdDd4VjJVaHVscUs0UFcxa2ZxRjFmRUJpeG11cUpCYzdjOWlaS2hRRTRtSThwY2Y4ajZhTmtTbFQ5UThyeHFDZ2cxV2wxb1pPaDdkNGJzZ2hKWUNldjNuSzJjNkZDeVBBRkR1eHRVcXN0QS9Ec3dHYVR2ZGtFN1c5TGxrdTZIWVQ1VHltb2pFMEhoL3BRdS9GN0NQcEp1dkM4a3RkbG9PTGF3PT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzI0MDIzODAwMDAwPz9DcmVzdF9XRC5wbmc"
     },
     "canvasColor": {
       "widget": "color",
@@ -7236,13 +7184,13 @@
     ],
     "defaultBrandingColor": false
   },
-  "clearPageContextUri": "/ubc/clear-page-context/c13",
+  "clearPageContextUri": "/ubc/clear-page-context/c19",
   "commandLinkTemplate": "/ubc/task/[IID]",
-  "currentTime": 1723348257620,
+  "currentTime": 1724020430868,
   "currentUser": {
     "widget": "currentUser",
     "iid": "10089$80824",
-    "label": "Fang Meng (38201604)",
+    "label": "William Meng (38201604)",
     "relatedTasksLink": {
       "widget": "link",
       "rel": "related-tasks",
@@ -7256,7 +7204,7 @@
       "uri": "/ubc/inst/1$37/10089$80824",
       "v": true
     },
-    "userImageUrl": "/ubc/attachment/1055$109291/RUhOb2RsaGNGQ29QWmpOVjQzRzAyMzBZTlNxbjZqZjVveEpHQ3BaeDNpalNQMjJVbGZoUlJON2N5dUpRNFBQcDFJZEVXVGp4VnM1b09SYVZVZlNabFpxYUtKWnhPa0x6dzlnOEZMZ2JFd2RLeHJKS1drclkxbzlLdXh2TkdsUWJ2VitYQ2lPeWMvcytkU3NNUVY1VHFSRm1YTmhJTVhWRzYzdkJEMENFdUY4SWtHckhWOUR6QUVsb1pMaHRZQUJuZk9Eei90Z2JNejR1OE0zYnFqTm4zeEpuTXp1LzRNdE15U3FvYjZTZGlHYkFVQktjaWxZVWw3cld0ZGJJOStSMWl0VUJGT0hiRmZFNngxTkQrK05RYTZmUnR1TEMrNHIrQklZSzVlTnh4UnJPVzZNcU5QVkVpaEZUNEpNcnNPcVV6RHYzbjcxRnpPSnNaT3Y1U2xnbEFnPT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzIzMzUyNDAwMDAwPz8"
+    "userImageUrl": "/ubc/attachment/1055$109291/b1o0SG1VV2pLMGtjT2hMTFA0VFhmdzNOZTk4YVgwMUFMTFdtU0ZRUjB1azcxN1FJWm9JcTlEaGdvTVlrNkQ3STJJV3cyWmZIbFJ6dFVzWUdEOEhYZVk4aEhiQ3VSdVFGSWdNZ0o2cG8yZHdCdTFqS3BjM1dUQU9maTE5dHNqLzJzTzdqM1loK0xSVVkvbWJ0RHBFeEZ2eFZGekJzTDRiUWdnL2UzajJOQlFGM3JpNFNNZnFBTUFxa05iV0RHRmU3UkV1dmZweUNZWk5nTE56R2JpTmVCNHlnWkxaL0ZSdklyK3FTSWNmK2Flc1hKNGFEYlBTbjZsbWtWalM4Vms2Mk1tdEhnRTUxMWlsY0h0Y0RlcFhteDJGOTJKcUVhZGp2MGdtL1FmSHNiOFBYekoxQTZINDlxdlIwUU9zK0F6MEJLRVVXYjRqZ2lndklMdEtJUUQ2bTl3PT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzI0MDIzODAwMDAwPz8"
   },
   "enableApnsNotifications": true,
   "enableContentDeliveryNetwork": true,
@@ -7315,14 +7263,14 @@
   "processingUser": "8b6752fe9c214d0782f0c9f56187cd82",
   "promptUriTemplate": "/ubc/prompt/[CONTEXT_ID]/[PROMPT_IID]",
   "enabled": false,
-  "repeatUri": "/ubc/faceted-search2/c13/fs1/backward",
-  "requestUri": "/ubc/faceted-search2/c13/fs1/pagination/1600.htmld",
+  "repeatUri": "/ubc/faceted-search2/c19/fs1/backward",
+  "requestUri": "/ubc/faceted-search2/c19/fs1/pagination/1600.htmld",
   "searchScopesUri": "/ubc/search-scopes.xml",
   "searchUri": "/ubc/search.htmld",
-  "sessionSecureToken": "4a824d63-68ff-4528-905b-5a8ebcdc894d",
+  "sessionSecureToken": "c8b26b34-97e3-413f-ad0f-bd4310b7817e",
   "sessionTimeoutMinutes": 60,
   "sessionUserClickable": true,
-  "systemStatusMessage": "Your system will be undergoing maintenance starting on Saturday, August 17, 2024 at 12:00 AM Eastern Time (Toronto) (GMT-4) until Saturday, August 17, 2024 at 3:00 AM Eastern Time (Toronto) (GMT-4). During that time, your users can continue to access the system.",
+  "systemStatusMessage": "Your system will be undergoing maintenance starting on Saturday, August 24, 2024 at 12:00 AM Eastern Time (Toronto) (GMT-4) until Saturday, August 24, 2024 at 3:00 AM Eastern Time (Toronto) (GMT-4). During that time, your users can continue to access the system.",
   "taskId": "1422$5132",
   "teaserTasks": [
     {
@@ -7381,7 +7329,7 @@
   "relatedTasksLinkTemplate": "/ubc/inst/[IID]/rel-tasks",
   "taskLinkTemplate": "/ubc/task/[Task_IID]",
   "stepUpSecondsRemaining": 0,
-  "pageContextId": "c13",
+  "pageContextId": "c19",
   "enableModalEnhancements": true,
   "localeCode": "en_CA",
   "viewPage": true,

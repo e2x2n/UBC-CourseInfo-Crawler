@@ -1,0 +1,639 @@
+[
+  {
+    "Course Section": "MECH_V 325-102 - Machine Design",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 120/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 12/20",
+    "Section Details": "IRC-Floor B1-Room 5 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-102 - Machine Design",
+      "MECH_V 325-T1D - Machine Design",
+      "MECH_V 325-T1E - Machine Design",
+      "MECH_V 325-T1F - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 325-T1A - Machine Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "SCRF-Floor B1-Room 1025 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-101 - Machine Design",
+      "MECH_V 325-T1A - Machine Design",
+      "MECH_V 325-T1B - Machine Design",
+      "MECH_V 325-T1C - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 325-T1B - Machine Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-101 - Machine Design",
+      "MECH_V 325-T1A - Machine Design",
+      "MECH_V 325-T1B - Machine Design",
+      "MECH_V 325-T1C - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 325-T1C - Machine Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/40",
+    "Section Details": "PCN-Floor 1-Room 1002 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-101 - Machine Design",
+      "MECH_V 325-T1A - Machine Design",
+      "MECH_V 325-T1B - Machine Design",
+      "MECH_V 325-T1C - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 325-T1D - Machine Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-102 - Machine Design",
+      "MECH_V 325-T1D - Machine Design",
+      "MECH_V 325-T1E - Machine Design",
+      "MECH_V 325-T1F - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 325-T1E - Machine Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-102 - Machine Design",
+      "MECH_V 325-T1D - Machine Design",
+      "MECH_V 325-T1E - Machine Design",
+      "MECH_V 325-T1F - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 325-T1F - Machine Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "DMP-Floor 2-Room 201 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jon Mikkelsen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 325-102 - Machine Design",
+      "MECH_V 325-T1D - Machine Design",
+      "MECH_V 325-T1E - Machine Design",
+      "MECH_V 325-T1F - Machine Design"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 327-101 - Thermodynamics II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/20",
+    "Section Details": "CEME-Floor 1-Room 1204 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Patrick Kirchen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 327-T1A - Thermodynamics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "IRC-Floor B1-Room B75 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Patrick Kirchen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 327-T1B - Thermodynamics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/32",
+    "Section Details": "CEME-Floor 1-Room 1212 | Tue | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Patrick Kirchen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 328-101 - Mechanical Engineering Design Project",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 151/153",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "ORCH-Floor 4-Room 4062 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Markus Fengler, Peter Ostafichuk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 328-L1A - Mechanical Engineering Design Project",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 151/153",
+    "Section Details": "ORCH-Floor 4-Room 4002 | Mon Wed | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Markus Fengler, Peter Ostafichuk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 328-T1A - Mechanical Engineering Design Project",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 151/153",
+    "Section Details": "ORCH-Floor 3-Room 3016 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Markus Fengler, Peter Ostafichuk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 360-101 - Mechanics of Materials",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 87/110",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "AERL-Floor 1-Room 120 | Mon Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Gary Schajer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 360-101 - Mechanics of Materials",
+      "MECH_V 360-T1A - Mechanics of Materials",
+      "MECH_V 360-T1B - Mechanics of Materials"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 360-102 - Mechanics of Materials",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 107/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "IRC-Floor B1-Room 5 | Tue Thu | 5:00 p.m. - 6:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Srikantha Phani",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 360-102 - Mechanics of Materials",
+      "MECH_V 360-T1C - Mechanics of Materials",
+      "MECH_V 360-T1D - Mechanics of Materials"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 360-T1A - Mechanics of Materials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/55",
+    "Section Details": "FSC-Floor 1-Room 1003 | Tue | 8:00 a.m. - 9:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Gary Schajer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 360-101 - Mechanics of Materials",
+      "MECH_V 360-T1A - Mechanics of Materials",
+      "MECH_V 360-T1B - Mechanics of Materials"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 360-T1B - Mechanics of Materials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/55",
+    "Section Details": "CEME-Floor 1-Room 1204 | Thu | 8:00 a.m. - 9:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Gary Schajer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 360-101 - Mechanics of Materials",
+      "MECH_V 360-T1A - Mechanics of Materials",
+      "MECH_V 360-T1B - Mechanics of Materials"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 360-T1C - Mechanics of Materials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "SPPH-Floor B1-Room B151 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Srikantha Phani",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 360-102 - Mechanics of Materials",
+      "MECH_V 360-T1C - Mechanics of Materials",
+      "MECH_V 360-T1D - Mechanics of Materials"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 360-T1D - Mechanics of Materials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/60",
+    "Section Details": "CEME-Floor 1-Room 1204 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Srikantha Phani",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MECH_V 360-102 - Mechanics of Materials",
+      "MECH_V 360-T1C - Mechanics of Materials",
+      "MECH_V 360-T1D - Mechanics of Materials"
+    ]
+  },
+  {
+    "Course Section": "MECH_V 366-101 - Modelling of Mechatronic Systems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/37",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "CEME-Floor 1-Room 1202 | Mon | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Christoph Sielmann",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 366-L1A - Modelling of Mechatronic Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/19",
+    "Section Details": "Fri | 3:00 p.m. - 6:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Course Section Definition Public Notes": "Labs will take place in Frank Forward 219",
+    "Instructors": "Christoph Sielmann",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 366-L1B - Modelling of Mechatronic Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "Section Details": "Wed | 3:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Course Section Definition Public Notes": "Labs will take place in Frank Forward 220",
+    "Instructors": "Christoph Sielmann",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 366-T1B - Modelling of Mechatronic Systems",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/37",
+    "Section Details": "FSC-Floor 1-Room 1611 | Thu | 10:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Christoph Sielmann",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 368-101 - Engineering Measurements and Instrumentation",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 115/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/20",
+    "Section Details": "IRC-Floor B1-Room 4 | Mon Wed | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Hongshen Ma",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 368-L1A - Engineering Measurements and Instrumentation",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Course Section Definition Public Notes": "Labs take place in KAIS 1160 until Sept 20, and will take place in KAIS 1210 afterwards until the end of Term.",
+    "Instructors": "Hongshen Ma",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 368-L1B - Engineering Measurements and Instrumentation",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Course Section Definition Public Notes": "Labs take place in KAIS 1160 until Sept 20, and will take place in KAIS 1210 afterwards until the end of Term.",
+    "Instructors": "Hongshen Ma",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 368-L1C - Engineering Measurements and Instrumentation",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Fri | 10:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Course Section Definition Public Notes": "Labs take place in KAIS 1160 until Sept 20, and will take place in KAIS 1210 afterwards until the end of Term.",
+    "Instructors": "Hongshen Ma",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 368-T1A - Engineering Measurements and Instrumentation",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 111/120",
+    "Section Details": "IRC-Floor B1-Room 4 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Hongshen Ma",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 375-101 - Heat Transfer",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 112/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "ESB-Floor 1-Room 1012 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Graham Hendra",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 375-T1A - Heat Transfer",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 112/120",
+    "Section Details": "SWNG-Floor 1-Room 121 | Wed | 4:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Graham Hendra",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 392-101 - Manufacturing Processes",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 101/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/20",
+    "Section Details": "IRC-Floor B1-Room 1 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Ahmad Mohammadpanah Foroutaghe",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-101 - Microbial Ecophysiology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 124/120",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/10",
+    "Section Details": "HENN-Floor 1-Room 202 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca. ",
+    "Instructors": "Lindsay Eltis, William Mohn",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T01 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/24",
+    "Section Details": "FORW-Floor 5-Room 519 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T02 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/24",
+    "Section Details": "FNH-Floor B1-Room 30 | Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T03 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/24",
+    "Section Details": "CEME-Floor 1-Room 1212 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T04 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/24",
+    "Section Details": "CEME-Floor 1-Room 1212 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T05 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/24",
+    "Section Details": "FORW-Floor 5-Room 519 | Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T06 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/24",
+    "Section Details": "FORW-Floor 5-Room 519 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T07 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/24",
+    "Section Details": "FORW-Floor 5-Room 519 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 301-T08 - Microbial Ecophysiology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/34",
+    "Section Details": "FORW-Floor 5-Room 519 | Thu | 12:00 p.m. - 1:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-101 - Immunology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 194/300",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca. ",
+    "Instructors": "Kenneth Harder, Tracy Kion",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T01 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/40",
+    "Section Details": "Tue | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T02 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "Tue | 12:30 p.m. - 1:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T03 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "Wed | 12:30 p.m. - 1:30 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T04 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/40",
+    "Section Details": "Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T05 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/40",
+    "Section Details": "Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T06 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/40",
+    "Section Details": "Thu | 12:00 p.m. - 1:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 302-T07 - Immunology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/300",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 306-101 - Molecular Virology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 182/190",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "GEOG-Floor 1-Room 100 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
+    "Course Section Definition Public Notes": "The mode of delivery for this section is in-person.  In person attendance is required for all course activities, including examinations. Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.",
+    "Instructors": "Francois Jean, Marcia Graves",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 306-T01 - Molecular Virology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/65",
+    "Section Details": "DMP-Floor 3-Room 301 | Tue | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  }
+]

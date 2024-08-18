@@ -4,370 +4,624 @@
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/0",
+    "Section Details": "ANGU-Floor 2-Room 243 | Tue | 6:30 p.m. - 9:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Aziz Rajwani",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BUSI_V 294-102 - Introductory Management Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/0",
+    "Section Details": "Thu | 6:30 p.m. - 9:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alina McGuinness",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BUSI_V 295-102 - Business Economics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/0",
+    "Section Details": "Tue | 6:30 p.m. - 9:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ocean Lu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BUSI_V 295-103 - Business Economics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/0",
+    "Section Details": "Wed | 6:30 p.m. - 9:30 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n\nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with the final exam held in-person at the UBC Point Grey campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ocean Lu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CAPS_V 205-001 - Fundamentals of Physiology in Human Health and Disease I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 95/325",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "WESB-Floor 1-Room 100 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Barry Mason, Christina Hull",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CAPS_V 210-001 - Human Health Literacy",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
     "Course Section Definition Public Notes": "this is an online course.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Barry Mason",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CDST_V 250-A_011 - Introduction to Canada (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 65/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/50",
+    "Section Details": "IBLC-Floor 1-Room 182 | Tue | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete. \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ayaka Yoshimizu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CDST_V 250-A_D11 - Introduction to Canada (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4016 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ayaka Yoshimizu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CDST_V 250-A_D12 - Introduction to Canada (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3016 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ayaka Yoshimizu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CDST_V 250-A_D13 - Introduction to Canada (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3016 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ayaka Yoshimizu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CDST_V 250-A_D14 - Introduction to Canada (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4016 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ayaka Yoshimizu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CENS_V 201-101 - CONTR & CONFL",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/49",
+    "Section Details": "GEOG-Floor 1-Room 147 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "CENS 201: Capital and Commentary, Part I -- Contexts\nMarx’s Capital (Das Kapital) is arguably the best known book in the canon of European Studies, and yet also the least read! The challenge, or wager, of this course is to read Capital as a literary, philosophical, sociological, historical, political and economic experiment in thinking otherwise about our past, present, and future. Together we’ll explore how Marx’s passion for both interpreting and changing the modern world speaks to his own context as well as to ours, with a focus on his ideas about class exploitation, settler colonialism, the gendered division of labour, chattel slavery, economic crises, and ecological breakdown. Knowledge of languages other than English, including but not limited to German, is an asset but not a prerequisite!\n\nInterested in checking out other courses from the Department of Central, Eastern and Northern European Studies?  Click here to learn more.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Thomas Kemple",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CENS_V 202-101 - GRT WRKS LIT",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/15",
+    "Section Details": "Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course on Great Works of Literature from Central, Eastern and Northern Europe is taught in English and discusses European identities from a decentred point of view. Its goal is to question where Europe begins, ends, and where its centre could be located, culturally and geographically. We critically review hierarchies of power in a short story by Franz Kafka, the colonial context of European history by reading a fairy tale by Danish author Hans Christian Andersen, discuss how Germany dealt with the Holocaust after 1945 (Bernhard Schlink: The Reader), and look at Europe from the East by focusing on post-communist Europe and the ‘Balkan’ region (Slavenka Drakulić: Café Europa Revisited). We will also study journalistic writings and documentaries that deal with the EU extension in 2004.\n \nThis course is designed to strengthen critical thinking by comparing texts and film adaptations from different countries and periods. All course material is in English. There are no prerequisites. Major texts are available as ebooks. Additional sources will be available on UBC Canvas. The course is taught fully online: All assignments for the asynchronous parts and all Zoom lecture notes (ppt) of the synchronous online lessons on Tuesdays will be posted on Canvas.\n\nMore information here.\n\nInterested in learning more about other courses in the Department of Central, Eastern and Northern European Studies? Click here",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Markus Hallensleben",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CENS_V 202-102 - GRT WRKS LIT",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/49",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/15",
+    "Section Details": "SWNG-Floor 2-Room 207 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "If you are a curious mind, join this course to sharpen your critical thinking skills and enhance your ability to navigate an increasingly deceptive present-day life. This course views the intricate world of falsehoods through interdisciplinary lenses, examining the psychology behind lying, the mechanics of deception and ways of detecting it, historical contexts, ethical dimensions, and modern-day manifestations of manipulation as well as the proliferation of disinformation in contemporary political and media landscapes.\n\nCheck out more courses from the Department of Central, Eastern and Northern European Studies by clicking here",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Olena Morozova",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CENS_V 202-103 - GRT WRKS LIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/49",
+    "Section Details": "BUCH-Floor 2-Room B208 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course focuses on aspects of catastrophe and gender, humans and animals in a range of works from central, eastern, and northern European literatures from late medieval to modern times. It opens with mythologies of creation and catastrophe and discourses of eco-criticism in feminist and indigenous perspectives. The course readings fall into four modules, treating a wide range of narrative prose works that deal with seismic upheavals, plague epidemics, apocalyptic and dystopian visions, ecological, technological and social disaster, nuclear accidents and warfare. This course has no prerequisites. It is taught in English and all relevant material studied will be provided in English translation. This class is taught in mixed mode, with in-class as well as online assignments and meetings.\n\nCheck out more courses from the Department of Central, Eastern and Northern European Studies here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Gaby Pailer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CENS_V 202-104 - GRT WRKS LIT",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/80",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "LASR-Floor 1-Room 104 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Learn more about courses offered in the Department of Central, Eastern and Northern European Studies by clicking here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jason Lieblang",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CENS_V 203-101 - Arctic Art and Activism",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/45",
+    "Section Details": "BUCH-Floor 2-Room D217 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Cross listed with NORD 341.In the face of new and unprecedented environmental and economic challenges in the Arctic, Indigenous peoples have mounted resistance efforts both inside and outside their communities to retain sovereignty over their lands and ways of life. This course explores the neocolonialism of circumpolar regions, and looks at the ways that Indigenous peoples have engaged in resistance and revitalization through collective action and art. This course fulfills the place and power requirement. \n\nInterested in learning about other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tim Frandy",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 201-101 - Integrated Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MCLD-Floor 2-Room 2002 | Tue | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Emily Cranston, Michael Schoen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 201-102 - Integrated Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/5",
+    "Section Details": "FNH-Floor B1-Room 50 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Emily Cranston, Michael Schoen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 201-103 - Integrated Technical Communication",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MCLD-Floor 3-Room 3008 | Tue | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Emily Cranston, Michael Schoen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 220-101 - Founding Principles in Chemical and Biological Engineering I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 111/165",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "DMP-Floor 3-Room 310 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jonathan Verrett",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 220-T1A - Founding Principles in Chemical and Biological Engineering I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 111/165",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "AERL-Floor 1-Room 120 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Jonathan Verrett",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 241-101 - Material and Energy Balances",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 209/294",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "FSC-Floor 1-Room 1005 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 241-T1A - Material and Energy Balances",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 65/62",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 1-Room 1204 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 241-T1B - Material and Energy Balances",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2018 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 241-T1C - Material and Energy Balances",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/72",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 3-Room 3018 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 241-T1D - Material and Energy Balances",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/64",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 3-Room 3002 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 263-101 - CHM & B E LAB PR",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/55",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon | 1:30 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Pranav Chintalapati",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHBE_V 263-103 - CHM & B E LAB PR",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "FSC-Floor 1-Room 1001 | Wed | 1:30 p.m. - 3:30 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Pranav Chintalapati",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 203-101 - Introduction to Organic Chemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 224/223",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "CHEM-Floor B1-Room B150 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "XMT section is ONLY for students who are REATTEMPTING this course. If you didn’t pass the course before, but you had a passing lab score, please register for a lecture, a lab and XMT wait list. \n \nDepartment will manually check your lab score and your eligibility for XMT. If eligible, students on the wait list will receive an email notification to accept the XMT spot. Once registered into XMT, your previous lab score will be reused.\n \nIf students mistakenly wait list for XMT, you will be removed from the wait list without further notice.\n \nIf students are attempting the course for the first time, please register for a lab, i.g. L06, L07, etc.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Martin Tanner",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 203-L06 - Introduction to Organic Chemistry",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 2-Room C326 | Thu | 9:30 a.m. - 12:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Kayli Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 203-L07 - Introduction to Organic Chemistry",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 2-Room C326 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Kayli Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 203-L08 - Introduction to Organic Chemistry",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 2-Room C326 | Fri | 9:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Kayli Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 203-L09 - Introduction to Organic Chemistry",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 2-Room C326 | Fri | 2:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Kayli Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 203-XMT - Introduction to Organic Chemistry",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/1",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/100",
     "Course Section Definition Public Notes": "XMT section is ONLY for students who are REATTEMPTING this course. If you didn’t pass the course before, but you had a passing lab score, please register for a lecture, a lab and XMT wait list. \n \nDepartment will manually check your lab score and your eligibility for XMT. If eligible, students on the wait list will receive an email notification to accept the XMT spot. Once registered into XMT, your previous lab score will be reused.\n \nIf students mistakenly wait list for XMT, you will be removed from the wait list without further notice.\n \nIf students are attempting the course for the first time, please register for a lab, i.g. L06, L07, etc.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Kayli Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 208-112 - Coordination Chemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 155/155",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/10",
+    "Section Details": "HENN-Floor 1-Room 201 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Eva Nichols",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 208-T07 - Coordination Chemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 155/155",
+    "Section Details": "HENN-Floor 1-Room 200 | Thu | 5:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Eva Nichols",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 211-188 - Introduction to Chemical Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 152/152",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/50",
+    "Section Details": "CHEM-Floor 1-Room B250 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Winter Term 1 labs will start in the SECOND week.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Tao Huan",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 211-L12 - Introduction to Chemical Analysis",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 1-Room C226 | Tue | 9:30 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Winter Term 1 labs will start in the SECOND week.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chris Addison",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 211-L13 - Introduction to Chemical Analysis",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/42",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 1-Room C226 | Tue | 2:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Winter Term 1 labs will start in the SECOND week.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chris Addison",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 211-L14 - Introduction to Chemical Analysis",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 1-Room C226 | Wed | 9:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Winter Term 1 labs will start in the SECOND week.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chris Addison",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 211-L15 - Introduction to Chemical Analysis",
     "Instructional Format": "Laboratory",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHEM-Floor 1-Room C226 | Wed | 2:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Winter Term 1 labs will start in the SECOND week.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chris Addison",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 211-XMT - Introduction to Chemical Analysis",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/1",
     "Course Section Definition Public Notes": "This section is for students who are repeating the course but previously passed the laboratory.\nIt is not available for direct student registration. To be registered, submit a request: https://ost.chem.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chris Addison",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 215-L01 - Introductory Analytical Chemical Laboratory",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
     "Course Section Definition Public Notes": "This section is ONLY for students who have passed CHEM 210. Submit a request for registration via the Chemistry Advising ticketing system: https://ost.chem.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Chris Addison",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 233-103 - Organic Chemistry for the Biological Sciences",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 240/240",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 47/500",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Nigare Raheem",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 233-110 - Organic Chemistry for the Biological Sciences",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 265/265",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 83/500",
+    "Section Details": "CHEM-Floor B1-Room B150 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Jason Wickenden",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 233-122 - Organic Chemistry for the Biological Sciences",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 199/265",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/50",
+    "Section Details": "CHEM-Floor B1-Room B150 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jolene Reid",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 233-133 - Organic Chemistry for the Biological Sciences",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 265/265",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 49/50",
+    "Section Details": "CHEM-Floor B1-Room B150 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Glenn Sammis",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 233-199 - Organic Chemistry for the Biological Sciences",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 265/265",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 66/500",
+    "Section Details": "CHEM-Floor B1-Room B150 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Glenn Sammis",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CHEM_V 235-L12 - Organic Chemistry Laboratory",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 80/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/100",
+    "Section Details": "CHEM-Floor 3-Room C426 | Tue | 9:30 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Justin Chang",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

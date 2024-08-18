@@ -4,387 +4,597 @@
     "Instructional Format": "Experiential",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BEST_V 412-201 - Co-operative Work Placement V",
     "Instructional Format": "Experiential",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 421-201 - Recombinant DNA Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/10",
+    "Section Details": "BIOL-Floor 3-Room 3018 | Tue | 1:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Scott Covey",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 421-202 - Recombinant DNA Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/16",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/10",
+    "Section Details": "BIOL-Floor 3-Room 3018 | Thu | 1:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Scott Covey",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 421-203 - Recombinant DNA Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/16",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BIOL-Floor 3-Room 3018 | Thu | 8:30 a.m. - 12:30 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Scott Covey",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 430-A_201 - Advanced Topics in Protein Biochemistry (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/25",
+    "Section Details": "SPPH-Floor B1-Room B151 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Eden Fussner-Dupas, Filip Van Petegem, Joerg Gsponer, Natalie Strynadka",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 440-001 - Concepts in Molecular Biology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/25",
+    "Section Details": "Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Eric Jan, Ivan Sadowski",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 448-A_201 - Directed Studies in Biochemistry (A)",
     "Instructional Format": "Thesis",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "For those who have confirmed a faculty supervisor and want to register into BIOC448, please contact Dr. Lindsay Rogers  lindsay.rogers@ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Lindsay Rogers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 450-001 - Membrane Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 65/72",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "SPPH-Floor B1-Room B151 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Filip Van Petegem, Harry Brumer, Natalie Strynadka, Sriram Subramaniam",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 460-001 - Advanced Techniques in Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 18/18",
+    "Section Details": "Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Alice Mui, Calvin Yip, Christopher Mark Overall, Ethan Greenblatt, Shoukat Dedhar",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 470-001 - Biochemistry & Society: Current Issues",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 37/40",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Mon Fri | 3:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Lindsay Rogers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 498-615 - Internship Work Placement III",
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/0",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 499-615 - Internship Work Placement IV",
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 403-201 - Microbial Ecology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/8",
+    "Section Details": "SCRF-Floor 2-Room 204A | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Biology Laboratory Courses: In most of the Biology Laboratory selections courses (i.e. BIOL 306, 326, 331, 337, 340, 341, 351, 352, 363, 402, 403, 404, and 437, etc.) half of the seats are reserved for 3rd-year Biology students and half of the seats are reserved for 4th-year biology students. Priority will be given to 4th-year Biology students on the waitlist who need a 2nd lab course to graduate if any seats become available in the lab courses after the 3rd-year Biology students have registered. Biology students can only complete or be registered in two biology laboratory courses or waitlists.  Non-biology students interested in taking these courses are to register themselves on the waitlist. They will be considered after all biology students are successfully registered for the course from the waitlist.   \n\nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Laura Parfrey",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 403-L01 - Microbial Ecology",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "BIOL-Floor 2-Room 2004 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Biology Laboratory Courses: In most of the Biology Laboratory selections courses (i.e. BIOL 306, 326, 331, 337, 340, 341, 351, 352, 363, 402, 403, 404, and 437, etc.) half of the seats are reserved for 3rd-year Biology students and half of the seats are reserved for 4th-year biology students. Priority will be given to 4th-year Biology students on the waitlist who need a 2nd lab course to graduate if any seats become available in the lab courses after the 3rd-year Biology students have registered. Biology students can only complete or be registered in two biology laboratory courses or waitlists.  Non-biology students interested in taking these courses are to register themselves on the waitlist. They will be considered after all biology students are successfully registered for the course from the waitlist.   \n\nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 404-201 - Ecological Methodology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "BIOL-Floor 1-Room 1012 | Mon Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Biology Laboratory Courses: In most of the Biology Laboratory selections courses (i.e. BIOL 306, 326, 331, 337, 340, 341, 351, 352, 363, 402, 403, 404, and 437, etc.) half of the seats are reserved for 3rd-year Biology students and half of the seats are reserved for 4th-year biology students. Priority will be given to 4th-year Biology students on the waitlist who need a 2nd lab course to graduate if any seats become available in the lab courses after the 3rd-year Biology students have registered. Biology students can only complete or be registered in two biology laboratory courses or waitlists.  Non-biology students interested in taking these courses are to register themselves on the waitlist. They will be considered after all biology students are successfully registered for the course from the waitlist.   \n\nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Diane Srivastava",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 404-L01 - Ecological Methodology",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BIOL-Floor 1-Room 1005 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Biology Laboratory Courses: In most of the Biology Laboratory selections courses (i.e. BIOL 306, 326, 331, 337, 340, 341, 351, 352, 363, 402, 403, 404, and 437, etc.) half of the seats are reserved for 3rd-year Biology students and half of the seats are reserved for 4th-year biology students. Priority will be given to 4th-year Biology students on the waitlist who need a 2nd lab course to graduate if any seats become available in the lab courses after the 3rd-year Biology students have registered. Biology students can only complete or be registered in two biology laboratory courses or waitlists.  Non-biology students interested in taking these courses are to register themselves on the waitlist. They will be considered after all biology students are successfully registered for the course from the waitlist.   \n\nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 404-L02 - Ecological Methodology",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BIOL-Floor 1-Room 1005 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Biology Laboratory Courses: In most of the Biology Laboratory selections courses (i.e. BIOL 306, 326, 331, 337, 340, 341, 351, 352, 363, 402, 403, 404, and 437, etc.) half of the seats are reserved for 3rd-year Biology students and half of the seats are reserved for 4th-year biology students. Priority will be given to 4th-year Biology students on the waitlist who need a 2nd lab course to graduate if any seats become available in the lab courses after the 3rd-year Biology students have registered. Biology students can only complete or be registered in two biology laboratory courses or waitlists.  Non-biology students interested in taking these courses are to register themselves on the waitlist. They will be considered after all biology students are successfully registered for the course from the waitlist.   \n\nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 406-201 - Plant Ecology I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/12",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor courses with labs/discussions:\nFor example, students may not register for multiple labs or discussions, including their respective waitlists.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amy Angert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 406-L01 - Plant Ecology I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BIOL-Floor 1-Room 1005 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor courses with labs/discussions:\nFor example, students may not register for multiple labs or discussions, including their respective waitlists.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 406-L02 - Plant Ecology I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "BIOL-Floor 1-Room 1005 | Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor courses with labs/discussions:\nFor example, students may not register for multiple labs or discussions, including their respective waitlists.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 412-201 - Phytogeography",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/10",
+    "Section Details": "SCRF-Floor 2-Room 203 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sean Michaletz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 416-201 - Principles of Conservation Biology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/15",
+    "Section Details": "SCRF-Floor 2-Room 209 | Mon Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor courses with labs/discussions:\nFor example, students may not register for multiple labs or discussions, including their respective waitlists.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alex Moore",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 416-T01 - Principles of Conservation Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "BIOL-Floor 1-Room 1001 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor courses with labs/discussions:\nFor example, students may not register for multiple labs or discussions, including their respective waitlists.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 416-T02 - Principles of Conservation Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "IRC-Floor B1-Room B75 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor courses with labs/discussions:\nFor example, students may not register for multiple labs or discussions, including their respective waitlists.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 420-201 - Ocean Conservation and Sustainability",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/8",
+    "Section Details": "SWNG-Floor 3-Room 310 | Tue Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amanda Vincent",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 420-T01 - Ocean Conservation and Sustainability",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "SWNG-Floor 3-Room 310 | Thu | 11:00 a.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 424-201 - Tropical Ecology and Conservation",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/8",
+    "Section Details": "SWNG-Floor 3-Room 306 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jill Jankowski",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 424-L01 - Tropical Ecology and Conservation",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "SWNG-Floor 3-Room 310 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 430-201 - Genome Evolution",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/10",
+    "Section Details": "SWNG-Floor 3-Room 305 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Keith Adams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 432-201 - Research Strategies and Techniques in Cell Biology",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "SCRF-Floor 2-Room 205 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Geoff Wasteneys",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 433-201 - Plant Genetics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "SCRF-Floor B1-Room 1023 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 434-201 - Population Genetics",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/10",
+    "Section Details": "GEOG-Floor 2-Room 201 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "​BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Michael Whitlock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 438-201 - Zoological Physics",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/8",
+    "Section Details": "HEBB-Floor 1-Room 114 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 439-201 - Advanced Microscopy Techniques",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/0",
+    "Section Details": "Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Instructor permission is required to be registered in the course. Interested students should send a letter of interest to Dr Miki Fujita at miki.fujita@botany.ubc.ca.\n\nCourse scheduled in BISC 1114A",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Miki Fujita",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 439-L01 - Advanced Microscopy Techniques",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/0",
+    "Section Details": "Thu | 12:30 p.m. - 4:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Lab scheduled in the Bioimaging Facility",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 445-201 - Darwin's Fishes",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/8",
+    "Section Details": "BUCH-Floor 2-Room D221 | Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Daniel Pauly",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 445-T01 - Darwin's Fishes",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "BUCH-Floor 2-Room D221 | Wed | 1:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 448-A_201 - Directed Studies in Biology (A)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "Students interested in doing a BIOL 448 Directed Studies Research Project please visit http://www.biology.ubc.ca/biol-448-directed-studies/. Once your project has been approved, the Biology Office will register you into the course.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 448-B_201 - Directed Studies in Biology (B)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "Students interested in doing a BIOL 448 Directed Studies Research Project please visit http://www.biology.ubc.ca/biol-448-directed-studies/. Once your project has been approved, the Biology Office will register you into the course.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 448-D_206 - Directed Studies in Biology (D)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "Students interested in doing a BIOL 448 Directed Studies Research Project please visit http://www.biology.ubc.ca/biol-448-directed-studies/. Once your project has been approved, the Biology Office will register you into the course.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 451-201 - Comparative Neurobiology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "SCRF-Floor B1-Room 1003 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. \n\nThe course waitlist will be manually managed, and priority will be given to graduating Neuroscience students and then graduating Biology students. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Vanessa Auld",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 454-201 - Comparative Animal Physiology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "HENN-Floor 2-Room 302 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Colin Brauner",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 458-201 - Developmental Neurobiology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 100/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/25",
+    "Section Details": "MCML-Floor 1-Room 166 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.\n\nFor lectures with multiple sections: \nFor example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Matthew Ramer, Wolfram Tetzlaff",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 459-201 - Neurobiology of Sensory and Motor Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/6",
+    "Section Details": "ORCH-Floor 3-Room 3052 | Wed Fri | 1:00 p.m. - 2:30 p.m. | 2025-01-08 - 2025-02-14",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. \n\nThe course waitlist will be manually managed, and priority will be given to graduating Neuroscience students and then graduating Biology students. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Doug Altshuler",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 462-201 - Ecological Plant Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/6",
+    "Section Details": "SWNG-Floor 1-Room 107 | Wed | 8:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Joerg Bohlmann",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 464-201 - Animal Developmental Genetics",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/6",
+    "Section Details": "SCRF-Floor 2-Room 210 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Kota Mizumoto",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 488-A_201 - Topics in Biology (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/19",
+    "Section Details": "Mon Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Course Title: Introduction to Natural History Collections & Biodiversity Science\n\nDescription: Introduction to Natural History Collections & Biodiversity Science is a brand-new undergraduate course that introduces students to specimen-based science and features UBC’s own Beaty Biodiversity Museum. The course will include a combination of weekly lectures and labs, as well as a major creative project and Beaty Museum Skills Passport. By the end of the course, students will have a foundation in biodiversity science, how biological diversity is preserved in natural history collections, and how those collections are used in scientific research. Along the way, we will explore the historical and contemporary roles of natural history collections in science and society and feature the people behind the collections.\n\nIf you are interested in taking this course and are a non-life science student please email bridgette.clarkston@botany.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Bridgette Clarkston",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 400-J_201 - IMMUNOENGINEERNG (J)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/15",
+    "Section Details": "SCRF-Floor 2-Room 208 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Pre-requisites for this pilot course are: SBME undergraduate students: BIOC 202 and BMEG 371, Other UBC undergraduate students: CHBE 381 or similar.\n\nStudents without the pre-requisites will be dropped before the course starts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Anna Blakney, Kelly Marshall McNagny",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BMEG_V 400-K_201 - WEARABLES (K)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/10",
+    "Section Details": "SWNG-Floor 2-Room 207 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This course is designed for fourth year students, who have taken BMEG 310, and BMEG 321, which are required pre-requisites. BMEG 350 is strongly recommended but not required.\n\nStudents without the pre-requisites will be dropped before the course starts.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Calvin Kuo",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

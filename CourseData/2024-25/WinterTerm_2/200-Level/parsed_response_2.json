@@ -4,390 +4,572 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "FSC-Floor 1-Room 1003 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BEST_V 203-L1A - Ecology of Managed Ecosystems",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/60",
+    "Section Details": "FSC-Floor 1-Room 1003 | Fri | 9:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 202-002 - Introductory Medical Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 401/475",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "For those who think they have met the pre-reqs but having troubles with registering into BIOC 202, please contact Cyndi Liu (cyndi.liu@ubc.ca).",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 202-003 - Introductory Medical Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 79/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/20",
+    "Section Details": "BUCH-Floor 1-Room A104 | Tue Thu | 8:30 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Michael Krisinger",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-001 - Fundamentals of Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 124/144",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 12/50",
+    "Section Details": "AERL-Floor 1-Room 120 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "For those who think they have met the pre-reqs but having troubles with registering into BIOC 203, please contact Dr. Warren Williams (warren.williams@ubc.ca).",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-T01 - Fundamentals of Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "IRC-Floor 1-Room G41 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-T02 - Fundamentals of Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "SPPH-Floor B1-Room B151 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-T03 - Fundamentals of Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/25",
+    "Section Details": "FNH-Floor 3-Room 320 | Tue | 9:30 a.m. - 10:30 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-T04 - Fundamentals of Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "SWNG-Floor 2-Room 210 | Tue | 10:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-T05 - Fundamentals of Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/25",
+    "Section Details": "FNH-Floor B1-Room 50 | Tue | 11:30 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOC_V 203-T06 - Fundamentals of Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "Section Details": "SPPH-Floor 1-Room 143 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Lindsay Rogers, Warren Williams",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-201 - Fundamentals of Cell Biology",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 225/225",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/50",
+    "Section Details": "CHEM-Floor B1-Room B150 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "BIOL 200 uses a staggered seat release during 2nd-year registration and will release a new pool of seats each day of 2nd-year registration.\n\nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION.\n\nPlease submit a ticket for any registration issues regarding the course (including requests for tokens for registration).",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Vivienne Lam",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T60 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T61 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T62 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T63 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T64 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T65 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T66 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T67 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 200-T68 - Fundamentals of Cell Biology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BIOL-Floor 1-Room 1128 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-201 - Introduction to Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 220/220",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/48",
+    "Section Details": "CHEM-Floor B1-Room B150 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. \n\nStudents with a seat in BIOC 202 or 203 will be removed from BIOL 201.\n\nFor any registration issues regarding the course, please email \"biol.201@ubc.ca\".",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Reinhard Jetter",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-202 - Introduction to Biochemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 220/220",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/48",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. \n\nStudents with a seat in BIOC 202 or 203 will be removed from BIOL 201.\n\nFor any registration issues regarding the course, please email \"biol.201@ubc.ca\".",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Reinhard Jetter",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T01 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T02 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T03 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Mon | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T04 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T05 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T06 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T07 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Tue | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T08 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Tue | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T09 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T10 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T11 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T12 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Tue | 3:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T13 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T14 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T15 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Wed | 12:00 p.m. - 1:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T16 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T17 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T18 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T19 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T20 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T21 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Thu | 12:00 p.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T22 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T23 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 201-T24 - Introduction to Biochemistry",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/28",
+    "Section Details": "BIOL-Floor 1-Room 1124 | Thu | 3:00 p.m. - 4:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 204-201 - Vertebrate Structure and Function",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 227/240",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/48",
+    "Section Details": "WESB-Floor 1-Room 100 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Angela O'Neill",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 204-L11 - Vertebrate Structure and Function",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "BIOL-Floor 3-Room 3013 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Charissa Fung",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "BIOL_V 204-L13 - Vertebrate Structure and Function",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "BIOL-Floor 3-Room 3013 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussions, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISCUSSION. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Charissa Fung",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

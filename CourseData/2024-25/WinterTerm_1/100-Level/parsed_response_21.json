@@ -4,391 +4,595 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 85/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "BUCH-Floor 1-Room A102 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "This section of PHIL 102 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL102.L06, but this “discussion section” will not involve additional scheduled meetings.\n\nPlease note: PHIL 101 and PHIL 102 are independent introductory courses and do not need to be taken in sequential order.\n\nOverview\nIn a sense, this course is not so much about moral philosophy as about your lives. Through introducing a number of value and moral theories, this course aims to develop your ability to identify ethically/morally relevant considerations, consider the interests of relevant stakeholders, make ethically/morally-informed decisions, and, ideally, find creative solutions to resolve ethical/moral problems. You will also have opportunities to use your own lived experience to critique moral philosophy.\nMoreover, this course aims to prepare you for upper-year philosophy courses by developing your reading, writing, and thinking skills. \nLearning Objectives\nAt the end of the course, successful students will be able to:\n(1) identify and analyse ethical and moral problems,\n(2) make ethical and moral judgements based on relevant, reliable information, realistic understanding of the situation in question, and sound reasoning\n(3) find creative solutions to resolve ethical and moral problems\n(4) present, object to, and defend ethical and moral judgements and solutions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Irwin Chan",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 102-002 - Introduction to Philosophy II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 154/154",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/30",
+    "Section Details": "IBLC-Floor 1-Room 182 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "This section of PHIL 102 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL102.L06, but this “discussion section” will not involve additional scheduled meetings.\n\nPlease note: PHIL 101 and PHIL 102 are independent introductory courses and do not need to be taken in sequential order.\n\nCourse Description: Overview of Western philosophy from Plato up to the present, focusing on ethical, political and legal philosophy. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Anders Kraal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 102-L06 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 238/304",
     "Course Section Definition Public Notes": "This discussion section, which does not involve additional scheduled meetings, is for students registered in PHIL102.001 or PHIL102.002.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 120-001 - Introduction to Critical Thinking",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 154/154",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/30",
+    "Section Details": "IBLC-Floor 1-Room 182 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Course Description: This course is an introduction to critical thinking with a primary focus on the principles of argumentation. We will ask: what makes an argument good or bad, reasonable or unreasonable? How should one go about evaluating an argument? Philosophers have developed a handy toolkit for handling such questions, which this course will familiarize you with. The philosopher’s toolkit includes a taxonomy of standard valid and invalid argument forms, as well as some common mistakes that people make when making arguments. It also includes skills for dealing with the ‘informal’ aspects of arguments, beyond what is strictly contained in their formal structure. This includes tools for evaluating an argument’s inductive strength and plausibility of an argument’s premises, and for distinguishing an argument’s logical strength from its rhetorical force. Here, questions about the content of our concepts, and their context of use, become particularly relevant. As we’ll see, in the messy world of informal reasoning no strategy is infallible. However, you will learn a variety of techniques which will be useful across your academic, professional, and personal lives.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Aaron Henry",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 120-99A - Introduction to Critical Thinking",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 30/30",
     "Course Section Definition Public Notes": "This is an Asynchronous Online course: learning activities that happen at the learners' own pace and on their own time.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHIL_V 125-002 - Introduction to Scientific Reasoning",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/80",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/16",
+    "Section Details": "CHEM-Floor B1-Room C126 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Alan Walter Richardson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 100-001 - Foundations of Pharmacy",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 230/232",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Mon | 3:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Adam Frankel, Aileen Mira, Ali Reza Ladak, Anil Maharaj, Brent Page, Brian Rodrigues, Colleen Brady, Fong Chan, Gilly Lau, Janice Lynn Moshenko, Joel Finbloom, Jonathan Grosshuesch, Katherine Seto, Mark Harrison, Mary De Vera, Michelle Fischer, Neelam Dhaliwal, Shyh-Dar Li, Tony Seet",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 100-L02 - Foundations of Pharmacy",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 100-L03 - Foundations of Pharmacy",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "18 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHRM_V 141-001 - Seminar: Pharmacists in Practice I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 224/232",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Mon | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Larry Leung",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-101 - Introductory Physics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 277/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/50",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 5:00 p.m. - 6:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "PHYS 100 is restricted to students who do not have PHYS 12; for students with PHYS 12, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options: PHYS 131, PHYS 117, PHYS 106. *PHYS 131 has replaced PHYS 101.\n**The restricted seats in this section DO NOT exclude 1st year science students. All first year students are allowed to register in this section when restricted seats are available. The section has a limited number of restricted seats for first year BA students. When these seats are full, first year BA students wanting to take PHYS 100 should register for the wait list. All other seats are restricted to not allow FIRST YEAR BA students, but to allow OTHER FIRST YEAR STUDENTS to register.  \nDo NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Marina Litinskaya",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-102 - Introductory Physics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 251/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 12/50",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "PHYS 100 is restricted to students who do not have PHYS 12; for students with PHYS 12, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options: PHYS 131, PHYS 117, PHYS 106. *PHYS 131 has replaced PHYS 101.\n**The restricted seats in this section DO NOT exclude 1st year science students. All first year students are allowed to register in this section when restricted seats are available. The section has a limited number of restricted seats for first year BA students. When these seats are full, first year BA students wanting to take PHYS 100 should register for the wait list. All other seats are restricted to not allow FIRST YEAR BA students, but to allow OTHER FIRST YEAR STUDENTS to register. \nDo NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amali Priyanka Jambuge, Marina Litinskaya",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-103 - Introductory Physics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 251/280",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/50",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "PHYS 100 is restricted to students who do not have PHYS 12; for students with PHYS 12, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options: PHYS 131, PHYS 117, PHYS 106. *PHYS 131 has replaced PHYS 101.\n**The restricted seats in this section DO NOT exclude 1st year science students. All first year students are allowed to register in this section when restricted seats are available. The section has a limited number of restricted seats for first year BA students. When these seats are full, first year BA students wanting to take PHYS 100 should register for the wait list. All other seats are restricted to not allow FIRST YEAR BA students, but to allow OTHER FIRST YEAR STUDENTS to register. \nDo NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Marcello Pavan, Marina Litinskaya",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1A - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "Section Details": "HEBB-Floor 2-Room 218 | Wed | 8:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1C - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 9:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1D - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 11:00 a.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1E - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 2:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1F - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 2-Room 216 | Thu | 9:30 a.m. - 11:30 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1G - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 3-Room 316 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1H - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 3-Room 316 | Fri | 2:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1J - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 2-Room 216 | Fri | 10:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-T1M - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 2-Room 218 | Fri | 11:00 a.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TB1 - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 3-Room 316 | Tue | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TC1 - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 9:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TD1 - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/45",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 1:00 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TE1 - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 2-Room 216 | Fri | 8:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TF1 - Introductory Physics",
     "Instructional Format": "Discussion",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 3-Room 316 | Thu | 9:30 a.m. - 11:30 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TG1 - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 2-Room 218 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TH1 - Introductory Physics",
     "Instructional Format": "Discussion",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/45",
+    "Section Details": "HEBB-Floor 2-Room 216 | Fri | 2:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 100-TJ1 - Introductory Physics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "Section Details": "HEBB-Floor 3-Room 316 | Fri | 10:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This tutorial includes in-person activities and requires in-person attendance. All students on campus are expected to attend lectures and tutorials on campus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 106-101 - Enriched Physics 1 (lecture)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 141/125",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 41/100",
+    "Section Details": "HENN-Floor 1-Room 202 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "This is an Enriched/Honours-level course. Please contact Prof. Janis McKenna at janis@physics.ubc.ca  for any questions regarding for PHYS 106 or PHYS 108 registration, course or tutorials. *Students planning to pursue the life sciences should consider PHYS 131, which has replaced PHYS 101. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Mark Van Raamsdonk",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 106-T1A - Enriched Physics 1 (lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/43",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/10",
+    "Section Details": "HEBB-Floor 3-Room 314 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 106-T1B - Enriched Physics 1 (lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/43",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/10",
+    "Section Details": "HEBB-Floor 3-Room 314 | Tue | 12:30 p.m. - 1:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 106-T1C - Enriched Physics 1 (lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/43",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/10",
+    "Section Details": "HEBB-Floor 3-Room 314 | Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-101 - Dynamics and Waves",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 266/265",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/150",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "In-term class activities will be in-person. The midterm and final exam will be held in person. Is this course right for you? Students planning to pursue a degree in the Life Sciences should consider PHYS 131, which has replaced PHYS 101. For a guide to selecting first year physics courses, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug -phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Joanna Karczmarek, Stefan Reinsberg",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-102 - Dynamics and Waves",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 232/250",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/150",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "All in-term class activities will be in-person. Is this course right for you? Students planning to pursue a degree in the Life Sciences should consider PHYS 131, which has replaced PHYS 101. For a guide to selecting first year physics courses, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Stefan Reinsberg",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1A - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "HEBB-Floor 2-Room 218 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1B - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1C - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1D - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1E - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 2-Room 218 | Tue | 3:30 p.m. - 4:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1F - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1G - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 2-Room 218 | Mon | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1M - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 7:00 p.m. - 8:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1N - Dynamics and Waves",
     "Instructional Format": "Discussion",
-    "Section Status": "Open",
+    "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 2-Room 218 | Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-T1O - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 2-Room 218 | Tue | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "All tutorials for PHYS 117 will be run with in-person attendance and instruction. Do NOT contact the course instructor for registration help. Please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca or use the section change request form. https://courses.phas.ubc.ca/ugSectionChange.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-V01 - Dynamics and Waves",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 87/91",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Tue Thu | 9:00 a.m. - 10:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Georg Rieger",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 117-VT1 - Dynamics and Waves",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 86/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "DMP-Floor 3-Room 310 | Mon | 4:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is reserved for UBC Vantage One Science students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 119-L1A - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Wed | 2:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jonathan Massey Allard, Joss Ives",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "PHYS_V 119-L1B - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Thu | 9:30 a.m. - 12:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jonathan Massey Allard, Joss Ives",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

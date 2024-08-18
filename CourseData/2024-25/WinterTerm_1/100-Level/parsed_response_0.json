@@ -4,375 +4,1009 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 100/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/15",
     "Course Section Definition Public Notes": "Greek and Latin Roots of English. Old course code: CLST 101. Visit amne.ubc.ca for full course descriptions.\nThis is an asynchronous web-based course. You may register in this course even if the time conflicts with another course.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Antone Minard",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "AMNE_V 151-001 - Greek and Roman Mythology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 158/175",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "BUCH-Floor 1-Room A101 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Greek and Roman Mythology. Visit amne.ubc.ca for full course descriptions.\n\n**This lecture section only meets MW. Please register separately for Friday's class in an associated discussion section**\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Toph Marshall",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D01 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "IBLC-Floor 1-Room 191 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D02 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "IBLC-Floor 1-Room 158 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D03 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "IBLC-Floor 1-Room 191 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D04 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "IBLC-Floor 1-Room 191 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D05 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/25",
+    "Section Details": "IBLC-Floor 1-Room 191 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D06 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "IBLC-Floor 1-Room 158 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 151-D07 - Greek and Roman Mythology",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/20",
+    "Section Details": "BUCH-Floor 3-Room B316 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 151-001 Discussion Group",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "AMNE_V 151-001 - Greek and Roman Mythology",
+      "AMNE_V 151-D01 - Greek and Roman Mythology",
+      "AMNE_V 151-D02 - Greek and Roman Mythology",
+      "AMNE_V 151-D03 - Greek and Roman Mythology",
+      "AMNE_V 151-D04 - Greek and Roman Mythology",
+      "AMNE_V 151-D05 - Greek and Roman Mythology",
+      "AMNE_V 151-D06 - Greek and Roman Mythology",
+      "AMNE_V 151-D07 - Greek and Roman Mythology",
+      "AMNE_V 151-D08 - Greek and Roman Mythology",
+      "AMNE_V 151-D09 - Greek and Roman Mythology"
+    ]
   },
   {
     "Course Section": "AMNE_V 160-001 - Introduction to Religions: Judaism, Christianity, Islam",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 2-Room D217 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Jewish, Christian, and Muslim Religious Traditions. Visit amne.ubc.ca for full course descriptions. Cross-listed with RGST 160 001.\n\n** This course has TWO required sections: a lecture and a discussion. This lecture section only meets MW. Please email amne.undergrad@ubc.ca with your ranked preference for Friday’s discussion section. You will be assigned to a discussion section depending on your enrolment time and seat availability.**\nThe discussion sections are: \nAMNE 160 L1A:  F 9-10 am\nAMNE 160 L1B:   F 10-11 am\nAMNE 160 L1C:  F 11-12 pm\n \nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section. If the course is blocked by showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Kurtis Peters",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "AMNE_V 160-L1A - Introduction to Religions: Judaism, Christianity, Islam",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/0",
+    "Section Details": "BUCH-Floor 3-Room B316 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 160-001 and RGST 160 001 Discussion Group. Students must email amne.undergrad@ubc.ca for discussion group assignment.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "AMNE_V 160-L1B - Introduction to Religions: Judaism, Christianity, Islam",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/0",
+    "Section Details": "BUCH-Floor 3-Room D319 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 160-001 and RGST 160 001 Discussion Group. Students must email amne.undergrad@ubc.ca for discussion group assignment.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "AMNE_V 160-L1C - Introduction to Religions: Judaism, Christianity, Islam",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/0",
+    "Section Details": "BUCH-Floor 2-Room B216 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "AMNE 160-001 and RGST 160 001 Discussion Group. Students must email amne.undergrad@ubc.ca for discussion group assignment.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "AMNE_V 160-L1D - Introduction to Religions: Judaism, Christianity, Islam",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/50",
     "Course Section Definition Public Notes": "Steps for registration:\n\n** This course has TWO required sections: a lecture and a discussion. **\n\nPlease register for AMNE 160 L1D in order to complete your registration for AMNE 160 001 (lecture). WD will not allow you to register for the lecture section unless you also register for this DISC section (AMNE 160 L1D).\nThis lecture section only meets MW. Please email amne.undergrad@ubc.ca with your ranked preference for Friday’s discussion sections. You will then be moved from L1D into your assigned discussion section (L1A, L1B, or L1C) depending on your enrolment time and seat availability.\n\nThe discussion sections options are: \nAMNE 160 L1A:  F 9-10 am\nAMNE 160 L1B:   F 10-11 am\nAMNE 160 L1C:  F 11-12 pm\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section. If the course is blocked by showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "AMNE_V 170-001 - ARCH ME, GR, RME",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/78",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 2-Room B213 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome. Visit amne.ubc.ca for full course descriptions. \nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section. If the course is blocked by showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Kevin Fisher",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "AERL-Floor 1-Room 120 | Tue Thu | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_002 - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 2-Room 200 | Tue Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Law & Society stream,   \nhttps://cap.arts.ubc.ca/streams/law-society/. Students must register in both Term  \n1 and Term 2 courses in CAP. \n \nPlease register in both the lecture, and one of the following discussion sections: ANTH_V 100-A_D2A, ANTH_V 100-A_D2B, ANTH_V 100-A_D2C, or ANTH_V 100-A_D2D. This course is also clustered with HIST_V 104-A_227, and the Law & Society sections of the CAP stream seminar CAP_V 100. For HIST_V 104-A_227, please register in the lecture, and one of the following discussion sections: HIST_V 104-A_L1A, HIST_V 104-A_L1B, HIST_V 104-A_L1C, or HIST_V 104-A_L1D. For CAP_V 100, please register in one of the following: CAP_V 100-L01, CAP_V 100-L02, CAP_V 100-L03, or CAP_V 100-L04. CAP_V 100 does not have any additional discussion sections. Follow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca\n\nThis course explores the diverse tapestry of human cultures through the lens of cultural anthropology. It examines fundamental concepts, methodologies, and thematic explorations shaping this field of study. From language to politics, from rituals to virtual spaces, cultural anthropologists analyze the intricacies of societies worldwide. Through lectures, discussions, and immersive activities, we will explore the notion of 'culture' and the method of participant-observation. Engaging with ethnographic accounts, we will investigate the familiar and the unfamiliar, learning to challenge perspectives, question norms, and cultivate critical thinking.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amirpouyan Shiva",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_002 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2D - Introduction to Cultural Anthropology (A)",
+      "CAP_V 100-L01 - WRTI RES SS & H",
+      "CAP_V 100-L02 - WRTI RES SS & H",
+      "CAP_V 100-L03 - WRTI RES SS & H",
+      "CAP_V 100-L04 - WRTI RES SS & H",
+      "HIST_V 104-A_227 - Topics in World History (A)",
+      "HIST_V 104-A_L1A - Topics in World History (A)",
+      "HIST_V 104-A_L1B - Topics in World History (A)",
+      "HIST_V 104-A_L1C - Topics in World History (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 119/275",
+    "Section Details": "MATH-Floor 1-Room 100 | Mon Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 207 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 205 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Nicola Levell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_001 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D1F - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D2A - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Amirpouyan Shiva",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_002 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2D - Introduction to Cultural Anthropology (A)",
+      "CAP_V 100-L01 - WRTI RES SS & H",
+      "CAP_V 100-L02 - WRTI RES SS & H",
+      "CAP_V 100-L03 - WRTI RES SS & H",
+      "CAP_V 100-L04 - WRTI RES SS & H",
+      "HIST_V 104-A_227 - Topics in World History (A)",
+      "HIST_V 104-A_L1A - Topics in World History (A)",
+      "HIST_V 104-A_L1B - Topics in World History (A)",
+      "HIST_V 104-A_L1C - Topics in World History (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D2B - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Amirpouyan Shiva",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_002 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2D - Introduction to Cultural Anthropology (A)",
+      "CAP_V 100-L01 - WRTI RES SS & H",
+      "CAP_V 100-L02 - WRTI RES SS & H",
+      "CAP_V 100-L03 - WRTI RES SS & H",
+      "CAP_V 100-L04 - WRTI RES SS & H",
+      "HIST_V 104-A_227 - Topics in World History (A)",
+      "HIST_V 104-A_L1A - Topics in World History (A)",
+      "HIST_V 104-A_L1B - Topics in World History (A)",
+      "HIST_V 104-A_L1C - Topics in World History (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D2C - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/25",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Amirpouyan Shiva",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_002 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2D - Introduction to Cultural Anthropology (A)",
+      "CAP_V 100-L01 - WRTI RES SS & H",
+      "CAP_V 100-L02 - WRTI RES SS & H",
+      "CAP_V 100-L03 - WRTI RES SS & H",
+      "CAP_V 100-L04 - WRTI RES SS & H",
+      "HIST_V 104-A_227 - Topics in World History (A)",
+      "HIST_V 104-A_L1A - Topics in World History (A)",
+      "HIST_V 104-A_L1B - Topics in World History (A)",
+      "HIST_V 104-A_L1C - Topics in World History (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D2D - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/25",
+    "Section Details": "ANSO-Floor 1-Room 134 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Amirpouyan Shiva",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_002 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D2D - Introduction to Cultural Anthropology (A)",
+      "CAP_V 100-L01 - WRTI RES SS & H",
+      "CAP_V 100-L02 - WRTI RES SS & H",
+      "CAP_V 100-L03 - WRTI RES SS & H",
+      "CAP_V 100-L04 - WRTI RES SS & H",
+      "HIST_V 104-A_227 - Topics in World History (A)",
+      "HIST_V 104-A_L1A - Topics in World History (A)",
+      "HIST_V 104-A_L1B - Topics in World History (A)",
+      "HIST_V 104-A_L1C - Topics in World History (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/23",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/23",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/23",
+    "Section Details": "ANSO-Floor 2-Room 205 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/23",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/23",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/23",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/23",
+    "Section Details": "ANSO-Floor 2-Room 205 | Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/23",
+    "Section Details": "ANSO-Floor 2-Room 203 | Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/23",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/23",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/23",
+    "Section Details": "ANSO-Floor 2-Room 202 | Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/22",
+    "Section Details": "ANSO-Floor 1-Room 134 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Charles Menzies",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "ANTH_V 100-A_003 - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3A - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3B - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3C - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3D - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3E - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3F - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3G - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3H - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3I - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3J - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3K - Introduction to Cultural Anthropology (A)",
+      "ANTH_V 100-A_D3L - Introduction to Cultural Anthropology (A)"
+    ]
   },
   {
     "Course Section": "APSC_V 100-101 - Introduction to Engineering I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 291/294",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Mon Fri | 8:00 a.m. - 9:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amir M. Dehkhoda, Carol Jaeger, Jon Nakane, Peter Ostafichuk, Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-102 - Introduction to Engineering I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 275/294",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Mon Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amir M. Dehkhoda, Carol Jaeger, Jon Nakane, Peter Ostafichuk, Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-103 - Introduction to Engineering I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 259/294",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Mon Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amir M. Dehkhoda, Carol Jaeger, Jon Nakane, Peter Ostafichuk, Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-104 - Introduction to Engineering I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 229/294",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Mon Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amir M. Dehkhoda, Carol Jaeger, Jon Nakane, Peter Ostafichuk, Seyyed Alireza Bagherzadeh Hosseini",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-9AR - Introduction to Engineering I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "Please use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-L1A - Introduction to Engineering I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "EDC-Floor 3-Room 301 | Thu | 4:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-L1B - Introduction to Engineering I",
     "Instructional Format": "Studio",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 66/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "EDC-Floor 3-Room 301 | Mon | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-L1C - Introduction to Engineering I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "EDC-Floor 3-Room 301 | Wed | 12:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-L1D - Introduction to Engineering I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "EDC-Floor 3-Room 301 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "APSC_V 100-L1E - Introduction to Engineering I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "EDC-Floor 3-Room 301 | Tue | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into APSC 100 is via a first year engineering timetable. If you require APSC 100, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

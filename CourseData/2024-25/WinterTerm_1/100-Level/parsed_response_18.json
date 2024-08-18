@@ -4,353 +4,757 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B2 - Differential Calculus with Applications",
+      "MATH_V 100-B21 - Differential Calculus with Applications",
+      "MATH_V 100-B22 - Differential Calculus with Applications",
+      "MATH_V 100-B23 - Differential Calculus with Applications",
+      "MATH_V 100-B24 - Differential Calculus with Applications",
+      "MATH_V 100-B25 - Differential Calculus with Applications",
+      "MATH_V 100-B26 - Differential Calculus with Applications",
+      "MATH_V 100-B27 - Differential Calculus with Applications",
+      "MATH_V 100-B28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B31 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "BUCH-Floor 3-Room B315 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B32 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B33 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Tue | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B34 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B35 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B36 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "LASR-Floor 1-Room 104 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B37 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/60",
+    "Section Details": "LASR-Floor 1-Room 102 | Tue | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-B38 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "CHEM-Floor B1-Room C126 | Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1B3 - Differential Calculus with Applications",
+      "MATH_V 100-B31 - Differential Calculus with Applications",
+      "MATH_V 100-B32 - Differential Calculus with Applications",
+      "MATH_V 100-B33 - Differential Calculus with Applications",
+      "MATH_V 100-B34 - Differential Calculus with Applications",
+      "MATH_V 100-B35 - Differential Calculus with Applications",
+      "MATH_V 100-B36 - Differential Calculus with Applications",
+      "MATH_V 100-B37 - Differential Calculus with Applications",
+      "MATH_V 100-B38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C11 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 1 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is for BIE students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C1 - Differential Calculus with Applications",
+      "MATH_V 100-C11 - Differential Calculus with Applications",
+      "MATH_V 100-C12 - Differential Calculus with Applications",
+      "MATH_V 100-C13 - Differential Calculus with Applications",
+      "MATH_V 100-C14 - Differential Calculus with Applications",
+      "MATH_V 100-C15 - Differential Calculus with Applications",
+      "MATH_V 100-C16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C12 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Tue | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C1 - Differential Calculus with Applications",
+      "MATH_V 100-C11 - Differential Calculus with Applications",
+      "MATH_V 100-C12 - Differential Calculus with Applications",
+      "MATH_V 100-C13 - Differential Calculus with Applications",
+      "MATH_V 100-C14 - Differential Calculus with Applications",
+      "MATH_V 100-C15 - Differential Calculus with Applications",
+      "MATH_V 100-C16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C13 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 1-Room 121 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is for BIE students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C1 - Differential Calculus with Applications",
+      "MATH_V 100-C11 - Differential Calculus with Applications",
+      "MATH_V 100-C12 - Differential Calculus with Applications",
+      "MATH_V 100-C13 - Differential Calculus with Applications",
+      "MATH_V 100-C14 - Differential Calculus with Applications",
+      "MATH_V 100-C15 - Differential Calculus with Applications",
+      "MATH_V 100-C16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C14 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/60",
+    "Section Details": "BUCH-Floor 3-Room B315 | Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C1 - Differential Calculus with Applications",
+      "MATH_V 100-C11 - Differential Calculus with Applications",
+      "MATH_V 100-C12 - Differential Calculus with Applications",
+      "MATH_V 100-C13 - Differential Calculus with Applications",
+      "MATH_V 100-C14 - Differential Calculus with Applications",
+      "MATH_V 100-C15 - Differential Calculus with Applications",
+      "MATH_V 100-C16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C15 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/60",
+    "Section Details": "BUCH-Floor 2-Room D218 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C1 - Differential Calculus with Applications",
+      "MATH_V 100-C11 - Differential Calculus with Applications",
+      "MATH_V 100-C12 - Differential Calculus with Applications",
+      "MATH_V 100-C13 - Differential Calculus with Applications",
+      "MATH_V 100-C14 - Differential Calculus with Applications",
+      "MATH_V 100-C15 - Differential Calculus with Applications",
+      "MATH_V 100-C16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C16 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C1 - Differential Calculus with Applications",
+      "MATH_V 100-C11 - Differential Calculus with Applications",
+      "MATH_V 100-C12 - Differential Calculus with Applications",
+      "MATH_V 100-C13 - Differential Calculus with Applications",
+      "MATH_V 100-C14 - Differential Calculus with Applications",
+      "MATH_V 100-C15 - Differential Calculus with Applications",
+      "MATH_V 100-C16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C21 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C22 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C23 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Tue | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C24 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "BUCH-Floor 2-Room B215 | Tue | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C25 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/60",
+    "Section Details": "CHEM-Floor B1-Room C126 | Tue | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C26 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/60",
+    "Section Details": "OSB1-Floor 2-Room 203 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C27 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-C28 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 9:00 a.m. - 10:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1C2 - Differential Calculus with Applications",
+      "MATH_V 100-C21 - Differential Calculus with Applications",
+      "MATH_V 100-C22 - Differential Calculus with Applications",
+      "MATH_V 100-C23 - Differential Calculus with Applications",
+      "MATH_V 100-C24 - Differential Calculus with Applications",
+      "MATH_V 100-C25 - Differential Calculus with Applications",
+      "MATH_V 100-C26 - Differential Calculus with Applications",
+      "MATH_V 100-C27 - Differential Calculus with Applications",
+      "MATH_V 100-C28 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-DAR - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "Section for internal registration only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 110-001 - Differential Calculus",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 194/240",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/80",
+    "Section Details": "CHEM-Floor B1-Room B150 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Keqin Liu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1A - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "MATH-Floor 2-Room 202 | Tue | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1B - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "MATH-Floor 1-Room 105 | Tue | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1C - Differential Calculus",
     "Instructional Format": "Workshop",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "MATH-Floor 1-Room 105 | Tue | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1D - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/30",
+    "Section Details": "MATH-Floor 2-Room 202 | Tue | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1E - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/30",
+    "Section Details": "MATH-Floor 2-Room 202 | Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1F - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/30",
+    "Section Details": "MATH-Floor 2-Room 202 | Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1G - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/30",
+    "Section Details": "MATH-Floor 2-Room 202 | Tue | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 110-W1H - Differential Calculus",
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "MATH-Floor 2-Room 202 | Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MATH_V 120-101 - Honours Differential Calculus",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "MATH-Floor 1-Room 102 | Mon Tue Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 120-102 - Honours Differential Calculus",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 67/80",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "CHEM-Floor B1-Room C126 | Mon Tue Wed Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Alexia Yavicoli",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-101 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 372/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue | 9:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Peter Harrington",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-102 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 364/480",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Fri | 12:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Peter Harrington",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1A - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "GEOG-Floor 1-Room 147 | Mon | 3:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1B - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "Section Details": "GEOG-Floor 1-Room 147 | Tue | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1C - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "Section Details": "CHBE-Floor 1-Room 103 | Tue | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1D - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Wed | 9:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1E - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/60",
+    "Section Details": "FSC-Floor 1-Room 1003 | Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1G - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "GEOG-Floor 1-Room 147 | Thu | 9:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-D1H - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 1-Room 147 | Thu | 11:00 a.m. - 1:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-DF1 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/60",
+    "Section Details": "LASR-Floor 1-Room 102 | Fri | 10:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-DM1 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/60",
+    "Section Details": "FSC-Floor 1-Room 1003 | Mon | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-DM2 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Mon | 12:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-DT1 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Thu | 3:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-DT2 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "FSC-Floor 1-Room 1001 | Thu | 9:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is for LAND ONE students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 180-DW1 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

@@ -4,364 +4,908 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 3-Room D304 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Beginning Latin II. Visit amne.ubc.ca for full course descriptions.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Charmaine Gorrie",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LATN_V 102-002 - Beginning Latin II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 3-Room B307 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Beginning Latin II. Visit amne.ubc.ca for full course descriptions.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Charmaine Gorrie",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LATN_V 102-003 - Beginning Latin II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
     "Course Section Definition Public Notes": "Beginning Latin II. Visit amne.ubc.ca for full course descriptions.\n\nThis is an asynchronous web-based course. You may register in this course even if the time conflicts with another course.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Gwyneth Lewis",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 101-201 - LFS MICROECON",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This section is for students admitted to the LAND ONE program only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Karen Taylor",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 101-D01 - LFS MICROECON",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/35",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "This section is for students admitted to the LAND ONE program only.  ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Karen Taylor",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 150-002 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/35",
+    "Section Details": "MCML-Floor 2-Room 256 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Duff Roberts",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 150-004 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/35",
+    "Section Details": "MCML-Floor 2-Room 260 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amelia Macrae",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 150-007 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/10",
+    "Section Details": "Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This course is run SYNCHRONOUSLY, meaning students have to log on and participate at the posted days/times.   \n\nIf you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Candice Rideout",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 150-008 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/30",
+    "Section Details": "MCML-Floor 2-Room 256 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Duff Roberts",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LFS_V 150-201 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This section of LFS 150 is only open to students in the Land One Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Lindsay Cuff",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LING_V 100-002 - Introduction to Language and Linguistics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 94/200",
+    "Section Details": "BUCH-Floor 1-Room A101 | Mon Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Select lecture and one discussion section",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Eva Csipak",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-004 - Introduction to Language and Linguistics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 138/200",
+    "Section Details": "FSC-Floor 1-Room 1005 | Mon Wed | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Select lecture and one discussion section",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Eva Csipak",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T19 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/33",
+    "Section Details": "EOS-Floor 1-Room 135 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T20 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/33",
+    "Section Details": "FORW-Floor 3-Room 317 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T21 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/33",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T22 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/33",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T23 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/33",
+    "Section Details": "DMP-Floor 1-Room 101 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T24 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/33",
+    "Section Details": "DMP-Floor 1-Room 101 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T32 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/33",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T33 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T36 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/33",
+    "Section Details": "DMP-Floor 2-Room 201 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T37 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/33",
+    "Section Details": "DMP-Floor 2-Room 201 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T51 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/33",
+    "Section Details": "DMP-Floor 2-Room 201 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-002 - Introduction to Language and Linguistics",
+      "LING_V 100-T19 - Introduction to Language and Linguistics",
+      "LING_V 100-T22 - Introduction to Language and Linguistics",
+      "LING_V 100-T24 - Introduction to Language and Linguistics",
+      "LING_V 100-T36 - Introduction to Language and Linguistics",
+      "LING_V 100-T37 - Introduction to Language and Linguistics",
+      "LING_V 100-T51 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T52 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "FSC-Floor 1-Room 1611 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "LING_V 100-004 - Introduction to Language and Linguistics",
+      "LING_V 100-T20 - Introduction to Language and Linguistics",
+      "LING_V 100-T21 - Introduction to Language and Linguistics",
+      "LING_V 100-T23 - Introduction to Language and Linguistics",
+      "LING_V 100-T32 - Introduction to Language and Linguistics",
+      "LING_V 100-T33 - Introduction to Language and Linguistics",
+      "LING_V 100-T52 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 101-002 - Languages of the World",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 117/185",
+    "Section Details": "CHBE-Floor 1-Room 101 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Strang Burton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LING_V 101-004 - Languages of the World",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 146/185",
+    "Section Details": "LSK-Floor 2-Room 200 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Strang Burton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "LING_V 170-002 - Introduction to How to Learn a Language",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/99",
+    "Section Details": "FSC-Floor 1-Room 1221 | Mon Wed | 4:00 p.m. - 5:30 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Strang Burton",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MATH_V 100-001 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/60",
+    "Section Details": "LASR-Floor 1-Room 104 | Mon | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 100-001 - Differential Calculus with Applications",
+      "MATH_V 100-002 - Differential Calculus with Applications",
+      "MATH_V 100-003 - Differential Calculus with Applications",
+      "MATH_V 100-004 - Differential Calculus with Applications",
+      "MATH_V 100-201 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-002 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/60",
+    "Section Details": "GEOG-Floor 1-Room 101 | Tue | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 100-001 - Differential Calculus with Applications",
+      "MATH_V 100-002 - Differential Calculus with Applications",
+      "MATH_V 100-003 - Differential Calculus with Applications",
+      "MATH_V 100-004 - Differential Calculus with Applications",
+      "MATH_V 100-201 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-003 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/60",
+    "Section Details": "GEOG-Floor 1-Room 101 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 100-001 - Differential Calculus with Applications",
+      "MATH_V 100-002 - Differential Calculus with Applications",
+      "MATH_V 100-003 - Differential Calculus with Applications",
+      "MATH_V 100-004 - Differential Calculus with Applications",
+      "MATH_V 100-201 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-004 - Differential Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 100-001 - Differential Calculus with Applications",
+      "MATH_V 100-002 - Differential Calculus with Applications",
+      "MATH_V 100-003 - Differential Calculus with Applications",
+      "MATH_V 100-004 - Differential Calculus with Applications",
+      "MATH_V 100-201 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-201 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 96/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 162/170",
+    "Section Details": "FSC-Floor 1-Room 1005 | Thu | 11:00 a.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 100-001 - Differential Calculus with Applications",
+      "MATH_V 100-002 - Differential Calculus with Applications",
+      "MATH_V 100-003 - Differential Calculus with Applications",
+      "MATH_V 100-004 - Differential Calculus with Applications",
+      "MATH_V 100-201 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2A1 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 479/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue | 8:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2A2 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 480/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 50/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2A3 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 480/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 35/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2A4 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 321/325",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/80",
+    "Section Details": "WESB-Floor 1-Room 100 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2B1 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 383/480",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Wed | 8:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2B2 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 480/480",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2B3 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 279/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 35/80",
+    "Section Details": "WESB-Floor 1-Room 100 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2C1 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 261/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Thu | 10:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Bcom students should register in Lecture sections 2C1 or 2C2.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C1 - Integral Calculus with Applications",
+      "MATH_V 101-C11 - Integral Calculus with Applications",
+      "MATH_V 101-C12 - Integral Calculus with Applications",
+      "MATH_V 101-C13 - Integral Calculus with Applications",
+      "MATH_V 101-C14 - Integral Calculus with Applications",
+      "MATH_V 101-C15 - Integral Calculus with Applications",
+      "MATH_V 101-C16 - Integral Calculus with Applications",
+      "MATH_V 101-C17 - Integral Calculus with Applications",
+      "MATH_V 101-C18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2C2 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 188/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/80",
+    "Section Details": "IRC-Floor B1-Room 2 | Thu | 12:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "BCOM students should register in Lecture sections 2C1 or 2C2.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C2 - Integral Calculus with Applications",
+      "MATH_V 101-C21 - Integral Calculus with Applications",
+      "MATH_V 101-C22 - Integral Calculus with Applications",
+      "MATH_V 101-C23 - Integral Calculus with Applications",
+      "MATH_V 101-C24 - Integral Calculus with Applications",
+      "MATH_V 101-C25 - Integral Calculus with Applications",
+      "MATH_V 101-C26 - Integral Calculus with Applications",
+      "MATH_V 101-C27 - Integral Calculus with Applications",
+      "MATH_V 101-C28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-2C3 - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 320/325",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/80",
+    "Section Details": "WESB-Floor 1-Room 100 | Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C3 - Integral Calculus with Applications",
+      "MATH_V 101-C31 - Integral Calculus with Applications",
+      "MATH_V 101-C32 - Integral Calculus with Applications",
+      "MATH_V 101-C33 - Integral Calculus with Applications",
+      "MATH_V 101-C34 - Integral Calculus with Applications",
+      "MATH_V 101-C35 - Integral Calculus with Applications",
+      "MATH_V 101-C36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-9AR - Integral Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/300",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "Section for Internal registration only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MATH_V 101-A11 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A12 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A13 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A14 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A15 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 8:00 a.m. - 9:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A16 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 9:00 a.m. - 10:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A17 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   }
 ]

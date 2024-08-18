@@ -1,0 +1,609 @@
+[
+  {
+    "Course Section": "EOSC_V 321-101 - Igneous Petrology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/45",
+    "Section Details": "EOS-Floor 1-Room 135 | Tue Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Maya Kopylova",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 321-L1A - Igneous Petrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "Section Details": "EOS-Floor 2-Room 201 | Mon | 3:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 321-L1B - Igneous Petrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/15",
+    "Section Details": "EOS-Floor 2-Room 201 | Fri | 2:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 321-L1C - Igneous Petrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/15",
+    "Section Details": "EOS-Floor 2-Room 201 | Thu | 2:00 p.m. - 5:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 323-101 - Structural Geology I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/75",
+    "Section Details": "ESB-Floor 2-Room 2012 | Mon Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Lucy Porritt",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 323-L1A - Structural Geology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "EOS-Floor 1-Room 121 | Wed | 3:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Lucy Porritt",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 323-L1B - Structural Geology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "EOS-Floor 2-Room 210 | Thu | 4:00 p.m. - 7:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 323-L1C - Structural Geology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "EOS-Floor 1-Room 121 | Fri | 3:00 p.m. - 6:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Lucy Porritt",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 323-L1D - Structural Geology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "EOS-Floor 1-Room 121 | Mon | 4:00 p.m. - 7:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Lucy Porritt",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 325-101 - Principles of Physical Hydrogeology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/100",
+    "Section Details": "CHEM-Floor 2-Room D300 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ali Ameli",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 325-T01 - Principles of Physical Hydrogeology",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/110",
+    "Section Details": "CHEM-Floor 2-Room D300 | Thu | 5:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 326-101 - Earth and Life Through Time",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "Section Details": "MCLD-Floor 3-Room 3002 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Laura Lukes",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 329-101 - Quantitative Groundwater Hydrology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 84/100",
+    "Section Details": "CHEM-Floor 1-Room D200 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ulrich Mayer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 329-L1A - Quantitative Groundwater Hydrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/35",
+    "Section Details": "EOS-Floor 1-Room 105 | Mon | 3:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 329-L1B - Quantitative Groundwater Hydrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/35",
+    "Section Details": "EOS-Floor 1-Room 121 | Tue | 3:30 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 329-L1C - Quantitative Groundwater Hydrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/35",
+    "Section Details": "EOS-Floor 1-Room 121 | Thu | 3:30 p.m. - 5:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 329-L1D - Quantitative Groundwater Hydrology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/30",
+    "Section Details": "EOS-Floor 1-Room 105 | Fri | 3:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 330-101 - Principles of Geomorphology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 67/70",
+    "Section Details": "ORCH-Floor 4-Room 4074 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Brett Gilley, Scott McDougall",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 330-L1A - Principles of Geomorphology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "EOS-Floor 1-Room 101 | Tue | 3:30 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 330-L1B - Principles of Geomorphology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "EOS-Floor 1-Room 101 | Tue | 11:00 a.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 330-L1C - Principles of Geomorphology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "EOS-Floor 1-Room 101 | Thu | 9:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 330-L1D - Principles of Geomorphology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "EOS-Floor 1-Room 101 | Tue | 9:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 331-101 - Introduction to Mineral Deposits",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/45",
+    "Section Details": "EOS-Floor 1-Room 135 | Tue Thu | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "James Scoates, Kenneth Hickey",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 331-L1A - Introduction to Mineral Deposits",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/16",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "EOS-Floor 1-Room 101 | Wed | 3:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 331-L1B - Introduction to Mineral Deposits",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/16",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "EOS-Floor 1-Room 101 | Fri | 2:00 p.m. - 5:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 340-101 - Climate Change: Causes and Solutions",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 97/124",
+    "Section Details": "LIFE-Floor 2-Room 2302 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Rachel White",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 350-101 - Environmental, Geotechnical, and Exploration Geophysics I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/72",
+    "Section Details": "MCLD-Floor 3-Room 3014 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 350-L1A - Environmental, Geotechnical, and Exploration Geophysics I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/35",
+    "Section Details": "EOS-Floor 2-Room 210 | Mon | 3:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 350-L1B - Environmental, Geotechnical, and Exploration Geophysics I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/65",
+    "Section Details": "EOS-Floor 2-Room 210 | Tue | 3:30 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 352-101 - Geophysical Continuum Dynamics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/20",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "EOS-Floor 1-Room 121 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Christian Schoof",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 354-101 - ANL TIME SERIES",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/20",
+    "Section Details": "SWNG-Floor 3-Room 309 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Michael Bostock",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 354-L1A - ANL TIME SERIES",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/20",
+    "Section Details": "SWNG-Floor 2-Room 210 | Mon | 3:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 372-101 - Introductory Oceanography: Circulation and Plankton",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 126/180",
+    "Section Details": "MCML-Floor 3-Room 360 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Hal Bradbury, Michael Lipsen, Richard Pawlowicz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 398-101 - Co-operative Work Placement I",
+    "Instructional Format": "Experiential",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/10",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 399-001 - Co-operative Work Placement II",
+    "Instructional Format": "Experiential",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/10",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "EOSC_V 399-101 - Co-operative Work Placement II",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/10",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EPSE_V 301-074 - Introduction to Educational Psychology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 85/85",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 21/6",
+    "Section Details": "IBLC-Floor 2-Room 261 | Thu | 1:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Course Section Definition Public Notes": "Educational psychology integrates both the theory of psychology and the practice of education.  This course will focus on understanding how people learn and grow, while considering items such as motivation, environmental influences and more. As we explore the different ways that people learn we will also consider what it means to learn, how to improve learning (both for ourselves and for others).   This course is open to all UBC undergraduate students who are interested in teaching in various contexts and learning about learning. ",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EPSE_V 303-63A - Teaching Highly Able Learners",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/6",
+    "Course Section Definition Public Notes": "Online, asynchronous.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for EPSE courses, including when restrictions will be removed, please visit the EPSE Registration Guide at https://pdce.educ.ubc.ca/epse_registration_guide/.\n\nInquiries: online.educ@ubc.ca",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EPSE_V 303-63B - Teaching Highly Able Learners",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/6",
+    "Course Section Definition Public Notes": "Online, asynchronous.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for EPSE courses, including when restrictions will be removed, please visit the EPSE Registration Guide at https://pdce.educ.ubc.ca/epse_registration_guide/.\n\nInquiries: online.educ@ubc.ca",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EPSE_V 308-001 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 109/180",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 1-Room 121 | Wed | 8:00 a.m. - 10:30 a.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Kelly Cleeve",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-001 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-102 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-103 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-108 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-002 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 140/180",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "GEOG-Floor 1-Room 100 | Fri | 8:00 a.m. - 10:30 a.m. | 2024-09-06 - 2024-12-13",
+    "Instructors": "Anne Mackie",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-002 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-301 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-302 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-303 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-304 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-310 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-003 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 153/180",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 222 | Fri | 12:30 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-13",
+    "Instructors": "Anne Mackie",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-003 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-305 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-306 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-307 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-308 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-309 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-101 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 203 | Wed | 12:30 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Marcus Lau",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-101 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-S01 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-102 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Wed | 10:30 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Kelly Cleeve",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-001 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-102 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-103 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-108 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-103 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 207 | Wed | 10:30 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Kelly Cleeve",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-001 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-102 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-103 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-108 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-104 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 200 | Wed | 12:30 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Kelly Cleeve",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-104 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-S04 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-105 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 202 | Wed | 12:30 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Hazel Ryan Sheehan",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-105 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-S05 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-107 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 207 | Wed | 12:30 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Martin Dammert Freundt Thurne",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-107 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-S07 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-108 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 206 | Wed | 10:30 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-11",
+    "Instructors": "Kelly Cleeve",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-001 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-102 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-103 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-108 - Development, Learning and Culture in the Classroom"
+    ]
+  },
+  {
+    "Course Section": "EPSE_V 308-109 - Development, Learning and Culture in the Classroom",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Tue (Alternate weeks) | 8:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-10",
+    "Instructors": "Jennifer Vadeboncoeur",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "EPSE_V 308-109 - Development, Learning and Culture in the Classroom",
+      "EPSE_V 308-S09 - Development, Learning and Culture in the Classroom"
+    ]
+  }
+]

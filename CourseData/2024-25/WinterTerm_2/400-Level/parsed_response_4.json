@@ -4,391 +4,630 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/40",
+    "Section Details": "CHEM-Floor 1-Room D215 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Gregory Dake",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 412-266 - Electronic Structure of Atoms and Molecules",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/30",
+    "Section Details": "CHEM-Floor 1-Room D213 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Yan Wang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 416-212 - Physical and Theoretical Organic Chemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/20",
+    "Section Details": "MATH-Floor 1-Room 105 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Jason Hein",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 418-209 - Organometallic Chemistry",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/32",
+    "Section Details": "CHEM-Floor 1-Room D215 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Laurel Schafer",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 434-266 - Principles of Chemical Separation",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/40",
+    "Section Details": "CHEM-Floor 1-Room D215 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "David Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 445-B_215 - PROJCTS EXP CHEM (B)",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/25",
+    "Section Details": "Mon Wed | 2:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Guillaume Bussiere, Montserrat Rueda Becerril, Richard Kil, Vishakha Monga",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 445-B_RLE - PROJCTS EXP CHEM (B)",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "No direct student registration to RLE sections of CHEM445. A list of available RLE projects will be circulated via email in August and a matching process carried out in early September; you may alternately organize a placement directly with a faculty supervisor before then.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robin Stoodley",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 448-B_002 - T2 DST CHEMISTRY (B)",
     "Instructional Format": "Research",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "For students in CHEM and combined CHEM+other science subject programs. You must have a faculty supervisor arranged before requesting CHEM448 registration via ost.chem.ubc.ca (option 6 'Contact Advisor').\nRegister for both IND and RSH sections.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robin Stoodley",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 448-B_202 - T2 DST CHEMISTRY (B)",
     "Instructional Format": "Independent Study",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
     "Course Section Definition Public Notes": "For students in CHEM and combined CHEM+other science subject programs. You must have a faculty supervisor arranged before requesting CHEM448 registration via ost.chem.ubc.ca (option 6 'Contact Advisor').\nRegister for both IND and RSH sections.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robin Stoodley",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 449-202 - Seminar and Thesis",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/12",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
     "Course Section Definition Public Notes": "Register for both the RSH (research) and THS (thesis) sections.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "David Perrin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 449-2R2 - Seminar and Thesis",
     "Instructional Format": "Research",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/12",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
     "Course Section Definition Public Notes": "Register for both the RSH (research) and THS (thesis) sections.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "David Perrin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHEM_V 461-233 - Synthetic Chemical Biology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/40",
+    "Section Details": "CHEM-Floor 1-Room D215 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "David Perrin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 403-021 - Advanced Chinese Reading and Writing II (Non-Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "BUCH-Floor 3-Room D314 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course has 3 instructional hrs/wk in person, 1.5 hours on Tuesday and 1.5 hrs on Thursday, both conducted synchronously. For further information regarding CHIN courses, please go to https://chinese.arts.ubc.ca/courses/ .\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 407-021 - Advanced Chinese Speaking and Writing II (Non-Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/10",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is merged with CHIN 343 021. For classroom details, please refer to CHIN 343 021. This course has 3 instructional hrs/wk in person, 1.5 hours on Tuesday and 1.5 hrs on Thursday, both conducted synchronously. For further information regarding CHIN courses, please go to https://chinese.arts.ubc.ca/courses/ .\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Chien-Ju Lin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 437-021 - Business Chinese II (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "Tue Thu | 5:00 p.m. - 6:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is fully online with 3 instructional hrs/wk, 1.5 hrs on Tuesday and 1.5 hrs on Thursday, both conducted synchronously. For further information regarding CHIN courses, please go to https://chinese.arts.ubc.ca/courses/ .\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sheni Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 443-021 - Advanced Chinese Reading and Writing II (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SCRF-Floor 2-Room 202 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is offered as a merged course with CHIN453, at the same time in the same room but with separate course syllabi. This course has 3 instructional hrs/wk in person, 1.5 hours on Monday and 1.5 hrs on Wednesday, both conducted synchronously. For further information regarding CHIN courses, please go to https://chinese.arts.ubc.ca/courses/ .\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sheni Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 453-021 - Introductory Modern Chinese Literature II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/5",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is offered as a merged course with CHIN443, at the same time in the same room but with separate course syllabi. This course has 3 instructional hrs/wk in person, 1.5 hours on Monday and 1.5 hrs on Wednesday, both conducted synchronously. For further information regarding CHIN courses, please go to https://chinese.arts.ubc.ca/courses/ .\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sheni Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 463-021 - Early Classical Chinese Poetry (Han to Tang)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course. \n\nDelivery Mode -This course is fully online with 3 instructional hrs per week, 1.5 hrs on Monday and 1.5 hrs on Wednesday, both conducted synchronously. Students are expected to meet online using Zoom on the days and times listed. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.\n\nWaitlist Policy - All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Bin Zheng",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 465-021 - Fantasy in Chinese Literature",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "Tue Thu | 6:30 p.m. - 8:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is fully online with 3 instructional hrs per week, 1.5 hrs on Monday and 1.5 hrs on Wednesday, both conducted synchronously. Students are expected to meet online using Zoom on the days and times listed. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Xiaowen Xu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 466-021 - Chinese Martial Arts Fiction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "CHEM-Floor B1-Room C126 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Zheng Cai",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 473-021 - Later Classical Chinese Poetry (after Tang)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "SWNG-Floor 2-Room 207 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.  \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Xue Shun Liu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 473-022 - Later Classical Chinese Poetry (after Tang)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "ORCH-Floor 4-Room 4074 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.  \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Xue Shun Liu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 473-023 - Later Classical Chinese Poetry (after Tang)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/90",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -  This course is fully online with 3 instructional hrs per week, among which 1 hr of lecture will be conducted online synchronously on Wednesday and 2hr of flexible asynchronous learning as outlined on the syllabus. Students are expected to meet online using Zoom on the days and times listed, as well as complete supplemental asynchronous work outside of class time. Please refer to the course syllabus for details on the asynchronous elements of this course. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.If you are interested in fully in person courses, please check out other sections CHIN473.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Bin Zheng",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 483-021 - Modern Chinese Literature II (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "IBLC-Floor 2-Room 261 | Tue Thu | 5:00 p.m. - 6:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 483-022 - Modern Chinese Literature II (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "Mon Wed | 6:30 p.m. - 8:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is fully online with 3 instructional hrs per week, 1.5 hrs on Monday and 1.5 hrs on Wednesday, both conducted synchronously. Students are expected to meet online using Zoom on the days and times listed. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete. If you are interested in fully in person courses, please check out other sections of CHIN483.  \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 485-021 - Contemporary Chinese Fiction in Film",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/50",
+    "Section Details": "LASR-Floor 1-Room 105 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Zheng Cai",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 485-022 - Contemporary Chinese Fiction in Film",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/50",
+    "Section Details": "Mon Wed | 12:30 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is fully online with 3 instructional hrs per week, 1.5 hrs on Monday and 1.5 hrs on Wednesday, both conducted synchronously. Students are expected to meet online using Zoom on the days and times listed. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete. If you are interested in fully in person courses, please check out other sections of CHIN485.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Zheng Cai",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CHIN_V 493-021 - Classical Chinese II (Heritage)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CHIN-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is fully online with 3 instructional hrs per week, 1.5 hrs on Monday and 1.5 hrs on Wednesday, both conducted synchronously. Students are expected to meet online using Zoom on the days and times listed. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.  \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CINE_V 432-A_001 - Seminar in Motion Picture Forms (A)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/5",
+    "Section Details": "CHAN-Floor 2-Room 290 | Tue | 10:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Keren Zaiontz",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CINE_V 434-B_001 - Studies in Film (B)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "SCRF-Floor 2-Room 204 | Tue | 10:00 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "A course that mixes murder and laughter; 'Murder by Death' and 'A Simple Favor' (and Buster Keaton) will feature.\n\nIf this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Ernest Mathijs",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CINE_V 436-001 - Seminar in American Cinema Since 1960",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "CHAN-Floor 2-Room 290 | Mon | 2:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Lisa Coulthard",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 403-201 - Engineering Economic Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 146/181",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/100",
+    "Section Details": "IRC-Floor B1-Room 6 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Tamara Etmannski",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 408-201 - Geo-Environmental Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "CEME-Floor 1-Room 1206 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Loretta Li",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 409-201 - Municipal Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 176/220",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "SCRF-Floor 1-Room 100 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Chris Johnston, Sara Beck",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 411-201 - Foundation Engineering II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "MCML-Floor 1-Room 158 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 413-201 - Design of Earth Dams and Containment Structures",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 1-Room 1215 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "R Jonathan Fannin",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 417-201 - Coastal Engineering",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/100",
+    "Section Details": "FORW-Floor 2-Room 217 | Tue | 3:00 p.m. - 4:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Enda Murphy",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 418-201 - Engineering Hydrology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 68/72",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/70",
+    "Section Details": "MCML-Floor 1-Room 160 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Steven Weijs",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 425-201 - Case Studies of Construction Methods",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/100",
+    "Section Details": "FORW-Floor 3-Room 317 | Tue | 4:30 p.m. - 7:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 433-201 - Advanced Concrete Design",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/60",
+    "Section Details": "FSC-Floor 1-Room 1003 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Perry Erwin Adebar",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 436-201 - Matrix Structural Analysis and Dynamics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/40",
+    "Section Details": "CEME-Floor 1-Room 1202 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Carlos Estuardo Ventura",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 439-201 - Design of Timber Structures",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/100",
+    "Section Details": "CEME-Floor 1-Room 1204 | Tue | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Cristiano Loss",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 441-201 - Transportation Planning and Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/100",
+    "Section Details": "BIOL-Floor 2-Room 2200 | Tue | 3:30 p.m. - 6:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Clark Lim",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 446-201 - Civil Engineering Design Project II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 121/181",
+    "Section Details": "IRC-Floor B1-Room 6 | Fri | 3:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 446-T2A - Civil Engineering Design Project II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/44",
+    "Section Details": "SWNG-Floor 3-Room 307 | Tue Thu | 9:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 446-T2B - Civil Engineering Design Project II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/44",
+    "Section Details": "SWNG-Floor 3-Room 309 | Tue Thu | 9:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 446-T2C - Civil Engineering Design Project II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/44",
+    "Section Details": "SWNG-Floor 4-Room 409 | Tue Thu | 9:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 446-T2D - Civil Engineering Design Project II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/44",
+    "Section Details": "Tue Thu | 9:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 478-201 - Building Science",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 80/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "CEME-Floor 1-Room 1202 | Thu | 5:00 p.m. - 8:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CIVL_V 498-S_201 - Hydraulic Structures (S)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/9",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "CEME-Floor 1-Room 1212 | Mon | 5:00 p.m. - 8:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Ken Christison",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

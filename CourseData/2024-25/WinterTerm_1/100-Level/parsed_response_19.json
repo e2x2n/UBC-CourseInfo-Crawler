@@ -4,377 +4,646 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "Section Details": "LSK-Floor 1-Room 121 | Wed | 2:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 190-101 - Calculus Survey",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/68",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/10",
+    "Section Details": "GEOG-Floor 2-Room 212 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "This course is for Forestry Students Only.   Correct Prerequisites are:  Principles of Mathematics 12 and registration in the BSF or BSCN programs.  Please register for either lab section L1A, L1B or L1C.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Keqin Liu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 190-L1A - Calculus Survey",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/22",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MATH-Floor 2-Room 225 | Tue | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 190-L1B - Calculus Survey",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 4-Room 407 | Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 190-L1C - Calculus Survey",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MATH-Floor 2-Room 202 | Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MDIA_V 100-001 - Media Objects",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 76/120",
+    "Section Details": "Mon | 10:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Patrick Pennefather",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MDIA_V 100-L01 - Media Objects",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MDIA_V 100-L02 - Media Objects",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MDIA_V 100-L03 - Media Objects",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "Section Details": "PCN-Floor 1-Room 1008 | Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Patrick Pennefather",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MDIA_V 100-L04 - Media Objects",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "Section Details": "PCN-Floor 1-Room 1008 | Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Patrick Pennefather",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MDIA_V 100-L05 - Media Objects",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "MCLD-Floor 3-Room 3014 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MIDW_V 102-001 - Birth and its Meanings",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Thu | 9:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Allison Campbell",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MIDW_V 103-001 - Applied Health Services for Maternity Providers",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MIDW_V 104-001 - Lactation and Infant Feeding for Maternity Care Providers",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Wed | 1:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MIDW_V 106-001 - Reproductive Anatomy and Physiology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue | 9:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MIDW_V 107-001 - Physical Assessment",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Wed | 9:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Note: This course is only available to students in the UBC Midwifery Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Ann Lovold",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 100-001 - Principles of Musical Form",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 30/30",
+    "Section Details": "MUSC-Floor 4-Room 462 | Tue Thu | 8:30 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course has reserved seats for BMUS students. \n\nFor non-BMUS students:\nMUSC 100 is open to students in other departments and faculties, without pre-requisites.\n\nMUSC 100 is a required course in the Major and Minor in Music.\n\nIf you're interested in the course, please register directly in the course, or if there are no seats remaining, join the waitlist.\n\nStudents with a declared Major or Minor in Music will have priority for registration from the waitlist.\n\n\nNote that some lecture and discussion sections must be registered together:\nMUSC 100 001 - students in this lecture section must register in either D01, D02, or D03\n\nMUSC 100 002 - students in this lecture section must register in either D04 or D05",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-001 - Principles of Musical Form",
+      "MUSC_V 100-D01 - Principles of Musical Form",
+      "MUSC_V 100-D02 - Principles of Musical Form",
+      "MUSC_V 100-D03 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 100-002 - Principles of Musical Form",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/44",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 30/30",
+    "Section Details": "MUSC-Floor 4-Room 462 | Tue Thu | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course has reserved seats for BMUS students. \n\nFor non-BMUS students:\nMUSC 100 is open to students in other departments and faculties, without pre-requisites.\n\nMUSC 100 is a required course in the Major and Minor in Music.\n\nIf you're interested in the course, please register directly in the course, or if there are no seats remaining, join the waitlist.\n\nStudents with a declared Major or Minor in Music will have priority for registration from the waitlist.\n\n\nNote that some lecture and discussion sections must be registered together:\nMUSC 100 001 - students in this lecture section must register in either D01, D02, or D03\n\nMUSC 100 002 - students in this lecture section must register in either D04 or D05",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Leigh Van Handel",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-002 - Principles of Musical Form",
+      "MUSC_V 100-D04 - Principles of Musical Form",
+      "MUSC_V 100-D05 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 100-D01 - Principles of Musical Form",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 3-Room 339 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-001 - Principles of Musical Form",
+      "MUSC_V 100-D01 - Principles of Musical Form",
+      "MUSC_V 100-D02 - Principles of Musical Form",
+      "MUSC_V 100-D03 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 100-D02 - Principles of Musical Form",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 3-Room 339 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-001 - Principles of Musical Form",
+      "MUSC_V 100-D01 - Principles of Musical Form",
+      "MUSC_V 100-D02 - Principles of Musical Form",
+      "MUSC_V 100-D03 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 100-D03 - Principles of Musical Form",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 3-Room 339 | Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-001 - Principles of Musical Form",
+      "MUSC_V 100-D01 - Principles of Musical Form",
+      "MUSC_V 100-D02 - Principles of Musical Form",
+      "MUSC_V 100-D03 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 100-D04 - Principles of Musical Form",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/22",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 3-Room 339 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-002 - Principles of Musical Form",
+      "MUSC_V 100-D04 - Principles of Musical Form",
+      "MUSC_V 100-D05 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 100-D05 - Principles of Musical Form",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/22",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 3-Room 339 | Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MUSC_V 100-002 - Principles of Musical Form",
+      "MUSC_V 100-D04 - Principles of Musical Form",
+      "MUSC_V 100-D05 - Principles of Musical Form"
+    ]
   },
   {
     "Course Section": "MUSC_V 101-001 - Diatonic Harmony and Voice Leading",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/66",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/18",
+    "Section Details": "MUSC-Floor 4-Room 462 | Tue Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course is for BMUS and BA Majors and Minors in Music. Select MUSC 101 lecture + one discussion section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Robert Komaniecki",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 101-D01 - Diatonic Harmony and Voice Leading",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/22",
+    "Section Details": "Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Robert Komaniecki",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 101-D02 - Diatonic Harmony and Voice Leading",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/22",
+    "Section Details": "MUSC-Floor 3-Room 339 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Robert Komaniecki",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 101-D03 - Diatonic Harmony and Voice Leading",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/22",
+    "Section Details": "MUSC-Floor 3-Room 339 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Robert Komaniecki",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 103-001 - Introduction to the Theory of Music",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 71/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 29/40",
+    "Section Details": "MUSC-Floor 4-Room 462 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "OPEN TO ALL STUDENTS. Not applicable to the BMUS or to BA Major or Minor in Music.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 105-110 - Aural Skills I",
     "Instructional Format": "Studio",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/5",
+    "Section Details": "MUSC-Floor 3-Room 301 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Restricted to B.Mus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Laurel Parsons",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 105-120 - Aural Skills I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MUSC-Floor 3-Room 301 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Restricted to B.Mus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Laurel Parsons",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 105-121 - Aural Skills I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MUSC-Floor 3-Room 338 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Restricted to B.Mus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Laurel Parsons",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 105-130 - Aural Skills I",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MUSC-Floor 3-Room 301 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Restricted to B.Mus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Laurel Parsons",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 107-C_001 - COMPOSITION I (C)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "FOR BMUS - Section 001 for Composition Major students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 107-C_002 - COMPOSITION I (C)",
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/10",
+    "Section Details": "Fri | 10:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Section 002 for students who are not in the Major in Composition.Interested students should contact Dr. Jennifer Butler (jennifer.butler@ubc.ca) and submit one or two representative scores for permission to register. Two years of university-level theory are recommended, but not required.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 108-001 - Introduction to Contemporary Art Music",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 3-Room 304 | Tue | 2:30 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "An introductory repertoire course for composers. This course focuses on compositional issues and approaches in art music of the past fifty years. Coursework includes listening, score study, readings, quizzes and in-class presentations. Restricted to undergraduate composition majors; other BMus students may register by permission of the instructor.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Dorothy Chang, Jennifer Butler",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 112-001 - Class Brasses and Percussion",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "MUSC-Floor 3-Room 301 | Mon Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "For BMUS GSEM and BMUS GSSM majors only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 120-001 - History of Music I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 32/50",
+    "Section Details": "MUSC-Floor 2-Room 201 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course is for BMUS students as well as other students interested in the BA Major or Minor in Music. Must read music.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 122-001 - Class Woodwinds",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "MUSC-Floor 3-Room 301 | Mon Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "For BMUS GSEM and BMUS GSSM majors only. Term 1: Clarinet and saxophone on Monday and Wednesday, Flute on Friday; Term 2: Oboe and Bassoon Monday and Wednesday, Flute on Friday. Course Coordinator: Julia Nolan",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 128-001 - Music and Human Experience",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/21",
+    "Section Details": "CHAN-Floor 2-Room 290 | Tue | 8:30 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Each week, students study online course materials on their own time (asynchronously), attend the in-person lecture on Tuesdays from 8:30-9:20 am, and attend the in-person 50-minute discussion for which they have registered on Mondays at either 11am, 1 pm, or 2 pm. This class is one option that can satisfy the BMUS World Music requirement.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Michael Tenzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 128-D01 - Music and Human Experience",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ACEN-Floor B3-Room 105 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Michael Tenzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 128-D02 - Music and Human Experience",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ACEN-Floor B3-Room 105 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Michael Tenzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 128-D03 - Music and Human Experience",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ACEN-Floor B3-Room 105 | Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Michael Tenzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 131-001 - Class Voice",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Restricted to BMUS Education Stream students (GSEM; GSSM) only. Very limited enrolment; contact instructor for permission to register.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MUSC_V 135-001 - Opera Repertoire I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "AUDI-Floor 1-Room 200 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "With MUSC 235. Restricted to BMUS OPER, or DMPS. Open to other students by permission of the instructor.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Peter Barcza",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 141-001 - Class Piano I",
     "Instructional Format": "Workshop",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/13",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/4",
+    "Section Details": "AUDX-Floor 2-Room 254 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "For BMUS students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 141-002 - Class Piano I",
     "Instructional Format": "Workshop",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/13",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/4",
+    "Section Details": "AUDX-Floor 2-Room 254 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "For BMUS students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 149-001 - Collaborative Piano I",
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 3/10",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "Thu | 3:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 150-C_001 - Large Instrumental Ensemble (C)",
     "Instructional Format": "Recitation",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 45/60",
     "Course Section Definition Public Notes": "Large Instrumental Ensemble - UBC Concert WindsOpen only to 1st and 2nd year undergraduate students (see MUSC 350C for 3rd and 4th year registration; 550C for graduate registration).Open to non-music majors and secondary concentrators who are performers on woodwinds, brass, or percussion. Open to other students by audition, with credit, as stipulated by their faculties. May be repeated for credit. The ensemble rehearses MW 6-8:00 and makes four performances each year, with the majority of rehearsals and concerts taking place in the Chan Centre. While every effort is made to place students in appropriate ensembles based upon audition results, those taking this course as an elective are advised to have an alternate course ready in the unlikely case where an ensemble placement is not available. Entrance by audition each September. For more info: http://music.ubc.ca/student-ensembles",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 153-A_001 - University Singers (A)",
     "Instructional Format": "Recitation",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/30",
+    "Section Details": "MUSC-Floor 2-Room 201 | Mon Wed | 3:00 p.m. - 4:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "For 1st and 2nd year undergraduates (see MUSC 453A for 3rd and 4th year registration; 553A for graduate registration).OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles? For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for ensembles take place at the beginning of each academic year. http://music.ubc.ca/student-ensemblesStudents who wish to be notified when the audition details are updated should ensure they are on the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Graeme Langager",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "MUSC_V 154-A_001 - University Choral Union (Lower Years) (A)",
     "Instructional Format": "Recitation",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/65",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 93/120",
+    "Section Details": "MUSC-Floor 2-Room 201 | Tue Thu | 5:00 p.m. - 7:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "For 1st and 2nd year undergraduates (see MUSC 366A for 3rd and 4th year registration; 554A for graduate registration).OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles? For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for ensembles take place at the beginning of each academic year. http://music.ubc.ca/student-ensemblesStudents who wish to be notified when the audition details are updated should ensure they are on the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Hyejung Jun",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

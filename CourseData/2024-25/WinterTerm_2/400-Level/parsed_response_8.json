@@ -4,6 +4,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 118/118",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 78/999",
+    "Section Details": "FSC-Floor 1-Room 1005 | Mon | 3:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -11,6 +16,9 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/62",
+    "Section Details": "FSC-Floor 1-Room 1611 | Wed | 4:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -18,6 +26,9 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/62",
+    "Section Details": "CHBE-Floor 1-Room 103 | Wed | 4:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -25,6 +36,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 78/82",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/999",
+    "Section Details": "FSC-Floor 1-Room 1221 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "The prerequisites for this course are:\nBoth of (a) CPSC 320 and (b) one of STAT 200, STAT 241, STAT 302, or any course credit-excluded with one of these STAT courses in the UBC Science Credit Exclusion list.\n\nIt is possible to receive credit for up to two CPSC 436 offerings that are different courses, i.e., those with different letters after the 436 number. Students may not receive credit for the same CPSC 436 offering more than once. Similarly, if a CPSC 436 offering later transitions to a regular course number, students may not receive credit for that offering and the subsequent course. Students wishing to receive credit for more than two CPSC 436 offerings must appeal for permission.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -33,7 +49,13 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 93/93",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 93/999",
+    "Section Details": "CHEM-Floor 1-Room D200 | Wed Fri | 10:30 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-14",
     "Course Section Definition Public Notes": "The prerequisite for this course is all of: CPSC 313 and CPSC 317.\n\nPermission of the department to register is automatically granted if you meet the prerequisite listed above. Please do not request permission.\n\nIt is possible to receive credit for up to two CPSC 436 offerings that are different courses, i.e., those with different letters after the 436 number. Students may not receive credit for the same CPSC 436 offering more than once. Similarly, if a CPSC 436 offering later transitions to a regular course number, students may not receive credit for that offering and the subsequent course. Students wishing to receive credit for more than two CPSC 436 offerings must appeal for permission",
+    "Instructors": "Robert Xiao",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -41,6 +63,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 93/93",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 79/999",
+    "Section Details": "SWNG-Floor 1-Room 122 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Danica Sutherland",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -48,6 +76,10 @@
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/31",
+    "Section Details": "SWNG-Floor 1-Room 122 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Danica Sutherland",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -55,6 +87,10 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/31",
+    "Section Details": "FSC-Floor 1-Room 1611 | Tue | 3:30 p.m. - 4:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Danica Sutherland",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -62,6 +98,10 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/31",
+    "Section Details": "MCLD-Floor 2-Room 2002 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Danica Sutherland",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -69,6 +109,8 @@
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
     "Course Section Definition Public Notes": "Discussions are optional. Registering in this section indicates your choice not to have a reserved seat in any other Discussion section.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -77,6 +119,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/62",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/999",
+    "Section Details": "ORCH-Floor 1-Room 1001 | Tue | 3:30 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Karon MacLean",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -84,6 +132,9 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/22",
+    "Section Details": "ICCS-Floor 3-Room X360 | Fri | 4:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -91,6 +142,9 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/22",
+    "Section Details": "ICCS-Floor 3-Room X360 | Fri | 10:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -98,6 +152,9 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/22",
+    "Section Details": "ICCS-Floor 3-Room X360 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -105,6 +162,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 103/103",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 33/999",
+    "Section Details": "IBLC-Floor 2-Room 261 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Tamara Munzner",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -112,6 +175,8 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -120,6 +185,8 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -128,7 +195,11 @@
     "Instructional Format": "Experiential",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/999",
     "Course Section Definition Public Notes": "The Interactive Digital Media Practicum Course is by application only.\n\nTo apply:\n(1) Register for the waitlist section for the offering you want to join.\n(2) Apply for the course (and learn more about it) at https://thecdm.ca/program/ubc-sfu-digital-media-practicum\n\nApplications are due at 11:59PM (Vancouver time) on October 25 for Jan-Apr offerings and March 11 for May-Aug offerings. (When the deadline is a weekend/holiday, applications are due at 11:59PM on the next business day.)\n\nIf you are unable to register for the waitlist because of credit limit issues--e.g., arranging backup courses in case you are not accepted to the practicum--please apply at the website listed above and document your reasons for being unable to register for the waitlist.",
+    "Instructors": "Steven Wolfman",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -136,6 +207,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "AUDX-Floor 1-Room 142 | Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Keith Maillard",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -143,6 +218,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 3-Room D325 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jennifer Moss",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -150,6 +229,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 3-Room D325 | Thu | 10:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Sharon McGowan",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -157,6 +240,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/11",
+    "Section Details": "IBLC-Floor 2-Room 264 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Keith Maillard",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -164,6 +251,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 2-Room D209 | Thu | 12:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Anosh Irani",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -171,6 +262,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/11",
+    "Section Details": "LASR-Floor 2-Room 211 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Raymond Clark",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -178,6 +273,9 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 2-Room D214 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "This course will be taught by Michele McMahon",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -186,7 +284,12 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B316 | Tue | 12:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "This course is restricted to CRWR Major students.",
+    "Instructors": "Nalo Hopkinson",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -194,6 +297,11 @@
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/12",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SPPH-Floor B1-Room B112 | Fri | 10:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Emily Pohl-Weary",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -201,6 +309,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 3-Room D315 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Alex Marzano-Lesnevich",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -208,6 +320,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 3-Room B310 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Sara Graefe",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -215,7 +331,11 @@
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/12",
+    "Section Details": "BUCH-Floor 3-Room D319 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "The pre-req for CRWR 457 is CRWR 407.\nRegistration in this section requires mandatory participation in the Brave New Festival.",
+    "Instructors": "Sara Graefe",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -223,6 +343,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/12",
+    "Section Details": "BUCH-Floor 2-Room D216 | Fri | 12:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Sarah Leavitt",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -230,6 +354,10 @@
     "Instructional Format": "Workshop",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/12",
+    "Section Details": "BUCH-Floor 3-Room D319 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Billy-Ray Belcourt",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -237,7 +365,12 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "SWNG-Floor 4-Room 409 | Mon | 12:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Special Topics Title: Performing Gender and Sexuality with Dr. Isabel Machado\n\nDescription: \nThis course uses different frameworks and lenses to look at performances that defy gender normativity in different parts of the globe.\nIt explores how not only femininity and/or masculinity are being recreated, reaffirmed, or mocked in performances, but also ideas (and ideals) about race, class, body shapes and abilities, national and local belonging, and ethnicity.\nIt investigates how “drag” can simultaneously reflect, reinforce, and resist ideologies from mainstream cultures.\nIt will look for instances of queer joyful defiance and gender euphoria in gender-bending public performances, as well as moments in which cross-dressing served as a ritualesque means of reinforcing normativity and policing gender identities and embodiments.",
+    "Instructors": "Isabel Machado",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -245,6 +378,8 @@
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "CSIS 490 is available to CSIS minors and GRSJ majors with 3rd or 4th year standing. \nIf you are interested in taking a Directed Readings course, please apply here: https://grsj.air.arts.ubc.ca/application-grsj-directed-studies/ (CSIS and GRSJ students only).",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -253,6 +388,10 @@
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "9 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon | 9:30 a.m. - 12:30 p.m. | 2025-01-06 - 2025-02-10",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -260,7 +399,11 @@
     "Instructional Format": "Studio",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "9 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "Section Details": "Mon | 9:30 a.m. - 12:30 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "Registration follows completion of DES 402 and approval for the Honours Option",
+    "Instructors": "Bill Pechet",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -268,6 +411,8 @@
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "Registration follows approval of co-op term application.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -276,6 +421,8 @@
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "Registration follows approval of co-op term application.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -284,6 +431,8 @@
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
     "Course Section Definition Public Notes": "Registration follows approval of Co-op term application.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -292,6 +441,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 209 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Joseph Dahmen",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -299,6 +453,11 @@
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/6",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/12",
+    "Instructors": "Bill Pechet",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -306,6 +465,10 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Instructors": "Denise Laronde",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -313,6 +476,10 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Instructors": "Batoul Shariati",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -320,6 +487,11 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Instructors": "Penny Hatzimanolakis",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -327,6 +499,11 @@
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Instructors": "Zul Kanji",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -334,6 +511,11 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/23",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/15",
+    "Instructors": "Charanpreet Dhami",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
   {
@@ -341,6 +523,10 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\n1) Initial registration is restricted to students in the following programs: MA or MED with specialization ECED; Diploma with specialization EYED or IDSC; Basic Certificate stream; CEYED Certificate; BA with Minor in Education and Emphasis ECED;\n2) Registration will be available for all Education Diploma students on June 26, 2024, after 10am PT.\n3) Registration will be available for Unclassified and all undergraduate students on July 18, 2024, after 10am PT.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course. For information about how ECED waitlists function, please visit https://pdce.educ.ubc.ca/online-courses.\n\nInquiries: online.educ@ubc.ca.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -349,6 +535,10 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\n1) Initial registration is restricted to students in the following programs: MA or MED with specialization ECED; Diploma with specialization EYED or IDSC; ECE Assistant or Basic Certificate stream; CEYED Certificate; BA with Minor in Education and Emphasis ECED;\n2) Registration will be available for all Education Diploma students on June 26, 2024, after 10am PT.\n3) Registration will be available for Unclassified and all undergraduate students on July 18, 2024, after 10am PT.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course. For information about how ECED waitlists function, please visit https://pdce.educ.ubc.ca/online-courses.\n\nInquiries: online.educ@ubc.ca.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -357,6 +547,10 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\n1) Initial registration is restricted to students in the following programs: MA or MED with specialization ECED; Diploma with specialization EYED or IDSC; ECE Assistant or Basic Certificate stream; CEYED Certificate; BA with Minor in Education and Emphasis ECED;\n2) Registration will be available for all Education Diploma students on June 26, 2024, after 10am PT.\n3) Registration will be available for Unclassified and all undergraduate students on July 18, 2024, after 10am PT.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course. For information about how ECED waitlists function, please visit https://pdce.educ.ubc.ca/online-courses.\n\nInquiries: online.educ@ubc.ca.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   },
@@ -365,6 +559,10 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\n1) Initial registration is restricted to students in the following programs: MA or MED with specialization ECED; Diploma with specialization EYED or IDSC; Basic Certificate stream; CEYED Certificate; BA with Minor in Education and Emphasis ECED;\n2) Registration will be available for all Education Diploma students on June 26, 2024, after 10am PT.\n3) Registration will be available for Unclassified and all undergraduate students on July 18, 2024, after 10am PT.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course. For information about how ECED waitlists function, please visit https://pdce.educ.ubc.ca/online-courses.\n\nInquiries: online.educ@ubc.ca.",
     "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
   }

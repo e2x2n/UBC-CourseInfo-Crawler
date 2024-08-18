@@ -4,377 +4,772 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "OSB1-Floor 2-Room 203 | Mon | 4:30 p.m. - 6:30 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Langill",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KIN_V 132-L1B - Systems Physiology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "OSB1-Floor 2-Room 203 | Wed | 5:00 p.m. - 7:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Langill",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KIN_V 132-L1C - Systems Physiology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "OSB1-Floor 2-Room 203 | Fri | 4:30 p.m. - 6:30 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Langill",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KIN_V 132-L1D - Systems Physiology II",
     "Instructional Format": "Laboratory",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "OSB1-Floor 2-Room 203 | Thu | 9:00 a.m. - 11:00 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Langill",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KIN_V 132-L1E - Systems Physiology II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "OSB1-Floor 2-Room 203 | Fri | 8:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Robert Langill",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KIN_V 150-001 - Sport and Exercise Psychology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 175/220",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 100/100",
+    "Section Details": "GEOG-Floor 1-Room 100 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Desmond McEwan",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KIN_V 160-001 - Leisure and Sport in Society",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 47/75",
+    "Section Details": "SWNG-Floor 2-Room 221 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Instructions for BKIN students: When a course becomes full, registration in the associated waitlist in Workday will become an option. When a seat becomes available, Workday will automatically offer it to a student who meets any restrictions on the seat, ordering students by registration date. Each offer expires after 24 hours. To accept an offer, you must be able to register for a primary or \"lecture\" section for the course and any secondary sections like a \"lab\" or \"tutorial/discussion\"\n\nInstructions for non-BKIN students: Seats in all undergraduate KIN courses are initially restricted to students in the BKIN degree program at the start of the registration period. Non-BKIN students must first register in the associated waitlist section for any course they hope to be considered for a seat in. Please note that being on a waitlist does not guarantee that you will be able to secure a seat. In some cases, KIN Advising may transition available restricted seats to general seats for waitlisted non-BKIN students prior to the start of term but not at the request of any individual student.\n\nAdditional support: Waitlists are adjudicated automatically in Workday, and KIN Advising cannot answer questions about any individual’s position on a particular waitlist. Please do not contact instructors to assist with course registration, as they do not have access to register students. Students can find tutorials on how to navigate registration in KIN courses here: https://kin.educ.ubc.ca/undergraduate/how-to-workday. Additional resources on navigating Workday Student, please visit: https://workday.students.ubc.ca/",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Moss Norman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "KORN_V 102-001 - Basic Korean",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 3-Room D323 | Mon Tue Thu Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Eurie Shin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "KORN_V 102-002 - Basic Korean",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "BUCH-Floor 3-Room D323 | Mon Tue Thu Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Eurie Shin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "KORN_V 102-004 - Basic Korean",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "IBLC-Floor 1-Room 185 | Mon Tue Thu Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Jungeun Hong （홍정은）",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "KORN_V 102-005 - Basic Korean",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 3-Room D323 | Mon Tue Thu Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Jungeun Hong （홍정은）",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "KORN_V 102-007 - Basic Korean",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/20",
+    "Section Details": "BUCH-Floor 2-Room D201 | Mon Tue Thu Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Delivery Mode -This is an in-person course. Students are expected to meet in-person on the days and times listed. All courses labelled as ‘in-person’ are fully in-person for the entire term, including exams, and require in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Jungeun Hong （홍정은）",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LAST_V 100-102 - Introduction to Latin American Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "MCML-Floor 1-Room 166 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Course Description:\nAn overview of the culture and society of Latin America from ancient to contemporary times and from Argentina to Mexico. students will learn through music, novels, film, and more and reflect on Vancouver’s relationship with the Americas.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Max Furrier",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LATN_V 101-001 - Beginning Latin I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/34",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/10",
+    "Section Details": "BUCH-Floor 3-Room B304 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Beginning Latin I. Visit amne.ubc.ca for full course descriptions.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Charmaine Gorrie",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LATN_V 101-002 - Beginning Latin I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/10",
+    "Section Details": "BUCH-Floor 3-Room D304 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Beginning Latin I. Visit amne.ubc.ca for full course descriptions.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Talia Prussin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LATN_V 101-003 - Beginning Latin I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "BUCH-Floor 3-Room D312 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Beginning Latin I. Visit amne.ubc.ca for full course descriptions.\nInstructor: Rachel Philbrick\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Rachel Philbrick",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LATN_V 101-004 - Beginning Latin I",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Instructors": "Gwyneth Lewis",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 100-001 - Introduction to Land, Food and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 144/145",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Raelani Kesler",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 100-002 - Introduction to Land, Food and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 109/145",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Wed | 9:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This course is run SYNCHRONOUSLY, meaning students have to log on and participate at the posted days/times. This section is for 1st year students. If you are a transfer student, please register for section XMT.\n\nThis section will prioritize students who are planning to take CHEM 111.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Raelani Kesler",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 100-003 - Introduction to Land, Food and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 86/145",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This course is run SYNCHRONOUSLY, meaning students have to log on and participate at the posted days/times. This section is for 1st year students. All LAND ONE students should register in this section of LFS 100. If you are a transfer student, please register for section XMT.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Raelani Kesler",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 100-XMT - Introduction to Land, Food and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 142/136",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/125",
     "Course Section Definition Public Notes": "The LFS 100 XMT section is for post-secondary transfer students. If you are an incoming first-year student, please register into one of the other three LFS 100 sections. LFS students are required to complete LFS 100.\n\nTransfer students who are eligible to take this exam will then be sent instructions in August of how to complete the exam online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 110-101 - Land One: First-year Integrative Seminar",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is for students admitted to the LAND ONE program only.   Please ensure you're also registering in the Lab (L01) and Tutorial (L01) for LFS 110 to complete registration.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Fernanda Tomaselli",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 110-L01 - Land One: First-year Integrative Seminar",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is for students admitted to the LAND ONE program only.   ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Fernanda Tomaselli",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 110-T01 - Land One: First-year Integrative Seminar",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is for students admitted to the LAND ONE program only.   ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Fernanda Tomaselli",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "LFS_V 150-001 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/35",
+    "Section Details": "FORW-Floor 5-Room 519 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Lindsay Cuff",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 150-003 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/35",
+    "Section Details": "MCML-Floor 2-Room 256 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Duff Roberts",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 150-005 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/35",
+    "Section Details": "SCRF-Floor 2-Room 205 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This course is run SYNCHRONOUSLY, meaning students have to log on and participate at the posted days/times.\n\nIf you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.\n  ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amelia Macrae",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LFS_V 150-006 - Scholarly Writing and Argumentation in Land and Food Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/35",
+    "Section Details": "MCML-Floor 2-Room 256 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Lindsay Cuff",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LING_V 100-001 - Introduction to Language and Linguistics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 173/200",
+    "Section Details": "FSC-Floor 1-Room 1005 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Select lecture and one discussion section",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amanda Cardoso",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-003 - Introduction to Language and Linguistics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 172/200",
+    "Section Details": "FSC-Floor 1-Room 1005 | Mon Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Select lecture and one discussion section",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Amanda Cardoso",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T01 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "MCML-Floor 1-Room 158 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T02 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "DMP-Floor 2-Room 201 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T03 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/33",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T04 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/33",
+    "Section Details": "EOS-Floor 1-Room 135 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T25 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "ORCH-Floor 3-Room 3074 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T26 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "FORW-Floor 3-Room 317 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T27 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/33",
+    "Section Details": "MCML-Floor 1-Room 158 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T28 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/33",
+    "Section Details": "DMP-Floor 1-Room 101 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T4C - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "MCLD-Floor 3-Room 3014 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-001 - Introduction to Language and Linguistics",
+      "LING_V 100-T01 - Introduction to Language and Linguistics",
+      "LING_V 100-T02 - Introduction to Language and Linguistics",
+      "LING_V 100-T03 - Introduction to Language and Linguistics",
+      "LING_V 100-T26 - Introduction to Language and Linguistics",
+      "LING_V 100-T27 - Introduction to Language and Linguistics",
+      "LING_V 100-T4C - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T4D - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/33",
+    "Section Details": "DMP-Floor 1-Room 101 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T4E - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Section Details": "FSC-Floor 1-Room 1001 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 100-T53 - Introduction to Language and Linguistics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/33",
+    "Section Details": "MCLD-Floor 2-Room 2012 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "LING_V 100-003 - Introduction to Language and Linguistics",
+      "LING_V 100-T04 - Introduction to Language and Linguistics",
+      "LING_V 100-T25 - Introduction to Language and Linguistics",
+      "LING_V 100-T28 - Introduction to Language and Linguistics",
+      "LING_V 100-T4D - Introduction to Language and Linguistics",
+      "LING_V 100-T4E - Introduction to Language and Linguistics",
+      "LING_V 100-T53 - Introduction to Language and Linguistics"
+    ]
   },
   {
     "Course Section": "LING_V 101-001 - Languages of the World",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 185/185",
+    "Section Details": "Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Strang Burton",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LING_V 101-003 - Languages of the World",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/185",
+    "Section Details": "ESB-Floor 1-Room 1013 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Eva Csipak",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LING_V 140-002 - Challenging Language Myths",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/45",
+    "Section Details": "LIFE-Floor 2-Room 2202 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Amanda Cardoso, Elise Stickles",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "LING_V 142-001 - Language and Technology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/50",
+    "Section Details": "EOS-Floor 1-Room 135 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Scott Mackie",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "MATH_V 100-1A1 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 350/350",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 112/160",
+    "Section Details": "ESB-Floor 1-Room 1013 | Wed | 8:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Lior Silberman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1A1 - Differential Calculus with Applications",
+      "MATH_V 100-A11 - Differential Calculus with Applications",
+      "MATH_V 100-A12 - Differential Calculus with Applications",
+      "MATH_V 100-A13 - Differential Calculus with Applications",
+      "MATH_V 100-A14 - Differential Calculus with Applications",
+      "MATH_V 100-A15 - Differential Calculus with Applications",
+      "MATH_V 100-A16 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-1A2 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 350/350",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 87/160",
+    "Section Details": "ESB-Floor 1-Room 1013 | Wed | 10:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Andrew Rechnitzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1A2 - Differential Calculus with Applications",
+      "MATH_V 100-A21 - Differential Calculus with Applications",
+      "MATH_V 100-A22 - Differential Calculus with Applications",
+      "MATH_V 100-A23 - Differential Calculus with Applications",
+      "MATH_V 100-A24 - Differential Calculus with Applications",
+      "MATH_V 100-A25 - Differential Calculus with Applications",
+      "MATH_V 100-A26 - Differential Calculus with Applications",
+      "MATH_V 100-A27 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-1A3 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 480/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 108/160",
+    "Section Details": "IRC-Floor B1-Room 2 | Wed | 12:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Lior Silberman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1A3 - Differential Calculus with Applications",
+      "MATH_V 100-A31 - Differential Calculus with Applications",
+      "MATH_V 100-A32 - Differential Calculus with Applications",
+      "MATH_V 100-A33 - Differential Calculus with Applications",
+      "MATH_V 100-A34 - Differential Calculus with Applications",
+      "MATH_V 100-A35 - Differential Calculus with Applications",
+      "MATH_V 100-A36 - Differential Calculus with Applications",
+      "MATH_V 100-A37 - Differential Calculus with Applications",
+      "MATH_V 100-A38 - Differential Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 100-1A4 - Differential Calculus with Applications",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 480/480",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 96/160",
+    "Section Details": "IRC-Floor B1-Room 2 | Wed | 2:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Andrew Rechnitzer",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "MATH_V 100-1A4 - Differential Calculus with Applications",
+      "MATH_V 100-A41 - Differential Calculus with Applications",
+      "MATH_V 100-A42 - Differential Calculus with Applications",
+      "MATH_V 100-A43 - Differential Calculus with Applications",
+      "MATH_V 100-A44 - Differential Calculus with Applications",
+      "MATH_V 100-A45 - Differential Calculus with Applications",
+      "MATH_V 100-A46 - Differential Calculus with Applications",
+      "MATH_V 100-A47 - Differential Calculus with Applications",
+      "MATH_V 100-A48 - Differential Calculus with Applications"
+    ]
   }
 ]

@@ -4,356 +4,717 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 64/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SWNG-Floor 1-Room 122 | Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Mandy Catron",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 206-002 - Introduction to Writing for the Screen",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 119/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 1-Room A101 | Fri | 2:00 p.m. - 3:30 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Sharon McGowan",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 208-002 - Introduction to Writing for Graphic Forms",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 174/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Taylor Brown-Evans",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 209-002 - Introduction to Writing Fiction",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 208/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "FSC-Floor 1-Room 1005 | Tue | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "John Vigna",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 213-002 - Introduction to Writing for the New Media",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 117/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 1-Room A101 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Austen Osworth",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 220-U_001 - Introduction to Creative Writing with an Indigenous Focus (U)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 83/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "BUCH-Floor 2-Room A203 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Billy-Ray Belcourt",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "CRWR_V 230-002 - Introduction to Writing for Comedic Forms",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 169/250",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "BUCH-Floor 1-Room A101 | Wed | 5:00 p.m. - 6:30 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Dina Del Bucchia",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DANI_V 210-201 - Intermediate Danish II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/35",
+    "Section Details": "BUCH-Floor 2-Room D201 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Competence in expressing yourself in a wide range of contexts, also in written form; familiarity with contemporary Danish culture. Get to know Danish in a low-stress environment where you develop your language skills step by step, alongside other students in a small, friendly and inclusive classroom. \nCultural topics include: living in Denmark, being Danish, holidays and celebrations, højskole and fællesskab \n\nPREREQUISITES: DANI 200 or equivalent.\nBook: Puls 2, Chapter 3, 5-6\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies?\nClick here.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Ann-Kathrine Havemose",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 202-001 - Design Studio II - Form",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Mon | 1:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 202-L01 - Design Studio II - Form",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "Wed | 1:30 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 202-L02 - Design Studio II - Form",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "Section Details": "Wed | 1:30 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 202-L03 - Design Studio II - Form",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/15",
+    "Section Details": "Wed | 1:30 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 202-L04 - Design Studio II - Form",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/15",
+    "Section Details": "Wed | 1:30 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 212-201 - Design Media II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 1-Room 116 | Wed Fri | 9:30 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-001 - Sustainability by Design",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 103/150",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/35",
+    "Section Details": "ESB-Floor 1-Room 1012 | Thu | 5:00 p.m. - 6:30 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T01 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/18",
+    "Section Details": "SCRF-Floor B1-Room 1020 | Tue | 11:00 a.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T02 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/18",
+    "Section Details": "SCRF-Floor 2-Room 205 | Tue | 11:00 a.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T04 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/18",
+    "Section Details": "SCRF-Floor 2-Room 208 | Wed | 10:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T05 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/18",
+    "Section Details": "SCRF-Floor 2-Room 210 | Wed | 11:00 a.m. - 1:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T06 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/18",
+    "Section Details": "SCRF-Floor 2-Room 205 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T07 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/18",
+    "Section Details": "FNH-Floor 3-Room 320 | Wed | 1:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T09 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/18",
+    "Section Details": "SWNG-Floor 3-Room 306 | Wed | 3:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 230-T12 - Sustainability by Design",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/18",
+    "Section Details": "SCRF-Floor 2-Room 205 | Thu | 11:00 a.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Patrick Michael Condon",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DES_V 232-201 - Material Culture",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 241 | Wed | 11:00 a.m. - 12:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ECON_V 226-001 - Making Sense of Economic Data",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 92/180",
+    "Section Details": "LSK-Floor 2-Room 201 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Jamie McCasland",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 226-001 - Making Sense of Economic Data",
+      "ECON_V 226-L01 - Making Sense of Economic Data",
+      "ECON_V 226-L02 - Making Sense of Economic Data",
+      "ECON_V 226-L03 - Making Sense of Economic Data",
+      "ECON_V 226-L04 - Making Sense of Economic Data"
+    ]
   },
   {
     "Course Section": "ECON_V 226-L01 - Making Sense of Economic Data",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/45",
+    "Section Details": "BUCH-Floor 2-Room B210 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 226-001 - Making Sense of Economic Data",
+      "ECON_V 226-L01 - Making Sense of Economic Data",
+      "ECON_V 226-L02 - Making Sense of Economic Data",
+      "ECON_V 226-L03 - Making Sense of Economic Data",
+      "ECON_V 226-L04 - Making Sense of Economic Data"
+    ]
   },
   {
     "Course Section": "ECON_V 226-L02 - Making Sense of Economic Data",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/45",
+    "Section Details": "BUCH-Floor 1-Room B141 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 226-001 - Making Sense of Economic Data",
+      "ECON_V 226-L01 - Making Sense of Economic Data",
+      "ECON_V 226-L02 - Making Sense of Economic Data",
+      "ECON_V 226-L03 - Making Sense of Economic Data",
+      "ECON_V 226-L04 - Making Sense of Economic Data"
+    ]
   },
   {
     "Course Section": "ECON_V 226-L03 - Making Sense of Economic Data",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/45",
+    "Section Details": "BUCH-Floor 3-Room D316 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 226-001 - Making Sense of Economic Data",
+      "ECON_V 226-L01 - Making Sense of Economic Data",
+      "ECON_V 226-L02 - Making Sense of Economic Data",
+      "ECON_V 226-L03 - Making Sense of Economic Data",
+      "ECON_V 226-L04 - Making Sense of Economic Data"
+    ]
   },
   {
     "Course Section": "ECON_V 226-L04 - Making Sense of Economic Data",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/45",
+    "Section Details": "BUCH-Floor 1-Room B141 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 226-001 - Making Sense of Economic Data",
+      "ECON_V 226-L01 - Making Sense of Economic Data",
+      "ECON_V 226-L02 - Making Sense of Economic Data",
+      "ECON_V 226-L03 - Making Sense of Economic Data",
+      "ECON_V 226-L04 - Making Sense of Economic Data"
+    ]
   },
   {
     "Course Section": "ECON_V 255-001 - Understanding Globalization",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 67/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 3-Room 301 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This section is reserved exclusively for students in the Bachelor of International Economics Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amartya Lahiri",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-001 - Understanding Globalization",
+      "ECON_V 255-L13 - Understanding Globalization",
+      "ECON_V 255-L14 - Understanding Globalization",
+      "ECON_V 255-L15 - Understanding Globalization",
+      "ECON_V 255-L16 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-002 - Understanding Globalization",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 90/150",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Tue Thu | 5:00 p.m. - 6:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Amartya Lahiri",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L01 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "BUCH-Floor 2-Room D207 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L02 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "Section Details": "BUCH-Floor 2-Room D221 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L03 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/25",
+    "Section Details": "BUCH-Floor 3-Room B307 | Wed | 6:00 p.m. - 7:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L05 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "Section Details": "BUCH-Floor 2-Room D205 | Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L06 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/25",
+    "Section Details": "BUCH-Floor 2-Room D213 | Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L08 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 7/25",
+    "Section Details": "BUCH-Floor 2-Room D207 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-002 - Understanding Globalization",
+      "ECON_V 255-L01 - Understanding Globalization",
+      "ECON_V 255-L02 - Understanding Globalization",
+      "ECON_V 255-L03 - Understanding Globalization",
+      "ECON_V 255-L04 - Understanding Globalization",
+      "ECON_V 255-L05 - Understanding Globalization",
+      "ECON_V 255-L06 - Understanding Globalization",
+      "ECON_V 255-L07 - Understanding Globalization",
+      "ECON_V 255-L08 - Understanding Globalization",
+      "ECON_V 255-L09 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L13 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-001 - Understanding Globalization",
+      "ECON_V 255-L13 - Understanding Globalization",
+      "ECON_V 255-L14 - Understanding Globalization",
+      "ECON_V 255-L15 - Understanding Globalization",
+      "ECON_V 255-L16 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L14 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-001 - Understanding Globalization",
+      "ECON_V 255-L13 - Understanding Globalization",
+      "ECON_V 255-L14 - Understanding Globalization",
+      "ECON_V 255-L15 - Understanding Globalization",
+      "ECON_V 255-L16 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L15 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-001 - Understanding Globalization",
+      "ECON_V 255-L13 - Understanding Globalization",
+      "ECON_V 255-L14 - Understanding Globalization",
+      "ECON_V 255-L15 - Understanding Globalization",
+      "ECON_V 255-L16 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "ECON_V 255-L16 - Understanding Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 255-001 - Understanding Globalization",
+      "ECON_V 255-L13 - Understanding Globalization",
+      "ECON_V 255-L14 - Understanding Globalization",
+      "ECON_V 255-L15 - Understanding Globalization",
+      "ECON_V 255-L16 - Understanding Globalization"
+    ]
   },
   {
     "Course Section": "EDUC_V 240-177 - Issues in Indigenous Education",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1003 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Restricted to students in the NITEP Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 201-201 - Circuit Analysis I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 115/122",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "AERL-Floor 1-Room 120 | Tue Thu | 3:30 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 201-L2A - Circuit Analysis I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2038 | Thu (Alternate weeks) | 11:00 a.m. - 1:00 p.m. | 2025-01-16 - 2025-04-03",
+    "Instructors": "Luis Linares",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 201-L2B - Circuit Analysis I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2038 | Tue (Alternate weeks) | 11:00 a.m. - 1:00 p.m. | 2025-01-14 - 2025-04-08",
+    "Instructors": "Luis Linares",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 201-T2A - Circuit Analysis I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 114/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "DMP-Floor 1-Room 110 | Wed (Alternate weeks) | 5:00 p.m. - 7:00 p.m. | 2025-01-15 - 2025-04-02",
+    "Instructors": "Luis Linares",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 202-201 - Circuit Analysis II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 186/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/15",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Mon Wed | 3:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Shuo Tang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 202-T2A - Circuit Analysis II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 186/196",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ESB-Floor 2-Room 2012 | Mon (Alternate weeks) | 5:00 p.m. - 7:00 p.m. | 2025-01-13 - 2025-04-07",
+    "Instructors": "Shuo Tang",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 211-201 - Engineering Electromagnetics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 91/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/1",
+    "Section Details": "CEME-Floor 1-Room 1202 | Tue | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Carol Jaeger",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ELEC_V 211-202 - Engineering Electromagnetics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 92/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "DMP-Floor 1-Room 110 | Tue | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Carol Jaeger",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

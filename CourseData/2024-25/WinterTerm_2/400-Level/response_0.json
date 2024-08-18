@@ -464,26 +464,6 @@
           {
             "widget": "facetValue",
             "ecid": "56$510931",
-            "iid": "13341$299",
-            "enabled": false,
-            "label": "Sociology (Vancouver)",
-            "propertyName": "nyw:Facet_Value",
-            "count": 16,
-            "selectedState": "none"
-          },
-          {
-            "widget": "facetValue",
-            "ecid": "56$510931",
-            "iid": "13341$265",
-            "enabled": false,
-            "label": "Mathematics (Vancouver)",
-            "propertyName": "nyw:Facet_Value",
-            "count": 16,
-            "selectedState": "none"
-          },
-          {
-            "widget": "facetValue",
-            "ecid": "56$510931",
             "iid": "13341$108",
             "enabled": false,
             "label": "Chinese (Vancouver)",
@@ -507,6 +487,26 @@
             "iid": "13341$86",
             "enabled": false,
             "label": "Applied Biology (Vancouver)",
+            "propertyName": "nyw:Facet_Value",
+            "count": 16,
+            "selectedState": "none"
+          },
+          {
+            "widget": "facetValue",
+            "ecid": "56$510931",
+            "iid": "13341$299",
+            "enabled": false,
+            "label": "Sociology (Vancouver)",
+            "propertyName": "nyw:Facet_Value",
+            "count": 16,
+            "selectedState": "none"
+          },
+          {
+            "widget": "facetValue",
+            "ecid": "56$510931",
+            "iid": "13341$265",
+            "enabled": false,
+            "label": "Mathematics (Vancouver)",
             "propertyName": "nyw:Facet_Value",
             "count": 16,
             "selectedState": "none"
@@ -1080,12 +1080,12 @@
           "values": [
             {
               "label": "Manage My Saved Searches",
-              "uri": "/ubc/button/c41/162/594",
+              "uri": "/ubc/button/c21/162/594",
               "taskId": "2997$13093",
               "httpMethod": "POST"
             }
           ],
-          "uri": "/ubc/button/c41/162/594",
+          "uri": "/ubc/button/c21/162/594",
           "taskId": "2997$13093",
           "httpMethod": "POST",
           "actionId": "edit",
@@ -3852,13 +3852,13 @@
               "instances": [
                 {
                   "widget": "moniker",
-                  "instanceId": "13654$2",
-                  "text": "Open",
+                  "instanceId": "13654$3",
+                  "text": "Closed",
                   "rt": true
                 }
               ],
-              "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
-              "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
+              "selfUriTemplate": "/ubc/inst/15$356486/13654$3",
+              "relatedTasksUriTemplate": "/ubc/inst/13654$3/rel-tasks",
               "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
               "singular": true
             },
@@ -3896,7 +3896,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 24/25",
+              "value": "Enrolled/Capacity: 25/25",
               "propertyName": "wd:Text"
             }
           ],
@@ -10062,7 +10062,7 @@
           "doNotWrapInTab": true
         }
       ],
-      "chunkingUri": "/ubc/chunkablelist/c41/1839.156",
+      "chunkingUri": "/ubc/chunkablelist/c21/1839.156",
       "totalChunkingItemsCount": 1242,
       "propertyName": "wd:Report_Row",
       "doNotWrapInTab": true
@@ -10112,58 +10112,58 @@
   ],
   "endPoints": [
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/search",
+      "uri": "/ubc/faceted-search2/c21/fs1/search",
       "type": "Search"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/replaceandsearch",
+      "uri": "/ubc/faceted-search2/c21/fs1/replaceandsearch",
       "type": "Replace_And_Search"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/save",
+      "uri": "/ubc/faceted-search2/c21/fs1/save",
       "type": "Save",
       "requestParameterNames": [
         "name"
       ]
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs0/backward",
+      "uri": "/ubc/faceted-search2/c21/fs0/backward",
       "type": "Backward"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/recover-current-state",
+      "uri": "/ubc/faceted-search2/c21/fs1/recover-current-state",
       "type": "Recover_Current_State"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/replace",
+      "uri": "/ubc/faceted-search2/c21/fs1/replace",
       "type": "Replace"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/configure/add",
+      "uri": "/ubc/faceted-search2/c21/fs1/configure/add",
       "type": "Configure_Add"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/configure/expand",
+      "uri": "/ubc/faceted-search2/c21/fs1/configure/expand",
       "type": "Configure_Expand"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/pagination",
+      "uri": "/ubc/faceted-search2/c21/fs1/pagination",
       "type": "Pagination"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/reset",
+      "uri": "/ubc/faceted-search2/c21/fs1/reset",
       "type": "Reset"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/prompt",
+      "uri": "/ubc/faceted-search2/c21/fs1/prompt",
       "type": "Prompt"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/expand-facet-value",
+      "uri": "/ubc/faceted-search2/c21/fs1/expand-facet-value",
       "type": "Expand_Facet_Value"
     },
     {
-      "uri": "/ubc/faceted-search2/c41/fs1/searchCriteria",
+      "uri": "/ubc/faceted-search2/c21/fs1/searchCriteria",
       "type": "Search_Criteria"
     }
   ],

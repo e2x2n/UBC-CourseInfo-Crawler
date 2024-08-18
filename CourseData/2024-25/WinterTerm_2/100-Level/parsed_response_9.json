@@ -4,354 +4,1028 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 214/220",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/150",
+    "Section Details": "WESB-Floor 1-Room 100 | Mon Fri | 4:00 p.m. - 5:30 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "If course is full please register in the waitlist. For course enquiries please contact courses@stat.ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Katie Burak",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "DSCI_V 100-100 - Introduction to Data Science",
     "Instructional Format": "Lecture",
-    "Section Status": "Open",
+    "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "ANSO-Floor 2-Room 207 | Tue Thu | 4:30 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "ECON_V 101-004 - Principles of Microeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 496/500",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Clive Chapple",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4A - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/63",
+    "Section Details": "BUCH-Floor 2-Room B213 | Mon | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4B - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/63",
+    "Section Details": "BUCH-Floor 2-Room B213 | Mon | 6:00 p.m. - 7:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4C - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/63",
+    "Section Details": "BUCH-Floor 2-Room B215 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4D - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 3-Room B315 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4E - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 4:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4F - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D219 | Thu | 5:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4G - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D217 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 101-L4H - Principles of Microeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "BUCH-Floor 2-Room D219 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 101-004 - Principles of Microeconomics",
+      "ECON_V 101-L4A - Principles of Microeconomics",
+      "ECON_V 101-L4B - Principles of Microeconomics",
+      "ECON_V 101-L4C - Principles of Microeconomics",
+      "ECON_V 101-L4D - Principles of Microeconomics",
+      "ECON_V 101-L4E - Principles of Microeconomics",
+      "ECON_V 101-L4F - Principles of Microeconomics",
+      "ECON_V 101-L4G - Principles of Microeconomics",
+      "ECON_V 101-L4H - Principles of Microeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-002 - Principles of Macroeconomics",
     "Instructional Format": "Lecture",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 450/450",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Robert Gateman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-003 - Principles of Macroeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 446/450",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Robert Gateman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-004 - Principles of Macroeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 398/450",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Marina Adshade",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-010 - Principles of Macroeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 100/125",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 1-Room A103 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Individual & Society stream,   \nhttps://cap.arts.ubc.ca/streams/individual-society/. Students must register in both Term  \n1 and Term 2 courses in CAP. \n \nPlease register in the lecture, and one of the following discussion sections: ECON_V 102-L8A, or ECON_V 102-L8B. This course is also clustered with PSYC_V 102-003, and the Individual & Society sections of the stream seminar CAP_V 101. For CAP_V 101, please select one of the following: CAP_V 101-I01, CAP_V 101-I02, CAP_V 101-I03, or CAP_V 101-I05. Follow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robert Gateman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-I01 - READ&RSRCH STDYS",
+      "CAP_V 101-I02 - READ&RSRCH STDYS",
+      "CAP_V 101-I03 - READ&RSRCH STDYS",
+      "CAP_V 101-I05 - READ&RSRCH STDYS",
+      "ECON_V 102-010 - Principles of Macroeconomics",
+      "ECON_V 102-L8A - Principles of Macroeconomics",
+      "ECON_V 102-L8B - Principles of Macroeconomics",
+      "PSYC_V 102-003 - DEV SOC CLI PSY"
+    ]
   },
   {
     "Course Section": "ECON_V 102-011 - Principles of Macroeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 76/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 1-Room A103 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Political Science, Philosophy and  Economics stream, https://cap.arts.ubc.ca/streams/political-science-philosophy-economics-ppe/. Students must register in both Term 1 and Term 2 courses in CAP. \n \nIn addition to the lecture, please register in one of the following discussion sections: ECON_V 102-L9A, or ECON_V 102-L9B. This course is also clustered with POLI_V 101-227, and PHIL_V 102-003. For POLI_V 101-227, please register in both the lecture, and one of the following discussion sections: POLI_V 101-LX1, POLI_V 101-LX2, POLI_V 101-LX3, POLI_V 101-LX4, POLI_V 101-LX5, or POLI_V 101-LX6. For PHIL_V 102-003, please register in both the lecture, and the discussion section PHIL_V 102-L07. Follow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Robert Gateman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-011 - Principles of Macroeconomics",
+      "ECON_V 102-L9A - Principles of Macroeconomics",
+      "ECON_V 102-L9B - Principles of Macroeconomics",
+      "PHIL_V 102-003 - Introduction to Philosophy II",
+      "PHIL_V 102-L07 - Introduction to Philosophy II",
+      "POLI_V 101-227 - The Government of Canada",
+      "POLI_V 101-LX1 - The Government of Canada",
+      "POLI_V 101-LX2 - The Government of Canada",
+      "POLI_V 101-LX3 - The Government of Canada",
+      "POLI_V 101-LX4 - The Government of Canada",
+      "POLI_V 101-LX5 - The Government of Canada",
+      "POLI_V 101-LX6 - The Government of Canada"
+    ]
   },
   {
     "Course Section": "ECON_V 102-013 - Principles of Macroeconomics",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 104/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 3-Room 301 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This section is reserved exclusively for students in the Bachelor of International Economics program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Henry Siu",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-013 - Principles of Macroeconomics",
+      "ECON_V 102-L15 - Principles of Macroeconomics",
+      "ECON_V 102-L16 - Principles of Macroeconomics",
+      "ECON_V 102-L17 - Principles of Macroeconomics",
+      "ECON_V 102-L18 - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L15 - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room A202 | Mon | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-013 - Principles of Macroeconomics",
+      "ECON_V 102-L15 - Principles of Macroeconomics",
+      "ECON_V 102-L16 - Principles of Macroeconomics",
+      "ECON_V 102-L17 - Principles of Macroeconomics",
+      "ECON_V 102-L18 - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L16 - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 182 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-013 - Principles of Macroeconomics",
+      "ECON_V 102-L15 - Principles of Macroeconomics",
+      "ECON_V 102-L16 - Principles of Macroeconomics",
+      "ECON_V 102-L17 - Principles of Macroeconomics",
+      "ECON_V 102-L18 - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L17 - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 182 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-013 - Principles of Macroeconomics",
+      "ECON_V 102-L15 - Principles of Macroeconomics",
+      "ECON_V 102-L16 - Principles of Macroeconomics",
+      "ECON_V 102-L17 - Principles of Macroeconomics",
+      "ECON_V 102-L18 - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L18 - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room A202 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-013 - Principles of Macroeconomics",
+      "ECON_V 102-L15 - Principles of Macroeconomics",
+      "ECON_V 102-L16 - Principles of Macroeconomics",
+      "ECON_V 102-L17 - Principles of Macroeconomics",
+      "ECON_V 102-L18 - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2A - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D218 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2B - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/63",
+    "Section Details": "BUCH-Floor 2-Room D222 | Mon | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2C - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D219 | Wed | 4:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2D - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/63",
+    "Section Details": "BUCH-Floor 2-Room D218 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2E - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/62",
+    "Section Details": "BUCH-Floor 2-Room D218 | Thu | 4:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2F - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/62",
+    "Section Details": "BUCH-Floor 2-Room D218 | Thu | 5:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2G - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/62",
+    "Section Details": "BUCH-Floor 2-Room D219 | Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L2H - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/62",
+    "Section Details": "BUCH-Floor 2-Room D222 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-002 - Principles of Macroeconomics",
+      "ECON_V 102-L2A - Principles of Macroeconomics",
+      "ECON_V 102-L2B - Principles of Macroeconomics",
+      "ECON_V 102-L2C - Principles of Macroeconomics",
+      "ECON_V 102-L2D - Principles of Macroeconomics",
+      "ECON_V 102-L2E - Principles of Macroeconomics",
+      "ECON_V 102-L2F - Principles of Macroeconomics",
+      "ECON_V 102-L2G - Principles of Macroeconomics",
+      "ECON_V 102-L2H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3A - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D219 | Mon | 5:30 p.m. - 6:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3B - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D218 | Mon | 5:30 p.m. - 6:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3C - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D222 | Tue | 4:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3D - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/63",
+    "Section Details": "BUCH-Floor 2-Room D219 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3E - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "IONA-Floor 3-Room 301 | Wed | 5:30 p.m. - 6:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3F - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/62",
+    "Section Details": "BRCS-Floor 2-Room 2070 | Wed | 5:30 p.m. - 6:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3G - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/62",
+    "Section Details": "BUCH-Floor 2-Room D222 | Fri | 6:00 p.m. - 7:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L3H - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/62",
+    "Section Details": "BUCH-Floor 2-Room D217 | Fri | 6:00 p.m. - 7:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-003 - Principles of Macroeconomics",
+      "ECON_V 102-L3A - Principles of Macroeconomics",
+      "ECON_V 102-L3B - Principles of Macroeconomics",
+      "ECON_V 102-L3C - Principles of Macroeconomics",
+      "ECON_V 102-L3D - Principles of Macroeconomics",
+      "ECON_V 102-L3E - Principles of Macroeconomics",
+      "ECON_V 102-L3F - Principles of Macroeconomics",
+      "ECON_V 102-L3G - Principles of Macroeconomics",
+      "ECON_V 102-L3H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4A - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D217 | Mon | 6:30 p.m. - 7:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4B - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/63",
+    "Section Details": "BUCH-Floor 2-Room D222 | Mon | 6:30 p.m. - 7:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4C - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/63",
+    "Section Details": "BUCH-Floor 2-Room D217 | Tue | 4:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4D - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room B215 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4E - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/62",
+    "Section Details": "BUCH-Floor 2-Room D217 | Wed | 6:30 p.m. - 7:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4F - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/62",
+    "Section Details": "BUCH-Floor 2-Room D222 | Wed | 6:30 p.m. - 7:30 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4G - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/62",
+    "Section Details": "BUCH-Floor 2-Room D219 | Thu | 4:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L4H - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/62",
+    "Section Details": "BUCH-Floor 2-Room D222 | Thu | 5:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-004 - Principles of Macroeconomics",
+      "ECON_V 102-L4A - Principles of Macroeconomics",
+      "ECON_V 102-L4B - Principles of Macroeconomics",
+      "ECON_V 102-L4C - Principles of Macroeconomics",
+      "ECON_V 102-L4D - Principles of Macroeconomics",
+      "ECON_V 102-L4E - Principles of Macroeconomics",
+      "ECON_V 102-L4F - Principles of Macroeconomics",
+      "ECON_V 102-L4G - Principles of Macroeconomics",
+      "ECON_V 102-L4H - Principles of Macroeconomics"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L8A - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/63",
+    "Section Details": "BUCH-Floor 2-Room D217 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-I01 - READ&RSRCH STDYS",
+      "CAP_V 101-I02 - READ&RSRCH STDYS",
+      "CAP_V 101-I03 - READ&RSRCH STDYS",
+      "CAP_V 101-I05 - READ&RSRCH STDYS",
+      "ECON_V 102-010 - Principles of Macroeconomics",
+      "ECON_V 102-L8A - Principles of Macroeconomics",
+      "ECON_V 102-L8B - Principles of Macroeconomics",
+      "PSYC_V 102-003 - DEV SOC CLI PSY"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L8B - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/62",
+    "Section Details": "BUCH-Floor 2-Room D219 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-I01 - READ&RSRCH STDYS",
+      "CAP_V 101-I02 - READ&RSRCH STDYS",
+      "CAP_V 101-I03 - READ&RSRCH STDYS",
+      "CAP_V 101-I05 - READ&RSRCH STDYS",
+      "ECON_V 102-010 - Principles of Macroeconomics",
+      "ECON_V 102-L8A - Principles of Macroeconomics",
+      "ECON_V 102-L8B - Principles of Macroeconomics",
+      "PSYC_V 102-003 - DEV SOC CLI PSY"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L9A - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/50",
+    "Section Details": "BUCH-Floor 2-Room D222 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-011 - Principles of Macroeconomics",
+      "ECON_V 102-L9A - Principles of Macroeconomics",
+      "ECON_V 102-L9B - Principles of Macroeconomics",
+      "PHIL_V 102-003 - Introduction to Philosophy II",
+      "PHIL_V 102-L07 - Introduction to Philosophy II",
+      "POLI_V 101-227 - The Government of Canada",
+      "POLI_V 101-LX1 - The Government of Canada",
+      "POLI_V 101-LX2 - The Government of Canada",
+      "POLI_V 101-LX3 - The Government of Canada",
+      "POLI_V 101-LX4 - The Government of Canada",
+      "POLI_V 101-LX5 - The Government of Canada",
+      "POLI_V 101-LX6 - The Government of Canada"
+    ]
   },
   {
     "Course Section": "ECON_V 102-L9B - Principles of Macroeconomics",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/50",
+    "Section Details": "BUCH-Floor 2-Room D217 | Thu | 4:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-011 - Principles of Macroeconomics",
+      "ECON_V 102-L9A - Principles of Macroeconomics",
+      "ECON_V 102-L9B - Principles of Macroeconomics",
+      "PHIL_V 102-003 - Introduction to Philosophy II",
+      "PHIL_V 102-L07 - Introduction to Philosophy II",
+      "POLI_V 101-227 - The Government of Canada",
+      "POLI_V 101-LX1 - The Government of Canada",
+      "POLI_V 101-LX2 - The Government of Canada",
+      "POLI_V 101-LX3 - The Government of Canada",
+      "POLI_V 101-LX4 - The Government of Canada",
+      "POLI_V 101-LX5 - The Government of Canada",
+      "POLI_V 101-LX6 - The Government of Canada"
+    ]
   },
   {
     "Course Section": "EDUC_V 141-177 - Indigenous Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/20",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 206 | Thu | 8:30 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Restricted to students in the NITEP Program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

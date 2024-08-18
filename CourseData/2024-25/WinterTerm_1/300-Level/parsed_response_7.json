@@ -4,380 +4,643 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 114/160",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "AERL-Floor 1-Room 120 | Mon Wed | 8:00 a.m. - 9:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Noboru Yonemitsu, Salman Soleimani-Dashtaki, Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 303-T1A - Computational Tools in Civil Engineering",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 114/160",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 2-Room 2018 | Tue | 12:30 p.m. - 1:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Noboru Yonemitsu, Salman Soleimani-Dashtaki, Yahya Nazhat",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-101 - Soil Mechanics II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 146/160",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "DMP-Floor 3-Room 310 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-L1A - Soil Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 1-Room 1006 | Mon (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-11-25",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-L1B - Soil Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/30",
+    "Section Details": "CEME-Floor 1-Room 1006 | Mon (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-09 - 2024-12-02",
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-L1C - Soil Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/30",
+    "Section Details": "CEME-Floor 1-Room 1006 | Tue (Alternate weeks) | 3:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-11-26",
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-L1D - Soil Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/30",
+    "Section Details": "CEME-Floor 1-Room 1006 | Tue (Alternate weeks) | 3:00 p.m. - 5:00 p.m. | 2024-09-10 - 2024-12-03",
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-L1E - Soil Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 1-Room 1006 | Wed (Alternate weeks) | 3:00 p.m. - 5:00 p.m. | 2024-09-04 - 2024-11-27",
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 311-L1F - Soil Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CEME-Floor 1-Room 1006 | Wed (Alternate weeks) | 3:00 p.m. - 5:00 p.m. | 2024-09-11 - 2024-12-04",
+    "Instructors": "Dharmapriya Wijewickreme",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-101 - Fluid Mechanics II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 166/172",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "MCML-Floor 3-Room 360 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1A - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Mon (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-11-25",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1C - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Mon (Alternate weeks) | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-11-25",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1E - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Tue (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-11-26",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1F - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Tue (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-10 - 2024-12-03",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1G - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Tue (Alternate weeks) | 4:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-11-26",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1H - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Tue (Alternate weeks) | 4:00 p.m. - 6:00 p.m. | 2024-09-10 - 2024-12-03",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1I - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Wed (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-11-27",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1J - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Wed (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-11 - 2024-12-04",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1K - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 9/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Wed (Alternate weeks) | 4:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-11-27",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1M - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Thu (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-11-28",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-L1N - Fluid Mechanics II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/16",
+    "Section Details": "CEML-Floor 1-Room 139 | Thu (Alternate weeks) | 2:00 p.m. - 4:00 p.m. | 2024-09-12 - 2024-12-05",
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 315-T1A - Fluid Mechanics II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 166/172",
+    "Section Details": "FSC-Floor 1-Room 1005 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Noboru Yonemitsu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 320-101 - Civil Engineering Materials",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 125/154",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IBLC-Floor 1-Room 182 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Salman Soleimani-Dashtaki",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 332-101 - Structural Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 147/181",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IRC-Floor B1-Room 6 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Terje Haukaas",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CIVL_V 332-T1A - Structural Analysis",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 147/172",
+    "Section Details": "MCML-Floor 3-Room 360 | Thu | 12:30 p.m. - 2:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Please do not contact the instructor with registration issues. If you are unable to self-register, please fill out the form available here or contact Undergrad Support.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Terje Haukaas",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 331-010 - Communication Skills in Global Contexts",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 65/200",
+    "Section Details": "ANGU-Floor B1-Room 098 | Thu | 4:30 p.m. - 7:30 p.m. | 2024-09-05 - 2024-12-05",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 362-001 - Basic Interviewing Skills",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/51",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 75/76",
+    "Section Details": "SCRF-Floor 2-Room 209 | Tue | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "The registration restrictions will be removed on July 26, 2024.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Daniel Cox",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CNPS_V 362-001 - Basic Interviewing Skills",
+      "CNPS_V 362-L1A - Basic Interviewing Skills",
+      "CNPS_V 362-L1B - Basic Interviewing Skills",
+      "CNPS_V 362-L1C - Basic Interviewing Skills",
+      "CNPS_V 362-L1D - Basic Interviewing Skills"
+    ]
   },
   {
     "Course Section": "CNPS_V 362-L1A - Basic Interviewing Skills",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/15",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PCN-Floor 1-Room 1003 | Wed | 12:00 p.m. - 1:30 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "The registration restrictions will be removed on July 26, 2024.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CNPS_V 362-001 - Basic Interviewing Skills",
+      "CNPS_V 362-L1A - Basic Interviewing Skills",
+      "CNPS_V 362-L1B - Basic Interviewing Skills",
+      "CNPS_V 362-L1C - Basic Interviewing Skills",
+      "CNPS_V 362-L1D - Basic Interviewing Skills"
+    ]
   },
   {
     "Course Section": "CNPS_V 362-L1B - Basic Interviewing Skills",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/14",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor 2-Room 206 | Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "The registration restrictions will be removed on July 26, 2024.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CNPS_V 362-001 - Basic Interviewing Skills",
+      "CNPS_V 362-L1A - Basic Interviewing Skills",
+      "CNPS_V 362-L1B - Basic Interviewing Skills",
+      "CNPS_V 362-L1C - Basic Interviewing Skills",
+      "CNPS_V 362-L1D - Basic Interviewing Skills"
+    ]
   },
   {
     "Course Section": "CNPS_V 362-L1C - Basic Interviewing Skills",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/11",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SCRF-Floor B1-Room 1020 | Thu | 12:00 p.m. - 1:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "The registration restrictions will be removed on July 26, 2024.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CNPS_V 362-001 - Basic Interviewing Skills",
+      "CNPS_V 362-L1A - Basic Interviewing Skills",
+      "CNPS_V 362-L1B - Basic Interviewing Skills",
+      "CNPS_V 362-L1C - Basic Interviewing Skills",
+      "CNPS_V 362-L1D - Basic Interviewing Skills"
+    ]
   },
   {
     "Course Section": "CNPS_V 362-L1D - Basic Interviewing Skills",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/11",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "SWNG-Floor 2-Room 206 | Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "The registration restrictions will be removed on July 26, 2024.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CNPS_V 362-001 - Basic Interviewing Skills",
+      "CNPS_V 362-L1A - Basic Interviewing Skills",
+      "CNPS_V 362-L1B - Basic Interviewing Skills",
+      "CNPS_V 362-L1C - Basic Interviewing Skills",
+      "CNPS_V 362-L1D - Basic Interviewing Skills"
+    ]
   },
   {
     "Course Section": "CNPS_V 363-63A - Career Counselling",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 36/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alistair Gordon",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 363-63B - Career Counselling",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 36/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "David Nicks",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 363-63C - Career Counselling",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 36/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Talino Bruno",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 363-63G - Career Counselling",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 36/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 364-63A - Family Education and Consultation",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 36/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Erika Horwitz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 364-63B - Family Education and Consultation",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 33/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Erika Horwitz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 364-63E - Family Education and Consultation",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 18/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and for the Minor in Education, Interpersonal Development.\nThis is an elective course for the Certificate in Health & Wellness.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Erika Horwitz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 365-63A - Introduction to Theories of Counselling",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 35/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and the Minor in Education, Interpersonal Development.\nThis is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Mircea Munteanu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 365-63B - Introduction to Theories of Counselling",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 34/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and the Minor in Education, Interpersonal Development.\nThis is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Mircea Munteanu",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNPS_V 365-63C - Introduction to Theories of Counselling",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 36/36",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 35/36",
     "Course Section Definition Public Notes": "Online, asynchronous.\n\nThis is a core course for the Diploma in Education - Guidance Studies and the Minor in Education, Interpersonal Development.\nThis is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development.\n\nRegistration will be blocked when the course is full and seats will be filled from the waitlist.\nA priority sequence waitlist is available for this course.\n\nFor information on waitlists and restrictions for CNPS courses, including when restrictions will be removed, please visit https://pdce.educ.ubc.ca/online-courses and click on CNPS under the Subject Heading.  \n\nInquiries: online.educ@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Vici Thomson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 301-011 - Basic Cantonese I",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/25",
+    "Section Details": "Tue Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -This is a mixed online course, it includes both synchronous and asynchronous components. Students are expected to meet online using Zoom on the days and times listed, as well as complete supplemental asynchronous work outside of class time. Please refer to the course syllabus for details on the asynchronous elements of this course. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Raymond Pai",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-011 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/25",
+    "Section Details": "UCEN-Floor 1-Room 101 | Tue Thu Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -This is a mixed hybrid course. Students are expected to meet in-person on the days and times listed, as well as complete supplemental asynchronous work outside of class time. Please refer to the course syllabus for details on the asynchronous elements of this course. All courses labelled as ‘hybrid’ have a mixture of mandatory in-person and online activities as designed by the instructor. While some components are online, in-person attendance IS required to complete the course. \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Zoe Lam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-012 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/25",
+    "Section Details": "BUCH-Floor 3-Room D307 | Tue Thu Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -This is a mixed hybrid course. Students are expected to meet in-person on the days and times listed, as well as complete supplemental asynchronous work outside of class time. Please refer to the course syllabus for details on the asynchronous elements of this course. All courses labelled as ‘hybrid’ have a mixture of mandatory in-person and online activities as designed by the instructor. While some components are online, in-person attendance IS required to complete the course.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Zoe Lam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-013 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 24/25",
+    "Section Details": "Tue Thu | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -This is a mixed online course, it includes both synchronous and asynchronous components. Students are expected to meet online using Zoom on the days and times listed, as well as complete supplemental asynchronous work outside of class time. Please refer to the course syllabus for details on the asynchronous elements of this course. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Samily Kwok",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-014 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "Tue Thu Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\n\nDelivery Mode -This course is fully online with 3 instructional hrs per week conducted synchronously. Students are expected to meet online using Zoom on the days and times listed. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.  \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Samily Kwok",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-015 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/25",
+    "Section Details": "UCEN-Floor 1-Room 101 | Tue Thu Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -Attendance mandatory, Tuesday & Thursday (in-person), Friday (online, synchronous). This is a synchronous hybrid course. Students are expected to meet on the days and times listed, either in-person or online based on the schedule set by the instructor. All courses labelled as ‘hybrid’ have a mixture of mandatory in-person and online activities as designed by the instructor. While some components are online, in-person attendance IS required to complete the course.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Liam Doherty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-016 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/25",
+    "Section Details": "UCEN-Floor 1-Room 101 | Tue Thu Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -Attendance mandatory, Tuesday & Thursday (in-person), Friday (online, synchronous). This is a synchronous hybrid course. Students are expected to meet on the days and times listed, either in-person or online based on the schedule set by the instructor. All courses labelled as ‘hybrid’ have a mixture of mandatory in-person and online activities as designed by the instructor. While some components are online, in-person attendance IS required to complete the course. \n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Liam Doherty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CNTO_V 311-018 - Basic Cantonese for Mandarin Speakers",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/25",
+    "Section Details": "Tue Thu Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Placement Procedure -Prior to registration in any CNTO-titled courses, students are required to complete the Placement Procedure every Winter Session or Summer Session and obtain a placement approval certificate for the courses they wish to register for. Students are only eligible for courses listed on their placement approval certificate. Students enrolled in sections which they do not have placement approval for will be removed from the course.\nDelivery Mode -This is a mixed online course, it includes both synchronous and asynchronous components. Students are expected to meet online using Zoom on the days and times listed, as well as complete supplemental asynchronous work outside of class time. Please refer to the course syllabus for details on the asynchronous elements of this course. All courses labelled as ‘online’ are fully online for the entire term, including exams, and do NOT require any in-person attendance to complete.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Samily Kwok",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COEC_V 365-001 - Market Research",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 3-Room 301 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Yi Qian",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

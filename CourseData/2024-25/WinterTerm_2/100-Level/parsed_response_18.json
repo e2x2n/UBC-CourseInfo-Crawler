@@ -4,386 +4,612 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 111-L06 - Medication Management I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/38",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 131-001 - Study Design and Interpretation I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 225/232",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Mon | 1:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Laura Schummers",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 161-001 - Technology in Healthcare",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "2 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 225/231",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Mon | 3:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Jason Min",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 108-201 - Enriched Physics II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 102/140",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/25",
+    "Section Details": "HENN-Floor 1-Room 201 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "PHYS 108 is an Enriched/Honours-level course. Students with PHYS 117 wanting to take PHYS 108 please email the Instructor (janis@physics.ubc.ca) for registration help. All students taking PHYS 108 are advised to also register for PHYS 119 (1 credit lab course) as well as the PHYS 129 (1 credit enriched lab).  *Please note PHYS 107 is now replaced by PHYS 106. Students intending to pursue any of the Physics and Astronomy specializations require the PHYS 119 lab. For those student pursuing Life Sciences, the PHYS 129 enriched lab is a recommended extra lab credit.\nFor more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Please contact ug-phys1@phas.ubc.ca  for any questions regarding PHYS 106 or PHYS 108 registration, PHYS 119 or PHYS 129 labs, or tutorials. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request).\nIf you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Janis McKenna",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 108-T2A - Enriched Physics II",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/34",
+    "Section Details": "HEBB-Floor 3-Room 314 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 108-T2B - Enriched Physics II",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/34",
+    "Section Details": "HEBB-Floor 3-Room 314 | Tue | 12:30 p.m. - 1:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 108-T2C - Enriched Physics II",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/34",
+    "Section Details": "HEBB-Floor 3-Room 314 | Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-201 - Electricity, Light and Radiation",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 222/280",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/40",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This course is reserved for students NOT in ApSc. Students in ApSc are to take PHYS 158 in Winter session. All students taking PHYS 118 are strongly advised to also register for PHYS 119, the associated 1 credit lab course, since a lab component is required for most upper level lab courses in the sciences. In 2021W, PHYS 129 has replaced PHYS 109 Enriched/Honours-level follow-up lab as a secondary lab option. Please see here for more information: https://phas.ubc.ca/undergrad-first-year-guide. Students intending to pursue any of the Physics and Astronomy specializations require a PHYS lab. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-T2A - Electricity, Light and Radiation",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-T2B - Electricity, Light and Radiation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Thu | 8:30 a.m. - 9:30 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-T2C - Electricity, Light and Radiation",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-T2D - Electricity, Light and Radiation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 12:00 p.m. - 1:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-T2E - Electricity, Light and Radiation",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 1:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 118-T2F - Electricity, Light and Radiation",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/40",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2A - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2B - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Tue | 11:00 a.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2C - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister, Erfan Rezaie",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2D - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Wed | 11:00 a.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister, Erfan Rezaie",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2E - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister, Erfan Rezaie",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2F - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/45",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Fri | 2:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 119-L2G - Experimental Physics Lab I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/45",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 312 | Thu | 9:30 a.m. - 12:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "PHYS 119 is one of our 1st YEAR PHYS lab options. For more information please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide for 1st year PHYS course options. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If the SSC does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alison Lister",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 129-L0A - Experimental Physics Lab II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/48",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Thu | 2:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "PHYS 129 Enriched lab replaces PHYS 109; this is a recommended secondary lab credit for those students pursuing Life Sciences stream at the honours level. Please consult the First Year Physics Guide for more information: http://www.phas.ubc.ca/undergrad-first-year-guide. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Douglas Bryman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 129-L0C - Experimental Physics Lab II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/48",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "PHYS 129 Enriched lab replaces PHYS 109; this is a recommended secondary lab credit for those students pursuing Life Sciences stream at the honours level. Please consult the First Year Physics Guide for more information: http://www.phas.ubc.ca/undergrad-first-year-guide. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Douglas Bryman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 129-L0D - Experimental Physics Lab II",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/48",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Fri | 2:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "PHYS 129 Enriched lab replaces PHYS 109; this is a recommended secondary lab credit for those students pursuing Life Sciences stream at the honours level. Please consult the First Year Physics Guide for more information: http://www.phas.ubc.ca/undergrad-first-year-guide. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Douglas Bryman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-201 - Energy and Waves (Lecture)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 185/300",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: PHYS 131 has replaced PHYS 101. PHYS131 does not contain a lab component. Those who want to or need to take a lab, should consider PHYS119 which will be offered in both T1 and T2. For help selecting 1st year PHYS courses, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Amali Priyanka Jambuge, Georg Rieger",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-202 - Energy and Waves (Lecture)",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 300/300",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 16/20",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: PHYS 131 has replaced PHYS 101. PHYS131 does not contain a lab component. Those who want to or need to take a lab, should consider PHYS119 which will be offered in both T1 and T2. For help selecting 1st year PHYS courses, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Georg Rieger",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-203 - Energy and Waves (Lecture)",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 279/300",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: PHYS 131 has replaced PHYS 101. PHYS131 does not contain a lab component. Those who want to or need to take a lab, should consider PHYS119 which will be offered in both T1 and T2. For help selecting 1st year PHYS courses, please refer to our First Year Physics Guide: https://phas.ubc.ca/undergrad-first-year-guide. Do NOT contact course instructor for registration help. If you require assistance with registration, please contact the Physics Undergrad Program Coordinator at ugcoord@phas.ubc.ca. (If Workday does not recognize your completion of pre-requisites for this course, or if you are currently enrolled in the pre-req, please contact ugcoord@phas.ubc.ca in advance, to assist in registration. We will only be able to assist you once your registration day/time opens up. Please include your day/time and proof of pre-req registration (unofficial transcript or document) in your request). If you require further assistance, please use a section change request form https://courses.phas.ubc.ca/ugSectionChange.html. If have any questions about the course, please contact the Physics First Year Advisor at ug-phys1@phas.ubc.ca.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Georg Rieger, Marcello Pavan",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2C - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Tue | 9:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2D - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2E - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Wed | 8:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2F - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/48",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "SWNG-Floor 3-Room 307 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2G - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Thu | 9:30 a.m. - 11:30 a.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2H - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "ANGU-Floor 2-Room 291 | Thu | 3:30 p.m. - 5:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2I - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Fri | 9:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2J - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-T2M - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 3-Room 314 | Wed | 11:00 a.m. - 1:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TC2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Tue | 9:30 a.m. - 11:30 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TD2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "ANGU-Floor 2-Room 291 | Tue | 3:30 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TE2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 47/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 8:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TF2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Wed | 3:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TG2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "GEOG-Floor 2-Room 212 | Thu | 9:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TH2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 3-Room 316 | Thu | 3:30 p.m. - 5:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TJ2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Fri | 2:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 131-TM2 - Energy and Waves (Lecture)",
     "Instructional Format": "Discussion",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "HEBB-Floor 2-Room 216 | Wed | 11:00 a.m. - 1:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "Important note to students taking 100 level PHYS courses in Term 2: The course previously known as PHYS101 is now called PHYS131 which does not contain a lab component. PHYS 131 includes both a lecture and a tutorial component. Please sign up for a corresponding tutorial section.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 157-201 - Introductory Physics for Engineers I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/79",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/100",
+    "Section Details": "HEBB-Floor 1-Room 114 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 157 is via a first year engineering timetable. If you require PHYS 157, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 157-T2A - Introductory Physics for Engineers I",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/100",
+    "Section Details": "HEBB-Floor 1-Room 114 | Thu | 12:30 p.m. - 1:30 p.m. | 2025-01-09 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 157 is via a first year engineering timetable. If you require PHYS 157, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-201 - Introductory Physics for Engineers II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 370/375",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/100",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Michael Hasinoff, Nicola Fameli",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-202 - Introductory Physics for Engineers II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 371/375",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/100",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Michael Hasinoff",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHYS_V 158-203 - Introductory Physics for Engineers II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 354/375",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/100",
+    "Section Details": "HEBB-Floor 1-Room 100 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Direct registration into this course is blocked. Registration into PHYS 158 is via a first year engineering timetable. If you require PHYS 158, but aren't registered in a first year timetable, please register via the waitlist.  \n\nPlease use the UBC Directory to find your instructor/TA contact information. ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Marina Litinskaya, Michael Hasinoff",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]

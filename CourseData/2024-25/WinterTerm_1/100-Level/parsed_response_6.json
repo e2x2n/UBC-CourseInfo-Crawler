@@ -4,397 +4,887 @@
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 119/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "CHAN-Floor 2-Room 290 | Wed | 2:00 p.m. - 5:30 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Introduction to cinema as a serious academic discipline; through the study of film language, genre and ideology, and alternatives to Hollywood filmmaking and analysis, the course focuses on building the terminology and analytical skills necessary for academic engagements with cinema.\n\nNOTE: Students must also register for a discussion group: ONE of CINE 100 Sections D11, D12, or D13. If this section if FULL or BLOCKED please sign up for the corresponding wait list section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Gabrielle Berry",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CINE_V 100-001 - Introduction to Cinema Studies",
+      "CINE_V 100-D11 - Introduction to Cinema Studies",
+      "CINE_V 100-D12 - Introduction to Cinema Studies",
+      "CINE_V 100-D13 - Introduction to Cinema Studies"
+    ]
   },
   {
     "Course Section": "CINE_V 100-004 - Introduction to Cinema Studies",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/70",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "CHAN-Floor 2-Room 290 | Mon | 2:00 p.m. - 5:30 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Media Studies stream, https://cap.arts.ubc.ca/streams/media-studies/. Students must register in both Term  \n1 and Term 2 courses in CAP. \n \nFollow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2)  each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Alessandra Santos",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CAP_V 100-M01 - WRTI RES SS & H",
+      "CAP_V 100-M02 - WRTI RES SS & H",
+      "CAP_V 100-M03 - WRTI RES SS & H",
+      "CAP_V 100-M04 - WRTI RES SS & H",
+      "CINE_V 100-004 - Introduction to Cinema Studies",
+      "CINE_V 100-D41 - Introduction to Cinema Studies",
+      "CINE_V 100-D42 - Introduction to Cinema Studies",
+      "CINE_V 100-D43 - Introduction to Cinema Studies",
+      "CRWR_V 213-CAP - Introduction to Writing for the New Media"
+    ]
   },
   {
     "Course Section": "CINE_V 100-D11 - Introduction to Cinema Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
     "Course Section Definition Public Notes": "Students must be registered in CINE 100, Section 001 to register for this discussion.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CINE_V 100-001 - Introduction to Cinema Studies",
+      "CINE_V 100-D11 - Introduction to Cinema Studies",
+      "CINE_V 100-D12 - Introduction to Cinema Studies",
+      "CINE_V 100-D13 - Introduction to Cinema Studies"
+    ]
   },
   {
     "Course Section": "CINE_V 100-D12 - Introduction to Cinema Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/40",
     "Course Section Definition Public Notes": "Students must be registered in CINE 100, Section 001 to register for this discussion.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CINE_V 100-001 - Introduction to Cinema Studies",
+      "CINE_V 100-D11 - Introduction to Cinema Studies",
+      "CINE_V 100-D12 - Introduction to Cinema Studies",
+      "CINE_V 100-D13 - Introduction to Cinema Studies"
+    ]
   },
   {
     "Course Section": "CINE_V 100-D13 - Introduction to Cinema Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
     "Course Section Definition Public Notes": "Students must be registered in CINE 100, Section 001 to register for this discussion.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CINE_V 100-001 - Introduction to Cinema Studies",
+      "CINE_V 100-D11 - Introduction to Cinema Studies",
+      "CINE_V 100-D12 - Introduction to Cinema Studies",
+      "CINE_V 100-D13 - Introduction to Cinema Studies"
+    ]
   },
   {
     "Course Section": "CINE_V 100-D42 - Introduction to Cinema Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 33/33",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CAP_V 100-M01 - WRTI RES SS & H",
+      "CAP_V 100-M02 - WRTI RES SS & H",
+      "CAP_V 100-M03 - WRTI RES SS & H",
+      "CAP_V 100-M04 - WRTI RES SS & H",
+      "CINE_V 100-004 - Introduction to Cinema Studies",
+      "CINE_V 100-D41 - Introduction to Cinema Studies",
+      "CINE_V 100-D42 - Introduction to Cinema Studies",
+      "CINE_V 100-D43 - Introduction to Cinema Studies",
+      "CRWR_V 213-CAP - Introduction to Writing for the New Media"
+    ]
   },
   {
     "Course Section": "CINE_V 100-D43 - Introduction to Cinema Studies",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/34",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "CAP_V 100-M01 - WRTI RES SS & H",
+      "CAP_V 100-M02 - WRTI RES SS & H",
+      "CAP_V 100-M03 - WRTI RES SS & H",
+      "CAP_V 100-M04 - WRTI RES SS & H",
+      "CINE_V 100-004 - Introduction to Cinema Studies",
+      "CINE_V 100-D41 - Introduction to Cinema Studies",
+      "CINE_V 100-D42 - Introduction to Cinema Studies",
+      "CINE_V 100-D43 - Introduction to Cinema Studies",
+      "CRWR_V 213-CAP - Introduction to Writing for the New Media"
+    ]
   },
   {
     "Course Section": "COMM_V 105-101 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon Wed | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D01, COMM_V 105-D02",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Colin Dodds",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-101 - Values, Ethics, and Community",
+      "COMM_V 105-D01 - Values, Ethics, and Community",
+      "COMM_V 105-D02 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-102 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D03, COMM_V 105-D04",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Colin Dodds",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-102 - Values, Ethics, and Community",
+      "COMM_V 105-D03 - Values, Ethics, and Community",
+      "COMM_V 105-D04 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-103 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 9/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D05, COMM_V 105-D06",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Yao Chu Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-103 - Values, Ethics, and Community",
+      "COMM_V 105-D05 - Values, Ethics, and Community",
+      "COMM_V 105-D06 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-104 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D07, COMM_V 105-D08",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Colin Dodds",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-104 - Values, Ethics, and Community",
+      "COMM_V 105-D07 - Values, Ethics, and Community",
+      "COMM_V 105-D08 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-105 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D09, COMM_V 105-D10",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Colin Dodds",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-105 - Values, Ethics, and Community",
+      "COMM_V 105-D09 - Values, Ethics, and Community",
+      "COMM_V 105-D10 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-106 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D11, COMM_V 105-D12",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Colin Dodds",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-106 - Values, Ethics, and Community",
+      "COMM_V 105-D11 - Values, Ethics, and Community",
+      "COMM_V 105-D12 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-107 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D13, COMM_V 105-D14",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Dharini Thiruchittampalam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-107 - Values, Ethics, and Community",
+      "COMM_V 105-D13 - Values, Ethics, and Community",
+      "COMM_V 105-D14 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-108 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 14/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D15, COMM_V 105-D16",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Dharini Thiruchittampalam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-108 - Values, Ethics, and Community",
+      "COMM_V 105-D15 - Values, Ethics, and Community",
+      "COMM_V 105-D16 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-109 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D17, COMM_V 105-D18",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Yao Chu Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-109 - Values, Ethics, and Community",
+      "COMM_V 105-D17 - Values, Ethics, and Community",
+      "COMM_V 105-D18 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-110 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/40",
+    "Section Details": "ANGU-Floor 2-Room 243 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D19, COMM_V 105-D20",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Yao Chu Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-110 - Values, Ethics, and Community",
+      "COMM_V 105-D19 - Values, Ethics, and Community",
+      "COMM_V 105-D20 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-111 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/40",
+    "Section Details": "ANGU-Floor 2-Room 243 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D21, COMM_V 105-D22",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Yao Chu Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-111 - Values, Ethics, and Community",
+      "COMM_V 105-D21 - Values, Ethics, and Community",
+      "COMM_V 105-D22 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-112 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/57",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 13/40",
+    "Section Details": "ANGU-Floor 2-Room 243 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D23, COMM_V 105-D24",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Wayne Rawcliffe",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-112 - Values, Ethics, and Community",
+      "COMM_V 105-D23 - Values, Ethics, and Community",
+      "COMM_V 105-D24 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-113 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/56",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 28/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D25, COMM_V 105-D26",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Wayne Rawcliffe",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-113 - Values, Ethics, and Community",
+      "COMM_V 105-D25 - Values, Ethics, and Community",
+      "COMM_V 105-D26 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-114 - Values, Ethics, and Community",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/50",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 40/40",
+    "Section Details": "ANGU-Floor 3 & 4-Room 343 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 of the Bachelor of Commerce program. Students must also enroll in one of the following: COMM_V 105-D27, COMM_V 105-D28",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Wayne Rawcliffe",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-114 - Values, Ethics, and Community",
+      "COMM_V 105-D27 - Values, Ethics, and Community",
+      "COMM_V 105-D28 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D01 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-101 - Values, Ethics, and Community",
+      "COMM_V 105-D01 - Values, Ethics, and Community",
+      "COMM_V 105-D02 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D02 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-101 - Values, Ethics, and Community",
+      "COMM_V 105-D01 - Values, Ethics, and Community",
+      "COMM_V 105-D02 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D03 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-102 - Values, Ethics, and Community",
+      "COMM_V 105-D03 - Values, Ethics, and Community",
+      "COMM_V 105-D04 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D04 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Fri | 8:00 a.m. - 9:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-102 - Values, Ethics, and Community",
+      "COMM_V 105-D03 - Values, Ethics, and Community",
+      "COMM_V 105-D04 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D05 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Mon | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-103 - Values, Ethics, and Community",
+      "COMM_V 105-D05 - Values, Ethics, and Community",
+      "COMM_V 105-D06 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D06 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Fri | 8:00 a.m. - 9:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-103 - Values, Ethics, and Community",
+      "COMM_V 105-D05 - Values, Ethics, and Community",
+      "COMM_V 105-D06 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D07 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 296 | Tue | 3:00 p.m. - 4:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-104 - Values, Ethics, and Community",
+      "COMM_V 105-D07 - Values, Ethics, and Community",
+      "COMM_V 105-D08 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D08 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Fri | 3:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-104 - Values, Ethics, and Community",
+      "COMM_V 105-D07 - Values, Ethics, and Community",
+      "COMM_V 105-D08 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D09 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-105 - Values, Ethics, and Community",
+      "COMM_V 105-D09 - Values, Ethics, and Community",
+      "COMM_V 105-D10 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D10 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 296 | Thu | 3:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-105 - Values, Ethics, and Community",
+      "COMM_V 105-D09 - Values, Ethics, and Community",
+      "COMM_V 105-D10 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D11 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-106 - Values, Ethics, and Community",
+      "COMM_V 105-D11 - Values, Ethics, and Community",
+      "COMM_V 105-D12 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D12 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-106 - Values, Ethics, and Community",
+      "COMM_V 105-D11 - Values, Ethics, and Community",
+      "COMM_V 105-D12 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D13 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Mon | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-107 - Values, Ethics, and Community",
+      "COMM_V 105-D13 - Values, Ethics, and Community",
+      "COMM_V 105-D14 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D14 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-107 - Values, Ethics, and Community",
+      "COMM_V 105-D13 - Values, Ethics, and Community",
+      "COMM_V 105-D14 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D15 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-108 - Values, Ethics, and Community",
+      "COMM_V 105-D15 - Values, Ethics, and Community",
+      "COMM_V 105-D16 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D16 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Wed | 3:00 p.m. - 4:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This course is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-108 - Values, Ethics, and Community",
+      "COMM_V 105-D15 - Values, Ethics, and Community",
+      "COMM_V 105-D16 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D17 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Tue | 8:00 a.m. - 9:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-109 - Values, Ethics, and Community",
+      "COMM_V 105-D17 - Values, Ethics, and Community",
+      "COMM_V 105-D18 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D18 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-109 - Values, Ethics, and Community",
+      "COMM_V 105-D17 - Values, Ethics, and Community",
+      "COMM_V 105-D18 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D19 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-110 - Values, Ethics, and Community",
+      "COMM_V 105-D19 - Values, Ethics, and Community",
+      "COMM_V 105-D20 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D20 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Wed | 8:00 a.m. - 9:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-110 - Values, Ethics, and Community",
+      "COMM_V 105-D19 - Values, Ethics, and Community",
+      "COMM_V 105-D20 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D21 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-111 - Values, Ethics, and Community",
+      "COMM_V 105-D21 - Values, Ethics, and Community",
+      "COMM_V 105-D22 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D22 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Wed | 9:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-111 - Values, Ethics, and Community",
+      "COMM_V 105-D21 - Values, Ethics, and Community",
+      "COMM_V 105-D22 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D23 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Mon | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-112 - Values, Ethics, and Community",
+      "COMM_V 105-D23 - Values, Ethics, and Community",
+      "COMM_V 105-D24 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D24 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/29",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 235 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-112 - Values, Ethics, and Community",
+      "COMM_V 105-D23 - Values, Ethics, and Community",
+      "COMM_V 105-D24 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D25 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Mon | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-113 - Values, Ethics, and Community",
+      "COMM_V 105-D25 - Values, Ethics, and Community",
+      "COMM_V 105-D26 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D26 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/28",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 237 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 1 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-113 - Values, Ethics, and Community",
+      "COMM_V 105-D25 - Values, Ethics, and Community",
+      "COMM_V 105-D26 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D27 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 296 | Tue | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-114 - Values, Ethics, and Community",
+      "COMM_V 105-D27 - Values, Ethics, and Community",
+      "COMM_V 105-D28 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 105-D28 - Values, Ethics, and Community",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANGU-Floor 2-Room 296 | Thu | 2:00 p.m. - 3:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25",
+    "Clustered Course Sections": [
+      "COMM_V 105-114 - Values, Ethics, and Community",
+      "COMM_V 105-D27 - Values, Ethics, and Community",
+      "COMM_V 105-D28 - Values, Ethics, and Community"
+    ]
   },
   {
     "Course Section": "COMM_V 120-DD1 - Business Immersion",
     "Instructional Format": "Seminar",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/30",
+    "Section Details": "ANGU-Floor 2-Room 254 | Tue Thu | 1:00 p.m. - 2:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This class is reserved for students Master of Management Dual Degree Program in Vancouver (B+MM).",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Sabrina Rai",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

@@ -4,370 +4,609 @@
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/20",
+    "Section Details": "ANGU-Floor 2-Room 291 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 4 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Momcilo Deretic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMM_V 498-102 - International Business Management",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/20",
+    "Section Details": "ANGU-Floor 2-Room 291 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 4 of the Bachelor of Commerce program.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Momcilo Deretic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 457-101 - Fundamentals of Financial Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/20",
+    "Section Details": "ANGU-Floor 3 & 4-Room 345 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 2 or higher of programs other than the Bachelor of Commerce (COMR 457 cannot be counted for credit in the BCom program). Students must also register in discussion section D01 - the discussion component of the course has been cancelled (there is no activity for students to attend), but could not be deleted from Workday for 2024W.\n\nIf you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Scott Sinclair",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 457-102 - Fundamentals of Financial Accounting",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 225/235",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/40",
+    "Section Details": "ANGU-Floor B1-Room 098 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 2 or higher of programs other than the Bachelor of Commerce (COMR 457 cannot be counted for credit in the BCom program). Students must also register in discussion section D01 - the discussion component of the course has been cancelled (there is no activity for students to attend), but could not be deleted from Workday for 2024W.\n\nIf you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Scott Sinclair",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 457-D01 - Fundamentals of Financial Accounting",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 276/290",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 465-101 - Marketing Management",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/49",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "ANGU-Floor 3 & 4-Room 347 | Mon Wed Fri | 4:00 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "This course is restricted to students in Year 3 of programs other than the Bachelor of Commerce. If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jarrett Vaughan",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 465-102 - Marketing Management",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/43",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/20",
+    "Section Details": "ANGU-Floor 2-Room 243 | Mon | 6:00 p.m. - 9:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "This course is restricted to students in Year 3 of programs other than the Bachelor of Commerce. It will be offered in a flexible learning format. Rather than attending traditional in-class lectures for three hours each week, students in a flexible format section will spend more time with online learning materials in preparation for fewer scheduled in-person meeting times. Instructors will provide exact dates for in-person meeting times closer to the start of term.\n\nIf you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Phaedra Burke",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 473-101 - Business Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/54",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/20",
+    "Section Details": "ANGU-Floor 3 & 4-Room 334 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This course is restricted to students in Year 3 of programs other than the Bachelor of Commerce. If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Caren Lombard",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 473-102 - Business Finance",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/49",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/20",
+    "Section Details": "ANGU-Floor 2-Room 243 | Wed | 6:00 p.m. - 9:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "This course is restricted to students in Year 3 of programs other than the Bachelor of Commerce. It will be offered in a flexible learning format. Rather than attending traditional in-class lectures for three hours each week, students in a flexible format section will spend more time with online learning materials in preparation for fewer scheduled in-person meeting times. Instructors will provide exact dates for in-person meeting times closer to the start of term.\n\nIf you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Caren Lombard",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 485-101 - Social Entrepreneurship",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/4",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "DLAM-Floor B1-Room 009 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "This section is restricted to students in Minor in Entrepreneurship.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Dharini Thiruchittampalam",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 493-101 - Strategic Management in Business",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "ANGU-Floor 2-Room 237 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of programs other than the Bachelor of Commerce (COMR 493 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.\n ",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Adam Pankratz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 493-102 - Strategic Management in Business",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "ANGU-Floor 2-Room 237 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in Year 3 or higher of programs other than the Bachelor of Commerce (COMR 493 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Adam Pankratz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "COMR_V 497-101 - New Enterprise Development",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/5",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "ANGU-Floor 2-Room 235 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "This section is restricted to students in the Minor in Entrepreneurship. If you have been admitted by your Faculty to the Minor in Entrepreneurship or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Momcilo Deretic",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 440-101 - Conservation Decision-Making and Policy",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/70",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "DMP-Floor 3-Room 301 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Tara Martin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 440-L01 - Conservation Decision-Making and Policy",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 70/71",
+    "Section Details": "FSC-Floor 1-Room 1221 | Wed | 2:00 p.m. - 3:00 p.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Tara Martin",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 449-C_101 - DIR ST NTL RS CN (C)",
     "Instructional Format": "Independent Study",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Instructors": "Nolan Bett, Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 449-C_151 - DIR ST NTL RS CN (C)",
     "Instructional Format": "Independent Study",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
     "Course Section Definition Public Notes": "This course can be used as one of the 5 courses potentially replacing CONS 451.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Nolan Bett, Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 449-F_001 - DIR ST NTL RS CN (F)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "Instructors": "Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "CONS_V 449-F_101 - DIR ST NTL RS CN (F)",
     "Instructional Format": "Independent Study",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "Instructors": "Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 451-101 - Integrated Field School",
     "Instructional Format": "Experiential",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/50",
+    "Section Details": "FSC-Floor 1-Room 1406 | Mon | 11:00 a.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Nolan Bett, Sally Aitken, Scott Hinch, Tara Martin, Warren Cardinal-McTeague",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 481-101 - Conservation Planning in Practice",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 128/120",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/5",
+    "Section Details": "IRC-Floor B1-Room 4 | Mon Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 481-L01 - Conservation Planning in Practice",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/40",
+    "Section Details": "DMP-Floor 1-Room 101 | Mon | 5:00 p.m. - 7:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 481-L02 - Conservation Planning in Practice",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/40",
+    "Section Details": "FSC-Floor 2-Room 2965 | Tue | 12:30 p.m. - 2:30 p.m. | 2024-09-03 - 2024-12-03",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 481-L03 - Conservation Planning in Practice",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/40",
+    "Section Details": "ORCH-Floor 3-Room 3018 | Fri | 1:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 491-101 - Recreation and Tourism Planning",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 62/62",
+    "Section Details": "FSC-Floor 1-Room 1611 | Mon Wed | 10:30 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "David Bunn",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 496-101 - Primate Conservation in the Anthropocene",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 61/60",
+    "Section Details": "FSC-Floor 1-Room 1611 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Jacqueline Lois Sunderland",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 498-001 - Thesis or Special Project",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/10",
+    "Instructors": "Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "CONS_V 498-101 - Thesis or Special Project",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/5",
+    "Instructors": "Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CONS_V 498-610 - Thesis or Special Project",
     "Instructional Format": "Thesis",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/5",
+    "Instructors": "Scott Hinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "CPEN_V 411-101 - Computer Architecture",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 82/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 46/30",
+    "Section Details": "DMP-Floor 3-Room 301 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Prashant Nair",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 411-T1A - Computer Architecture",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 80/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "DMP-Floor 3-Room 301 | Wed | 8:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
+    "Instructors": "Prashant Nair",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 422-101 - Software Testing and Analysis",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/43",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/8",
+    "Section Details": "FNH-Floor B1-Room 50 | Mon Wed | 10:30 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Ali Mesbah",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 422-L1A - Software Testing and Analysis",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 43/43",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MCLD-Floor 4-Room 4002 | Thu | 10:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Ali Mesbah",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 432-101 - Real-time System Design",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/8",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/8",
+    "Section Details": "MCML-Floor 3-Room 358 | Mon Wed | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "Only EECE students",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 442-101 - Introduction to Cybersecurity",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 78/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 30/30",
+    "Section Details": "MCLD-Floor 2-Room 2002 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Exchange students, please register in the waiting list, thanks.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Simon Oya",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 442-L1B - Introduction to Cybersecurity",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "4 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 78/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/20",
+    "Section Details": "DMP-Floor 3-Room 301 | Fri | 2:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Simon Oya",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 481-101 - Economic Analysis of Engineering Projects",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
+    "Section Details": "MCML-Floor 3-Room 360 | Mon Wed | 5:00 p.m. - 6:30 p.m. | 2024-09-03 - 2024-12-04",
+    "Instructors": "Jeffrey Carmichael",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 491-F_002 - CAPSTONE DSGN A (F)",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "10 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 90/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/30",
+    "Section Details": "Tue Thu | 2:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Andre Ivanov, Cristian Sorin Grecu, Hamed Ahmadi, Joseph Yan, Leo Stocco, Panos Nasiopoulos, Paul Lusina, Pieter Botman, S Sidney Fels, Terry Lee",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 497-F_101 - UGRD RSCH EXP (F)",
     "Instructional Format": "Research",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/10",
     "Course Section Definition Public Notes": "If you are interested in this course, please register in the waiting list.\nFor more information about this course, please visit https://ece.ubc.ca/courses/cpen-elec-497/, thanks.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 499-A_001 - Undergraduate Thesis (A)",
     "Instructional Format": "Thesis",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/10",
     "Course Section Definition Public Notes": "If you are interested in this course, please register in the waiting list.\nFor more information on this course, please visit https://ece.ubc.ca/courses/cpen-elec-499/, thanks.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "CPEN_V 499-A_101 - Undergraduate Thesis (A)",
     "Instructional Format": "Thesis",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/10",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPEN_V 499-B_001 - Undergraduate Thesis (B)",
     "Instructional Format": "Thesis",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
     "Course Section Definition Public Notes": "If you are interested in this course, please register in the waiting list.\nFor more information on this course, please visit https://ece.ubc.ca/courses/cpen-elec-499/, thanks.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Alexandra Fedorova",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "CPEN_V 499-B_101 - Undergraduate Thesis (B)",
     "Instructional Format": "Thesis",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/10",
     "Course Section Definition Public Notes": "If you are interested in this course, please register in the waiting list.\nFor more information on this course, please visit https://ece.ubc.ca/courses/cpen-elec-499/, thanks.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 402-101 - Numerical Linear Algebra",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/82",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/999",
+    "Section Details": "CEME-Floor 1-Room 1202 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Chen Greif",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 404-101 - Advanced Relational Databases",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 185/185",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 85/999",
+    "Section Details": "SWNG-Floor 2-Room 221 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
+    "Instructors": "Ed Knorr",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 418-101 - Parallel Computation",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 82/82",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 81/999",
+    "Section Details": "DMP-Floor 3-Room 301 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Mark Greenstreet, Susanne Bradley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 421-101 - Introduction to Theory of Computing",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 103/103",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 39/999",
+    "Section Details": "IRC-Floor B1-Room 4 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Joel Friedman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 422-101 - Intelligent Systems",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 83/154",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/999",
+    "Section Details": "FRDM-Floor 1-Room 153 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
+    "Instructors": "Jordon Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 425-101 - Computer Vision",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 100/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 21/999",
+    "Section Details": "ESB-Floor 1-Room 1012 | Tue Thu | 5:00 p.m. - 6:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "If Workday indicates you do not meet the CPSC 425 prerequisites, but you have taken CPSC 221 one of [MATH 200, MATH 217, MATH 226, and MATH 253] and one of [MATH 152, MATH 221, and MATH 223], then you may submit a Request for Registration Assistance Form as described at:\nhttps://www.cs.ubc.ca/students/undergrad/courses-deadlines/cpsc-appeals-steps-undergraduate-students.\n\nPlease ensure that you include in your message exactly what courses that you have taken meet the MATH requirements and which section(s) of CPSC 425 you are interested in, in priority order. Requests that do not follow these guidelines may be denied without consideration.\n\nIf your request is approved, we will either grant you permission to register yourself (if your registration date has not yet arrived), register you for a lecture section (if it has and a seat is available), or otherwise: waitlist you with an effective waitlist date no later than the next business day after the date your request for registration assistance included complete information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Leonid Sigal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "CPSC_V 425-102 - Computer Vision",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 82/82",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 17/999",
+    "Section Details": "MCML-Floor 1-Room 166 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-04",
     "Course Section Definition Public Notes": "If Workday indicates you do not meet the CPSC 425 prerequisites, but you have taken CPSC 221 one of [MATH 200, MATH 217, MATH 226, and MATH 253] and one of [MATH 152, MATH 221, and MATH 223], then you may submit a Request for Registration Assistance Form as described at:\nhttps://www.cs.ubc.ca/students/undergrad/courses-deadlines/cpsc-appeals-steps-undergraduate-students.\n\nPlease ensure that you include in your message exactly what courses that you have taken meet the MATH requirements and which section(s) of CPSC 425 you are interested in, in priority order. Requests that do not follow these guidelines may be denied without consideration.\n\nIf your request is approved, we will either grant you permission to register yourself (if your registration date has not yet arrived), register you for a lecture section (if it has and a seat is available), or otherwise: waitlist you with an effective waitlist date no later than the next business day after the date your request for registration assistance included complete information.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Leonid Sigal",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   }
 ]

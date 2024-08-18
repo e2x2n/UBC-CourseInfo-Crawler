@@ -4,394 +4,590 @@
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HENN-Floor 2-Room 312 | Thu | 10:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASTR_V 101-L1C - Introduction to the Solar System",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "HENN-Floor 2-Room 312 | Thu | 2:00 p.m. - 4:00 p.m. | 2024-09-05 - 2024-12-05",
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASTR_V 101-L1D - Introduction to the Solar System",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "HENN-Floor 2-Room 312 | Mon | 1:00 p.m. - 3:00 p.m. | 2024-09-03 - 2024-12-02",
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASTR_V 101-L1E - Introduction to the Solar System",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HENN-Floor 2-Room 312 | Tue | 9:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ASTR_V 101-L1F - Introduction to the Solar System",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/5",
+    "Section Details": "HENN-Floor 2-Room 312 | Fri | 2:00 p.m. - 4:00 p.m. | 2024-09-06 - 2024-12-06",
+    "Instructors": "Aaron Boley",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "ATSC_V 113-99A - Weather Science for Sailing, Flying, and Snow Sports",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 317/500",
     "Course Section Definition Public Notes": "ATSC 113 is a hybrid, asynchronous course for all students.  All course content is available directly on the course website or through links to outside resources. There is no textbook for this course. All Quizzes and Assignments are open over a set number of days for students to complete when it fits best within their own schedule. These are then submitted online, through the Course Website. There are no lectures to attend or video lectures to follow. The only time students need to attend a session in-person is for the written final exam. The final exam will be written during the UBC exam period, at a time and date arranged by UBC Exam Services. All students will attend the final exam in-person in a UBC classroom.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Douglas McCollor, Roland Stull",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 111-101 - Introduction to Modern Biology",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 230/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 50/50",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Jennifer Klenz",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-101 - Biology of the Cell",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 240/240",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/48",
+    "Section Details": "WESB-Floor 1-Room 100 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or tutorials, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR TUTORIAL.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Karen Smith",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-102 - Biology of the Cell",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 240/240",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/48",
+    "Section Details": "WESB-Floor 1-Room 100 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or tutorials, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR TUTORIAL.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Liane Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-103 - Biology of the Cell",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 240/240",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/48",
+    "Section Details": "WESB-Floor 1-Room 100 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or tutorials, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR TUTORIAL.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Brett Couch",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-104 - Biology of the Cell",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 240/240",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 48/48",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or tutorials, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR TUTORIAL.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T01 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Mon | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T02 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Mon | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T03 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "BIOL-Floor 1-Room 1012 | Mon | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T04 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Mon | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T05 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Mon | 6:00 p.m. - 7:00 p.m. | 2024-09-03 - 2024-12-02",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T06 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T07 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T08 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T09 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue | 5:00 p.m. - 6:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T10 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Tue | 6:30 p.m. - 7:30 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T11 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T12 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T13 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Wed | 1:00 p.m. - 2:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T14 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Wed | 5:00 p.m. - 6:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T15 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Wed | 6:00 p.m. - 7:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T16 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Thu | 9:00 a.m. - 10:00 a.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T17 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "SCRF-Floor B1-Room 1004 | Thu | 11:00 a.m. - 12:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T18 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Thu | 1:00 p.m. - 2:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T19 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Thu | 5:00 p.m. - 6:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T20 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Thu | 6:00 p.m. - 7:00 p.m. | 2024-09-05 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T21 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "FNH-Floor B1-Room 30 | Fri | 10:00 a.m. - 11:00 a.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T22 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FNH-Floor B1-Room 30 | Fri | 11:00 a.m. - 12:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T23 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "BIOL-Floor 1-Room 1012 | Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 112-T24 - Biology of the Cell",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/40",
+    "Section Details": "SCRF-Floor 2-Room 204 | Fri | 2:00 p.m. - 3:00 p.m. | 2024-09-06 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 121-121 - Genetics, Evolution and Ecology",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 230/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/50",
+    "Section Details": "SCRF-Floor 1-Room 100 | Tue Thu | 8:00 a.m. - 9:30 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 121-122 - Genetics, Evolution and Ecology",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 230/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/50",
+    "Section Details": "MATH-Floor 1-Room 100 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Lynn Norman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 121-123 - Genetics, Evolution and Ecology",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 230/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/50",
+    "Section Details": "LIFE-Floor 2-Room 2201 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Bridgette Clarkston",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 121-124 - Genetics, Evolution and Ecology",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 230/230",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/50",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Lynn Norman",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 121-125 - Genetics, Evolution and Ecology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-06",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+    "Instructors": "Athena McKown",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16\nWithdrawal: 2024/10/25"
   },
   {
     "Course Section": "BIOL_V 155-001 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 25/50",
+    "Section Details": "SCRF-Floor 1-Room 100 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Queenie Hui",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-002 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 200/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/50",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2024-09-03 - 2024-12-05",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Instructors": "Irene Ballagh",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T01 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Tue | 9:00 a.m. - 10:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T02 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Tue | 10:00 a.m. - 11:00 a.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T03 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Tue | 11:00 a.m. - 12:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T04 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/24",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Tue | 12:00 p.m. - 1:00 p.m. | 2024-09-03 - 2024-12-03",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T05 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/24",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Wed | 9:00 a.m. - 10:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T06 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/24",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Wed | 10:00 a.m. - 11:00 a.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T07 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/24",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Wed | 11:00 a.m. - 12:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   },
   {
     "Course Section": "BIOL_V 155-T08 - Human Biology: Physiology and Introductory Anatomy",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "6 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/24",
+    "Section Details": "BIOL-Floor 4-Room 4019 | Wed | 12:00 p.m. - 1:00 p.m. | 2024-09-04 - 2024-12-04",
     "Course Section Definition Public Notes": "Students may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course.  For example, students may not register for multiple labs or discussion, including their respective waitlists.  BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE LECTURE, LAB, OR DISSCUSSION.",
-    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23\nWithdrawal: 2024/11/22"
   }
 ]

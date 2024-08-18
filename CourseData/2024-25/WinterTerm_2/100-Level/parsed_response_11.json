@@ -4,373 +4,786 @@
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "BUCH-Floor 3-Room D313 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ENGL_V 111-003 - Approaches to Language and Communication",
+      "ENGL_V 111-L20 - Approaches to Language and Communication",
+      "ENGL_V 111-L21 - Approaches to Language and Communication",
+      "ENGL_V 111-L22 - Approaches to Language and Communication",
+      "ENGL_V 111-L23 - Approaches to Language and Communication"
+    ]
   },
   {
     "Course Section": "ENGL_V 111-L22 - Approaches to Language and Communication",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/30",
+    "Section Details": "BUCH-Floor 3-Room B302 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ENGL_V 111-003 - Approaches to Language and Communication",
+      "ENGL_V 111-L20 - Approaches to Language and Communication",
+      "ENGL_V 111-L21 - Approaches to Language and Communication",
+      "ENGL_V 111-L22 - Approaches to Language and Communication",
+      "ENGL_V 111-L23 - Approaches to Language and Communication"
+    ]
   },
   {
     "Course Section": "ENGL_V 111-L23 - Approaches to Language and Communication",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "BUCH-Floor 3-Room B304 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ENGL_V 111-003 - Approaches to Language and Communication",
+      "ENGL_V 111-L20 - Approaches to Language and Communication",
+      "ENGL_V 111-L21 - Approaches to Language and Communication",
+      "ENGL_V 111-L22 - Approaches to Language and Communication",
+      "ENGL_V 111-L23 - Approaches to Language and Communication"
+    ]
   },
   {
     "Course Section": "EOSC_V 110-201 - The Solid Earth: A Dynamic Planet",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 147/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BIOL-Floor 1-Room 1000 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Brett Gilley, Shandin Pete",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 111-L2A - Laboratory Exploration of Planet Earth",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/10",
+    "Section Details": "EOS-Floor 1-Room 111 | Thu | 11:00 a.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 111-L2B - Laboratory Exploration of Planet Earth",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/10",
+    "Section Details": "EOS-Floor 1-Room 111 | Tue | 8:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 111-L2C - Laboratory Exploration of Planet Earth",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 7/10",
+    "Section Details": "EOS-Floor 1-Room 111 | Tue | 11:00 a.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 111-L2D - Laboratory Exploration of Planet Earth",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 6/10",
+    "Section Details": "EOS-Floor 1-Room 111 | Tue | 2:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 111-L2E - Laboratory Exploration of Planet Earth",
     "Instructional Format": "Laboratory",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/10",
+    "Section Details": "EOS-Floor 1-Room 111 | Wed | 2:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 112-201 - The Climate System",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 83/224",
+    "Section Details": "DMP-Floor 3-Room 310 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Stephanie Waterman",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 114-201 - The Catastrophic Earth: Natural Disasters",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 143/187",
+    "Section Details": "SCRF-Floor 1-Room 100 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "David Sasse, Douglas McCollor, Laura Lukes, Leah May Ver, Michael Bostock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 114-202 - The Catastrophic Earth: Natural Disasters",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 170/260",
+    "Section Details": "ESB-Floor 1-Room 1012 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "David Sasse, Douglas McCollor, Laura Lukes, Leah May Ver, Michael Bostock",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 114-99C - The Catastrophic Earth: Natural Disasters",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 96/500",
     "Course Section Definition Public Notes": "EOSC 114 is a hybrid, asynchronous course for all students.  All course content is available directly on the course website or through links to outside resources. There is no textbook for this course. All Quizzes and Assignments are open over a set number of days for students to complete when it fits best within their own schedule. These are then submitted online, through the Course Website. There are no lectures to attend or video lectures to follow. The only time students need to attend a session in-person is for the written final exam. The final exam will be written during the UBC exam period, at a time and date arranged by UBC Exam Services. All students will attend the final exam in-person in a UBC classroom.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 116-201 - Mesozoic Earth: Time of the Dinosaurs.",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 173/350",
+    "Section Details": "SCRF-Floor 1-Room 100 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Bruce Archibald, Stuart Sutherland",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 116-99C - Mesozoic Earth: Time of the Dinosaurs.",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 144/500",
     "Course Section Definition Public Notes": "EOSC 116 is a hybrid, asynchronous course for all students.  All course content is available directly on the course website or through links to outside resources. There is no textbook for this course. All Quizzes and Assignments are open over a set number of days for students to complete when it fits best within their own schedule. These are then submitted online, through the Course Website. There are no lectures to attend or video lectures to follow. The only time students need to attend a session in-person is for the written final exam. The final exam will be written during the UBC exam period, at a time and date arranged by UBC Exam Services. All students will attend the final exam in-person in a UBC classroom.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EOSC_V 118-99C - Earth's Treasures: Gold and Gems",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 137/500",
     "Course Section Definition Public Notes": "EOSC 118 is a hybrid, asynchronous course for all students.  All course content is available directly on the course website or through links to outside resources. There is no textbook for this course. All Quizzes and Assignments are open over a set number of days for students to complete when it fits best within their own schedule. These are then submitted online, through the Course Website. There are no lectures to attend or video lectures to follow. The only time students need to attend a session in-person is for the written final exam. The final exam will be written during the UBC exam period, at a time and date arranged by UBC Exam Services. All students will attend the final exam in-person in a UBC classroom.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "EXCH_V 101-201 - Canadian University Study Abroad Program (CUSAP) Exchange",
     "Instructional Format": "Experiential",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "0 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/0",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FIPR_V 131-001 - Introduction to Screen Acting",
     "Instructional Format": "Studio",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 118/120",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "FRWO-Floor 1-Room 102 | Tue Thu | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding waitlist section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FIPR_V 133-002 - Introduction to Film and Media Production",
     "Instructional Format": "Studio",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 8/10",
+    "Section Details": "TFPB-Floor 1-Room 104 | Wed | 1:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
     "Course Section Definition Public Notes": "If this section if FULL or BLOCKED please sign up for the corresponding waitlist section. Once you have registered in the wait list there is no need to contact the department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jessica Johnson",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNEL_V 102-A_001 - Introduction to a Salish Language II (A)",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 2/25",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/40",
+    "Section Details": "Tue Thu | 4:30 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite: FNEL 101. For students interested in this course, please register on the waitlist. We will be conducting a pre-req check and moving students that meet the requirements. The location of the class is on the Musqueam Reserve at the Musqueam Community Center, 6735 Salish Drive, Vancouver, B.C.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Fiona Campbell, Larry Grant",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNH_V 160-201 - Integrated Physiology for Human Nutrition I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 73/87",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 15/20",
+    "Section Details": "MCLD-Floor 2-Room 2002 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Elizabeth Novak",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FNH_V 161-201 - Integrated Physiology for Human Nutrition II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 122/125",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 3/30",
+    "Section Details": "CHEM-Floor 2-Room D300 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "If you meet the requirements for the course/waitlist but are not able to self-register, please fill out this 2024 Winter Session Registration Request for LFS Courses form. An LFS Academic Advisor will assess your eligibility for registration and you will be notified accordingly.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Elizabeth Novak",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-201 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room D218 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Magali Blanc",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-202 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/100",
+    "Section Details": "BUCH-Floor 2-Room D222 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Joyce Lubert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-203 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "LIFE-Floor 2-Room 2214 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ \n\n3 seats for this section have been saved from open registration to support students who missed registration due to WD technical issues. Please reach out to fhis.undergrad@ubc.ca if you need support on this.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Juliet O'Brien",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-204 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room D201 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Juliet O'Brien",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-205 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 28/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B211 | Tue Thu | 5:00 p.m. - 6:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Somayeh Kamranian",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-207 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 40/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room D219 | Tue | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Soline Milet",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-208 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/55",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B213 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ \n\n3 seats for this section have been saved from open registration to support students who missed registration due to WD technical issues. Please reach out to fhis.undergrad@ubc.ca if you need support on this.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Soline Milet",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-209 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 34/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/100",
+    "Section Details": "BUCH-Floor 2-Room B218 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Joyce Lubert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FREN_V 102-210 - Beginners' French II",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/35",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/100",
+    "Section Details": "BUCH-Floor 3-Room D314 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "Before registering the course, please complete French Language Questionnaire to determine which course level to start: https://fhis.ubc.ca/undergraduate/advising/placement-in-language-courses/french-language-placement-guidelines/ \n\nIf you have experience of French 12 or French Immersion, you are not allowed to stay in FREN 102.  \n\nView full course overview: https://fhis.ubc.ca/course-description/fren102/  \n\nContact us here: https://fhis.ubc.ca/undergraduate-advising-contact-form/ ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Joyce Lubert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "FRST_V 101-201 - FRST MICROECON",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/32",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/5",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Instructors": "Karen Taylor",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "GEOG_V 121-202 - Geography, Environment and Globalization",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 11/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
     "Course Section Definition Public Notes": "This asynchronous online lecture does not have a scheduled meeting time.\nSelect one Discussion from sections L2A, L2B, L2C, L2D.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Siobhán Wittig McPhee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "GEOG_V 121-L2A - Geography, Environment and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/25",
+    "Section Details": "Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This section is for students registered in GEOG 121 202. \nThis online discussion has a synchronous scheduled meeting time.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Siobhán Wittig McPhee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "GEOG_V 121-L2B - Geography, Environment and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 4/25",
+    "Section Details": "Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This section is for students registered in GEOG 121 202. \nThis online discussion has a synchronous scheduled meeting time.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Siobhán Wittig McPhee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "GEOG_V 121-L2C - Geography, Environment and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 0/25",
+    "Section Details": "Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This section is for students registered in GEOG 121 202. \nThis online discussion has a synchronous scheduled meeting time.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Siobhán Wittig McPhee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "GEOG_V 121-L2D - Geography, Environment and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/25",
+    "Section Details": "Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This section is for students registered in GEOG 121 202. \nThis online discussion has a synchronous scheduled meeting time.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Siobhán Wittig McPhee",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "GEOG_V 122-201 - Geography, Modernity and Globalization",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 145/220",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/44",
+    "Section Details": "GEOG-Floor 1-Room 100 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Select one Discussion from sections L2A, L2B, L2C, L2D, L2E, L2F, L2G, L2H, L2I, L2J, L2K.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-299 - Geography, Modernity and Globalization",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "GEOG-Floor 2-Room 200 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Select one Discussion from sections L2V, L2W, L2X, L2Y.\n\nIf you would like to take this course on its own without enrolling in CAP, contact support.fyip@ubc.ca and request to be registered.\n\nThis course is part of the Coordinated Arts Program, Environment & Society stream, https://cap.arts.ubc.ca/streams/environment-society/. Students must register in both Term  1 and Term 2 courses in CAP. \nFollow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n\nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "CAP_V 101-E02 - READ&RSRCH STDYS",
+      "CAP_V 101-E03 - READ&RSRCH STDYS",
+      "CAP_V 101-E04 - READ&RSRCH STDYS",
+      "GEOG_V 122-299 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2V - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2W - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2X - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2Y - Geography, Modernity and Globalization",
+      "HIST_V 106-227 - Global Environmental History",
+      "HIST_V 106-L1A - Global Environmental History",
+      "HIST_V 106-L1B - Global Environmental History"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2A - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2B - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2C - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 18/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2D - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Wed | 2:00 p.m. - 3:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2E - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2F - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 12/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Wed | 4:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2G - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 15/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2H - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2I - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 20/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2J - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Thu | 12:00 p.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   },
   {
     "Course Section": "GEOG_V 122-L2K - Geography, Modernity and Globalization",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/20",
+    "Section Details": "GEOG-Floor 1-Room 109 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Jessica Wang, Peter Hudson, Trevor Barnes",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "GEOG_V 122-201 - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2A - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2B - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2C - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2D - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2E - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2F - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2G - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2H - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2I - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2J - Geography, Modernity and Globalization",
+      "GEOG_V 122-L2K - Geography, Modernity and Globalization"
+    ]
   }
 ]

@@ -1050,12 +1050,12 @@
           "values": [
             {
               "label": "Manage My Saved Searches",
-              "uri": "/ubc/button/c27/162/585",
+              "uri": "/ubc/button/c7/162/585",
               "taskId": "2997$13093",
               "httpMethod": "POST"
             }
           ],
-          "uri": "/ubc/button/c27/162/585",
+          "uri": "/ubc/button/c7/162/585",
           "taskId": "2997$13093",
           "httpMethod": "POST",
           "actionId": "edit",
@@ -5112,7 +5112,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 121/275",
+              "value": "Enrolled/Capacity: 119/275",
               "propertyName": "wd:Text"
             }
           ],
@@ -8025,7 +8025,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 13/23",
+              "value": "Enrolled/Capacity: 14/23",
               "propertyName": "wd:Text"
             }
           ],
@@ -8316,7 +8316,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 12/23",
+              "value": "Enrolled/Capacity: 11/23",
               "propertyName": "wd:Text"
             }
           ],
@@ -9189,7 +9189,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 19/23",
+              "value": "Enrolled/Capacity: 18/23",
               "propertyName": "wd:Text"
             }
           ],
@@ -11226,7 +11226,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 6/22",
+              "value": "Enrolled/Capacity: 5/22",
               "propertyName": "wd:Text"
             }
           ],
@@ -11763,7 +11763,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - EE - Waitlisted / Waitlist Capacity",
-              "value": "Waitlisted/Waitlist Capacity: 0/100",
+              "value": "Waitlisted/Waitlist Capacity: 1/100",
               "propertyName": "wd:Text"
             }
           ],
@@ -12429,7 +12429,7 @@
               "iid": "4$2750",
               "enabled": false,
               "label": "zCF - CT - Enrolled/Capacity",
-              "value": "Enrolled/Capacity: 46/300",
+              "value": "Enrolled/Capacity: 45/300",
               "propertyName": "wd:Text"
             },
             {
@@ -13488,7 +13488,7 @@
           "doNotWrapInTab": true
         }
       ],
-      "chunkingUri": "/ubc/chunkablelist/c27/2045.156",
+      "chunkingUri": "/ubc/chunkablelist/c7/2045.156",
       "totalChunkingItemsCount": 1457,
       "propertyName": "wd:Report_Row",
       "doNotWrapInTab": true
@@ -13538,58 +13538,58 @@
   ],
   "endPoints": [
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/search",
+      "uri": "/ubc/faceted-search2/c7/fs1/search",
       "type": "Search"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/replaceandsearch",
+      "uri": "/ubc/faceted-search2/c7/fs1/replaceandsearch",
       "type": "Replace_And_Search"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/save",
+      "uri": "/ubc/faceted-search2/c7/fs1/save",
       "type": "Save",
       "requestParameterNames": [
         "name"
       ]
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs0/backward",
+      "uri": "/ubc/faceted-search2/c7/fs0/backward",
       "type": "Backward"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/recover-current-state",
+      "uri": "/ubc/faceted-search2/c7/fs1/recover-current-state",
       "type": "Recover_Current_State"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/replace",
+      "uri": "/ubc/faceted-search2/c7/fs1/replace",
       "type": "Replace"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/configure/add",
+      "uri": "/ubc/faceted-search2/c7/fs1/configure/add",
       "type": "Configure_Add"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/configure/expand",
+      "uri": "/ubc/faceted-search2/c7/fs1/configure/expand",
       "type": "Configure_Expand"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/pagination",
+      "uri": "/ubc/faceted-search2/c7/fs1/pagination",
       "type": "Pagination"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/reset",
+      "uri": "/ubc/faceted-search2/c7/fs1/reset",
       "type": "Reset"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/prompt",
+      "uri": "/ubc/faceted-search2/c7/fs1/prompt",
       "type": "Prompt"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/expand-facet-value",
+      "uri": "/ubc/faceted-search2/c7/fs1/expand-facet-value",
       "type": "Expand_Facet_Value"
     },
     {
-      "uri": "/ubc/faceted-search2/c27/fs1/searchCriteria",
+      "uri": "/ubc/faceted-search2/c7/fs1/searchCriteria",
       "type": "Search_Criteria"
     }
   ],

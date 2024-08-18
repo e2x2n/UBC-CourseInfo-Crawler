@@ -1,0 +1,643 @@
+[
+  {
+    "Course Section": "CRWR_V 303-LS2 - Intermediate Writing for Children and Young Adults",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "BUCH-Floor 3-Room B310 | Tue | 10:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online. Students must also register for CRWR 303 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 305-002 - Intermediate Writing of Creative Nonfiction",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 305 LS1 or LS2, the lecture-seminar portion of this course.",
+    "Instructors": "Mandy Catron",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 305-LS1 - Intermediate Writing of Creative Nonfiction",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "BUCH-Floor 2-Room D205 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 305 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 305-LS2 - Intermediate Writing of Creative Nonfiction",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/30",
+    "Section Details": "BUCH-Floor 2-Room D207 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 305 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 306-002 - Intermediate Writing for the Screen",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 89/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 11/50",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 306 LS1, LS2 or FPR, the lecture-seminar portion of this course.",
+    "Instructors": "Martin Kinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 306-FPR - Intermediate Writing for the Screen",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B304 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 306 002, the web-based lecture portion of this course.\nThis seminar section has seats Reserved for FIPR students.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 306-LS1 - Intermediate Writing for the Screen",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/30",
+    "Section Details": "BUCH-Floor 3-Room B306 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 306 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 306-LS2 - Intermediate Writing for the Screen",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "BUCH-Floor 3-Room B310 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 306 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 307-002 - Intermediate Writing for the Stage",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/48",
+    "Section Details": "BUCH-Floor 1-Room B141 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Anosh Irani",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 309-002 - Intermediate Writing Fiction",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/30",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 309 L3 or LS4, the lecture-seminar portion of this course.",
+    "Instructors": "Austen Osworth",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 309-LS3 - Intermediate Writing Fiction",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "BUCH-Floor 3-Room D301 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 309 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 309-LS4 - Intermediate Writing Fiction",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "Section Details": "SCRF-Floor B1-Room 1021 | Wed | 2:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Course Section Definition Public Notes": "Students must also register for CRWR 309 002, the web-based lecture portion of this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 311-002 - Intermediate Writing for Lyric Forms",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 45/100",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/50",
+    "Section Details": "BUCH-Floor 2-Room A203 | Tue | 5:30 p.m. - 8:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Tariq Hussain",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 353-U_002 - Intermediate Children and Young Adult Writing Workshop (U)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 13/26",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/13",
+    "Section Details": "ORCH-Floor 3-Room 3058 | Tue | 2:00 p.m. - 4:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Emily Pohl-Weary",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 356-U_002 - Intermediate Screenplay Workshop (U)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "MATH-Floor 2-Room 204 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Martin Kinch",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 358-U_002 - Intermediate Graphic Forms Workshop (U)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 14/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "BUCH-Floor 3-Room D313 | Thu | 12:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Taylor Brown-Evans",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 359-U_002 - Intermediate Fiction Workshop (U)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 27/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/15",
+    "Section Details": "BUCH-Floor 3-Room D304 | Wed | 12:00 p.m. - 2:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Instructors": "Mallory Tater",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CSIS_V 300-A_201 - Introduction to Critical Studies in Sexuality (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/75",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/30",
+    "Section Details": "BUCH-Floor 2-Room B215 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Isabel Machado",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DES_V 302-001 - Design Studio IV - Vancouver",
+    "Instructional Format": "Studio",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "9 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "HEBB-Floor 1-Room 116 | Mon | 9:30 a.m. - 12:30 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DES_V 321-F_201 - IMAGINATIONS ENV (F)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "Section Details": "Tue | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Sara Stevens",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DES_V 321-F_D01 - IMAGINATIONS ENV (F)",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/20",
+    "Section Details": "IBLC-Floor 4-Room 460 | Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Instructors": "Sara Stevens",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DES_V 322-E_201 - Contested Spaces (E)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 8/20",
+    "Section Details": "BUCH-Floor 3-Room D325 | Tue | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Instructors": "Rana Abughannam",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DES_V 323-001 - Histories in Landscape Architecture",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 30/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/15",
+    "Section Details": "BUCH-Floor 3-Room D301 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DES_V 341-201 - Co-operative Education Work Term I",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 1/0",
+    "Course Section Definition Public Notes": "Registration follows approval of co-op term application.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DSCI_V 310-101 - Reproducible and Trustworthy Workflows for Data Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/72",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 34/30",
+    "Section Details": "LIFE-Floor 2-Room 2302 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Course Section Definition Public Notes": "If course is full please register in the waitlist\nThis instructor for this course will be Daniel Chen daniel.chen@stat.ubc.ca ",
+    "Instructors": "Daniel Chen",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DSCI_V 310-T1A - Reproducible and Trustworthy Workflows for Data Science",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 72/72",
+    "Section Details": "ORCH-Floor 4-Room 4074 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DSCI_V 320-201 - Visualization for Data Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 73/75",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 59/999",
+    "Section Details": "AERL-Floor 1-Room 120 | Mon Wed | 3:30 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Firas Moosvi",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DSCI_V 320-L2A - Visualization for Data Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/26",
+    "Section Details": "ORCH-Floor 4-Room 4004 | Tue | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DSCI_V 320-L2B - Visualization for Data Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/26",
+    "Section Details": "ORCH-Floor 4-Room 4002 | Tue | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "DSCI_V 320-L2C - Visualization for Data Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/26",
+    "Section Details": "ORCH-Floor 4-Room 4004 | Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ECON_V 301-003 - Intermediate Microeconomic Analysis I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 98/100",
+    "Section Details": "IRC-Floor B1-Room 1 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Sergei Severinov",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 301-003 - Intermediate Microeconomic Analysis I",
+      "ECON_V 301-L05 - Intermediate Microeconomic Analysis I",
+      "ECON_V 301-L06 - Intermediate Microeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 301-L05 - Intermediate Microeconomic Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/50",
+    "Section Details": "BUCH-Floor 3-Room B313 | Mon | 5:00 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 301-003 - Intermediate Microeconomic Analysis I",
+      "ECON_V 301-L05 - Intermediate Microeconomic Analysis I",
+      "ECON_V 301-L06 - Intermediate Microeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 301-L06 - Intermediate Microeconomic Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/50",
+    "Section Details": "BUCH-Floor 2-Room B208 | Tue | 6:00 p.m. - 7:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 301-003 - Intermediate Microeconomic Analysis I",
+      "ECON_V 301-L05 - Intermediate Microeconomic Analysis I",
+      "ECON_V 301-L06 - Intermediate Microeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 302-002 - Intermediate Macroeconomic Analysis I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 98/110",
+    "Section Details": "LIFE-Floor 2-Room 2302 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Gorkem Bostanci",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 302-002 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L03 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L04 - Intermediate Macroeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 302-003 - Intermediate Macroeconomic Analysis I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 110/110",
+    "Section Details": "IRC-Floor B1-Room 1 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Gorkem Bostanci",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 302-003 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L05 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L06 - Intermediate Macroeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 302-L03 - Intermediate Macroeconomic Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 46/55",
+    "Section Details": "BUCH-Floor 2-Room B213 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 302-002 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L03 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L04 - Intermediate Macroeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 302-L04 - Intermediate Macroeconomic Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/55",
+    "Section Details": "BUCH-Floor 2-Room D222 | Thu | 4:00 p.m. - 5:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 302-002 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L03 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L04 - Intermediate Macroeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 302-L05 - Intermediate Macroeconomic Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "Section Details": "BUCH-Floor 3-Room B315 | Tue | 5:00 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 302-003 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L05 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L06 - Intermediate Macroeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 302-L06 - Intermediate Macroeconomic Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 55/55",
+    "Section Details": "BUCH-Floor 2-Room D222 | Thu | 6:00 p.m. - 7:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 302-003 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L05 - Intermediate Macroeconomic Analysis I",
+      "ECON_V 302-L06 - Intermediate Macroeconomic Analysis I"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 303-003 - Intermediate Microeconomics II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/90",
+    "Section Details": "IONA-Floor 3-Room 301 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 303-003 - Intermediate Microeconomics II",
+      "ECON_V 303-L3A - Intermediate Microeconomics II",
+      "ECON_V 303-L3B - Intermediate Microeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 303-L3A - Intermediate Microeconomics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 26/45",
+    "Section Details": "BUCH-Floor 2-Room B213 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 303-003 - Intermediate Microeconomics II",
+      "ECON_V 303-L3A - Intermediate Microeconomics II",
+      "ECON_V 303-L3B - Intermediate Microeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 303-L3B - Intermediate Microeconomics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/45",
+    "Section Details": "LIFE-Floor 2-Room 2212 | Wed | 5:00 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 303-003 - Intermediate Microeconomics II",
+      "ECON_V 303-L3A - Intermediate Microeconomics II",
+      "ECON_V 303-L3B - Intermediate Microeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 306-001 - Honours Intermediate Microeconomics II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/0",
+    "Section Details": "BUCH-Floor 3-Room B307 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Course Section Definition Public Notes": "For Honours and BIE academic track students only.\n\nPlease contact VSE UG office at vse.undergrad@ubc.ca to be added to this course.",
+    "Instructors": "Michael Peters",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 306-001 - Honours Intermediate Microeconomics II",
+      "ECON_V 306-L01 - Honours Intermediate Microeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 306-L01 - Honours Intermediate Microeconomics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/0",
+    "Section Details": "BUCH-Floor 3-Room B307 | Fri | 5:00 p.m. - 6:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Course Section Definition Public Notes": "For Honours and BIE academic track students only.\n\nPlease contact VSE UG office at vse.undergrad@ubc.ca to be added to this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 306-001 - Honours Intermediate Microeconomics II",
+      "ECON_V 306-L01 - Honours Intermediate Microeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 307-001 - Honours Intermediate Macroeconomics II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/0",
+    "Section Details": "BUCH-Floor 2-Room D207 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2025-01-06 - 2025-02-12",
+    "Course Section Definition Public Notes": "For Honours and BIE academic track students only.\n\nPlease register for both the lecture section ECON 307-001 and the discussion section ECON 307-L01. Note that L01 will not be held, but registration is necessary for technical purposes. There are no scheduled dates or times for L01, so it should not cause any conflicts. Please reach out to vse.undergrad@ubc.ca with any questions or concerns.\n\nPlease contact VSE UG office at vse.undergrad@ubc.ca to be added to this course.",
+    "Instructors": "Jesse Perla",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 307-001 - Honours Intermediate Macroeconomics II",
+      "ECON_V 307-L01 - Honours Intermediate Macroeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 307-L01 - Honours Intermediate Macroeconomics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/0",
+    "Course Section Definition Public Notes": "For Honours and BIE academic track students only.\n\nPlease register for both the lecture section ECON 307-001 and the discussion section ECON 307-L01. Note that L01 will not be held, but registration is necessary for technical purposes. There are no scheduled dates or times for L01, so it should not cause any conflicts. Please reach out to vse.undergrad@ubc.ca with any questions or concerns.\n\nPlease contact VSE UG office at vse.undergrad@ubc.ca to be added to this course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 307-001 - Honours Intermediate Macroeconomics II",
+      "ECON_V 307-L01 - Honours Intermediate Macroeconomics II"
+    ]
+  },
+  {
+    "Course Section": "ECON_V 309-001 - Intermediate Open Economy Macroeconomics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 68/80",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 3-Room 301 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Course Section Definition Public Notes": "This section is reserved exclusively for students in the Bachelor of International Economics Program.",
+    "Instructors": "Michal Szkup",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ECON_V 309-L01 - Intermediate Open Economy Macroeconomics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 37/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LASR-Floor 1-Room 105 | Tue | 4:00 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ECON_V 309-L02 - Intermediate Open Economy Macroeconomics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 31/40",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "IONA-Floor 6-Room 633 | Thu | 5:00 p.m. - 6:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "ECON_V 310-001 - Principles of Microeconomics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 151/300",
+    "Section Details": "HEBB-Floor 1-Room 100 | Mon Wed | 5:00 p.m. - 6:30 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Michael Vaney",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 310-001 - Principles of Microeconomics",
+      "ECON_V 310-L01 - Principles of Microeconomics",
+      "ECON_V 310-L02 - Principles of Microeconomics",
+      "ECON_V 310-L03 - Principles of Microeconomics",
+      "ECON_V 310-L04 - Principles of Microeconomics",
+      "ECON_V 310-L05 - Principles of Microeconomics",
+      "ECON_V 310-L06 - Principles of Microeconomics"
+    ]
+  }
+]

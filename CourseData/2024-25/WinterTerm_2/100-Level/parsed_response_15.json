@@ -4,351 +4,1047 @@
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 2-Room 200 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A1 - Integral Calculus with Applications",
+      "MATH_V 101-A11 - Integral Calculus with Applications",
+      "MATH_V 101-A12 - Integral Calculus with Applications",
+      "MATH_V 101-A13 - Integral Calculus with Applications",
+      "MATH_V 101-A14 - Integral Calculus with Applications",
+      "MATH_V 101-A15 - Integral Calculus with Applications",
+      "MATH_V 101-A16 - Integral Calculus with Applications",
+      "MATH_V 101-A17 - Integral Calculus with Applications",
+      "MATH_V 101-A18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A21 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A22 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A23 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A24 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B315 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A25 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ANSO-Floor 2-Room 207 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A26 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room B213 | Thu | 2:00 p.m. - 3:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A27 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/60",
+    "Section Details": "BUCH-Floor 2-Room B213 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A28 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A2 - Integral Calculus with Applications",
+      "MATH_V 101-A21 - Integral Calculus with Applications",
+      "MATH_V 101-A22 - Integral Calculus with Applications",
+      "MATH_V 101-A23 - Integral Calculus with Applications",
+      "MATH_V 101-A24 - Integral Calculus with Applications",
+      "MATH_V 101-A25 - Integral Calculus with Applications",
+      "MATH_V 101-A26 - Integral Calculus with Applications",
+      "MATH_V 101-A27 - Integral Calculus with Applications",
+      "MATH_V 101-A28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A31 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room A203 | Mon | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A32 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 58/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A33 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 4:00 p.m. - 5:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A34 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Wed | 8:00 a.m. - 9:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A35 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room B213 | Wed | 3:00 p.m. - 4:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A36 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B315 | Thu | 9:30 a.m. - 10:30 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A37 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A38 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A3 - Integral Calculus with Applications",
+      "MATH_V 101-A31 - Integral Calculus with Applications",
+      "MATH_V 101-A32 - Integral Calculus with Applications",
+      "MATH_V 101-A33 - Integral Calculus with Applications",
+      "MATH_V 101-A34 - Integral Calculus with Applications",
+      "MATH_V 101-A35 - Integral Calculus with Applications",
+      "MATH_V 101-A36 - Integral Calculus with Applications",
+      "MATH_V 101-A37 - Integral Calculus with Applications",
+      "MATH_V 101-A38 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A41 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Mon | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A42 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 2-Room B215 | Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A43 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/60",
+    "Section Details": "BUCH-Floor 3-Room B315 | Wed | 4:00 p.m. - 5:00 p.m. | 2025-01-08 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A44 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A45 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-A46 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 44/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2A4 - Integral Calculus with Applications",
+      "MATH_V 101-A41 - Integral Calculus with Applications",
+      "MATH_V 101-A42 - Integral Calculus with Applications",
+      "MATH_V 101-A43 - Integral Calculus with Applications",
+      "MATH_V 101-A44 - Integral Calculus with Applications",
+      "MATH_V 101-A45 - Integral Calculus with Applications",
+      "MATH_V 101-A46 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B11 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "FSC-Floor 1-Room 1221 | Mon | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B12 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 56/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Tue | 8:00 a.m. - 9:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B13 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 48/60",
+    "Section Details": "BUCH-Floor 3-Room B315 | Tue | 9:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B14 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 51/60",
+    "Section Details": "BRCS-Floor 2-Room 2070 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B15 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "BUCH-Floor 3-Room B313 | Tue | 1:00 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B16 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 35/60",
+    "Section Details": "BUCH-Floor 2-Room B213 | Thu | 8:00 a.m. - 9:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B17 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/60",
+    "Section Details": "BUCH-Floor 2-Room B215 | Thu | 9:00 a.m. - 10:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B18 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 52/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 10:00 a.m. - 11:00 a.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B1 - Integral Calculus with Applications",
+      "MATH_V 101-B11 - Integral Calculus with Applications",
+      "MATH_V 101-B12 - Integral Calculus with Applications",
+      "MATH_V 101-B13 - Integral Calculus with Applications",
+      "MATH_V 101-B14 - Integral Calculus with Applications",
+      "MATH_V 101-B15 - Integral Calculus with Applications",
+      "MATH_V 101-B16 - Integral Calculus with Applications",
+      "MATH_V 101-B17 - Integral Calculus with Applications",
+      "MATH_V 101-B18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B21 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Mon | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B22 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/60",
+    "Section Details": "FSC-Floor 1-Room 1003 | Thu | 11:00 a.m. - 12:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B23 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Thu | 12:00 p.m. - 1:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B24 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Thu | 1:00 p.m. - 2:00 p.m. | 2025-01-09 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B25 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B26 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "LSK-Floor 4-Room 460 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B27 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "BUCH-Floor 2-Room D217 | Mon | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B28 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "BUCH-Floor 2-Room B213 | Tue | 2:00 p.m. - 3:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B2 - Integral Calculus with Applications",
+      "MATH_V 101-B21 - Integral Calculus with Applications",
+      "MATH_V 101-B22 - Integral Calculus with Applications",
+      "MATH_V 101-B23 - Integral Calculus with Applications",
+      "MATH_V 101-B24 - Integral Calculus with Applications",
+      "MATH_V 101-B25 - Integral Calculus with Applications",
+      "MATH_V 101-B26 - Integral Calculus with Applications",
+      "MATH_V 101-B27 - Integral Calculus with Applications",
+      "MATH_V 101-B28 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B31 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 54/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Tue | 10:00 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B32 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 41/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "ORCH-Floor 4-Room 4074 | Mon | 2:00 p.m. - 3:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "This section is reserved for Vantage College students.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B33 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 3-Room B315 | Mon | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-10",
     "Course Section Definition Public Notes": "This section is for Vantage College students only.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B34 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B35 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 42/60",
+    "Section Details": "BUCH-Floor 2-Room B213 | Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-B36 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2B3 - Integral Calculus with Applications",
+      "MATH_V 101-B31 - Integral Calculus with Applications",
+      "MATH_V 101-B32 - Integral Calculus with Applications",
+      "MATH_V 101-B33 - Integral Calculus with Applications",
+      "MATH_V 101-B34 - Integral Calculus with Applications",
+      "MATH_V 101-B35 - Integral Calculus with Applications",
+      "MATH_V 101-B36 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-C11 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 49/60",
+    "Section Details": "BUCH-Floor 3-Room B313 | Mon | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-10",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C1 - Integral Calculus with Applications",
+      "MATH_V 101-C11 - Integral Calculus with Applications",
+      "MATH_V 101-C12 - Integral Calculus with Applications",
+      "MATH_V 101-C13 - Integral Calculus with Applications",
+      "MATH_V 101-C14 - Integral Calculus with Applications",
+      "MATH_V 101-C15 - Integral Calculus with Applications",
+      "MATH_V 101-C16 - Integral Calculus with Applications",
+      "MATH_V 101-C17 - Integral Calculus with Applications",
+      "MATH_V 101-C18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-C12 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Tue | 8:00 a.m. - 9:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C1 - Integral Calculus with Applications",
+      "MATH_V 101-C11 - Integral Calculus with Applications",
+      "MATH_V 101-C12 - Integral Calculus with Applications",
+      "MATH_V 101-C13 - Integral Calculus with Applications",
+      "MATH_V 101-C14 - Integral Calculus with Applications",
+      "MATH_V 101-C15 - Integral Calculus with Applications",
+      "MATH_V 101-C16 - Integral Calculus with Applications",
+      "MATH_V 101-C17 - Integral Calculus with Applications",
+      "MATH_V 101-C18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-C13 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 29/60",
+    "Section Details": "GEOG-Floor 2-Room 212 | Tue | 9:00 a.m. - 10:00 a.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C1 - Integral Calculus with Applications",
+      "MATH_V 101-C11 - Integral Calculus with Applications",
+      "MATH_V 101-C12 - Integral Calculus with Applications",
+      "MATH_V 101-C13 - Integral Calculus with Applications",
+      "MATH_V 101-C14 - Integral Calculus with Applications",
+      "MATH_V 101-C15 - Integral Calculus with Applications",
+      "MATH_V 101-C16 - Integral Calculus with Applications",
+      "MATH_V 101-C17 - Integral Calculus with Applications",
+      "MATH_V 101-C18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-C14 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1003 | Tue | 11:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C1 - Integral Calculus with Applications",
+      "MATH_V 101-C11 - Integral Calculus with Applications",
+      "MATH_V 101-C12 - Integral Calculus with Applications",
+      "MATH_V 101-C13 - Integral Calculus with Applications",
+      "MATH_V 101-C14 - Integral Calculus with Applications",
+      "MATH_V 101-C15 - Integral Calculus with Applications",
+      "MATH_V 101-C16 - Integral Calculus with Applications",
+      "MATH_V 101-C17 - Integral Calculus with Applications",
+      "MATH_V 101-C18 - Integral Calculus with Applications"
+    ]
   },
   {
     "Course Section": "MATH_V 101-C15 - Integral Calculus with Applications",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 17/60",
+    "Section Details": "FSC-Floor 1-Room 1003 | Tue | 12:00 p.m. - 1:00 p.m. | 2025-01-07 - 2025-02-11",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "MATH_V 101-2C1 - Integral Calculus with Applications",
+      "MATH_V 101-C11 - Integral Calculus with Applications",
+      "MATH_V 101-C12 - Integral Calculus with Applications",
+      "MATH_V 101-C13 - Integral Calculus with Applications",
+      "MATH_V 101-C14 - Integral Calculus with Applications",
+      "MATH_V 101-C15 - Integral Calculus with Applications",
+      "MATH_V 101-C16 - Integral Calculus with Applications",
+      "MATH_V 101-C17 - Integral Calculus with Applications",
+      "MATH_V 101-C18 - Integral Calculus with Applications"
+    ]
   }
 ]

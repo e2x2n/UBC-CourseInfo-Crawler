@@ -123,9 +123,9 @@
               "enabled": false,
               "label": "Course Level :: 400 Level",
               "propertyName": "nyw:Facet_Value",
-              "selected": true,
               "count": 1242,
-              "selectedState": "full"
+              "selectedState": "full",
+              "selected": true
             },
             {
               "widget": "facetValue",
@@ -531,26 +531,6 @@
             {
               "widget": "facetValue",
               "ecid": "56$510931",
-              "iid": "13341$301",
-              "enabled": false,
-              "label": "Psychology (Vancouver)",
-              "propertyName": "nyw:Facet_Value",
-              "count": 14,
-              "selectedState": "none"
-            },
-            {
-              "widget": "facetValue",
-              "ecid": "56$510931",
-              "iid": "13341$291",
-              "enabled": false,
-              "label": "Physics (Vancouver)",
-              "propertyName": "nyw:Facet_Value",
-              "count": 14,
-              "selectedState": "none"
-            },
-            {
-              "widget": "facetValue",
-              "ecid": "56$510931",
               "iid": "13341$181",
               "enabled": false,
               "label": "Creative Writing (Vancouver)",
@@ -574,6 +554,26 @@
               "iid": "13341$125",
               "enabled": false,
               "label": "Biomedical Engineering (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "count": 14,
+              "selectedState": "none"
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$301",
+              "enabled": false,
+              "label": "Psychology (Vancouver)",
+              "propertyName": "nyw:Facet_Value",
+              "count": 14,
+              "selectedState": "none"
+            },
+            {
+              "widget": "facetValue",
+              "ecid": "56$510931",
+              "iid": "13341$291",
+              "enabled": false,
+              "label": "Physics (Vancouver)",
               "propertyName": "nyw:Facet_Value",
               "count": 14,
               "selectedState": "none"
@@ -1097,12 +1097,12 @@
             "values": [
               {
                 "label": "Manage My Saved Searches",
-                "uri": "/ubc/button/c41/162/594",
+                "uri": "/ubc/button/c23/162/594",
                 "taskId": "2997$13093",
                 "httpMethod": "POST"
               }
             ],
-            "uri": "/ubc/button/c41/162/594",
+            "uri": "/ubc/button/c23/162/594",
             "taskId": "2997$13093",
             "httpMethod": "POST",
             "actionId": "edit",
@@ -10615,7 +10615,7 @@
             "doNotWrapInTab": true
           }
         ],
-        "chunkingUri": "/ubc/chunkablelist/c41/1839.156",
+        "chunkingUri": "/ubc/chunkablelist/c23/1839.156",
         "totalChunkingItemsCount": 1242,
         "propertyName": "wd:Report_Row",
         "doNotWrapInTab": true
@@ -10665,58 +10665,58 @@
     ],
     "endPoints": [
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/search",
+        "uri": "/ubc/faceted-search2/c23/fs1/search",
         "type": "Search"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/replaceandsearch",
+        "uri": "/ubc/faceted-search2/c23/fs1/replaceandsearch",
         "type": "Replace_And_Search"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/save",
+        "uri": "/ubc/faceted-search2/c23/fs1/save",
         "type": "Save",
         "requestParameterNames": [
           "name"
         ]
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs0/backward",
+        "uri": "/ubc/faceted-search2/c23/fs0/backward",
         "type": "Backward"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/recover-current-state",
+        "uri": "/ubc/faceted-search2/c23/fs1/recover-current-state",
         "type": "Recover_Current_State"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/replace",
+        "uri": "/ubc/faceted-search2/c23/fs1/replace",
         "type": "Replace"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/configure/add",
+        "uri": "/ubc/faceted-search2/c23/fs1/configure/add",
         "type": "Configure_Add"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/configure/expand",
+        "uri": "/ubc/faceted-search2/c23/fs1/configure/expand",
         "type": "Configure_Expand"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/pagination",
+        "uri": "/ubc/faceted-search2/c23/fs1/pagination",
         "type": "Pagination"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/reset",
+        "uri": "/ubc/faceted-search2/c23/fs1/reset",
         "type": "Reset"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/prompt",
+        "uri": "/ubc/faceted-search2/c23/fs1/prompt",
         "type": "Prompt"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/expand-facet-value",
+        "uri": "/ubc/faceted-search2/c23/fs1/expand-facet-value",
         "type": "Expand_Facet_Value"
       },
       {
-        "uri": "/ubc/faceted-search2/c41/fs1/searchCriteria",
+        "uri": "/ubc/faceted-search2/c23/fs1/searchCriteria",
         "type": "Search_Criteria"
       }
     ],
@@ -10724,10 +10724,10 @@
   },
   "brandingData": {
     "banner": {
-      "uri": "/ubc/attachment/17214$16/REh6RUF5dmhUaHZoVzNaZm83L3N6d3N5RW15WjE2aDkwS1dnWDlxTW4wN0tlT2M3Rm5hcmFKSFJTVHhHd2JmakphUDF1RG9NNzFsbTVBQkljekI3L2grWDFXV052UjBLbE1xTjRTVjdFQllWVEZNODY2ZnpaQklHMzNxNjE5TTNBbW0xTFJRQlVVN0dBS1kwdWpTZEpwaVc5YnN1QThFM3pqWi92dzl5eEJRVUp1NUM0OHVSaHU0ck1wdjkwVmwxTktDVHZDVkdUN1dCMXRhcHh6L1hYdWxSck1yWUk4U2ExRGtieEloMXlWM0d3QjB0c0dTSWtmZ2cyMGM4TC95OW9aTnp2R01KWGxBbkdHZmZqeWowWko2NE9LUzNjbU4rN01OWG1EcDlNYlFUMThtVlg5MmNOaXdGd2hETldLYU41dFdVMlE4NFVCZ0lRNDlweDVKdlZBPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzIzOTYzNTAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
+      "uri": "/ubc/attachment/17214$16/UytpU0Z0Z0xkY3RJQndMU0ZmL1MwT0ZLRkVha1U1R05aTFVFTUdBZjR1UmlXQWE1SDY0VVdxRXhhZGdIY2lBaCtQRzNFMzJVdWp4Vk1ML2hKcTdtVE5xa2xGQWNsSExzWm5nNXhUbzVuS09BTU5NVXR4VXNIZnFGeFRuQ3RJbnVBYTJ5dkpxWDFsODYvUm5USC94cXN1RXdrdkFsR2lScmpvV3M4azR5ZUw4Z0l4aUpYUi9FVlVQMHh5QW81NGlvb0FGalEzTnRTNGxTQlNJRjN6b05Zb0U4MnhqcFNidXpibWN5NFhTQjkweDQ0NkZaS1RwVmZiK202UVhJOVc0QnlwZEVlMm43Q1lwcEtGSThUa0Q5NTQva0w1c09TUW9US2NCbkJkbXplcmhZdzJaNEJRM0Z5QXNkSVIraDRnN1FuUmxrd1ZQdXh0QkdMZms4dXhHbTZRPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzI0MDIyMDAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
     },
     "logo": {
-      "uri": "/ubc/attachment/17213$17/VTRkRSs2aHN0WmErS3czSjJFU2dwQ3dsNWcyWjFTUHBDNGNSK29nQXJ4ZDNvTDFYUDljTTJGMTk5d3NkbG15MXlicW50NTY2dE9veDNId3lsd2V0MDNncXg0a0MwdVpIOVM3Y09rRjlqaWR0VUdjN2wvcVVDUmZsdGdDVkFIVmpZRTlERjhyUU5ZRndLa3UzejNicDUyV0l3OWxaa1J5YWJHN1c0VTVPRnNKWVNXSjZMNFJYUE9PYitVc3hjK280N2l6ZlIvMnJKOFhBUjBlcFppcnVxKzNoaVh1NVhRRjh2bGt6VkoxYmtBeklSK2xVKzhkeWJyMzZYSzZObGFJQ2lLeGd1ODFJa3lkbDBlQlhOeis0RjZVN1BpZ1hjWTJqRHEwcGtoaFE4MDZ3dlI4UHgwUG5od2U1eHBIWVhVMFY2Z1F0TllvRjIvK0c4SXNudnBUQ1JRPT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzIzOTYzNTAwMDAwPz9DcmVzdF9XRC5wbmc"
+      "uri": "/ubc/attachment/17213$17/aW85a2lGei94SlZpcW9WMC9vT0N4WVZ4bEQ2OUpZVjZRcndvWjZXUlR0a2xadzNmZm5sT0trTndYUEFYOFYxVmNHeE9oOEY2alhrWU05MURXVTVYV3RyYU1laGVISkRRMWpVc1VPOThCQW10MmR1aHR3RzVwZFhPUzZxR25HalM4OHMzNDVBWGIvRHJ6TGkzK0FZdmtoQ2s3MTlJd3UxNFBMQlp3bGh0alhxOC9BYnJuZUpkZkJOVE1jN01VQWVjQ2xoTnNqS1VVRk9iR1Byd0FHb05CTjNsTjB5elNYOHN6bXZKTlBmbGJiME5DUmNCOEFHMFZ6V053ZElXb2ViWUk0N1h4ZXZJL0gySWgwQ0pFRlhXbys3aU9sZ0lNQ1MyeEFoemNsNlROcDFDZUJXT2lrbVo3NHJsUTBQeFA5VWQzTzJxekREU3Z0ZjIvQnVOVmo0Z2V3PT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzI0MDIyMDAwMDAwPz9DcmVzdF9XRC5wbmc"
     },
     "canvasColor": {
       "widget": "color",
@@ -10748,9 +10748,9 @@
     ],
     "defaultBrandingColor": false
   },
-  "clearPageContextUri": "/ubc/clear-page-context/c41",
+  "clearPageContextUri": "/ubc/clear-page-context/c23",
   "commandLinkTemplate": "/ubc/task/[IID]",
-  "currentTime": 1723962571927,
+  "currentTime": 1724019108542,
   "currentUser": {
     "widget": "currentUser",
     "iid": "10089$80824",
@@ -10768,7 +10768,7 @@
       "uri": "/ubc/inst/1$37/10089$80824",
       "v": true
     },
-    "userImageUrl": "/ubc/attachment/1055$109291/QkZFcFkzS0haRGhidlIzYkRZdVVjZDdNbmpGVmtvNzNHRlJYWDNzcE83VlhIMDNlVkl0UHBMZmVKVXhYNkFqVEkyS0FyeUNHNHpnVytQL3VwVi90LzFteDVhRTlkR2lZTXVKWGdlYmIyZzA5cCtWTERMOEV3MDdoOHQrMm15MXhHS1V1NEFlekdkT0g2MWJKTXN6UHNMQWtqcG9PZlVPemR6eXE4SFM2YnBxMUQwRnBNSndDclRzeWZlbDFUZUpWYVVBL0NFSmxVaVZLamEydytLdVp4MytFbjhBUlAyZTdHZWlvTlF6WC92RzF3WllUZGJJNVh3MFVZdTRMMHhmUHl6SlgzVXhyUElBcGlHcFZiNGhjNGh3NjlXRFIzakZPOERaNWl6YU5PZGI3bExPa2kvejRYTWtNeHA2SGVrT1dGMTJyQ2dYZHhpdTdKTm9xMSs2TDFnPT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzIzOTYzNTAwMDAwPz8"
+    "userImageUrl": "/ubc/attachment/1055$109291/U3pJSWZwQkkyY0dtYXVGNDVVbTAwaHdLRExLYWxldGtpVTYyVjlaOVh2L1VwVHhRSjZ5aTBsUzZzOXdzeWJHVFFiM2ZscnkvNmxPdnRvM3NoVnMzbUVydmZ0Q1RZOUhWUUhuSmFGbHN4ZEVRdnNGbExURDMvNUJZa0cwTmJkVFR5M2VRMFZyMVp2U3hEblpYZlpDUWNiN3VISmptTjdOc0NLRXkyWG01WVBuWERtaWVIbFhzeHAvRHRoaFRmK1hQVnh0TkdNNS9nZXBMcHphNDRROGNyYUM3L2VTdmEvQXNsMklnUVd6VUI1QXRRdEI1RmZiOTNub2U2S2I4L2Zha1c2K3dxdWx0VFhuWlpUMktSSm9QMmlBRGwzODNidWtXRnNNNndKWTk4bWR2WnV0Y3R1MzNNSVhkY3NueWVEcm02UWdmSUtyLzMwSjZKUHR6TXJ1SjJ3PT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzI0MDIyMDAwMDAwPz8"
   },
   "enableApnsNotifications": true,
   "enableContentDeliveryNetwork": true,
@@ -10827,11 +10827,11 @@
   "processingUser": "8b6752fe9c214d0782f0c9f56187cd82",
   "promptUriTemplate": "/ubc/prompt/[CONTEXT_ID]/[PROMPT_IID]",
   "enabled": false,
-  "repeatUri": "/ubc/faceted-search2/c41/fs1/backward",
-  "requestUri": "/ubc/faceted-search2/c41/fs1/pagination/500.htmld",
+  "repeatUri": "/ubc/faceted-search2/c23/fs1/backward",
+  "requestUri": "/ubc/faceted-search2/c23/fs1/pagination/500.htmld",
   "searchScopesUri": "/ubc/search-scopes.xml",
   "searchUri": "/ubc/search.htmld",
-  "sessionSecureToken": "5e6727df-a4f3-4625-9afa-de10d708f335",
+  "sessionSecureToken": "6b035298-d9a6-4084-86e0-ecbfef9a73b5",
   "sessionTimeoutMinutes": 60,
   "sessionUserClickable": true,
   "systemStatusMessage": "Your system will be undergoing maintenance starting on Saturday, August 24, 2024 at 12:00 AM Eastern Time (Toronto) (GMT-4) until Saturday, August 24, 2024 at 3:00 AM Eastern Time (Toronto) (GMT-4). During that time, your users can continue to access the system.",
@@ -10893,7 +10893,7 @@
   "relatedTasksLinkTemplate": "/ubc/inst/[IID]/rel-tasks",
   "taskLinkTemplate": "/ubc/task/[Task_IID]",
   "stepUpSecondsRemaining": 0,
-  "pageContextId": "c41",
+  "pageContextId": "c23",
   "enableModalEnhancements": true,
   "localeCode": "en_CA",
   "viewPage": true,

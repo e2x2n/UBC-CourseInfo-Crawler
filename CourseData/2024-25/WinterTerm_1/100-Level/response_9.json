@@ -1067,12 +1067,12 @@
             "values": [
               {
                 "label": "Manage My Saved Searches",
-                "uri": "/ubc/button/c27/162/585",
+                "uri": "/ubc/button/c7/162/585",
                 "taskId": "2997$13093",
                 "httpMethod": "POST"
               }
             ],
-            "uri": "/ubc/button/c27/162/585",
+            "uri": "/ubc/button/c7/162/585",
             "taskId": "2997$13093",
             "httpMethod": "POST",
             "actionId": "edit",
@@ -2831,7 +2831,7 @@
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 21/32",
+                "value": "Enrolled/Capacity: 20/32",
                 "propertyName": "wd:Text"
               }
             ],
@@ -4247,7 +4247,7 @@
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 25/32",
+                "value": "Enrolled/Capacity: 26/32",
                 "propertyName": "wd:Text"
               }
             ],
@@ -4380,13 +4380,13 @@
                 "instances": [
                   {
                     "widget": "moniker",
-                    "instanceId": "13654$3",
-                    "text": "Closed",
+                    "instanceId": "13654$2",
+                    "text": "Open",
                     "rt": true
                   }
                 ],
-                "selfUriTemplate": "/ubc/inst/15$356486/13654$3",
-                "relatedTasksUriTemplate": "/ubc/inst/13654$3/rel-tasks",
+                "selfUriTemplate": "/ubc/inst/15$356486/13654$2",
+                "relatedTasksUriTemplate": "/ubc/inst/13654$2/rel-tasks",
                 "propertyName": "wd:Activity_Offering_Status__Singular_--IS",
                 "singular": true
               },
@@ -4424,7 +4424,7 @@
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 32/32",
+                "value": "Enrolled/Capacity: 31/32",
                 "propertyName": "wd:Text"
               }
             ],
@@ -4601,7 +4601,7 @@
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 9/32",
+                "value": "Enrolled/Capacity: 10/32",
                 "propertyName": "wd:Text"
               }
             ],
@@ -5486,7 +5486,7 @@
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - CT - Enrolled/Capacity",
-                "value": "Enrolled/Capacity: 25/32",
+                "value": "Enrolled/Capacity: 26/32",
                 "propertyName": "wd:Text"
               }
             ],
@@ -6087,7 +6087,7 @@
                 "iid": "4$2750",
                 "enabled": false,
                 "label": "zCF - EE - Waitlisted / Waitlist Capacity",
-                "value": "Waitlisted/Waitlist Capacity: 9/999",
+                "value": "Waitlisted/Waitlist Capacity: 10/999",
                 "propertyName": "wd:Text"
               }
             ],
@@ -10086,7 +10086,7 @@
             "doNotWrapInTab": true
           }
         ],
-        "chunkingUri": "/ubc/chunkablelist/c27/2045.156",
+        "chunkingUri": "/ubc/chunkablelist/c7/2045.156",
         "totalChunkingItemsCount": 1457,
         "propertyName": "wd:Report_Row",
         "doNotWrapInTab": true
@@ -10136,58 +10136,58 @@
     ],
     "endPoints": [
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/search",
+        "uri": "/ubc/faceted-search2/c7/fs1/search",
         "type": "Search"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/replaceandsearch",
+        "uri": "/ubc/faceted-search2/c7/fs1/replaceandsearch",
         "type": "Replace_And_Search"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/save",
+        "uri": "/ubc/faceted-search2/c7/fs1/save",
         "type": "Save",
         "requestParameterNames": [
           "name"
         ]
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs0/backward",
+        "uri": "/ubc/faceted-search2/c7/fs0/backward",
         "type": "Backward"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/recover-current-state",
+        "uri": "/ubc/faceted-search2/c7/fs1/recover-current-state",
         "type": "Recover_Current_State"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/replace",
+        "uri": "/ubc/faceted-search2/c7/fs1/replace",
         "type": "Replace"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/configure/add",
+        "uri": "/ubc/faceted-search2/c7/fs1/configure/add",
         "type": "Configure_Add"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/configure/expand",
+        "uri": "/ubc/faceted-search2/c7/fs1/configure/expand",
         "type": "Configure_Expand"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/pagination",
+        "uri": "/ubc/faceted-search2/c7/fs1/pagination",
         "type": "Pagination"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/reset",
+        "uri": "/ubc/faceted-search2/c7/fs1/reset",
         "type": "Reset"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/prompt",
+        "uri": "/ubc/faceted-search2/c7/fs1/prompt",
         "type": "Prompt"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/expand-facet-value",
+        "uri": "/ubc/faceted-search2/c7/fs1/expand-facet-value",
         "type": "Expand_Facet_Value"
       },
       {
-        "uri": "/ubc/faceted-search2/c27/fs1/searchCriteria",
+        "uri": "/ubc/faceted-search2/c7/fs1/searchCriteria",
         "type": "Search_Criteria"
       }
     ],
@@ -10195,10 +10195,10 @@
   },
   "brandingData": {
     "banner": {
-      "uri": "/ubc/attachment/17214$16/REh6RUF5dmhUaHZoVzNaZm83L3N6d3N5RW15WjE2aDkwS1dnWDlxTW4wN0tlT2M3Rm5hcmFKSFJTVHhHd2JmakphUDF1RG9NNzFsbTVBQkljekI3L2grWDFXV052UjBLbE1xTjRTVjdFQllWVEZNODY2ZnpaQklHMzNxNjE5TTNBbW0xTFJRQlVVN0dBS1kwdWpTZEpwaVc5YnN1QThFM3pqWi92dzl5eEJRVUp1NUM0OHVSaHU0ck1wdjkwVmwxTktDVHZDVkdUN1dCMXRhcHh6L1hYdWxSck1yWUk4U2ExRGtieEloMXlWM0d3QjB0c0dTSWtmZ2cyMGM4TC95OW9aTnp2R01KWGxBbkdHZmZqeWowWko2NE9LUzNjbU4rN01OWG1EcDlNYlFUMThtVlg5MmNOaXdGd2hETldLYU41dFdVMlE4NFVCZ0lRNDlweDVKdlZBPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzIzOTYzNTAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
+      "uri": "/ubc/attachment/17214$16/bTdjQ09CSklMU083cXkzZElGVktLdnR1NDBhZjl0Y3JvZVhsT2s3SW5ubk5idjE3ZmNLVmZYUTQvTXpJN1ZuYjVSY1M1QXRONHhjc3pMNS9aeWh0UEY0ZXZ6NVNNZkZkRDBvWjJBcEFNbDF6K2tLWnNlc0ROWlZEbll1OGZ4Mm5KdFU4WlFnTXJYY2pQc2l2bmNrbXNPUjlFVGR2bWZIQnRsR01EcTVUN1BHTmVsYnhFckNJVitTSkFpV0lxcEtSWVpuOUJocnZuaW5Bald1VFhZUDZQOGd2Y0RqaERYVmNRQzhZM2N3K1FTeGtnQmlac3lhdVZncS9wb2VqdXlYMU5sdXNKdGlzR2lsRktpbm9naWdXdnJxbkNQdFpoRmNJU3Y2WkpBb0dkRGpzcjBNT3ordlc4K1hJOHZ5MGJ4Q1VFdGRWTWJJREtVMTJma1NBL3AxSkNRPT0_b21zLWF0dGFjaG1lbnRzLzE3NGY0MzJhLTU2NmQtNGMzMy0yYjQyLTI1MTMwNzBiNDkxND8xNzI0MDIzODAwMDAwPz9VQkNfV29ya2RheV9Ib21lcGFnZV9WYW5jb3V2ZXItMTQ0MHgzNjYuanBn"
     },
     "logo": {
-      "uri": "/ubc/attachment/17213$17/VTRkRSs2aHN0WmErS3czSjJFU2dwQ3dsNWcyWjFTUHBDNGNSK29nQXJ4ZDNvTDFYUDljTTJGMTk5d3NkbG15MXlicW50NTY2dE9veDNId3lsd2V0MDNncXg0a0MwdVpIOVM3Y09rRjlqaWR0VUdjN2wvcVVDUmZsdGdDVkFIVmpZRTlERjhyUU5ZRndLa3UzejNicDUyV0l3OWxaa1J5YWJHN1c0VTVPRnNKWVNXSjZMNFJYUE9PYitVc3hjK280N2l6ZlIvMnJKOFhBUjBlcFppcnVxKzNoaVh1NVhRRjh2bGt6VkoxYmtBeklSK2xVKzhkeWJyMzZYSzZObGFJQ2lLeGd1ODFJa3lkbDBlQlhOeis0RjZVN1BpZ1hjWTJqRHEwcGtoaFE4MDZ3dlI4UHgwUG5od2U1eHBIWVhVMFY2Z1F0TllvRjIvK0c4SXNudnBUQ1JRPT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzIzOTYzNTAwMDAwPz9DcmVzdF9XRC5wbmc"
+      "uri": "/ubc/attachment/17213$17/YU5CM01JZ0ZjTGNacXF1VE9EZTk0eUwwczNzZk1FTEYzVmY0cEg3TUFNY2NiOTZ3alNhMm95blBoVW9RUlpBNlFWdkQ0ckZtYS9GeGZMZmpEaXBJejF5dDViZWwwOTVGbmVybHNQY3VlaDl0YmExanZRcDdkY0pYNFNqWldPZEhTV1pmQXZYUWtGZnZSMHZQMzFUMUt3R3pMYjdRSkJQQU1YSUtwN3lNRVVJOFlhSmdIa3FWdDd4VjJVaHVscUs0UFcxa2ZxRjFmRUJpeG11cUpCYzdjOWlaS2hRRTRtSThwY2Y4ajZhTmtTbFQ5UThyeHFDZ2cxV2wxb1pPaDdkNGJzZ2hKWUNldjNuSzJjNkZDeVBBRkR1eHRVcXN0QS9Ec3dHYVR2ZGtFN1c5TGxrdTZIWVQ1VHltb2pFMEhoL3BRdS9GN0NQcEp1dkM4a3RkbG9PTGF3PT0_b21zLWF0dGFjaG1lbnRzLzMzN2I2NjU4LTY4NzgtNDg2ZS0xYjQ5LTQzMjI0MzQwNjQ1Mj8xNzI0MDIzODAwMDAwPz9DcmVzdF9XRC5wbmc"
     },
     "canvasColor": {
       "widget": "color",
@@ -10219,9 +10219,9 @@
     ],
     "defaultBrandingColor": false
   },
-  "clearPageContextUri": "/ubc/clear-page-context/c27",
+  "clearPageContextUri": "/ubc/clear-page-context/c7",
   "commandLinkTemplate": "/ubc/task/[IID]",
-  "currentTime": 1723962295960,
+  "currentTime": 1724020110001,
   "currentUser": {
     "widget": "currentUser",
     "iid": "10089$80824",
@@ -10239,7 +10239,7 @@
       "uri": "/ubc/inst/1$37/10089$80824",
       "v": true
     },
-    "userImageUrl": "/ubc/attachment/1055$109291/QkZFcFkzS0haRGhidlIzYkRZdVVjZDdNbmpGVmtvNzNHRlJYWDNzcE83VlhIMDNlVkl0UHBMZmVKVXhYNkFqVEkyS0FyeUNHNHpnVytQL3VwVi90LzFteDVhRTlkR2lZTXVKWGdlYmIyZzA5cCtWTERMOEV3MDdoOHQrMm15MXhHS1V1NEFlekdkT0g2MWJKTXN6UHNMQWtqcG9PZlVPemR6eXE4SFM2YnBxMUQwRnBNSndDclRzeWZlbDFUZUpWYVVBL0NFSmxVaVZLamEydytLdVp4MytFbjhBUlAyZTdHZWlvTlF6WC92RzF3WllUZGJJNVh3MFVZdTRMMHhmUHl6SlgzVXhyUElBcGlHcFZiNGhjNGh3NjlXRFIzakZPOERaNWl6YU5PZGI3bExPa2kvejRYTWtNeHA2SGVrT1dGMTJyQ2dYZHhpdTdKTm9xMSs2TDFnPT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzIzOTYzNTAwMDAwPz8"
+    "userImageUrl": "/ubc/attachment/1055$109291/b1o0SG1VV2pLMGtjT2hMTFA0VFhmdzNOZTk4YVgwMUFMTFdtU0ZRUjB1azcxN1FJWm9JcTlEaGdvTVlrNkQ3STJJV3cyWmZIbFJ6dFVzWUdEOEhYZVk4aEhiQ3VSdVFGSWdNZ0o2cG8yZHdCdTFqS3BjM1dUQU9maTE5dHNqLzJzTzdqM1loK0xSVVkvbWJ0RHBFeEZ2eFZGekJzTDRiUWdnL2UzajJOQlFGM3JpNFNNZnFBTUFxa05iV0RHRmU3UkV1dmZweUNZWk5nTE56R2JpTmVCNHlnWkxaL0ZSdklyK3FTSWNmK2Flc1hKNGFEYlBTbjZsbWtWalM4Vms2Mk1tdEhnRTUxMWlsY0h0Y0RlcFhteDJGOTJKcUVhZGp2MGdtL1FmSHNiOFBYekoxQTZINDlxdlIwUU9zK0F6MEJLRVVXYjRqZ2lndklMdEtJUUQ2bTl3PT0_b21zLWF0dGFjaG1lbnRzLzJlMWNiYmQ5LWY1MWMtNGY4ZS1iN2MxLTE0NTg1YWI1NjBiOD8xNzI0MDIzODAwMDAwPz8"
   },
   "enableApnsNotifications": true,
   "enableContentDeliveryNetwork": true,
@@ -10298,11 +10298,11 @@
   "processingUser": "8b6752fe9c214d0782f0c9f56187cd82",
   "promptUriTemplate": "/ubc/prompt/[CONTEXT_ID]/[PROMPT_IID]",
   "enabled": false,
-  "repeatUri": "/ubc/faceted-search2/c27/fs1/backward",
-  "requestUri": "/ubc/faceted-search2/c27/fs1/pagination/450.htmld",
+  "repeatUri": "/ubc/faceted-search2/c7/fs1/backward",
+  "requestUri": "/ubc/faceted-search2/c7/fs1/pagination/450.htmld",
   "searchScopesUri": "/ubc/search-scopes.xml",
   "searchUri": "/ubc/search.htmld",
-  "sessionSecureToken": "5e6727df-a4f3-4625-9afa-de10d708f335",
+  "sessionSecureToken": "c8b26b34-97e3-413f-ad0f-bd4310b7817e",
   "sessionTimeoutMinutes": 60,
   "sessionUserClickable": true,
   "systemStatusMessage": "Your system will be undergoing maintenance starting on Saturday, August 24, 2024 at 12:00 AM Eastern Time (Toronto) (GMT-4) until Saturday, August 24, 2024 at 3:00 AM Eastern Time (Toronto) (GMT-4). During that time, your users can continue to access the system.",
@@ -10364,7 +10364,7 @@
   "relatedTasksLinkTemplate": "/ubc/inst/[IID]/rel-tasks",
   "taskLinkTemplate": "/ubc/task/[Task_IID]",
   "stepUpSecondsRemaining": 0,
-  "pageContextId": "c27",
+  "pageContextId": "c7",
   "enableModalEnhancements": true,
   "localeCode": "en_CA",
   "viewPage": true,

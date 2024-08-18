@@ -4,370 +4,671 @@
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MUSC-Floor 3-Room 338 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Restricted to B.Mus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Laurel Parsons",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 106-230 - Aural Skills II",
     "Instructional Format": "Studio",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 10/17",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/5",
+    "Section Details": "MUSC-Floor 3-Room 301 | Mon Wed Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "Restricted to B.Mus.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Laurel Parsons",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-001 - Introduction to Music Technology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 57/62",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 49/50",
+    "Section Details": "MUSC-Floor 4-Room 462 | Mon Wed | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Practical and theoretical training in technologies that support current artistic and academic practice, such as MIDI, podcasts/videocasts, websites, social media, and software for score notation, music education, and basic audio/videoediting.Please Note: This course is a prerequisite for the Minor in Applied Music Technology. Select Music 119 Lecture + one Lab.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-002 - Introduction to Music Technology",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 59/63",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 49/50",
+    "Section Details": "MUSC-Floor 4-Room 462 | Mon Wed | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Practical and theoretical training in technologies that support current artistic and academic practice, such as MIDI, podcasts/videocasts, websites, social media, and software for score notation, music education, and basic audio/videoediting.Please Note: This course is a prerequisite for the Minor in Applied Music Technology. Select Music 119 Lecture + one Lab.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-L01 - Introduction to Music Technology",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 4-Room 475 | Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-L02 - Introduction to Music Technology",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 23/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 4-Room 475 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-L03 - Introduction to Music Technology",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 4-Room 475 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-L04 - Introduction to Music Technology",
     "Instructional Format": "Discussion",
-    "Section Status": "Closed",
+    "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 4-Room 475 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 119-L05 - Introduction to Music Technology",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "MUSC-Floor 4-Room 475 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "MUSC_V 121-001 - History of Music II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 63/90",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/20",
+    "Section Details": "MUSC-Floor 2-Room 201 | Tue Thu | 9:30 a.m. - 11:00 a.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NRES_V 103-201 - Pathways in Natural Resources",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 147/200",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1005 | Fri | 4:00 p.m. - 5:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Patrick Culbert",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NRES_V 150-201 - Scholarly Writing and Argumentation in Natural Resources",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 32/30",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1001 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Lindsay Cuff",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NRES_V 150-202 - Scholarly Writing and Argumentation in Natural Resources",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "FSC-Floor 1-Room 1002 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Carellin Brooks",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NRES_V 150-203 - Scholarly Writing and Argumentation in Natural Resources",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 5/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 2/5",
+    "Section Details": "FSC-Floor 1-Room 1002 | Mon Wed Fri | 3:00 p.m. - 4:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Carellin Brooks",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NRES_V 150-204 - Scholarly Writing and Argumentation in Natural Resources",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 5/5",
+    "Section Details": "SWNG-Floor 1-Room 110 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Duff Roberts",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NRES_V 150-205 - Scholarly Writing and Argumentation in Natural Resources",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 6/0",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 4/20",
+    "Section Details": "FSC-Floor 1-Room 1402 | Mon Wed Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This section is restricted to students in the Bachelor of Indigenous Land Stewardship.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Lindsay Cuff",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NSCI_V 140-201 - The Learning Brain",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/40",
+    "Section Details": "CHBE-Floor 1-Room 101 | Tue Thu | 12:30 p.m. - 2:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-002 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "GEOG-Floor 1-Room 101 | Mon Wed | 9:30 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Angela Russolillo",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-201 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "CEME-Floor 1-Room 1204 | Mon Wed | 4:30 p.m. - 6:00 p.m. | 2025-01-06 - 2025-02-12",
+    "Instructors": "Ranjit Gill",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-202 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "CHEM-Floor B1-Room C124 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-203 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
-    "Section Status": "Waitlist",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "MCLD-Floor 3-Room 3002 | Wed Fri | 9:30 a.m. - 11:00 a.m. | 2025-01-08 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-204 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "SPPH-Floor B1-Room B151 | Tue Thu | 4:30 p.m. - 6:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-205 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "SPPH-Floor B1-Room B151 | Wed Fri | 2:00 p.m. - 3:30 p.m. | 2025-01-08 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-206 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Ranjit Kaur Dhari",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-207 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 60/60",
+    "Section Details": "Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "NURS_V 180-208 - Stress and Strategies to Promote Well Being",
     "Instructional Format": "Lecture",
-    "Section Status": "Closed",
+    "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 60/60",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 59/60",
+    "Section Details": "Wed Fri | 4:30 p.m. - 6:00 p.m. | 2025-01-08 - 2025-02-14",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PERS_V 101-021 - Basic Persian II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 16/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "UCEN-Floor 1-Room 101 | Mon Wed | 2:00 p.m. - 3:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Delivery Mode -This is a synchronous multi-access course. Students are expected to meet on the days and times listed, either in-person or online. All courses labelled ‘multi-access’ offer students the choice of completing the course online, in-person, or using a mix of both. In-person attendance is NOT required, but the option to attend in-person is available. Lectures may be streamed from a classroom and/or uploaded online after class.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Hessam Dehghani",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PERS_V 104-021 - Persian Reading and Writing for Persian-Speaking Students",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 24/30",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/20",
+    "Section Details": "SWNG-Floor 4-Room 407 | Mon Wed | 11:00 a.m. - 12:30 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "Delivery Mode -This is a synchronous multi-access course. Students are expected to meet on the days and times listed, either in-person or online. All courses labelled ‘multi-access’ offer students the choice of completing the course online, in-person, or using a mix of both. In-person attendance is NOT required, but the option to attend in-person is available. Lectures may be streamed from a classroom and/or uploaded online after class.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Mahtab Sirdani",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHAR_V 180-001 - Pharmaceutical Topics and Communication Seminar I",
     "Instructional Format": "Seminar",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "1 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 84/105",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1201 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
+    "Instructors": "Brian Rodrigues",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHIL_V 101-004 - Introduction to Philosophy",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 26/30",
+    "Section Details": "BUCH-Floor 1-Room A104 | Mon Wed Fri | 9:00 a.m. - 10:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This section of PHIL 101 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL101.L07, but this “discussion section” will not involve additional scheduled meetings.\nCourse Description: Overview of Western philosophers, focusing on the five most influential Western philosophers of all time: Plato, Aristotle, Descartes, Hume, and Kant. Their impact on contemporary philosophy is also studied.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Anders Kraal",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHIL_V 101-005 - Introduction to Philosophy",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "Hybrid Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 121/125",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 1/25",
+    "Section Details": "AERL-Floor 1-Room 120 | Tue Thu | 11:00 a.m. - 12:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This section of PHIL 101 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL101.L07, but this “discussion section” will not involve additional scheduled meetings.\n\nDr. Margolis' PHIL101 will be taught using a hybrid method of delivery. Part of the course will be in person and part will be prerecorded lectures.\nA general statement about Dr. Margolis' PHIL101: https://www.margolisphilosophy.com/phil101-blurb.html\nFAQs about Dr. Margolis' PHIL101: https://www.margolisphilosophy.com/101-faq.html",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Eric Margolis",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHIL_V 101-L07 - Introduction to Philosophy",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 268/275",
     "Course Section Definition Public Notes": "This discussion section, which does not involve additional scheduled meetings, is for students registered in PHIL101.004 or PHIL101.005.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHIL_V 102-003 - Introduction to Philosophy II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 76/100",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "BUCH-Floor 1-Room A104 | Mon Wed Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-06 - 2025-02-14",
     "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Political Science, Philosophy and Economics stream, https://cap.arts.ubc.ca/streams/political-science-philosophy-economics-ppe/. \nStudents must register in both Term 1 and Term 2 courses in CAP. \nFollow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca  \n\nThis section of PHIL 102 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL102.L07, but this “discussion section” will not involve additional scheduled meetings.\n\nPlease note: PHIL 101 and PHIL 102 are independent introductory courses and do not need to be taken in sequential order.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-011 - Principles of Macroeconomics",
+      "ECON_V 102-L9A - Principles of Macroeconomics",
+      "ECON_V 102-L9B - Principles of Macroeconomics",
+      "PHIL_V 102-003 - Introduction to Philosophy II",
+      "PHIL_V 102-L07 - Introduction to Philosophy II",
+      "POLI_V 101-227 - The Government of Canada",
+      "POLI_V 101-LX1 - The Government of Canada",
+      "POLI_V 101-LX2 - The Government of Canada",
+      "POLI_V 101-LX3 - The Government of Canada",
+      "POLI_V 101-LX4 - The Government of Canada",
+      "POLI_V 101-LX5 - The Government of Canada",
+      "POLI_V 101-LX6 - The Government of Canada"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-004 - Introduction to Philosophy II",
     "Instructional Format": "Lecture",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 10/10",
+    "Section Details": "ANGU-Floor B1-Room 039 | Tue Thu | 2:00 p.m. - 3:30 p.m. | 2025-01-07 - 2025-02-13",
     "Course Section Definition Public Notes": "This section of PHIL 102 will only involve full class meetings (no discussion section meetings). To register, students must also register for PHIL102.L07, but this “discussion section” will not involve additional scheduled meetings.\n\nPlease note: PHIL 101 and PHIL 102 are independent introductory courses and do not need to be taken in sequential order.\n\nPHIL102 section 004 is one of the Place and Power courses approved for the 2024/25 academic year. (re: BA requirements for students who enter the program in 2024/25 or later)\n\nCourse Description: This course takes place on the traditional, ancestral, and unceded territory of the xʷməθkʷəýəm (Musqueam) People. All sections of PHIL 102 address basic problems and methods of philosophy. This section covers topics in ethics, epistemology, political philosophy, and aestheticsrelating to local Indigenous societies in the context of settler colonialism. The course adopts a primary focus on Musqueam, extending its view outwards to Squamish and Tsleil-Waututh, as well as to the rest of BC and beyond. The principal areas addressed are: (1) The philosophy of art and storytelling, with emphases on: Relationships between art and power, Cultural appropriation, Stereotyping and reclamation, and Story-based knowledge; (2) Epistemologies of knowledge and ignorance; (3) Environmental ethics; and (4) Philosophies of power and oppression, in particular as applied to: The marginalization of Indigenous peoples under Canadian colonialism, Anti-Indigenous structural racism in North American contexts, and UBC’s past and present position within the colonial power structure.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Carrie Jenkins",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-004 - Introduction to Philosophy II",
+      "PHIL_V 102-L08 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-005 - Introduction to Philosophy II",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 108/125",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/25",
+    "Section Details": "IRC-Floor B1-Room 2 | Mon Wed | 11:00 a.m. - 12:00 p.m. | 2025-01-06 - 2025-02-12",
     "Course Section Definition Public Notes": "PHIL102.005 has mandatory discussion sections. Students are required to register in one of the following discussion sections: L01, L02, L03, L04, or L05.\n\nPlease note: PHIL 101 and PHIL 102 are independent introductory courses and do not need to be taken in sequential order.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Scott Allen Anderson",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-005 - Introduction to Philosophy II",
+      "PHIL_V 102-L01 - Introduction to Philosophy II",
+      "PHIL_V 102-L02 - Introduction to Philosophy II",
+      "PHIL_V 102-L03 - Introduction to Philosophy II",
+      "PHIL_V 102-L04 - Introduction to Philosophy II",
+      "PHIL_V 102-L05 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L01 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "Section Details": "MATH-Floor 1-Room 104 | Fri | 10:00 a.m. - 11:00 a.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL102.005.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-005 - Introduction to Philosophy II",
+      "PHIL_V 102-L01 - Introduction to Philosophy II",
+      "PHIL_V 102-L02 - Introduction to Philosophy II",
+      "PHIL_V 102-L03 - Introduction to Philosophy II",
+      "PHIL_V 102-L04 - Introduction to Philosophy II",
+      "PHIL_V 102-L05 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L02 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
-    "Section Status": "Open",
+    "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 25/25",
+    "Section Details": "SCRF-Floor 2-Room 209 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL102.005.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-005 - Introduction to Philosophy II",
+      "PHIL_V 102-L01 - Introduction to Philosophy II",
+      "PHIL_V 102-L02 - Introduction to Philosophy II",
+      "PHIL_V 102-L03 - Introduction to Philosophy II",
+      "PHIL_V 102-L04 - Introduction to Philosophy II",
+      "PHIL_V 102-L05 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L03 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 19/25",
+    "Section Details": "GEOG-Floor 2-Room 214 | Fri | 11:00 a.m. - 12:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL102.005.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-005 - Introduction to Philosophy II",
+      "PHIL_V 102-L01 - Introduction to Philosophy II",
+      "PHIL_V 102-L02 - Introduction to Philosophy II",
+      "PHIL_V 102-L03 - Introduction to Philosophy II",
+      "PHIL_V 102-L04 - Introduction to Philosophy II",
+      "PHIL_V 102-L05 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L04 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 22/25",
+    "Section Details": "BUCH-Floor 3-Room B306 | Fri | 1:00 p.m. - 2:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL102.005.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-005 - Introduction to Philosophy II",
+      "PHIL_V 102-L01 - Introduction to Philosophy II",
+      "PHIL_V 102-L02 - Introduction to Philosophy II",
+      "PHIL_V 102-L03 - Introduction to Philosophy II",
+      "PHIL_V 102-L04 - Introduction to Philosophy II",
+      "PHIL_V 102-L05 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L05 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 21/25",
+    "Section Details": "MATH-Floor 2-Room 202 | Fri | 2:00 p.m. - 3:00 p.m. | 2025-01-10 - 2025-02-14",
     "Course Section Definition Public Notes": "This discussion section is for students registered in PHIL102.005.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-005 - Introduction to Philosophy II",
+      "PHIL_V 102-L01 - Introduction to Philosophy II",
+      "PHIL_V 102-L02 - Introduction to Philosophy II",
+      "PHIL_V 102-L03 - Introduction to Philosophy II",
+      "PHIL_V 102-L04 - Introduction to Philosophy II",
+      "PHIL_V 102-L05 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L07 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Open",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 76/100",
     "Course Section Definition Public Notes": "This discussion section, which does not involve additional scheduled meetings, is for students registered in PHIL102.003, which is a part of the Coordinated Arts Program, PPE. \nThis course is part of the Coordinated Arts Program, Political Science, Philosophy and Economics stream, https://cap.arts.ubc.ca/streams/political-science-philosophy-economics-ppe/. \nStudents must register in both Term 1 and Term 2 courses in CAP. \nFollow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca  ",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "ECON_V 102-011 - Principles of Macroeconomics",
+      "ECON_V 102-L9A - Principles of Macroeconomics",
+      "ECON_V 102-L9B - Principles of Macroeconomics",
+      "PHIL_V 102-003 - Introduction to Philosophy II",
+      "PHIL_V 102-L07 - Introduction to Philosophy II",
+      "POLI_V 101-227 - The Government of Canada",
+      "POLI_V 101-LX1 - The Government of Canada",
+      "POLI_V 101-LX2 - The Government of Canada",
+      "POLI_V 101-LX3 - The Government of Canada",
+      "POLI_V 101-LX4 - The Government of Canada",
+      "POLI_V 101-LX5 - The Government of Canada",
+      "POLI_V 101-LX6 - The Government of Canada"
+    ]
   },
   {
     "Course Section": "PHIL_V 102-L08 - Introduction to Philosophy II",
     "Instructional Format": "Discussion",
     "Section Status": "Closed",
     "Delivery Mode": "Multi-access Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 50/50",
     "Course Section Definition Public Notes": "This discussion section, which does not involve additional scheduled meetings, is for students registered in PHIL102.004.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07",
+    "Clustered Course Sections": [
+      "PHIL_V 102-004 - Introduction to Philosophy II",
+      "PHIL_V 102-L08 - Introduction to Philosophy II"
+    ]
   },
   {
     "Course Section": "PHIL_V 120-002 - Introduction to Critical Thinking",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 20/30",
+    "Section Details": "BUCH-Floor 1-Room A104 | Mon Wed Fri | 12:00 p.m. - 1:00 p.m. | 2025-01-06 - 2025-02-14",
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHIL_V 120-99C - Introduction to Critical Thinking",
     "Instructional Format": "Lecture",
     "Section Status": "Waitlist",
     "Delivery Mode": "Online Learning",
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 150/150",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 28/30",
     "Course Section Definition Public Notes": "This is an Asynchronous Online course: learning activities that happen at the learners' own pace and on their own time.",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHIL_V 125-003 - Introduction to Scientific Reasoning",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "3 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 53/131",
+    "zCF - EE - Waitlisted / Waitlist Capacity": "Waitlisted/Waitlist Capacity: 0/26",
+    "Section Details": "HENN-Floor 1-Room 201 | Tue Thu | 3:30 p.m. - 5:00 p.m. | 2025-01-07 - 2025-02-13",
+    "Instructors": "Alexandre Korolev",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 111-001 - Medication Management I",
     "Instructional Format": "Lecture",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 231/233",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 1-Room 1101 | Tue Fri | 8:00 a.m. - 12:00 p.m. | 2025-01-07 - 2025-02-14",
+    "Instructors": "Aileen Mira, Ali Reza Ladak, Asal Taheri, Brian Cairns, Colleen Brady, Colleen Inglis, Fong Chan, Gilly Lau, Janice Lynn Moshenko, Jennifer Bolt, Jonathan Grosshuesch, Katherine Seto, Michelle Fischer, Neelam Dhaliwal, Shane Pawluk, Theresa Charrois, Tony Seet",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 111-L01 - Medication Management I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "PHRM-Floor 3-Room 3208 | Tue Wed | 2:00 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 111-L02 - Medication Management I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 111-L03 - Medication Management I",
     "Instructional Format": "Laboratory",
     "Section Status": "Closed",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 39/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   },
   {
     "Course Section": "PHRM_V 111-L04 - Medication Management I",
     "Instructional Format": "Laboratory",
     "Section Status": "Open",
     "Delivery Mode": "In Person Learning",
-    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+    "zCF - CT - Maximum Credits": "15 Credits",
+    "zCF - CT - Enrolled/Capacity": "Enrolled/Capacity: 38/39",
+    "zCF - EE - Includes Reserved Seats": "Includes Reserved Seats",
+    "Section Details": "Tue Wed | 2:00 p.m. - 5:30 p.m. | 2025-01-07 - 2025-02-12",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17\nWithdrawal: 2025/03/07"
   }
 ]
