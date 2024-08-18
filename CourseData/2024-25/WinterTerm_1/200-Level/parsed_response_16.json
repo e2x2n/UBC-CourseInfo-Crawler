@@ -1,0 +1,367 @@
+[
+  {
+    "Course Section": "MANU_V 230-L0B - Manufacturing Engineering Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "MANU_V 261-101 - Thermodynamics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MANU_V 261-T1A - Thermodynamics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 200-101 - Calculus III",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 200-102 - Calculus III",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 200-103 - Calculus III",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 200-10M - Calculus III",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is reserved for Math students only.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 215-101 - Elementary Differential Equations I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "X-listed with Math 255:101",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 215-102 - Elementary Differential Equations I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "X-listed with Math 255:102",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 215-104 - Elementary Differential Equations I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "X-listed with Math 255:104.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 217-101 - Multivariable and Vector Calculus",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 220-101 - Mathematical Proof",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 220-102 - Mathematical Proof",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 220-103 - Mathematical Proof",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 220-10M - Mathematical Proof",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is only for students in Math.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 221-101 - Matrix Algebra",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 221-102 - Matrix Algebra",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 221-10M - Matrix Algebra",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is for Math students only.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 223-101 - Honours Linear Algebra",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 226-101 - Advanced Calculus I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 253-10R - Multivariable Calculus",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Hybrid Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 255-101 - Ordinary Differential Equations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is for students in Applied Science only. X-listed with Math 215:101.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 255-102 - Ordinary Differential Equations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is for students in Applied Science only. X-listed with Math 215:102.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 255-104 - Ordinary Differential Equations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is for students in Applied Science only. X-listed with Math 215:104.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 256-101 - Differential Equations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 256-102 - Differential Equations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is for students in Applied Science only.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 257-101 - Partial Differential Equations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Cross-listed with MATH 316:101. For Applied Science Students only.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 258-101 - Differential Equations for Mechanical Engineering",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MATH_V 258-L1A - Differential Equations for Mechanical Engineering",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MDVL_V 210-101 - Introduction to Medieval Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This course will introduce students to the Middle Ages as a subject and to the interdisciplinary nature of the study of the period. Through three units, students will encounter a range of historical, literary, and visual material from medieval Britain and Northern Europe: the Anglo-Saxons and their culture in context (449-1066); the Vikings and their influence (c. 800-1100), in the British Isles and elsewhere; and Britain as one element of a cross-Channel Norman kingdom during the renascence of the twelfth century. This focus on a specific area will enable us to observe continuity and change over time. The course will regularly consider the transit of material objects, people, and ideas, within Northern Europe and to and from other parts of the world.\n\nIn their at-home assignments students will have opportunities to pursue specific topics and fields of their choosing in greater depth. A midterm and final will cover the course readings.\n\nTexts will be drawn from The Anglo-Saxon World, ed. Kevin Crossley-Holland; Sagas of the Icelanders, intr. Jane Smiley; and Marie de France: Poetry, trans. and ed. Dorothy Gilbert.\n\nWant more information or interested in other Medieval Studies courses? Check out our Program on Instagram (https://www.instagram.com/ubcmedieval/) or on our website (https://medieval.arts.ubc.ca/).",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 220-101 - Technical Skills Practicum",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "IMPORTANT: MECH 220 starts on Monday, August 26th. Classes begin one week before the official start of Term 1 at UBC. All activities in the first week are mandatory – missing the module means you are unable to pass Mech 220. ",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 220-L1A - Technical Skills Practicum",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 220-L1B - Technical Skills Practicum",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 220-L1C - Technical Skills Practicum",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 220-L1D - Technical Skills Practicum",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-101 - Engineering Science I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-L1A - Engineering Science I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-L1B - Engineering Science I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-L1C - Engineering Science I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-L1D - Engineering Science I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-T1A - Engineering Science I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-T1B - Engineering Science I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-T1C - Engineering Science I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 221-T1D - Engineering Science I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 224-1AB - Integration of Engineering Concepts I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 224-1CD - Integration of Engineering Concepts I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 260-101 - Introduction to Mechanics of Materials",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section is for MINE, MTRL, SBME",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MECH_V 260-T1A - Introduction to Mechanics of Materials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 203-L01 - Basic Microbiology Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "MICB_V 211-101 - Foundations of Microbiology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This course replaces MICB 201 effective 2022W.  MICB 211 is credit-excluded with MICB 201.  MICB 211 is the pre-requisite course for MICB 301, MICB 308 and MICB 325.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  }
+]

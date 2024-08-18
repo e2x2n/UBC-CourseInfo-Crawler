@@ -1,0 +1,375 @@
+[
+  {
+    "Course Section": "BIOL_V 372-101 - Principles of Neurobiology II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Multiples sections: \nStudents may only register for one required course activity per lecture/lab/discussion or waitlist if there is no space available. Students will be removed from the waitlist if they already have a spot in a section of the course. For example, students may not register for BIOL121 section 121 and also be on the waitlist for section 122. BEING ON THE WAITLIST DOES NOT GUARANTEE YOU A SPACE IN THE COURSE. ",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BIOT_V 380-001 - Advanced Biotechnology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "BMEG_V 310-101 - Introduction to Bioinformatics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 310-T1A - Introduction to Bioinformatics",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 371-101 - Transport Phenomena within Cells and Tissues",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 371-T1A - Transport Phenomena within Cells and Tissues",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 371-T1B - Transport Phenomena within Cells and Tissues",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 372-101 - Biomedical Materials and Drug Delivery",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 372-T1A - Biomedical Materials and Drug Delivery",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BMEG_V 373-101 - Microfluidics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "CHBE 251 is no longer required as a pre-req, but the system still requires it. Please send an email to SBME student services team (students@sbme.ubc.ca) for registration.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 329-103 - Principles of Organizational Behaviour",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 335-101 - Information Systems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 335-102 - Information Systems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Hybrid Learning",
+    "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 353-101 - Intermediate Financial Accounting I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 353-102 - Intermediate Financial Accounting I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Hybrid Learning",
+    "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 354-101 - Cost Accounting",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 354-102 - Cost Accounting",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Hybrid Learning",
+    "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 355-101 - Introduction to Income Tax",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 355-102 - Introduction to Income Tax",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Hybrid Learning",
+    "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 370-101 - Business Finance",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 370-102 - Business Finance",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Hybrid Learning",
+    "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 393-101 - Introduction to Business Law",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "BUSI_V 393-102 - Introduction to Business Law",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Hybrid Learning",
+    "Course Section Definition Public Notes": "Registration restriction alert: Registration for this course is restricted to students in the Diploma in Accounting Program. If you are a current DAP student, please visit myUBCDAP for more information on how to register.\n \nCourse format alert: This is a hybrid (live online) class - classes are held online during the scheduled class time, with final exams held in-person at the UBC Point Grey campus.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CAPS_V 301-01D - Human Physiology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "CAPS_V 303-001 - Laboratory in Human Physiology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "CAPS_V 390-001 - Introduction to Microscopic Human Anatomy",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CDST_V 350-B_102 - Canadian Studies (B)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Course Title: The Canadian Creative: Exploring And Questioning the Lyricality of the Nation-State\n\nHow might we radically re-imagine the relationship between art, culture and the nation-state through an intellectual excavation of the creative imagination? In this course, we will speak to various actors, musicians, artists, writers and other creatives about the ways their emotional and physical geographies - and in particular, their relationship to national identity - influence what they create. This 3-hour course will involve experimental writing in-class; conversations with creatives and course assignments that go beyond the traditional academic essay. Tap into your creative frontier and explore the poetics and the politics of your imagination.\n\nFor more information, please visit: https://canadianstudies.ubc.ca/program/core-courses-cdst-350/",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CENS_V 303-101 - Representations of the Holocaust: Ghetto",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "Course Section Definition Public Notes": "In this class students are guided through a carefully arranged material and assignments to learn about the Nazi Holocaust and related aspects of Nazi Germany by focusing on the ghettos. Although the ghettos were not as explicitly built as sites of killing as camps, they were nonetheless places of violence, hunger, forced labor, killing and death. They were a distinct part of the Nazis extermination efforts, and the cause of tremendous suffering for the Jewish population of the occupied territories. Focusing on memoirs and literary texts, students will examine the various facets of these extreme spaces; giving insight into their development, the Nazi policies surrounding them, the social, cultural and economic order that emerged inside of them, the organization and experiences of everyday life, resistance, and finally the deportations and liquidations.\n \nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here .",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CENS_V 304-101 - Representations of the Holocaust: Auschwitz",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "Course Section Definition Public Notes": "In this course students learn about the Nazi Holocaust and related aspects of Nazi Germany by focusing on representations of Auschwitz concentration camp complex in literature of personal documents. Auschwitz was a place in which several frequently conflicting agendas of the Third Reich intersected: it was an industrial compound, a concentration camp, a medical research site and an extermination facility; it served to imprison, terrorize, enslave, and kill. Auschwitz is a site of conflicted memories that are built on memoirs, literary texts, documents and movies. Focusing on stories of survivors, students will learn and discuss how the Holocaust is remembered and commemorated.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CENS_V 307-101 - Witches: Myth and Reality",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Witches: Myth and Reality \nThe meetings are held in BUCH A102. CENS 307 examines ideas of the witch, witchcraft, and magic from their early historical constructions to recent cultural adaptations. Following these ideas and their relationship to the creation of outsiders, our main topics will be early pagan and Christian religious beliefs; the conflict and overlap of these beliefs in the medieval and early modern periods, including the height of the witch hunts; images of witches in folklore and fairy tales; recent representations of witchcraft in literature, film, and other media; and contemporary witchcraft. The reading and viewing assignments consist of witch-related materials, including historical records; literary, film, and other media representations; scholarly analyses; and other work examining witches, witchcraft, and magic from numerous perspectives. Course Blog\n\nAs this lecture section requires registration to the discussion section as well, if the lecture becomes full you can add yourself to the lecture section waitlist and you will be offered a seat for all the required activities if one becomes available. At the moment, the waitlist function for non-graded sections (discussion sections) is unavailable.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CENS_V 307-D01 - Witches: Myth and Reality",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Discussion section for CENS 307-101. Please make sure to register for both CENS 307-101 and this discussion section.\n\nCENS 307 examines ideas of the witch, witchcraft, and magic from their early historical constructions to recent cultural adaptations. Following these ideas and their relationship to the creation of outsiders, our main topics will be early pagan and Christian religious beliefs; the conflict and overlap of these beliefs in the medieval and early modern periods, including the height of the witch hunts; images of witches in folklore and fairy tales; recent representations of witchcraft in literature, film, and other media; and contemporary witchcraft. The reading and viewing assignments consist of witch-related materials, including historical records; literary, film, and other media representations; scholarly analyses; and other work examining witches, witchcraft, and magic from numerous perspectives.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CENS_V 308-101 - CMCS & GRPH NOVL",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Comics and Graphic Novels in Central, Eastern, and Northern Europe \n\nThis course explores comics and graphic novels that thematize Central, Eastern, and Northern Europe to examine the relationship between politics, culture, society, and graphic storytelling. Students analyze various texts spanning historical and contemporary contexts, exploring themes such as identity, memory, nationalism, migration, gender, and urban life. By the course's conclusion, students will develop a nuanced understanding of the political, cultural, and social dimensions of European comics. They will refine their critical thinking and visual analysis skills within broader socio-historical frameworks by connecting their assessment of the comics as an art form and cultural artifact to other disciplinary perspectives in German studies, literary studies, cultural studies, art history, and museum studies. In addition to the work of visual analysis, this course will encourage students to use the drawn image critically by producing visual notes and making comics themselves. In particular, the final project asks students to create comics based on archival material, investigating how creators utilize historical documents to craft narratives.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies?\nClick here",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 344-101 - Introduction to Unit Operations",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 344-T1A - Introduction to Unit Operations",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 346-101 - Chemical and Biological Engineering Thermodynamics II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 346-T1A - Chemical and Biological Engineering Thermodynamics II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 352-101 - Transport Phenomena II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 352-T1A - Transport Phenomena II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 362-101 - Process Engineering Laboratory",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 362-L1A - Process Engineering Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 362-L1B - Process Engineering Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 364-101 - Environmental Engineering Laboratory",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 364-L1A - Environmental Engineering Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 370-101 - Fundamentals of Sustainable Engineering",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 370-T1A - Fundamentals of Sustainable Engineering",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 373-101 - Water and Wastewater Technology and Engineering",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHBE_V 373-T1A - Water and Wastewater Technology and Engineering",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHEM_V 300-109 - Communicating Chemistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "CHEM300 has 4 scheduled meetings per week.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHEM_V 300-110 - Communicating Chemistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "CHEM300 has 4 scheduled meetings per week.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CHEM_V 301-109 - Aqueous Environmental Chemistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "Course Section": "CPSC_V 213-204 - Introduction to Computer Systems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-205 - Introduction to Computer Systems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2A - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2B - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2C - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2D - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2F - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2H - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2J - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2K - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2L - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2M - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2N - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2P - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2Q - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2R - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2S - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2T - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2U - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2V - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2W - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 213-L2X - Introduction to Computer Systems",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-201 - Basic Algorithms and Data Structures",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-202 - Basic Algorithms and Data Structures",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-203 - Basic Algorithms and Data Structures",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2A - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2B - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2C - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2D - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2E - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2F - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2G - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2H - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2J - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2K - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2L - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2M - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2N - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2P - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2Q - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2R - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2S - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2T - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2U - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CPSC_V 221-L2V - Basic Algorithms and Data Structures",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 200-002 - Introduction to Creative Writing",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Online Learning",
+    "Course Section Definition Public Notes": "This online section of CRWR 200 will be asynchronous with recorded weekly lectures and optional days for peer-to-peer sharing under TA supervision. TA office hours available by appointment.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 200-004 - Introduction to Creative Writing",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 200-006 - Introduction to Creative Writing",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 201-002 - Introduction to Writing Poetry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This is a blended learning course where 50% of the course takes place in-class and 50% online",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "CRWR_V 203-002 - Introduction to Writing for Children and Young Adults",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  }
+]

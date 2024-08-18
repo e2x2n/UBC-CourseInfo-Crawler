@@ -1,0 +1,370 @@
+[
+  {
+    "Course Section": "CPSC_V 427-101 - Video Game Programming",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 427-T1A - Video Game Programming",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 427-T1B - Video Game Programming",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 430-101 - Computers and Society",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 430-102 - Computers and Society",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 436-A_101 - OS DESIGN & IMPL (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "The prerequisite for this course is: CPSC 310, CPSC 313, and CPSC 317.\n\nIn addition, CPSC 436A requires oral examinations of course work on a regular basis and in-person during the Monday 1-4PM lab period. By end-of-day Tuesday Sep 17, 2024, students must complete a scheduling survey with the course staff. Any who are unable to schedule their oral examination time will be denied permission to take the course and have their registration removed.\n\nWithin the Monday 1-4PM period, we do expect flexibility to accommodate students’ scheduling constraints as long as they have at least one contiguous 30-minute slot available. Most oral examinations will be conducted in groups. It is student responsibility to join a group with a compatible schedule. The oral examinations are a central element of this course, and no accommodation can be made.\n\nPermission of the department to register is automatically granted if you meet the prerequisite listed above. Please do not request permission.\n\nIt is possible to receive credit for up to two CPSC 436 offerings that are different courses, i.e., those with different letters after the 436 number. Students may not receive credit for the same CPSC 436 offering more than once. Similarly, if a CPSC 436 offering later transitions to a regular course number, students may not receive credit for that offering and the subsequent course. Students wishing to receive credit for more than two CPSC 436 offerings must appeal for permission.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 436-C_101 - CLOUD COMPUTING (C)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "The prerequisite for this course is all of: (a) CPSC 203 or CPSC 210, and (b) CPSC 304 or 368. \n(Note: the previous prerequisite for CPSC 330 or CPSC 340 has been removed effective as of 2024W (Sep 2024-Apr 2025).)\n\nPermission of the department to register is automatically granted if you meet the prerequisite listed above. Please do not request permission.\n\nIt is possible to receive credit for up to two CPSC 436 offerings that are different courses, i.e., those with different letters after the 436 number. Students may not receive credit for the same CPSC 436 offering more than once. Similarly, if a CPSC 436 offering later transitions to a regular course number, students may not receive credit for that offering and the subsequent course. Students wishing to receive credit for more than two CPSC 436 offerings must appeal for permission",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 436-N_101 - NLP (N)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "The prerequisites for this course are:\n(a) CPSC 340, or (b) both CPSC 330 AND one of STAT 200, STAT 241, STAT 302, or any course credit-excluded with one of these STAT courses in the UBC Science Credit Exclusion list.\n\nPermission of the department to register is automatically granted if you meet the prerequisites listed above. Please do not request permission.\n\nIt is possible to receive credit for up to two CPSC 436 offerings that are different courses, i.e., those with different letters after the 436 number. Students may not receive credit for the same CPSC 436 offering more than once. Similarly, if a CPSC 436 offering later transitions to a regular course number, students may not receive credit for that offering and the subsequent course. Students wishing to receive credit for more than two CPSC 436 offerings must appeal for permission",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 436-Q_101 - QUANTUM COMPUTING (Q)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "The prerequisite for this course is: Both of (a) one of CPSC 203, CPSC 221, and (b) one of MATH 152, MATH 221, MATH 223.\n\nPermission of the department to register is automatically granted if you meet the prerequisite listed above. Please do not request permission.\n\nIt is possible to receive credit for up to two CPSC 436 offerings that are different courses, i.e., those with different letters after the 436 number. Students may not receive credit for the same CPSC 436 offering more than once. Similarly, if a CPSC 436 offering later transitions to a regular course number, students may not receive credit for that offering and the subsequent course. Students wishing to receive credit for more than two CPSC 436 offerings must appeal for permission",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 448-A_101 - Directed Studies in Computer Science (A)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 448-B_101 - Directed Studies in Computer Science (B)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "CPSC_V 448-B_102 - Directed Studies in Computer Science (B)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 448-C_001 - Directed Studies in Computer Science (C)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "CPSC_V 448-C_003 - Directed Studies in Computer Science (C)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CPSC_V 449-001 - Honours Thesis",
+    "Instructional Format": "Thesis",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For more information including application details, please see the following link:\nhttps://www.cs.ubc.ca/students/undergrad/courses/specialty",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "CRWR_V 401-T_001 - Writing Poetry I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 403-T_001 - Writing for Children and Young Adults I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 405-T_001 - Writing Creative Nonfiction I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 406-T_001 - Writing for the Screen I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This course will be taught by A.W. Hopkins",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 407-T_001 - Writing of Drama for the Stage I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "To participate in the BNPR Festival, students must also register in CRWR 457U 002",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 408-T_001 - Writing for Graphic Forms I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 409-T_001 - Writing Fiction I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "Online Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 409-T_003 - Writing Fiction I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 409-T_006 - Writing Fiction I (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 410-T_001 - Video Game Writing (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 419-T_001 - Writing Speculative Fiction (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This course is restricted to CRWR Major students.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 420-T_001 - Indigenous Writing (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 430-001 - Preparation for a Career in Writing",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 431-001 - Advanced Comedic Forms",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 440-T_001 - Interdisciplinary Projects (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CRWR_V 451-T_001 - Writing Poetry II (T)",
+    "Instructional Format": "Workshop",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CSIS_V 490-A_101 - Directed Topics (A)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "CSIS 490 is available to CSIS minors and GRSJ majors with 3rd or 4th year standing. \nIf you are interested in taking a Directed Readings course, please apply here: https://grsj.air.arts.ubc.ca/application-grsj-directed-studies/ (CSIS and GRSJ students only).",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "CSIS_V 490-C_001 - Directed Topics (C)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "CSIS 490 is available to CSIS minors and GRSJ majors with 3rd or 4th year standing. \nIf you are interested in taking a Directed Readings course, please apply here: https://grsj.air.arts.ubc.ca/application-grsj-directed-studies/ (CSIS and GRSJ students only).",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "DENT_V 410-001 - Dentistry I: Foundations of Clinical Dentistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DENT_V 420-001 - Dentistry II: Basic Clinical Dentistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DENT_V 430-001 - Dentistry III: Intermediate Clinical Dentistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DENT_V 440-001 - Dentistry IV: Complex Clinical Dentistry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 401-101 - Design Studio V - Urban Systems Scale Synthesis",
+    "Instructional Format": "Studio",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 421-001 - Design Theory",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 422-101 - Urbanism by Design",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 422-T01 - Urbanism by Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 422-T02 - Urbanism by Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 422-T03 - Urbanism by Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 422-T04 - Urbanism by Design",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 430-002 - Environment, Urban Form, and Infrastructure",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 442-101 - Co-operative Education Work Term II",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration follows approval of co-op term application.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 443-101 - Co-operative Education Work Term III",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration follows approval of co-op term application.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DES_V 444-101 - Co-operative Education Work Term IV",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Registration follows approval of co-op term application.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "DHYG_V 400-A_99A - Policy Analysis and Change (A)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "Online Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "DHYG_V 400-B_001 - Policy Analysis and Change (B)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "Online Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  }
+]

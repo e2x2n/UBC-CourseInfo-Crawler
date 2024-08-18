@@ -19,6 +19,49 @@ const schoolTerms = [
     // { label: 'Summer Session (UBC-V)', directory: 'SummerSession' } // 2024-25 Summer Session is not available for now
 ];
 
+function extractCourseInfo(jsonResponse) {
+    let listItems = [];
+    
+    if (jsonResponse.children && jsonResponse.children[0] && jsonResponse.children[0].listItems) {
+        listItems = jsonResponse.children[0].listItems;
+    } else if (jsonResponse.body && jsonResponse.body.children && jsonResponse.body.children[0] && jsonResponse.body.children[0].listItems) {
+        listItems = jsonResponse.body.children[0].listItems;
+    } else {
+        console.warn("Unable to find listItems in the provided JSON structure.");
+        return [];
+    }
+
+    return listItems.map((course, index) => {
+        let courseInfo = {};
+
+        if (course.title && course.title.instances && course.title.instances[0]) {
+            courseInfo['Course Section'] = course.title.instances[0].text;
+        } else {
+            courseInfo['Course Section'] = "Unknown Course Name";
+        }
+
+        if (course.subtitles) {
+            course.subtitles.forEach(subtitle => {
+                if (subtitle.instances && subtitle.instances[0]) {
+                    const label = subtitle.label;
+                    const value = subtitle.instances[0].text;
+                    courseInfo[label] = value;
+                }
+            });
+        }
+
+        if (course.detailResultFields) {
+            course.detailResultFields.forEach(field => {
+                if (field.value) {
+                    courseInfo[field.label] = field.value;
+                }
+            });
+        }
+
+        return courseInfo;
+    })
+}
+
 (async () => {
     const browser = await puppeteer.launch({
         headless: false,
@@ -33,8 +76,8 @@ const schoolTerms = [
 
             // Login to Workday if necessary (usually in the first run)
             if (await page.$('#username') !== null && await page.$('#password') !== null) {
-                await page.type('#username', 'YOUR_USERNAME');
-                await page.type('#password', 'YOUR_PASSWORD');
+                await page.type('#username', 'YOUR_USERNAME'); // Change to your UBC CWL username
+                await page.type('#password', 'YOUR_PASSWORD'); // Change to your UBC CWL password
                 await page.click('button[type="submit"]');
                 await page.waitForNavigation();
             } else {
@@ -72,6 +115,7 @@ const schoolTerms = [
             }
 
             let fileCounter = 0;
+            let parsedFileCounter = 0;
             page.on('response', async (response) => {
                 const url = response.url();
 
@@ -80,6 +124,13 @@ const schoolTerms = [
                     const filePath = path.join(directoryPath, `response_${fileCounter++}.json`);
                     fs.writeFileSync(filePath, JSON.stringify(jsonResponse, null, 2));
                     console.log(`Saved response to ${filePath}`);
+
+                    const courseInfo = extractCourseInfo(jsonResponse);
+                    console.log(courseInfo);
+
+                    const parsedFilePath = path.join(directoryPath, `parsed_response_${parsedFileCounter++}.json`);
+                    fs.writeFileSync(parsedFilePath, JSON.stringify(courseInfo, null, 2));
+                    console.log(`Saved parsed response to ${parsedFilePath}`);
                 }
             });
 

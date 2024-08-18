@@ -1,0 +1,363 @@
+[
+  {
+    "Course Section": "FRST_V 200-L03 - Forest Plant Biology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 200-L04 - Forest Plant Biology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 200-L05 - Forest Plant Biology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 200-L06 - Forest Plant Biology I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-101 - Forest Ecology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-L01 - Forest Ecology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-L02 - Forest Ecology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-L03 - Forest Ecology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-L04 - Forest Ecology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-L05 - Forest Ecology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 201-L06 - Forest Ecology",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 231-101 - Introduction to Biometrics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 231-L01 - Introduction to Biometrics",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 231-L02 - Introduction to Biometrics",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 231-L03 - Introduction to Biometrics",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 232-101 - Computer Applications in Forestry",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 232-L02 - Computer Applications in Forestry",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 232-L03 - Computer Applications in Forestry",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FRST_V 248-101 - Co-operative Work Placement.",
+    "Instructional Format": "Experiential",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "FSCT_V 280-001 - Introductory Forensic Science I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 202-101 - Climate Emergency",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This course is a requirement of the Certificate of Climate Studies and Action,  https://geog.ubc.ca/undergraduate/climate-certificate/",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 210-101 - Vancouver and Its Region",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 250-101 - Cities",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Equivalency: URST 200. Credit will be granted for only one of GEOG 250 or URST 200.\nSelect one Discussion from sections L1A, L1B, L1C, L1D, L1E .",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 250-L1A - Cities",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 250-L1B - Cities",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 250-L1C - Cities",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 250-L1D - Cities",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOG_V 250-L1E - Cities",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-101 - Atmospheric Environments",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Select one Laboratory from sections L1A, L1B, L1C, L1D, L1E, L1F.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-L1A - Atmospheric Environments",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-L1B - Atmospheric Environments",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-L1C - Atmospheric Environments",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-L1D - Atmospheric Environments",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-L1E - Atmospheric Environments",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 200-L1F - Atmospheric Environments",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 207-101 - Introduction to Biogeography",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Select one Laboratory from sections L1A, L1B, L1C.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 207-L1A - Introduction to Biogeography",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 207-L1B - Introduction to Biogeography",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This section will be closing; please select L1A or L1C.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 207-L1C - Introduction to Biogeography",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 270-101 - Geographic Information Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Select one Laboratory from sections L1A, L1B, L1C, L1D, L1E, L1F.\nThis course requires a $20.00 lab fee to be paid in the first month of class.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 270-L1A - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 270-L1B - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 270-L1C - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 270-L1D - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GEOS_V 270-L1E - Geographic Information Science",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GERN_V 201-101 - Learning German 3",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Meant for students who have completed GERN 102 (or two years of high-school German), this 3-credit class helps students practice complex forms of German language and discuss pressing intellectual and social questions. Cultural topics include: climate emergency, alternative modes of travel, fairy tales, Germanophone histories, health care and wellness, technology and digital communication.\n\nTextbook: Sag Mal, chapters 7-9.\n\nSample syllabus for GERN 201 here. \n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GERN_V 201-102 - Learning German 3",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Meant for students who have completed GERN 102 (or two years of high-school German), this 3-credit class helps students practice complex forms of German language and discuss pressing intellectual and social questions. Cultural topics include: climate emergency, alternative modes of travel, fairy tales, Germanophone histories, health care and wellness, technology and digital communication.\n\nTextbook: Sag Mal, chapters 7-9.\n\nSample syllabus for GERN 201 here.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GMST_V 274-101 - The Frankfurt School",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "How did György Lukács’ quip about German intellectuals residing at the “Grand Hotel Abyss” become part of the grand narratives of the Frankfurt School tradition? This course will examine key texts by the founding members of the Frankfurt Institute of Social Research, their collaborators, critics, readers and followers. The focus will be on their engagement with art, technology and popular culture, as well as the Marxist critique of ideology and mass media before the digital turn. \n\nMore course information here. \n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GREK_V 201-001 - Intermediate Ancient Greek I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Intermediate Ancient Greek I. Visit amne.ubc.ca for full course descriptions.\n\nIf the course is full or blocked, or if you do not meet restrictions for the available seats, please register for the waitlist. Students will be moved manually from the waitlist into the course section in order of registration. If the course is blocked but showing available seats, this is normal and means that waitlist transfer have not yet taken place. Email amne.undergrad@ubc.ca with any questions.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "GRSJ_V 200-101 - Gender and Environmental Justice",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "If you would like to be added to the waitlist, email grsj.programsassistant@ubc.ca. Please include the course number, section, and student number.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  }
+]

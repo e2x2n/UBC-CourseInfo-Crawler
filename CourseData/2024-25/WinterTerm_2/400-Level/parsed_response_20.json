@@ -1,0 +1,367 @@
+[
+  {
+    "Course Section": "MINE_V 434-L2A - Processing Precious Metal Ores",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MINE_V 444-201 - Urban Mining: Recovering Value From E-waste",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MINE_V 444-L1A - Urban Mining: Recovering Value From E-waste",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MINE_V 455-201 - Mine Water Management",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MINE_V 485-201 - Cave Mining Systems: Design and Planning",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MINE_V 486-201 - Mining and The Environment",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 424-201 - Aerospace Materials and Manufacturing",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 456-201 - Environmental Degradation of Materials",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 456-T2A - Environmental Degradation of Materials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 458-201 - Hydrometallurgy II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 466-201 - Engineering Project I",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 466-L2B - Engineering Project I",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 466-T2A - Engineering Project I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 467-201 - Engineering Project II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 467-L2B - Engineering Project II",
+    "Instructional Format": "Workshop",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 467-T2A - Engineering Project II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 475-201 - Microstructure Engineering",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 475-T2A - Microstructure Engineering",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 478-201 - Electronic Materials",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 484-201 - Materials for Aerostructures and Engines",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 495-201 - Biomaterials",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 495-T2A - Biomaterials",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 496-201 - Materials Sustainability",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MTRL_V 496-T2A - Materials Sustainability",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 403-B_001 - MUSIC&DISABILITY (B)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Topic: Music & DisabilityWith MUSC 533BThis course asks a fundamental question: what can a disability-centered perspective contribute to the study of music? And conversely, how can we, as musicians, contribute to the field of disability studies? In this course, we will work from the perspective that ability and disability are socially constructed rather than biologically determined. Our main goal will be to critically examine how music helps to shape our understanding of disability and ability. By the end of this class, students will have gained a more intimate understanding of how music shapes attitudes towards abilities and bodies, and be able to critique, analyze, write about, and create music with this premise in mind.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 403-I_001 - MUSIC FAITH & CONFLICT IN REFORMATION (I)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Topic: Music, Faith, and Conflict in the Reformation Era\nWith MUSC 524B\n\nMusic both reflected and shaped the religious cultures of the sixteenth and early seventeenth centuries, a time of profound reforms and intense, sometimes deadly conflicts. This course will cover the latter half of the Renaissance and the beginning of the Baroque, beginning with the reforms of Martin Luther and the rise of Protestantism (1517ff) and continuing through the period of the Thirty Years War (1618–1648), which brought the age of direct religious conflict to a close. We will be examining the ramifications of Lutheranism, Calvinism, and Catholicism for sacred music of all kinds, including popular as well as cultivated repertories; we will also consider the impact of religious music in colonial missions among indigenous peoples outside of Europe. The music of Palestrina, Lasso, Victoria, Byrd, Monteverdi, Schütz, and others will be considered for its stylistic and cultural significance. A goal of the course is to begin to understand the ways in which music reflected the religious concerns of the era, and served to both highlight and bridge religious differences.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 403-R_001 - Analysis of Sonata Form (R)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Topic: Analysis of Sonata FormIn this course, students will explore the principles and evolution of sonata form through analysis of repertoire including movements from instrumental sonatas, chamber music, concerto and symphonic music. Students will also practice applying their analytical understanding of such movements to their own performances as instrumentalists or conductors. Repertoire will range from the 18th to the 20th century, from Mozart, Haydn and Beethoven to Florence Price and Galina Ustvolskaya.Open to students who have completed MUSC 200. If you've taken MUSC 200, but cannot register, please reach out for support.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 403-Y_001 - LANGUAGE & MUSC (Y)",
+    "Instructional Format": "Seminar",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Topic: Language and MusicWith MUSC 533YThis course will investigate the relationships between language and music by drawing on writings on music, psychoacoustics, linguistics, cognitive science, and neuroscience. Topics will include the rhythm, melody, and syntax of language and music, and how these two uniquely human capabilities reveal how we process and understand sound.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 412-001 - ANLY STD DEV MUS",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Topic: Advanced Chromatic AnalysisWith MUSC 500BAdvanced chromatic analysis, focusing on late- and post-romantic European and/or American music. Moving beyond Roman numerals, students will employ analytical methodologies including transformational theory to explore design and expressivity in this repertoire. ",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 428-E_001 - Music of the African Diaspora (E)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Topic: Music of the African DiasporaThis course explores the musical cultures of the African Diaspora, tracing intersecting and multi- directional movements of people, music, and cultures across the oceanic divide between Africa, Europe, and the Americas. The course examines the central role that music has played in the construction of social identities and movements, from the era of the transatlantic slave trade to the present day. The courses guiding questions include: what specific cultural practices survived the Middle Passage, and how were they transformed in the New World? Why did these practices develop into sacred traditions such as spirituals, Santeria, Candombl?nd into many secular popular cultures, many of which have evolved into powerful global genres, such as blues, jazz, reggae, rumba, samba, rap and hip hop? In the 20th and 21st century, how have people (including Africans, people of African descent, and marginalized populations without direct historical links to Africa) mobilized certain musics of the African Diaspora as practices of resilience and resistance to slavery, imperialism, and segregation?Students are not required to have a trained musical background. There is no required textbook. All required readings and listening will be provided.Although MUSC 328 is listed as a pre-requisite, students may take MUSC 428 without a pre-requisite. To get assistance with registration, please submit a request here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "MUSC_V 444-001 - Establishing a Career in Music",
+    "Instructional Format": "Seminar",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "With MUSC 532J \n\nBest practices of the contemporary business of music, focusing on understanding present market conditions, and on targeting specific opportunities through grant-writing, resume press kits, publicity, recordings, and marketing. Restricted to fourth-year B.Mus. students.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NORD_V 414-201 - Topics in Northern European Cultural Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Issues and conflicts in Danish and Nordic Societies \n\nThis course explores cultural and political topics currently up for debate in the Nordic societies as interpreted through literature and poetry. These topics include cultures of childhood, immigration and assimilation, Indigenous Greenland, and equality explored from different Nordic perspectives. Special attention is given to Denmark’s politics surrounding these topics.\n\nInterested in other courses within the Department of Central, Eastern and Northern European Studies? Click here.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NSCI_V 448-A_201 - Directed Studies in Neuroscience (A)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NSCI_V 487-A_001 - Advanced Topics in Cellular and Molecular Neuroscience (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "2024W Term 2 - Topic: Neuroimmunology\nDescription: This course will examine the relationship between the nervous system and immune system, including key cellular and molecular processes regulating neuro-immune interactions and their role in normal brain function and neurological and psychiatric disorders.\n\nPrerequisites: a) NSCI 200 and NSCI 201 or b) MICB 302",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NSCI_V 487-B_001 - Advanced Topics in Cellular and Molecular Neuroscience (B)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "2024W Term 2 Topic:  Neuroscience Foundations of Interventional Brain Medicine \nDescription: \nInterventional Brain Medicine is an emerging subspecialty within the clinical neurosciences (Neurology, Neurosurgery, Psychiatry) that focuses on using advanced neurotechnologies and brain neuromodulation techniques to brain illnesses. The foundation of this approach is the recognition that all brain illnesses emerge from dysfunctional molecular, cellular, and/or system-based mechanisms; therefore, IBM aims to identify dysfunctional brain circuits and then apply specific interventions to correct these dysfunctions.This course introduces the learner to the core brain neuromodulation techniques from the vantage point of their physics, molecular, cellular, and systems-level mechanisms of action. In other words, we learn how these neuromodulation techniques work from the lenses of physics and neuroscience. This course builds on the knowledge gained in NSCI-302 \"Mechanisms of Brain Dysfunction\" but is not a focused on any particular brain illness or aspects of clinical practice of Interventional Brain Medicine.Some of the themes embedded in the course include but are not limited to:- The Brain as a complex dynamical system: embracing Complexity Science as a framework- Biophysics: from energy to biological effects- Brain illnesses as dysfunction of brain networks- Neuroimaging techniques as a window into dysfunctional brain networks (i.e. brain illnesses)- Computational neuroscience clinical applications and translationPrerequisites: NSCI 302",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NSCI_V 499-610 - Cooperative Work Placement IV",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NURS_V 402-002 - Foundational Skills and Competencies for Clinical Practice V",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NURS_V 402-202 - Foundational Skills and Competencies for Clinical Practice V",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NURS_V 427-002 - Consolidated Practice Experience",
+    "Instructional Format": "Experiential",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "NURS_V 430-002 - CMPLX URGNT CHAL",
+    "Instructional Format": "Seminar",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PATH_V 415-001 - Immunopathology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Restricted to students in BMLSc.\n2024W: 10 general seats are available for students in year 4 or higher who have completed a 2nd year level Microbiology course and BIOL 201 (Biochemistry).  Interested students register in the waitlist.\nThis in-person course runs Mondays, 2-4pm in Term 2. View the course information: PATH 415 - Immunopathology 2024W \n \nThis course is held in UBC Hospital. Students, staff and faculty are subject to the current Public Health Orders (PHO), which require a) double COVID vaccination and b) verification/declaration of your vaccination status; masks are optional within laboratories and classrooms.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PATH_V 417-A_002 - Human Bacterial Infections (A)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "Online Learning",
+    "Course Section Definition Public Notes": "This is an ONLINE course.   A valid email account and a Campus Wide Login (CWL) are required.  More information can be found at PATH 417 Bacterial Infections in Humans (3 credits) - Pathology (ubc.ca)",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PCTH_V 448-B_201 - Directed Studies in Pharmacology (B)",
+    "Instructional Format": "Independent Study",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "The course coordinator will manually register students into the course.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PCTH_V 498-002 - Co-operative Work Placement III",
+    "Instructional Format": "Experiential",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "The co-op office will be manually registering students into co-op courses.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PERS_V 401-021 - Contemporary Iranian Cinema for Advanced Speakers of Persian",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "Multi-access Learning",
+    "Course Section Definition Public Notes": "Delivery Mode -This is a synchronous multi-access course. Students are expected to meet on the days and times listed, either in-person or online. All courses labelled ‘multi-access’ offer students the choice of completing the course online, in-person, or using a mix of both. In-person attendance is NOT required, but the option to attend in-person is available. Lectures may be streamed from a classroom and/or uploaded online after class.\n\nWaitlist Policy -All waitlists will follow a first come, first serve policy, unless specified otherwise. Once a course is full, its status will be changed to “Waitlist” and students who register will be automatically added to the waitlist.",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PHAR_V 424-001 - Financing & Therap Cdn Health",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PHAR_V 425-001 - Biologics",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PHAR_V 431-001 - Functional Foods",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PHAR_V 432-001 - Toxicology",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  },
+  {
+    "Course Section": "PHAR_V 470-002 - Pharmaceutical Cases II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2025/01/17&#xa;Withdrawal: 2025/03/07"
+  }
+]

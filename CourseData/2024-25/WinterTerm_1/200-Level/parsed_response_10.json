@@ -1,0 +1,356 @@
+[
+  {
+    "Course Section": "ELEC_V 201-L1A - Circuit Analysis I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 201-L1B - Circuit Analysis I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 201-L1C - Circuit Analysis I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 201-L1D - Circuit Analysis I",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 201-T1A - Circuit Analysis I",
+    "Instructional Format": "Discussion",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 202-101 - Circuit Analysis II",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 202-T1A - Circuit Analysis II",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-101 - Basic Circuit Analysis",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "Students in MANU year 3 and above, please register in the waiting list, thanks.",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-L1A - Basic Circuit Analysis",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-L1B - Basic Circuit Analysis",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-L1C - Basic Circuit Analysis",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-L1D - Basic Circuit Analysis",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-L1E - Basic Circuit Analysis",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 203-T1A - Basic Circuit Analysis",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 204-101 - Linear Circuits",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 204-T1A - Linear Circuits",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 205-L1A - Electronics Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 205-L1C - Electronics Laboratory",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 221-101 - Signals and Systems",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ELEC_V 221-T1A - Signals and Systems",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-001 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-002 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-003 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-004 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-005 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-006 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-007 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 200-008 - Principles of Literary Studies",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 210-001 - An Introduction to English Honours",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/23&#xa;Withdrawal: 2024/11/22"
+  },
+  {
+    "Course Section": "ENGL_V 220-001 - Literature in English to the 18th Century",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 221-003 - Literature in Britain: the 18th Century to the Present",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 224-001 - World Literature in English",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 229-A_001 - LANGUAG/RHETORIC (A)",
+    "Instructional Format": "Lecture",
+    "Section Status": "Closed",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 231-002 - Introduction to Indigenous Literatures",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 242-001 - Introduction to Children's and Young Adult Literature",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 243-001 - Speculative Fiction",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 244-001 - Environment and Literature",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENGL_V 246-001 - Literature and Film",
+    "Instructional Format": "Lecture",
+    "Section Status": "Waitlist",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENPH_V 259-101 - Experimental Techniques",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENPH_V 259-L1A - Experimental Techniques",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENPH_V 259-L1B - Experimental Techniques",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENPH_V 259-T1A - Experimental Techniques",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENST_V 211-199 - The State of the Earth",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "This course is part of the Coordinated Arts Program, Environment & Society stream, https://cap.arts.ubc.ca/streams/environment-society/. Students must register in both Term  1 and Term 2 courses in CAP. \n\nFollow the prompts to register in all stream seminars (1), lectures (2), and tutorials (1-2) each term. \n\nFor step-by-step instructions, please visit: https://cap.arts.ubc.ca/program/registration/ \n\nIf you encounter any issues with registration into CAP, please contact us at support.fyip@ubc.ca",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENVE_V 200-101 - Environmental Engineering Design and Decision Making",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For registration assistance, do not contact the instructor. Please contact environmental.engineering@ubc.ca. ",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENVE_V 200-T1A - Environmental Engineering Design and Decision Making",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Course Section Definition Public Notes": "For registration assistance, do not contact the instructor. Please contact environmental.engineering@ubc.ca. ",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENVR_V 200-101 - Introduction to Environmental Science",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENVR_V 200-T01 - Introduction to Environmental Science",
+    "Instructional Format": "Discussion",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENVR_V 201-103 - Climate Action Lab 1",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "ENVR_V 201-L1A - Climate Action Lab 1",
+    "Instructional Format": "Laboratory",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  },
+  {
+    "Course Section": "EOSC_V 210-101 - Earth Science for Engineers",
+    "Instructional Format": "Lecture",
+    "Section Status": "Open",
+    "Delivery Mode": "In Person Learning",
+    "Drop and Withdrawal Deadlines": "Drop: 2024/09/16&#xa;Withdrawal: 2024/10/25"
+  }
+]
